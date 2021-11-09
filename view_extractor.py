@@ -4,6 +4,12 @@ import pandas as pd
 info_query_url = "https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryAlbumTracks&variables"
 
 def extract_info_from_har(file_path:str) -> pd.DataFrame:
+	
+	'''
+	Extract songs' id, name and playcount from a har file
+	Input: har file path
+	Output: dataframe containing id, name and playcount of each song in the album
+	'''
 
 	#read har file
 	with open(file_path) as f:
