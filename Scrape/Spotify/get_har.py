@@ -23,7 +23,8 @@ def start_proxy():
     chrome_options.add_argument("--proxy-server={}".format(proxy.proxy))
     chrome_options.add_argument('--ignore-ssl-errors=yes')
     chrome_options.add_argument('--ignore-certificate-errors')
-    chrome_options.add_argument('--headless')
+    chrome_options.add_argument("--remote-debugging-port=9222")
+    # chrome_options.add_argument('--headless')
 
 
 
@@ -78,7 +79,8 @@ def get_har(sucess_file, failed_file, df, i):
         time.sleep(1)
 
     if (found == False):
-        print("failed")
+        print("Cant file the response with viewcount")
+        print(proxy.har)
         currentTime = time.time()
         #print(currentTime - startTime)
         row = [i, id, album_name]
@@ -127,12 +129,11 @@ if __name__ == '__main__':
             try:
                 get_har("./Scrape/success_2000.csv", "./Scrape/failed_2000.csv", df, i)
             except:
-                print("Failed at ".format(i))
+                print("Failed at {}".format(i))
                 with open('./Scrape/failed_2000.csv', 'a', newline="") as f:
                     row = [i, df['album_id'][i], df['album'][i]]
                     writer = csv.writer(f)
                     writer.writerow(row)
         except:
             print('Failed to fill information at index ', i)
-        if i == 2010:
-            break
+        break
