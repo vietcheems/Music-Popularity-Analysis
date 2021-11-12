@@ -15,7 +15,8 @@ from view_extractor import extract_info_from_har
 def start_proxy():
     chrome_options = webdriver.ChromeOptions()
      #cái này thì dẫn directory của browsermob-proxy.bat
-    server = Server("path/to/browsermob-proxy.bat", options={'port': 8090})
+    server = Server("/home/viet/OneDrive/Studying Materials/Introduction to Data Science/EDA Project/browsermob-proxy-2.1.4-bin/browsermob-proxy-2.1.4/bin/browsermob-proxy"
+, options={'port': 8090})
     server.start()
     proxy = server.create_proxy()
 
@@ -27,7 +28,7 @@ def start_proxy():
 
 
     #cái này ông phải tải chrome webdriver, xong thêm path của cái đấy ở dưới
-    path = "path/to/chromedriver"
+    path = "/home/viet/OneDrive/Studying Materials/Introduction to Data Science/EDA Project/chromedriver_linux64/chromedriver"
     driver = webdriver.Chrome(path, options=chrome_options)
     return driver,server,proxy
 
@@ -54,7 +55,7 @@ def get_har(sucess_file, failed_file, df, i):
     currentTime = time.time()
     startTime = time.time()
 
-    while (currentTime - startTime <= 8) and (found == False):
+    while (currentTime - startTime <= 20) and (found == False):
 
         if isinstance(extract_info_from_har(proxy.har), pd.DataFrame):
             found = True
@@ -110,7 +111,7 @@ def get_har(sucess_file, failed_file, df, i):
 
 
 if __name__ == '__main__':
-    df = pd.read_csv("spotify-playlist.csv", sep='\t')
+    df = pd.read_csv("./Scrape/Spotify/spotify-playlist.csv", sep='\t')
     data = [ df['album_id'], df['album']]
     headers = ['album_id', 'album']
     df = pd.concat(data, axis = 1, keys = headers)
@@ -124,11 +125,14 @@ if __name__ == '__main__':
     for i in range(2000,len(df['album_id'])):
         try:
             try:
-                get_har("spotify_songs.csv", "failed_album.csv", df, i)
+                get_har("./Scrape/success_2000.csv", "./Scrape/failed_2000.csv", df, i)
             except:
-                with open('failed_album.csv', 'a', newline="") as f:
+                print("Failed at ".format(i))
+                with open('./Scrape/failed_2000.csv', 'a', newline="") as f:
                     row = [i, df['album_id'][i], df['album'][i]]
                     writer = csv.writer(f)
                     writer.writerow(row)
         except:
             print('Failed to fill information at index ', i)
+        if i == 2010:
+            break
