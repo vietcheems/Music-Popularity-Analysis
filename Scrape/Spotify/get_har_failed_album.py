@@ -9,7 +9,7 @@ import pandas as pd
 from view_extractor import extract_info_from_har
 from datetime import datetime
 
-
+read_album_path = "./Scrape/Spotify/spotify-playlist.csv"
 
 
 #mở 1 proxy mới
@@ -138,10 +138,10 @@ if __name__ == '__main__':
         print(datetime.now().time())
         try:
             try:
-                get_har("./Scrape/success_2800.csv", "./Scrape/failed_1.csv", df, i)
+                get_har("./Scrape/success_2800.csv", "./Scrape/failed_2.csv", df, i)
             except:
                 print("Failed at {}".format(i))
-                with open('./Scrape/failed_1.csv', 'a', newline="") as f:
+                with open('./Scrape/failed_2.csv', 'a', newline="") as f:
                     row = [i, df['album_id'][i], df['album'][i]]
                     writer = csv.writer(f)
                     writer.writerow(row)
