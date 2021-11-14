@@ -10,7 +10,9 @@ from view_extractor import extract_info_from_har
 from datetime import datetime
 
 read_album_path = "./Scrape/Spotify/spotify-playlist.csv"
-
+success_path = "./Scrape/success_2800.csv"
+failed_path_before = "./Scrape/failed_2.csv"
+failed_path_after = "./Scrape/failed_3.csv"
 
 #mở 1 proxy mới
 def start_proxy():
@@ -123,7 +125,7 @@ def get_har(sucess_file, failed_file, df, i):
 
 
 if __name__ == '__main__':
-    df = pd.read_csv("./Scrape/Spotify/spotify-playlist.csv", sep='\t')
+    df = pd.read_csv(read_album_path, sep='\t')
     data = [ df['album_id'], df['album']]
     headers = ['album_id', 'album']
     df = pd.concat(data, axis = 1, keys = headers)
@@ -132,16 +134,18 @@ if __name__ == '__main__':
     headerSong = ['album_index','id', 'name', 'playcount', 'album_id', 'album_name']
     headerAlbum = ['album_index','album_id', 'album_name']
 
+    failed_df = pd.read_csv(failed_path_before)
 
     #ông chỉnh index ở đây nhé
-    for i in range(3232,len(df['album_id'])):
+    for i in failed_df['album_index']:
         print(datetime.now().time())
+        print("current album id: {}".format(i))
         try:
             try:
-                get_har("./Scrape/success_2800.csv", "./Scrape/failed_2.csv", df, i)
+                get_har(success_path, failed_path_after, df, i)
             except:
                 print("Failed at {}".format(i))
-                with open('./Scrape/failed_2.csv', 'a', newline="") as f:
+                with open(failed_path_after, 'a', newline="") as f:
                     row = [i, df['album_id'][i], df['album'][i]]
                     writer = csv.writer(f)
                     writer.writerow(row)
