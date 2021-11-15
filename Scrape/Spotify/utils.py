@@ -1,9 +1,7 @@
-import pprint
 import csv
 from browsermobproxy import Server
 from selenium import webdriver
 import os
-import json
 import time
 import pandas as pd
 from view_extractor import extract_info_from_har
@@ -11,8 +9,8 @@ from datetime import datetime
 
 
 read_album_path = "./Scrape/Spotify/spotify-playlist.csv"
-headerSong = ['album_index', 'id', 'name',
-                'playcount', 'album_id', 'album_name']
+headerSong = ['id', 'name',
+                'playcount', 'album_index', 'album_id', 'album_name']
 headerAlbum = ['album_index', 'album_id', 'album_name']
 
 
@@ -65,6 +63,7 @@ def start_proxy():
 
 
 def get_har(sucess_file, failed_file, df, i):
+    print('scrape album {}'.format(i))
     id = df['album_id'][i]
     df = df.set_index('album_id')
     album_name = df['album'][i]
@@ -183,5 +182,6 @@ def create_csv(path, column_name):
         with open(path, 'w') as f:
             writer = csv.writer(f)
             writer.writerow(column_name)
+            print("{} created".format(path))
     else:
         print("{} already exists".format(path))
