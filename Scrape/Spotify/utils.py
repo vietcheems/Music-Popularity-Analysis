@@ -10,14 +10,45 @@ from view_extractor import extract_info_from_har
 from datetime import datetime
 
 
+read_album_path = "./Scrape/Spotify/spotify-playlist.csv"
+headerSong = ['album_index', 'id', 'name',
+                'playcount', 'album_id', 'album_name']
+headerAlbum = ['album_index', 'album_id', 'album_name']
 
 
-#mở 1 proxy mới
+def get_failed_ablum(failed_path_before, failed_path_after, success_path):
+    df = pd.read_csv(read_album_path, sep='\t')
+    data = [df['album_id'], df['album']]
+    headers = ['album_id', 'album']
+    df = pd.concat(data, axis=1, keys=headers)
+    df = df.drop_duplicates()
+    df.reset_index(drop=True, inplace=True)
+
+    failed_df = pd.read_csv(failed_path_before)
+
+    # ông chỉnh index ở đây nhé
+    for i in failed_df['album_index']:
+        print(datetime.now().time())
+        print("current album id: {}".format(i))
+        try:
+            try:
+                get_har(success_path, failed_path_after, df, i)
+            except:
+                print("Failed at {}".format(i))
+                with open(failed_path_after, 'a', newline="") as f:
+                    row = [i, df['album_id'][i], df['album'][i]]
+                    writer = csv.writer(f)
+                    writer.writerow(row)
+        except:
+            print('Failed to fill information at index ', i)
+
+
+# mở 1 proxy mới
 def start_proxy():
     chrome_options = webdriver.ChromeOptions()
-     #cái này thì dẫn directory của browsermob-proxy.bat
-    server = Server("/home/viet/OneDrive/Studying Materials/Introduction to Data Science/EDA Project/browsermob-proxy-2.1.4-bin/browsermob-proxy-2.1.4/bin/browsermob-proxy"
-, options={'port': 8090})
+    # cái này thì dẫn directory của browsermob-proxy.bat
+    server = Server(
+        "/home/viet/OneDrive/Studying Materials/Introduction to Data Science/EDA Project/browsermob-proxy-2.1.4-bin/browsermob-proxy-2.1.4/bin/browsermob-proxy", options={'port': 8090})
     server.start()
     proxy = server.create_proxy()
 
@@ -27,20 +58,19 @@ def start_proxy():
     chrome_options.add_argument("--remote-debugging-port=9222")
     chrome_options.add_argument('--headless')
 
-
-
-    #cái này ông phải tải chrome webdriver, xong thêm path của cái đấy ở dưới
+    # cái này ông phải tải chrome webdriver, xong thêm path của cái đấy ở dưới
     path = "/home/viet/OneDrive/Studying Materials/Introduction to Data Science/EDA Project/chromedriver_linux64/chromedriver"
     driver = webdriver.Chrome(path, options=chrome_options)
-    return driver,server,proxy
+    return driver, server, proxy
 
 
 def get_har(sucess_file, failed_file, df, i):
     id = df['album_id'][i]
-    df= df.set_index('album_id')
+    df = df.set_index('album_id')
     album_name = df['album'][i]
     file_name = album_name + ".har"
     url = "https://open.spotify.com/album/" + id
+
     def loop(file_name):
         driver, server, proxy = start_proxy()
         print("chrome started")
@@ -52,9 +82,10 @@ def get_har(sucess_file, failed_file, df, i):
 
         har_options = {'captureContent': True}
         proxy.new_har(file_name, options=har_options)
-        #time.sleep(15)
-        file_name = ''.join(char for char in file_name if ( char.isalnum() or char == " " or char == "."))
-        #driver.set_page_load_timeout(60)
+        # time.sleep(15)
+        file_name = ''.join(char for char in file_name if (
+            char.isalnum() or char == " " or char == "."))
+        # driver.set_page_load_timeout(60)
 
         found = False
         currentTime = time.time()
@@ -69,7 +100,8 @@ def get_har(sucess_file, failed_file, df, i):
                 df['album_index'] = i
                 df['album_id'] = id
                 df['album_name'] = album_name
-                df = df[['song_id', 'song_name', 'playcount', 'album_index', 'album_id', 'album_name']]
+                df = df[['song_id', 'song_name', 'playcount',
+                         'album_index', 'album_id', 'album_name']]
                 print('success!')
                 print(df)
                 df.to_csv(sucess_file, mode='a', header=False, index=False)
@@ -101,8 +133,7 @@ def get_har(sucess_file, failed_file, df, i):
         writer = csv.writer(f)
         writer.writerow(row)
 
-
-    #with open("HAR folder/" + file_name, 'w') as har_file:
+    # with open("HAR folder/" + file_name, 'w') as har_file:
         #json.dump(proxy.har, har_file)
     """try:
         df = extract_info_from_har("HAR folder/" + file_name)
@@ -122,28 +153,35 @@ def get_har(sucess_file, failed_file, df, i):
         driver.quit()"""
 
 
-if __name__ == '__main__':
-    df = pd.read_csv("./Scrape/Spotify/spotify-playlist.csv", sep='\t')
-    data = [ df['album_id'], df['album']]
+def first_iteration(start_index, end_index, success_path, failed_1_path):
+    df = pd.read_csv(read_album_path, sep='\t')
+    data = [df['album_id'], df['album']]
     headers = ['album_id', 'album']
-    df = pd.concat(data, axis = 1, keys = headers)
+    df = pd.concat(data, axis=1, keys=headers)
     df = df.drop_duplicates()
-    df.reset_index(drop = True, inplace=True)
-    headerSong = ['album_index','id', 'name', 'playcount', 'album_id', 'album_name']
-    headerAlbum = ['album_index','album_id', 'album_name']
+    df.reset_index(drop=True, inplace=True)
 
 
-    #ông chỉnh index ở đây nhé
-    for i in range(3232,len(df['album_id'])):
+    # ông chỉnh index ở đây nhé
+    for i in range(start_index, end_index):
         print(datetime.now().time())
         try:
             try:
-                get_har("./Scrape/success_2800.csv", "./Scrape/failed_1.csv", df, i)
+                get_har(success_path,
+                        failed_1_path, df, i)
             except:
                 print("Failed at {}".format(i))
-                with open('./Scrape/failed_1.csv', 'a', newline="") as f:
+                with open(failed_1_path, 'a', newline="") as f:
                     row = [i, df['album_id'][i], df['album'][i]]
                     writer = csv.writer(f)
                     writer.writerow(row)
         except:
             print('Failed to fill information at index ', i)
+
+def create_csv(path, column_name):
+    if not os.path.exists(path):
+        with open(path, 'w') as f:
+            writer = csv.writer(f)
+            writer.writerow(column_name)
+    else:
+        print("{} already exists".format(path))
