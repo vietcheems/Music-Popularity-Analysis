@@ -63,7 +63,7 @@ def start_proxy():
 
 
 def get_har(sucess_file, failed_file, df, i):
-    print('scrape album {}'.format(i))
+    print('scraping album {}'.format(i))
     id = df['album_id'][i]
     df = df.set_index('album_id')
     album_name = df['album'][i]

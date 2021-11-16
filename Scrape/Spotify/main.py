@@ -4,7 +4,7 @@ from utils import first_iteration, get_failed_ablum, create_csv, headerSong, hea
 
 base_dir = "./Scrape/Spotify"
 start_index = 2400
-end_index = 2410
+end_index = 2800
 folder_path = os.path.join(base_dir, str(start_index))
 success_path = os.path.join(folder_path, "success.csv")
 failed_1_path = os.path.join(folder_path, "failed_1.csv")
@@ -16,7 +16,7 @@ if __name__ == "__main__":
     create_csv(success_path, headerSong)
     create_csv(failed_1_path, headerAlbum)
 
-    first_iteration(start_index, end_index, success_path, failed_1_path)
+    first_iteration(2755, end_index, success_path, failed_1_path)
 
     done = len(pd.read_csv(failed_1_path)) == 0
     failed_file_index = 1
