@@ -5,7 +5,7 @@ from utils import first_iteration, get_failed_ablum, create_csv, headerSong, hea
 base_dir = "./Scrape/Spotify"
 start_index = 2400
 end_index = 2800
-folder_path = os.path.join(base_dir, str(start_index))
+folder_path = os.path.join(base_dir, str(start_index) + str(end_index))
 success_path = os.path.join(folder_path, "success.csv")
 failed_1_path = os.path.join(folder_path, "failed_1.csv")
 
