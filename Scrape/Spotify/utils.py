@@ -6,6 +6,7 @@ import time
 import pandas as pd
 from view_extractor import extract_info_from_har
 from datetime import datetime
+import json
 
 
 read_album_path = "./Scrape/Spotify/spotify-playlist.csv"
@@ -14,7 +15,7 @@ headerSong = ['id', 'name',
 headerAlbum = ['album_index', 'album_id', 'album_name']
 
 
-def get_failed_ablum(failed_path_before, failed_path_after, success_path):
+def get_failed_ablum(failed_path_before, failed_path_after, success_path, try_attempt=3):
     df = pd.read_csv(read_album_path, sep='\t')
     data = [df['album_id'], df['album']]
     headers = ['album_id', 'album']
@@ -30,7 +31,7 @@ def get_failed_ablum(failed_path_before, failed_path_after, success_path):
         print("current album id: {}".format(i))
         try:
             try:
-                get_har(success_path, failed_path_after, df, i)
+                get_har(success_path, failed_path_after, df, i, try_attempt)
             except:
                 print("Failed at {}".format(i))
                 with open(failed_path_after, 'a', newline="") as f:
@@ -62,7 +63,7 @@ def start_proxy():
     return driver, server, proxy
 
 
-def get_har(sucess_file, failed_file, df, i):
+def get_har(folder_path, failed_file, df, i, try_attempt):
     print('scraping album {}'.format(i))
     id = df['album_id'][i]
     df = df.set_index('album_id')
@@ -91,34 +92,27 @@ def get_har(sucess_file, failed_file, df, i):
         startTime = time.time()
 
         while (currentTime - startTime <= 3) and (found == False):
-
+            print("waiting")
+            time.sleep(1)
             if isinstance(extract_info_from_har(proxy.har), pd.DataFrame):
+                print("-------har file found-------")
                 found = True
-                # df = extract_info_from_har("HAR folder/" + file_name)
-                df = extract_info_from_har(proxy.har)
-                df['album_index'] = i
-                df['album_id'] = id
-                df['album_name'] = album_name
-                df = df[['song_id', 'song_name', 'playcount',
-                         'album_index', 'album_id', 'album_name']]
-                print('success!')
-                print(df)
-                df.to_csv(sucess_file, mode='a', header=False, index=False)
+                har_path = os.path.join(folder_path, str(i) + ".har")
+                with open(har_path, "w") as f:
+                    json.dump(proxy.har, f)
+                    print("-------har file written successfully--------")
                 server.stop()
                 driver.quit()
                 currentTime = time.time()
-                print(currentTime - startTime)
-                exit
-            else:
-                pass
-            print("wait")
+                print("-------time taken: {}s---------".format(round(currentTime - startTime)))
+            
             currentTime = time.time()
-            time.sleep(1)
+            
         server.stop()
         driver.quit()
         return found
     found = loop(file_name)
-    for j in range(3):
+    for j in range(try_attempt):
         if (found == False):
             print("Cant find the response with viewcount, trying again")
             found = loop(file_name)
@@ -132,27 +126,9 @@ def get_har(sucess_file, failed_file, df, i):
         writer = csv.writer(f)
         writer.writerow(row)
 
-    # with open("HAR folder/" + file_name, 'w') as har_file:
-        #json.dump(proxy.har, har_file)
-    """try:
-        df = extract_info_from_har("HAR folder/" + file_name)
-        df['album_index'] = i
-        df['album_id'] = id
-        df['album_name'] = album_name
-        df = df[['song_id', 'song_name','playcount', 'album_index', 'album_id', 'album_name']]
-        df.to_csv(sucess_file, mode='a', header=False, index=False)
-        server.stop()
-        driver.quit()
-    except:
-        row = [i,id, album_name]
-        with open(failed_file, 'a', newline= "") as f:
-            writer = csv.writer(f)
-            writer.writerow(row)
-        server.stop()
-        driver.quit()"""
 
 
-def first_iteration(start_index, end_index, success_path, failed_1_path):
+def first_iteration(start_index, end_index, folder_path, failed_1_path, try_attempt=3):
     df = pd.read_csv(read_album_path, sep='\t')
     data = [df['album_id'], df['album']]
     headers = ['album_id', 'album']
@@ -166,8 +142,8 @@ def first_iteration(start_index, end_index, success_path, failed_1_path):
         print(datetime.now().time())
         try:
             try:
-                get_har(success_path,
-                        failed_1_path, df, i)
+                get_har(folder_path,
+                        failed_1_path, df, i, try_attempt)
             except:
                 print("Failed at {}".format(i))
                 with open(failed_1_path, 'a', newline="") as f:
