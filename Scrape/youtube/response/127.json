@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "QwSzFNnKyI6W1E5JcibA3xAgmg8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AqzjQjb_w1AYu2BNJrjlxMSSbpQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ebXbLfLACGM"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-06T23:00:01Z",
+        "channelId": "UCaHNFIob5Ixv74f5on3lvIw",
+        "title": "Calvin Harris - Summer (Official Video)",
+        "description": "Calvin Harris - Summer (Official Video) Spotify - http://smarturl.it/Calvin_Spotify Apple Music - http://smarturl.it/Calvin_AppleMusic Amazon: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ebXbLfLACGM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ebXbLfLACGM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ebXbLfLACGM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CalvinHarrisVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-06T23:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1R8c56_ihrb5uHVkFqcm8Ckuny0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "McEoTIqoRKk"
+      },
+      "snippet": {
+        "publishedAt": "2014-03-14T09:00:01Z",
+        "channelId": "UCaHNFIob5Ixv74f5on3lvIw",
+        "title": "Calvin Harris - Summer (Audio)",
+        "description": "You can vote Summer as #BRITs2015 British Video by tweeting using #BRITCalvinHarris http://smarturl.it/BRITCalvinHarris Pre-order the new album Motion: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/McEoTIqoRKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/McEoTIqoRKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/McEoTIqoRKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CalvinHarrisVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-03-14T09:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i3oYR95UYYDKFrC8Zka_FNkWeSk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VNcBuZkxXmo"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-18T18:32:07Z",
+        "channelId": "UC8DBdOsq1zu-PbKHG8kNV0g",
+        "title": "Summer - Calvin Harris (Lyrics) 🎵",
+        "description": "Lyrics: \"Summer\" https://pillowlyrics.com/summer-calvin-harris/ VISIT OUR OFFICIAL LYRICS WEBSITE: https://www.pillowlyrics.com/ Lyrics: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VNcBuZkxXmo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VNcBuZkxXmo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VNcBuZkxXmo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pillow",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-18T18:32:07Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "QH0X7ErPS4lxyDJqw2x9FoSfVk8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CdfMBUGCeLLSdBONuvnqg2OMusk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x8VYWazR5mE"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-16T13:00:11Z",
+        "channelId": "UCvpredjG93ifbCP1Y77JyFA",
+        "title": "YOASOBI「夜に駆ける」 Official Music Video",
+        "description": "ダウンロード/ストリーミング配信：https://orcd.co/yoasobi_yorunikakeru 原作小説「タナトスの誘惑」(星野舞夜 著)：https://monogatary.com/story/33826 -- 原作小説集「夜 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x8VYWazR5mE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x8VYWazR5mE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x8VYWazR5mE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ayase / YOASOBI",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-16T13:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "02Pdzd7l3btm8iHZYxV_8YgsWDs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j1hft9Wjq9U"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-15T13:00:12Z",
+        "channelId": "UC9zY_E8mcAo_Oq772LEZq8Q",
+        "title": "YOASOBI - 夜に駆ける / THE HOME TAKE",
+        "description": "「THE HOME TAKE」は、アーティストの自宅やプライベートスタジオから、一発撮りで届けるYouTubeコンテンツ。 \"\"いま、こんなときだからこそ、音楽を届けたい。すべては、 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j1hft9Wjq9U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j1hft9Wjq9U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j1hft9Wjq9U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "THE FIRST TAKE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-15T13:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Fs4WSRKpvulcG91y5EYEFdtO0Dc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qerVyrLKzA0"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-04T07:40:35Z",
+        "channelId": "UCqQZmkjMiNYhqgg1h6cDrPw",
+        "title": "【Vietsub】Yoru ni Kakeru (夜に駆ける) | YOASOBI",
+        "description": "Tiến Vào Màn Đêm | Into The Night ♫ Song : 夜に駆ける (Yoru ni Kakeru) ♫ Author : YOASOBI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qerVyrLKzA0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qerVyrLKzA0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qerVyrLKzA0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ngô Bắp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-04T07:40:35Z"
+      }
+    }
+  ]
+}

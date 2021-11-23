@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "OuJwJ_Pg0Vl10Gn0eWSvEfItG20",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aNmFEmqS52xo-dY-5WlS2AMPKzc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qcZ7e9EOQTY"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-10T12:00:12Z",
+        "channelId": "UC-J-KZfRV8c13fOCkhXdLiQ",
+        "title": "Dua Lipa - Hallucinate (Official Music Video)",
+        "description": "The official music video for Dua Lipa - Hallucinate Taken from her second studio album 'Future Nostalgia' released in 2020, which featured the hit singles 'Don't ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qcZ7e9EOQTY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qcZ7e9EOQTY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qcZ7e9EOQTY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dua Lipa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-10T12:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2dJXXag_whRhzq5afRTWTdTIHYQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lOfFxhAhZuA"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-09T09:00:45Z",
+        "channelId": "UC-J-KZfRV8c13fOCkhXdLiQ",
+        "title": "Dua Lipa - Hallucinate (Official Lyrics Video)",
+        "description": "The official lyric video for Dua Lipa - Hallucinate Taken from her second studio album 'Future Nostalgia' released in 2020, which featured the hit singles 'Don't ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lOfFxhAhZuA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lOfFxhAhZuA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lOfFxhAhZuA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dua Lipa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-09T09:00:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VW5uhsde65Enl4CfZ3NxGjzODnE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GgBmIfaHLKQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-19T17:32:48Z",
+        "channelId": "UC-FQUIVQ-bZiefzBiQAa8Fw",
+        "title": "Dua Lipa - Hallucinate in the Live Lounge",
+        "description": "Dua Lipa performs a very special stripped down version of Hallucinate in the BBC Radio 1 Live Lounge.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GgBmIfaHLKQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GgBmIfaHLKQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GgBmIfaHLKQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBC Radio 1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-19T17:32:48Z"
+      }
+    }
+  ]
+}

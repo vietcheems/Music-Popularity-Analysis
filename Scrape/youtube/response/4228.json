@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "MRA55L4rxiVN4bCK-D7onMpKcLE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LqAsBCy4Rm7R_Bz-uztr2tiBNS0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Eicw_dIi2dw"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-03T14:00:31Z",
+        "channelId": "UC1-Ru6RKUnkOJHN-Eq0uPYg",
+        "title": "Daniel Caesar - We Find Love / Blessed [Official Video]",
+        "description": "We Find Love” Directed by Keavan Yazdani, Sean Brown & Daniel Palmer Written by Daniel Caesar Music by Daniel Caesar, Jordan Evans, Matthew Burnett, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Eicw_dIi2dw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Eicw_dIi2dw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Eicw_dIi2dw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DanielCaesarVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-03T14:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lVFbRdhjL8zHgR9cJ0ulAKTvtA0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s3GKxnBDu2g"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-09T17:00:22Z",
+        "channelId": "UCBUBfRvIMDTK3sTcm2e5q8Q",
+        "title": "Daniel Caesar - We Find Love",
+        "description": "Nostalgic Jams - Making you feel nostalgic. » Facebook: https://facebook.com/nostalgicjams » Twitter: https://twitter.com/nostalgicjams » Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s3GKxnBDu2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s3GKxnBDu2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s3GKxnBDu2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nostalgic Jams",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-09T17:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wO2QGTQKiG9Bhg9P6yVWvsaZr5A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BJC8wkXirz4"
+      },
+      "snippet": {
+        "publishedAt": "2018-02-13T23:30:00Z",
+        "channelId": "UCqrimRUsQ-hTI8ceDP9c3FQ",
+        "title": "Daniel Caesar - We Find Love/Blessed on BBC Radio 1Xtra",
+        "description": "Daniel Caesar performs We Find Love/Blessed in session for Jamz Supernova on BBC Radio 1Xtra.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BJC8wkXirz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BJC8wkXirz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BJC8wkXirz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBC Radio 1Xtra",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-02-13T23:30:00Z"
+      }
+    }
+  ]
+}

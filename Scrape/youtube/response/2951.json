@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "LnhSMRpAk68_5kwVXEfSO1V6C78",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 105759,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7Nb8yepZzr1vqH__YvOB8pv2p7c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ka4BxFizU7I"
+      },
+      "snippet": {
+        "publishedAt": "2016-01-29T05:40:55Z",
+        "channelId": "UCnzJFckvQBA5nn9lMu08LWQ",
+        "title": "J. Cole - Love Yourz (Official Music Video)",
+        "description": "J. Cole's new release FOREST HILLS DRIVE: Live from Fayetteville, NC is available everywhere now! Download: http://smarturl.it/ForestHillsDriveLive Stream: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ka4BxFizU7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ka4BxFizU7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ka4BxFizU7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JColeVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-01-29T05:40:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aypg-7r-w2Tup3Em1qyz9TbnIWs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RTGTP514Bxw"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-16T04:51:06Z",
+        "channelId": "UCwiodvtJ6ES1Phw93G1-D7g",
+        "title": "Love Yourz Lyrics - J Cole",
+        "description": "I do not own the rights to this song.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RTGTP514Bxw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RTGTP514Bxw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RTGTP514Bxw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lyric Universe",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-12-16T04:51:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eiCEN3LUl9yXWImSh27BFwQp63I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZPCAvzIFY-s"
+      },
+      "snippet": {
+        "publishedAt": "2015-01-28T17:13:13Z",
+        "channelId": "UCIwRvpBX1d8uGh90syLu0yg",
+        "title": "J.Cole &quot;Love Yourz&quot; (Official Music Video)",
+        "description": "J. Cole \"Love Yourz\" Official Video This video was inspired by Peter Parkkerr Films after hearing J. Cole's album. We decided to film the song \"Love Yourz\" ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZPCAvzIFY-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZPCAvzIFY-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZPCAvzIFY-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Peter Parkkerr",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-01-28T17:13:13Z"
+      }
+    }
+  ]
+}

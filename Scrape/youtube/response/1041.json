@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "9gpb1ZZXxp8bcurkENgI-AzPPWc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8N4cwarlDdla7iVFEYfdLbQ9lzM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5Wiio4KoGe8"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-28T14:21:25Z",
+        "channelId": "UCN1hnUccO4FD5WfM7ithXaw",
+        "title": "Maroon 5 - What Lovers Do ft. SZA (Official Music Video)",
+        "description": "\"RED PILL BLUES” is out now. http://smarturl.it/RedPillBlues For more, visit: https://www.facebook.com/maroon5 https://twitter.com/maroon5 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5Wiio4KoGe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5Wiio4KoGe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5Wiio4KoGe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Maroon5VEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-28T14:21:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6ZgUszbKZCYqYeJcJZfVT2qYDX8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "miDfTKlmD6M"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-04T13:00:04Z",
+        "channelId": "UCrC_ZFYISEAUuCu00y52Evg",
+        "title": "Maroon 5 - What Lovers Do (Lyrics) feat. SZA",
+        "description": "Maroon 5 - What Lovers Do (Lyrics) feat. SZA ⏬ Download / Stream: http://smarturl.it/RedPillBlues Turn on notifications to stay updated with new uploads!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/miDfTKlmD6M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/miDfTKlmD6M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/miDfTKlmD6M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Royal Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-04T13:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "el7RubGzOrr3K1Uop97Lb8PFkuo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uag1vS_RNck"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-02T11:00:06Z",
+        "channelId": "UC8-Th83bH_thdKZDJCrn88g",
+        "title": "Maroon 5 ft. SZA: What Lovers Do",
+        "description": "Music guest Maroon 5 performs \"What Lovers Do\" for the Tonight Show audience. Subscribe NOW to The Tonight Show Starring Jimmy Fallon: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uag1vS_RNck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uag1vS_RNck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uag1vS_RNck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Tonight Show Starring Jimmy Fallon",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-02T11:00:06Z"
+      }
+    }
+  ]
+}

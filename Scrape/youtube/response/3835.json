@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "oUSCy4_5H4ScYlru0hbNy6t9mfM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bw9y8NeHjXTuVSSw6VydSvQO9mg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bfQ7ucGQdOM"
+      },
+      "snippet": {
+        "publishedAt": "2015-02-06T05:21:22Z",
+        "channelId": "UCQby6_VO0BRO3B88iW-F1zw",
+        "title": "Beyonce - Crazy In Love (Fifty Shades of Grey REMIX)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bfQ7ucGQdOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bfQ7ucGQdOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bfQ7ucGQdOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jesus1to",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-02-06T05:21:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IHFb14If2PFpnTnAYX6uxEEDkfY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ViwtNLUqkMY"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-03T04:47:38Z",
+        "channelId": "UC9zX2xZIJ4cnwRsgBpHGvMg",
+        "title": "Beyoncé - Crazy In Love ft. JAY Z",
+        "description": "Beyoncé's official video for 'Crazy In Love'. Click to listen to Beyoncé on Spotify: http://smarturl.it/BeyonceSpot?IQid=BeyCIL As featured on Dangerously In Love.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ViwtNLUqkMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ViwtNLUqkMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ViwtNLUqkMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BeyoncéVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-03T04:47:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OXhqOpOJKvSNTjuMGrQbu7F1cMo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wawg_gJWMSM"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-08T19:12:45Z",
+        "channelId": "UCaWTGD8zfk8BVfu8ytpnTyQ",
+        "title": "Beyoncé - Crazy In Love (Deepblue x Dead Chaos Remix)",
+        "description": "Beyoncé - Crazy In Love (Deepblue x Dead Chaos Remix) Download: bit.ly/crazyinlove-db-dc ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wawg_gJWMSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wawg_gJWMSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wawg_gJWMSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Aero Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-08T19:12:45Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "jz6G2JGO60iqHoxSbeYRv7jgtQA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HKIt2UtNyCr8NZFrcz4o1yMUSN0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b7kxtIGaNpw"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-11T07:00:03Z",
+        "channelId": "UCReWRdJWBp4q0AKSF6amdWQ",
+        "title": "MEDUZA, Becky Hill, Goodboys - Lose Control (Lyric Video)",
+        "description": "Listen to \"Lose Control\" by Meduza x Becky Hill x Goodboys Watch the official music video here: https://youtu.be/-3P2USPFDcE Download & stream here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b7kxtIGaNpw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b7kxtIGaNpw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b7kxtIGaNpw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MeduzaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-11T07:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t9g2xCb790BtA3TTukANO3rwuqs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-3P2USPFDcE"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-24T17:00:10Z",
+        "channelId": "UCReWRdJWBp4q0AKSF6amdWQ",
+        "title": "MEDUZA, Becky Hill, Goodboys - Lose Control (Official Video)",
+        "description": "Watch the official video for \"Lose Control” by Meduza x Becky Hill x Goodboys. Download & stream here: https://umg.lnk.to/losecontrol Follow Meduza: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-3P2USPFDcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-3P2USPFDcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-3P2USPFDcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MeduzaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-24T17:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lfz1SE85fWvsSCiz2xefM_8g-xg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IrcdPaiDi3o"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-18T12:20:44Z",
+        "channelId": "UCjssjNZf4sOUmI8j0g0ReIQ",
+        "title": "Meduza, Becky Hill - Lose Control (Lyrics) ft. Goodboys",
+        "description": "Meduza, Becky Hill - Lose Control (Lyrics) ft. Goodboys Meduza https://www.instagram.com/meduzamusic/ https://www.facebook.com/MeduzaMusic Becky ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IrcdPaiDi3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IrcdPaiDi3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IrcdPaiDi3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Liquid Sounds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-18T12:20:44Z"
+      }
+    }
+  ]
+}

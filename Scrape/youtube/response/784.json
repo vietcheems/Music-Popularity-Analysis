@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "I1th5CdunIx2Lpx77NdAjajLjgA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XMVKLdQDOSASogAipg99kp0CgHM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ginBV6aeVlc"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-26T23:09:00Z",
+        "channelId": "UCpaGGkpatzHmtC9H7Mko7HA",
+        "title": "Martin Jensen - Solo Dance (4K)",
+        "description": "Martin Jensen – Solo Dance (Official Video). Breakout success Martin Jensen is back with another hot new track in the form of Solo Dance. Catch the track here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ginBV6aeVlc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ginBV6aeVlc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ginBV6aeVlc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DJMartinJensenVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-26T23:09:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8AGtHiRH_PC2d3bDQNn6xNfy1Cs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "spZRDkt4fmY"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-05T10:23:23Z",
+        "channelId": "UCeZiul_hKxc-r0yEL27i1Xw",
+        "title": "Martin Jensen -  Solo Dance",
+        "description": "Follow our 3Beat Dance Anthems Spotify Playist & Subscribe to the Dance mailing List: https://3beatproductions.lnk.to/3BeatDanceIN 'Solo Dance' is available ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/spZRDkt4fmY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/spZRDkt4fmY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/spZRDkt4fmY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "3 Beat",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-05T10:23:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_zIWiAIJ9KmMg20KKMPSaabwOb0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4vaTi78W-14"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-29T07:12:12Z",
+        "channelId": "UCwXDUhN3dgS-EzER3XpEiMw",
+        "title": "Martin Jensen - Solo Dance (Lyrics)",
+        "description": "Mention Your Favourite Song In Comments ✌ Like & Share if you enjoy the video ❤ Don't forget to hit that SUBSCRIBE button for more music videos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4vaTi78W-14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4vaTi78W-14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4vaTi78W-14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RK Vibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-29T07:12:12Z"
+      }
+    }
+  ]
+}

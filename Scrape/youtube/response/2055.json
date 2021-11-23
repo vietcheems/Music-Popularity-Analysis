@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "95sUYGky9c7TSxof5BfQQekCdnw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NY5iJzakHz5Z9DweApJW_aqo9z4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hwZNL7QVJjE"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-27T23:22:54Z",
+        "channelId": "UCYXzyvyTDhaFwdtZxL5ChFA",
+        "title": "Ben E. King - Stand By Me",
+        "description": "\"Stand By Me\" performed by Ben E King Listen to more legendary classic hits: https://youtube.com/playlist?list=PL76tSs7Smn-r0vmgm5p1QZGJILKdWWxaz ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hwZNL7QVJjE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hwZNL7QVJjE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hwZNL7QVJjE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Soulful Sounds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-27T23:22:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S-K9MXkVGWwIeSB3n9sNebN3h5A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tTSjI-_RwEE"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-26T12:39:08Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "Stand By Me - Ben E. King (Lyrics) 🎵",
+        "description": "Ben E. King - Stand By Me (Lyrics) Ben E. King - Stand By Me Download it on iTunes : http://smarturl.it/beneking Lyrics: Ben E. King - Stand By Me When the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tTSjI-_RwEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tTSjI-_RwEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tTSjI-_RwEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-26T12:39:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E8SCCLv1YZZ-M_tkgOTAxK5Ow5s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dTd2ylacYNU"
+      },
+      "snippet": {
+        "publishedAt": "2013-06-30T18:28:57Z",
+        "channelId": "UCwqRb_CUkLIbMn0drYfQl_w",
+        "title": "Ben E. King - Stand By Me (HQ Video Remastered In 1080p)",
+        "description": "Restored By: CrisMate 100% sound reworked (replace sound with CD-DA\" Compact Disc Digital Audio\"). Original Source: VIDEO... VOB. (Video OBject) 196MB ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dTd2ylacYNU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dTd2ylacYNU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dTd2ylacYNU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cris Mate",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-06-30T18:28:57Z"
+      }
+    }
+  ]
+}

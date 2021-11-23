@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "AzNuDqWE7uKVvj9bdEqC0FkX1XE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UnK6EfmRp-xsAAau48WgRCg8zdw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4GuqB1BQVr4"
+      },
+      "snippet": {
+        "publishedAt": "2012-05-03T23:50:06Z",
+        "channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+        "title": "Justin Bieber - Boyfriend (Official Music Video)",
+        "description": "Music video by Justin Bieber performing Boyfriend. ©: 2012 The Island Def Jam Music Group #VEVOCertified on July 11, 2012.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4GuqB1BQVr4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4GuqB1BQVr4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4GuqB1BQVr4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JustinBieberVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-05-03T23:50:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Edn9F79LSbudKQr6klrgFc_yB3Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2JN1Mdx0300"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-11T11:13:25Z",
+        "channelId": "UCVNjtBVfU_vfOrUI2jV1PEg",
+        "title": "Justin Bieber - Boyfriend (Lyrics)",
+        "description": "Justin Bieber - Boyfriend (Lyrics) Justin Bieber - Boyfriend (Lyrics) Subscribe for more: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2JN1Mdx0300/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2JN1Mdx0300/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2JN1Mdx0300/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YUMMY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-11T11:13:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G-N8R7B8XZHUAbzC-ceiyfZ9vHA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8awGrWhAZZs"
+      },
+      "snippet": {
+        "publishedAt": "2012-06-08T23:32:04Z",
+        "channelId": "UCepDyyo2g8DfEB-IUn0ZPNw",
+        "title": "Justin Bieber - Boyfriend Lyrics",
+        "description": "Justin Bieber - Boyfriend Lyrics Justin Bieber - Boyfriend Lyrics Justin Bieber - Boyfriend Lyrics Justin Bieber - Boyfriend Lyrics Justin Bieber - Boyfriend Lyrics ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8awGrWhAZZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8awGrWhAZZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8awGrWhAZZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SuperJelloShots",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-06-08T23:32:04Z"
+      }
+    }
+  ]
+}

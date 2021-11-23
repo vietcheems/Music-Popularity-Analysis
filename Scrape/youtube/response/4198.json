@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ym3f0l1LYWmKiaJHFyQ_TJk0h4c",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WX7RElSUnimqxyg2W0QGdJh7pk8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OlStmta0Vh4"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-30T03:06:27Z",
+        "channelId": "UC0WP5P-ufpRfjbNrmOWwLBQ",
+        "title": "The Weeknd - I Was Never There feat. Gesaffelstein (Official Audio)",
+        "description": "\"I Was Never There\" feat. Gesaffelstein My Dear Melancholy, Available now from The Weeknd. http://theweeknd.co/mdmYD Connect with The Weeknd ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OlStmta0Vh4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OlStmta0Vh4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OlStmta0Vh4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Weeknd",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-30T03:06:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SaGkuFRmlilaD58xfxdt9wJFvUo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qTu4OaPIwDw"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-01T09:03:50Z",
+        "channelId": "UCbbopwLWVwp-XGkitsHZsbA",
+        "title": "The Weeknd- I Was Never There (Lyrics)",
+        "description": "music- the weeknd.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qTu4OaPIwDw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qTu4OaPIwDw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qTu4OaPIwDw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cecy Rickman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-01T09:03:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8AOV3auG88Q8K2Gnle_mJljMKjg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZHBYGpAlNog"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-09T16:24:00Z",
+        "channelId": "UC0WP5P-ufpRfjbNrmOWwLBQ",
+        "title": "He Was Never There, Docupoem",
+        "description": "The Weeknd - He Was Never There Director: Joachim Johnson Producer: Rebecca Hearn Editor: Dylan Coughran Scoring: mybestfriendjacob My Dear ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZHBYGpAlNog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZHBYGpAlNog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZHBYGpAlNog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Weeknd",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-09T16:24:00Z"
+      }
+    }
+  ]
+}

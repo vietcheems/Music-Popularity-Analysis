@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "IYUkbNtp97g8kepBQdKZaVvqHuE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ho65xuuEaM-umt1LL_4ORV81GJo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lG4HICGeQoo"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-23T00:30:00Z",
+        "channelId": "UCByOQJjav0CUDwxCk-jVNRQ",
+        "title": "PARTYNEXTDOOR - Come And See Me ft. Drake (Audio)",
+        "description": "PARTYNEXTDOOR - Come And See Me feat. Drake (Official Audio) Produced by 40 (C) 2016 OVO Sound / Warner Bros.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lG4HICGeQoo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lG4HICGeQoo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lG4HICGeQoo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Drake",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-23T00:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EJoSt74P7Dwg17Mzy7R5QaVh4e0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ockhq8E2FrA"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-23T17:57:18Z",
+        "channelId": "UCz9f4llEeQyb5F2_p9CirYw",
+        "title": "PARTYNEXTDOOR - Come and See Me [Official Music Video]",
+        "description": "Watch the official music video for Come and See Me by PARTYNEXTDOOR from the album P3. Subscribe to the channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ockhq8E2FrA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ockhq8E2FrA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ockhq8E2FrA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PARTYNEXTDOOR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-23T17:57:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9tGCwUcKslEg3tqt3tDCRufek7k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NK-DsR-yUPU"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-30T13:35:51Z",
+        "channelId": "UC5aETVHDRskKe74KJccS7gQ",
+        "title": "Come and See Me - PARTYNEXTDOOR Lyrics",
+        "description": "Like & Sub 4 my fav song guys!!!! TIll Next Video!!!! Im out!!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NK-DsR-yUPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NK-DsR-yUPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NK-DsR-yUPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "its Zurrqz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-30T13:35:51Z"
+      }
+    }
+  ]
+}

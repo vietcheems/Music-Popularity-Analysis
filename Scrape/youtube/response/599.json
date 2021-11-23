@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "zdG-Yqfd_OUPcBX26v-QGfdUTsU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MOlrFb5_A1-K3ShBz5F6cJgT8II",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MSrTnWDTdwI"
+      },
+      "snippet": {
+        "publishedAt": "2013-09-06T15:41:43Z",
+        "channelId": "UCIUKjjLfyf19Mr6Q_27GXlw",
+        "title": "YG - My Nigga ft. Jeezy, Rich Homie Quan (Explicit) (Official Music Video)",
+        "description": "MYKRAZYLIFE - Available Now! iTunes Deluxe: http://smarturl.it/iMyKrazyLifeD iTunes Standard: http://smarturl.it/iMyKrazyLife Amazon Deluxe: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MSrTnWDTdwI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MSrTnWDTdwI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MSrTnWDTdwI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YGVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-09-06T15:41:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rhv1poPMkjv98U1-OQK5ohNQpss",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6l7J1i1OkKs"
+      },
+      "snippet": {
+        "publishedAt": "2014-02-21T16:40:00Z",
+        "channelId": "UCIUKjjLfyf19Mr6Q_27GXlw",
+        "title": "My Nigga ft. Lil Wayne, Rich Homie Quan, Meek Mill, Nicki Minaj (Remix) (Official Video)",
+        "description": "MYKRAZYLIFE - Available Now! iTunes Deluxe: http://smarturl.it/iMyKrazyLifeD iTunes Standard: http://smarturl.it/iMyKrazyLife Amazon Deluxe: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6l7J1i1OkKs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6l7J1i1OkKs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6l7J1i1OkKs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YGVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-02-21T16:40:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aDql4HetUYAHfAv0lQRyECwLU4U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FezZ2ZOd9tQ"
+      },
+      "snippet": {
+        "publishedAt": "2014-03-10T18:20:01Z",
+        "channelId": "UCO0EdhElzARuv9hYVqwEzXg",
+        "title": "Rich Homie Quan ft Young Jeezy &amp; YG - My Nigga (Lyrics)",
+        "description": "My Nigga My Nigga My Nigga My NiggaMy Nigga My Nigga My Nigga My NiggaMy Nigga My Nigga My Nigga My NiggaMy Nigga My Nigga My Nigga My Nigga ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FezZ2ZOd9tQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FezZ2ZOd9tQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FezZ2ZOd9tQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LaughWithOz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-03-10T18:20:01Z"
+      }
+    }
+  ]
+}

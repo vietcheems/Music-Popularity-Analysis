@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "xYKb2kBE5sLPzOHki7MEXrfF3Y0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vkQ-YiDOsVGjiIV10Biq2wKmO9I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xQ04WbgI9rg"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-03T04:40:43Z",
+        "channelId": "UCGRjJrpD2bmk9Ilq6nq80qg",
+        "title": "Foo Fighters - All My Life (Official Music Video)",
+        "description": "Watch the official music video for \"All My Life\" by Foo Fighters Listen to Foo Fighters: https://FooFighters.lnk.to/listen_YD Subscribe to the official Foo Fighters ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xQ04WbgI9rg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xQ04WbgI9rg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xQ04WbgI9rg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "foofightersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-03T04:40:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k1PLWcS6HzZBO5u-9xD8crgy1h0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gnVEG_waiqg"
+      },
+      "snippet": {
+        "publishedAt": "2008-05-16T10:27:18Z",
+        "channelId": "UCyb1jNf_tFZXLh4xMnO7G0g",
+        "title": "Foo Fighters - All My Life",
+        "description": "Title: All My Life Artist: Foo Fighters Album: One By One Track No: 1 All credit given to the band and record companies. None of this work is my own, except the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gnVEG_waiqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gnVEG_waiqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gnVEG_waiqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SamBee",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-05-16T10:27:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2MbRpm8Bhp4vrU1COf3RvYww6CA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aiy5W3z4SGE"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-02T07:00:00Z",
+        "channelId": "UCGRjJrpD2bmk9Ilq6nq80qg",
+        "title": "Foo Fighters - All My Life (Live At Wembley Stadium, 2008)",
+        "description": "Foo Fighters performing “All My Life” live at Wembley Stadium, 2008 Listen to Foo Fighters: https://FooFighters.lnk.to/ListenYD Filmed over two sold-out nights at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aiy5W3z4SGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aiy5W3z4SGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aiy5W3z4SGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "foofightersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-02T07:00:00Z"
+      }
+    }
+  ]
+}

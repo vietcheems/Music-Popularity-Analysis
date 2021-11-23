@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "VHi5X53-5Xey3BOJoulY5AcAQLM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-cgD5q1IJiHs6o6mAj2SXGfQNUc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8JnfIa84TnU"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-31T09:00:13Z",
+        "channelId": "UCvhQPdeTHzIRneScV8MIocg",
+        "title": "Clean Bandit - Solo (feat. Demi Lovato) [Official Video]",
+        "description": "Download or stream our new single Tick Tock with Mabel ft. 24kGoldn: https://cleanbandit.lnk.to/TickTock Download or stream our new album \"What Is Love?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8JnfIa84TnU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8JnfIa84TnU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8JnfIa84TnU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clean Bandit",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-31T09:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R4iPJnp1h-DtfL4qbxdYsTYUPx0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vK_hFfd2__w"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-18T04:00:39Z",
+        "channelId": "UCi0LydWaEUy3Vx8flL29ebQ",
+        "title": "Clean Bandit, Demi Lovato - Solo (Lyrics)",
+        "description": "Download Clean Bandit - Solo (Lyrics) Ft. Demi Lovato: https://atlanti.cr/solo Spotify Playlist: http://spotify.syrebralvibes.com ⚡ Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vK_hFfd2__w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vK_hFfd2__w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vK_hFfd2__w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SyrebralVibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-18T04:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "joVPsFqauu3hb_GD2fmIMZAUzWM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i-8FlNOfEfw"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-17T10:02:25Z",
+        "channelId": "UCfb-Ly0RXaUGxglFJmPji1g",
+        "title": "Clean Bandit - Solo feat. Demi Lovato [Japan Edition]",
+        "description": "The Japanese music video of Clean Bandit's “Solo” from New Album \"What Is Love?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i-8FlNOfEfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i-8FlNOfEfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i-8FlNOfEfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Music Japan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-17T10:02:25Z"
+      }
+    }
+  ]
+}

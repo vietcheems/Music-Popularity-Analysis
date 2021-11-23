@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "TKEKjn_l2o0qgM39_aD9IcF5eqo",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8mA2Qr56CHA_K7ocOXJuBP3XTuw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cYTmfieE8jI"
+      },
+      "snippet": {
+        "publishedAt": "2014-02-12T17:59:57Z",
+        "channelId": "UC20W_trF3L4fqmNqLoslnqw",
+        "title": "Chicago If You Leave Me Now HQ    !!!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cYTmfieE8jI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cYTmfieE8jI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cYTmfieE8jI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "keyloginhot",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-02-12T17:59:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wGQ807rb5eLUKJe3FWew_B6m8hE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HQ_j4Ytecgg"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-03T13:40:47Z",
+        "channelId": "UCD5ZsXiIFlrWrbOCM6rEDKQ",
+        "title": "If You Leave Me Now – (Chicago cover) Leonid &amp; Friends feat. Arkady Shilkloper",
+        "description": "Если ты оставишь меня сейчас” - Леонид и Друзья (кавер-версия группы Чикаго) при участии Аркадия Шилкопера ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HQ_j4Ytecgg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HQ_j4Ytecgg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HQ_j4Ytecgg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Leonid Vorobyev",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-03T13:40:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q7q1y9-EwUz1MyjMj3X48IVs5tk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MJNVc6CZGBQ"
+      },
+      "snippet": {
+        "publishedAt": "2012-06-24T14:00:35Z",
+        "channelId": "UCfxWnGs4M1Bdk1bh6c496-w",
+        "title": "If You Leave Me Now (onscreen lyrics) by Chicago",
+        "description": "If You Leave Me Now ~ Performed by: Chicago ~ Music & Lyrics by: Peter Paul Cetera ~ I love this song! This \"oldie but goodie\" is one of my all-time favorite love ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MJNVc6CZGBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MJNVc6CZGBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MJNVc6CZGBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "So Happy Together!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-06-24T14:00:35Z"
+      }
+    }
+  ]
+}

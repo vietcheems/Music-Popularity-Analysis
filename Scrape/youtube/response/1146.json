@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "FBH-sOo3ekljZXdfK8Q08uzBpF0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EoFunVN6C50GkiKyqug6ZZS1duw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KDxJlW6cxRk"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-15T15:00:01Z",
+        "channelId": "UCBn0VobeNWV_SZ6UV65UIJw",
+        "title": "Duke Dumont - Ocean Drive (Official Music Video)",
+        "description": "Ocean Drive: Out Now iTunes: http://po.st/iTOceanDrive Spotify: http://po.st/OceanDriveSP Apple Music: http://po.st/OceanDriveAM Subscribe to Duke Dumont's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KDxJlW6cxRk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KDxJlW6cxRk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KDxJlW6cxRk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DukeDumontVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-09-15T15:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HJuHWrt64ujKZknrqtzvg_cVDkc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6cAZ6FVduxo"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-03T12:55:44Z",
+        "channelId": "UCQCtrgPAP6pjxLeVFTKJfhA",
+        "title": "Duke Dumont - Ocean Drive (Extended Mix)",
+        "description": "Blasé Boys Club, Pt. 1 out now: iTunes: https://po.st/BBCPT1 Duke Dumont Presents Blasé Boys Club Pt. 1 LIVE in North America: https://dukedumont.com/live/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6cAZ6FVduxo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6cAZ6FVduxo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6cAZ6FVduxo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Duke Dumont",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-03T12:55:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oUMb4vEZW1_fgxGCgnXEKB41zV0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1uQBk4qdJE0"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-16T13:28:49Z",
+        "channelId": "UCi32iq5uO1wu2uAOYt6naUg",
+        "title": "Duke Dumont - Ocean Drive (Audio)",
+        "description": "Duke Dumont - Ocean Drive (Audio) Lyrics: We're riding down the boulevard We're riding through the dark night, night With half the tank and empty heart ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1uQBk4qdJE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1uQBk4qdJE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1uQBk4qdJE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cristina Piruleta",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-16T13:28:49Z"
+      }
+    }
+  ]
+}

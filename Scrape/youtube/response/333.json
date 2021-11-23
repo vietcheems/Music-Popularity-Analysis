@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "C0c4TCtj-ZMJyFRT_JWjzNKuk8U",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zZ7tqiWJvTSVAa6qowsRV1NrwyA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8zqdo_Umd5c"
+      },
+      "snippet": {
+        "publishedAt": "2015-02-13T08:00:00Z",
+        "channelId": "UCL1TElUgyJX9PRacUphrSsA",
+        "title": "Natalie La Rose - Somebody ft. Jeremih",
+        "description": "Somebody” featuring Jeremih directed by Luke Gilford Available to download here: http://smarturl.it/SomebodyftJeremih Share/Stream “Somebody” on Spotify: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8zqdo_Umd5c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8zqdo_Umd5c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8zqdo_Umd5c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NatalieLaRoseVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-02-13T08:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y2p-iNGCel4HzoQNaLYRZBbSqF0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZaRypcAQGps"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-22T20:00:04Z",
+        "channelId": "UCL1TElUgyJX9PRacUphrSsA",
+        "title": "Natalie La Rose ft. Jeremih - Somebody (Official Audio)",
+        "description": "Natalie La Rose - Somebody (Audio) Available Now! http://smarturl.it/SomebodyftJeremih #NatalieLaRose #Somebody #Vevo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZaRypcAQGps/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZaRypcAQGps/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZaRypcAQGps/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NatalieLaRoseVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-12-22T20:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PDIs8BskuEzHcMYDRFmct-OxTUQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "siBsljuSuSk"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-21T00:26:44Z",
+        "channelId": "UC1mgNHYcSsQoXfRvO7FCPjw",
+        "title": "Natalie La Rose - Somebody ft. Jeremih (Lyrics)",
+        "description": "Natalie La Rose - Somebody - Lyrics.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/siBsljuSuSk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/siBsljuSuSk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/siBsljuSuSk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ossona Coleman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-03-21T00:26:44Z"
+      }
+    }
+  ]
+}

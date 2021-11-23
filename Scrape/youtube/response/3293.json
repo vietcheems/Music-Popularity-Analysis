@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "twPash3-_X7Lslo3lPeQQV_GCzo",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ddhFNb7gj26qOutPKHyvvEsXYhE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nZXRV4MezEw"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-19T17:00:08Z",
+        "channelId": "UCmoUgBTHRydApyOeqlDF1oQ",
+        "title": "Cher - Believe [Official Music Video]",
+        "description": "The official music video for Believe from Cher's classic album 'Believe'. Get the 20th anniversary vinyl now: https://wbr.ec/believe20 #cher #believe.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nZXRV4MezEw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nZXRV4MezEw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nZXRV4MezEw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cher",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-19T17:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PDyn0YdhAp5CoC0HP_g2C0Md68E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "safkWMNJdDg"
+      },
+      "snippet": {
+        "publishedAt": "2013-04-16T13:51:26Z",
+        "channelId": "UC7FOSLnOl5w5QXvcpxiFSoA",
+        "title": "Cher Believe with Lyrics",
+        "description": "This is my first video and I know it's not that good, but I'm learning :) Please like and subscribe. You can make song requests and I'll try my best to get the lyrics to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/safkWMNJdDg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/safkWMNJdDg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/safkWMNJdDg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ihearttootsiepops",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-04-16T13:51:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "leOIkRt5jO7vzWhXledbTZ54F4g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5PzQHZLiUPs"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-26T17:16:55Z",
+        "channelId": "UC9SGC_32CZahPYkEY92xflA",
+        "title": "Adam Lambert - Performing &quot;Believe&quot; by Cher - 41st Annual Kennedy Center Honors",
+        "description": "The full album VELVET, out now! https://empire.lnk.to/adamlambert_VELVET And get the brand new VELVET merch now: https://us.adamlambert.net Get tickets ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5PzQHZLiUPs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5PzQHZLiUPs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5PzQHZLiUPs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Adam Lambert",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-26T17:16:55Z"
+      }
+    }
+  ]
+}

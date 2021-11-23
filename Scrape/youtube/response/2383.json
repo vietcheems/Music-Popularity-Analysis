@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "GOyBu2rOt5vPT88bzF8vmgXHRMA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZWu3rTZSod2ZGH3wbg88TEBSao8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Psn0fiNaHOw"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-06T04:00:05Z",
+        "channelId": "UCxMAbVFmxKUVGAll0WVGpFw",
+        "title": "Cardi B - I Do feat. SZA [Official Audio]",
+        "description": "Cardi B - I Do feat. SZA from Cardi B's Debut Album Invasion of Privacy available now! Stream/Download: https://CardiB.lnk.to/IOPAY INVASION OF PRIVACY ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Psn0fiNaHOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Psn0fiNaHOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Psn0fiNaHOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cardi B",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-06T04:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_93YR4emPJUWVMBzCDMqUmg6uks",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y2_eW1_i7W8"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-06T13:04:31Z",
+        "channelId": "UC8_2a1dZvTAbTTb6zNQSRXg",
+        "title": "Cardi B - I Do feat. SZA (Lyrics)",
+        "description": "CardiB #InvasionOfPrivacy #IDo #SZA.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y2_eW1_i7W8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y2_eW1_i7W8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y2_eW1_i7W8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "All Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-06T13:04:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rAgD0JNUwc_cyVK7xTga5-JI5fA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tSJljtp5w8I"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-06T22:12:56Z",
+        "channelId": "UCZrqB7D3KwoHv-5bmG9SzTA",
+        "title": "Cardi B - I Do ft SZA (Official Audio)",
+        "description": "Cardi B - Ring ft SZA (Audio/Lyrics) Taken from the album \"Invasion Of Privacy\" » Cardi B Youtube: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tSJljtp5w8I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tSJljtp5w8I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tSJljtp5w8I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WorldMusicStream",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-06T22:12:56Z"
+      }
+    }
+  ]
+}

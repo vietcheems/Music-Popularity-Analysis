@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "KaBQGPvPMY69OZsHq3hRXOXvmZA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kdFNafgVM52G9KkXGT3XRIpV4P8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ipNa6QYPaFU"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-19T14:30:06Z",
+        "channelId": "UCFVnFBujYeoIq6qstM7MknA",
+        "title": "Elevate (Lyrics) by Drake",
+        "description": "Drake (Lyrics) by Scorpion Album: Scorpion Spotify: https://open.spotify.com/track/4uloft7ZE54WflsuqFmjC7?si=c1cb34a3dcdd4445 Elevate Lyrics: [Chorus: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ipNa6QYPaFU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ipNa6QYPaFU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ipNa6QYPaFU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tribute Guy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-19T14:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A-LXoWIzicIm7Ky_5r0zgpSpPCQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "atstxOFzKbA"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-14T21:11:24Z",
+        "channelId": "UCuPZoZL9I3v6vVwvJQ0CiJA",
+        "title": "Drake - Elevate",
+        "description": "Elevate(Explicit) Drake Music Download Sold by: Amazon.com Services LLC Purchased and downloaded June 14, 2020 Original Release: June 29, 2018 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/atstxOFzKbA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/atstxOFzKbA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/atstxOFzKbA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gemini Sun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-14T21:11:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dMrT5XOvOWfoimx8jqlEaG6uYxc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qmMDS0QO2NU"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-04T15:00:52Z",
+        "channelId": "UCCvmlW5bQWdwFYK5EttWkVw",
+        "title": "Drake - Elevate",
+        "description": "Live Aubrey and the Three Amigos Tour American Airlines Center Dallas Texas September 26th 2018.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qmMDS0QO2NU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qmMDS0QO2NU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qmMDS0QO2NU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "lino aguero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-04T15:00:52Z"
+      }
+    }
+  ]
+}

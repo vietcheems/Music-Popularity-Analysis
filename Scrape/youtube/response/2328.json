@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "XBfWgyk-heuLRJR-BtIS6W8BVjg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xj9cCB78SFraEq_qhCjzNPgwPSI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lwop_SAaXmM"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-26T05:00:02Z",
+        "channelId": "UCKI6DNZu8-X5VWI0FEEYCTA",
+        "title": "Bazzi - Why? [Official Audio]",
+        "description": "Download/Stream \"Young & Alive\": https://Bazzi.lnk.to/YoungAliveID Stream + download COSMIC: https://Bazzi.lnk.to/COSMIC Subscribe to my channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lwop_SAaXmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lwop_SAaXmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lwop_SAaXmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bazzi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-26T05:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vR4z6b5nsn7xuOCaywmdBmQxeuk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9GxT0JicUFA"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-28T23:59:34Z",
+        "channelId": "UC2DiTYsx3TiAaPcuv_Irrag",
+        "title": "Why - Bazzi (Lyrics)",
+        "description": "Lyrics for Why by Bazzi Disclaimer: I do not own this song. Credits go to Bazzi and his record company.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9GxT0JicUFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9GxT0JicUFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9GxT0JicUFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Simple Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-28T23:59:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EjBkoxfmHj_3Uvyi5eTT1LgwFsE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W5NMfoEa9nM"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-10T19:25:11Z",
+        "channelId": "UC0hIhK9fa3X6FmAaZVhlGAw",
+        "title": "Bazzi - Why - ( 1 hour )",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W5NMfoEa9nM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W5NMfoEa9nM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W5NMfoEa9nM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LittleMixers Greece",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-10T19:25:11Z"
+      }
+    }
+  ]
+}

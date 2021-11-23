@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "yJrBZK1d4O5xeFRki2Wp5cKzjYU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TBfLVOxvgYOIrJMtq_HkoHo0DRk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3oWk46wDNxU"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-29T19:49:12Z",
+        "channelId": "UC8DBdOsq1zu-PbKHG8kNV0g",
+        "title": "Straight Up &amp; Down - Bruno Mars (Lyrics) 🎵",
+        "description": "Lyrics: \"Straight Up & Down\" https://pillowlyrics.com/straight-up-down-bruno-mars/ VISIT OUR OFFICIAL LYRICS WEBSITE: https://www.pillowlyrics.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3oWk46wDNxU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3oWk46wDNxU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3oWk46wDNxU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pillow",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-29T19:49:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KmJy8t4IAXU3Hl7vnrGRIL-D6Y0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jZ6DR3GuU_w"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-29T14:41:05Z",
+        "channelId": "UCPIP5f0M9mPI3P6ZuIxyimg",
+        "title": "Straight up and Down - Bruno Mars LYRICS",
+        "description": "SUBSCRIBE FOR MORE! Just request songs on the comment below.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jZ6DR3GuU_w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jZ6DR3GuU_w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jZ6DR3GuU_w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kleir",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-29T14:41:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qo_AgO4WVFf_NITtvnxgim45aHo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wvV0WGW54fQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-19T18:00:53Z",
+        "channelId": "UC2QmUv5AxZUMAL_t9sPiO8A",
+        "title": "Straight Up &amp; Down - Bruno Mars @ Royal Arena (18/05-17)",
+        "description": "Front row in the middle - as usual ;) ENJOY ... I DO NOT OWN THE MUSIC IN THIS VIDEO.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wvV0WGW54fQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wvV0WGW54fQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wvV0WGW54fQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Amanda Alsing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-19T18:00:53Z"
+      }
+    }
+  ]
+}

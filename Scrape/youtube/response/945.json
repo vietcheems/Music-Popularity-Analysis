@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "YYaw-Bhu-5foo1zrlNEhuhR5J-0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RO-KbsG5UMGScqvehp1_iEBMKRk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kzQTc0-iBX8"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-04T22:00:02Z",
+        "channelId": "UCm3FgJ2Hqm7tb70T-GfwXVA",
+        "title": "Halsey - Now Or Never",
+        "description": "Listen to the newest album “If I Can't Have Love, I Want Power” out now: https://halsey.lnk.to/IICHLIWPID Get New Album Manic: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kzQTc0-iBX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kzQTc0-iBX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kzQTc0-iBX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HalseyVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-04T22:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "29-LWGe57X-bcCAFB_Xi2CZ4Bas",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q9jNSwmEQ3s"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-08T04:00:01Z",
+        "channelId": "UCm3FgJ2Hqm7tb70T-GfwXVA",
+        "title": "Halsey - Now Or Never (Audio)",
+        "description": "Listen to the newest album “If I Can't Have Love, I Want Power” out now: https://halsey.lnk.to/IICHLIWPID Watch official video: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q9jNSwmEQ3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q9jNSwmEQ3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q9jNSwmEQ3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HalseyVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-08T04:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fjZxT6exQ92lqiXH7A9tTDiGcKA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8WJCJTgwCP0"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-03T17:00:17Z",
+        "channelId": "UCm4--U6UJnI1taBnkekOlxA",
+        "title": "Halsey - Now Or Never (Lyrics)",
+        "description": "Halsey - Now Or Never (Lyrics) Show your love - leave a like! Favourites on Spotify: https://cassiopeia.lnk.to/favourites » Stream \"Now Or Never\": ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8WJCJTgwCP0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8WJCJTgwCP0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8WJCJTgwCP0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cassiopeia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-03T17:00:17Z"
+      }
+    }
+  ]
+}

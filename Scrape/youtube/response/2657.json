@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "xO0PWkHAIPBTGdYohaff0ZSVvE8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lPYWoP-vQcStSh36AlMn22Rv_xU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a2a9fgPI_PI"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-13T07:00:04Z",
+        "channelId": "UCwLK17rpMFUfktQEcMzSyWg",
+        "title": "Luke Combs - She Got the Best of Me",
+        "description": "Official video for \"She Got the Best of Me\" by Luke Combs Listen to Luke Combs: https://LukeCombs.lnk.to/listenYD Subscribe to the official Luke Combs ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a2a9fgPI_PI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a2a9fgPI_PI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a2a9fgPI_PI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LukeCombsVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-13T07:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j3N3pxfLYCFWWhLd339J05JE5nI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sD3kO4U5Oh4"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-01T07:00:02Z",
+        "channelId": "UCwLK17rpMFUfktQEcMzSyWg",
+        "title": "Luke Combs - She Got the Best of Me (Audio)",
+        "description": "Listen to “She Got The Best Of Me” now on Luke Combs' deluxe album, 'This One's For You Too': Spotify: http://smarturl.it/LCDLX/spotify?IQid=youtube Apple ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sD3kO4U5Oh4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sD3kO4U5Oh4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sD3kO4U5Oh4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LukeCombsVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-01T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gZzyYWK0dfFNopr9vDRjfWxBYHQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gBEajhdMDHM"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-21T20:19:22Z",
+        "channelId": "UC7q8qBwWgJzgufiKGmazXQw",
+        "title": "Luke Combs - She Got the Best of Me (Lyrics)",
+        "description": "Luke Combs - She Got the Best of Me (Lyrics) http://smarturl.it/LCDLX Connect With Luke: Instagram: http://instagram.com/lukecombs Facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gBEajhdMDHM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gBEajhdMDHM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gBEajhdMDHM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Harmony",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-21T20:19:22Z"
+      }
+    }
+  ]
+}

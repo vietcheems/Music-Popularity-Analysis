@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "fn7TZcO1t9s8pwOXG1YtFR_AGq4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IyXKqSmdww47OUkj9-xCk8Zigm0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tKjZuykKY1I"
+      },
+      "snippet": {
+        "publishedAt": "2014-07-14T16:33:14Z",
+        "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
+        "title": "The Darkness - I Believe In A Thing Called Love (Official Music Video)",
+        "description": "Watch the official music video for I Believe In A Thing Called Love by The Darkness from their 2003 album Permission to Land. Subscribe to the Rhino Channel!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tKjZuykKY1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tKjZuykKY1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tKjZuykKY1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RHINO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-07-14T16:33:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KprY0nNsGHJEBeafa8bHLsoD2Ik",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RZtcz4WVBGg"
+      },
+      "snippet": {
+        "publishedAt": "2009-12-28T05:17:39Z",
+        "channelId": "UCEbO-Sq_qzP4brCGf1h-AWg",
+        "title": "I BELIEVE IN A THING CALLED LOVE - THE DARKNESS LYRICS",
+        "description": "BLAH BLAH BLAH ENJOY.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RZtcz4WVBGg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RZtcz4WVBGg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RZtcz4WVBGg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "rocker2321",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-12-28T05:17:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Uj-wS-NcT8HxrierPeXHD3kyNOw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZsnibiSZY-M"
+      },
+      "snippet": {
+        "publishedAt": "2011-09-01T10:45:44Z",
+        "channelId": "UCVmVXuG1fLGNhV_dqpGlhTQ",
+        "title": "The Darkness- I Believe in a Thing Called Love Live at Reading 2004.mp4",
+        "description": "one from the metaphorical \"box in the attic\". http://www.facebook.com/thedarknessof... Get the CD at your local Indie Record Store ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZsnibiSZY-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZsnibiSZY-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZsnibiSZY-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Darkness",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-09-01T10:45:44Z"
+      }
+    }
+  ]
+}

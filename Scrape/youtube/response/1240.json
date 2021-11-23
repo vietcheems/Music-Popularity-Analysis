@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "vR0YSwT8-Euny-uzrWjThzKy5Eo",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "urtwf3oZyGXA4zo9SYmkPHRMw7Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wsdy_rct6uo"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-25T08:54:27Z",
+        "channelId": "UCgWlDdj6-5cwPraD8KdShLw",
+        "title": "Spin Doctors - Two Princes",
+        "description": "Spin Doctors' official music video for 'Two Princes'. Click to listen to Spin Doctors on Spotify: http://smarturl.it/SDrSpotify?IQid=SDr2P As featured on Pocket Full ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wsdy_rct6uo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wsdy_rct6uo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wsdy_rct6uo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SpinDoctorsVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-25T08:54:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eZANd6lYCTbyANDkDEuILKOFDdg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j6XmNoauuOo"
+      },
+      "snippet": {
+        "publishedAt": "2010-03-24T21:01:42Z",
+        "channelId": "UCgVhdJM-KRR6LSdj9qWo9Aw",
+        "title": "Two Princes - Spin Doctors (with lyrics)",
+        "description": "DISCLAIMER: I do not own this song. Two Princes by Spin Doctors My first lyrics video. Yeah, yeah, I'm a noob. But seriously, I love my music so I thought I might ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j6XmNoauuOo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j6XmNoauuOo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j6XmNoauuOo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EvilFox302",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-03-24T21:01:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "308vELYdmGDx6jQ75qfyuoSfaNc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xJMg8MFr5QM"
+      },
+      "snippet": {
+        "publishedAt": "2011-08-30T07:00:00Z",
+        "channelId": "UCgWlDdj6-5cwPraD8KdShLw",
+        "title": "Spin Doctors - Two Princes - Live In Manchester",
+        "description": "Music video by Spin Doctors performing Two Princes - Live In Manchester. (C) 2011 Sony Music Entertainment.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xJMg8MFr5QM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xJMg8MFr5QM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xJMg8MFr5QM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SpinDoctorsVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-08-30T07:00:00Z"
+      }
+    }
+  ]
+}

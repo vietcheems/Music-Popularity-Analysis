@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "A74c4svtrlLipfFUmFOEH3erJZI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pjv9rTfLs_VeAHF005ncyEnqGf8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K_9tX4eHztY"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-26T00:00:00Z",
+        "channelId": "UCFNosi99Sp0_eLilBiXmmXA",
+        "title": "Future - Low Life (Official Music Video) ft. The Weeknd",
+        "description": "Official video for “Low Life\" by Future Listen to Future: https://Future.lnk.to/listenYD Subscribe to the official Future YouTube Channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K_9tX4eHztY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K_9tX4eHztY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K_9tX4eHztY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FutureVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-26T00:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NLwmPtOxBLpd5Dwd_WaLJ9xb8Ek",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O6xyD4CY_Sg"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-25T23:36:21Z",
+        "channelId": "UCLv6QjF0AkwjPyFzsgp4Xig",
+        "title": "Future &amp; The Weeknd - Low Life (Lyrics)",
+        "description": "After some teasing, The Weeknd released “Low Life,” a collaboration with Future Hendrix, as a Christmas gift for their fans.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O6xyD4CY_Sg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O6xyD4CY_Sg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O6xyD4CY_Sg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GOODMusiC TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-12-25T23:36:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pwS5oBH-XF0g8dOcQGvEoO8Tn64",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T8e5YMKVQXU"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-12T15:47:55Z",
+        "channelId": "UC9e9luRhdkmoTo31BBY_Zkw",
+        "title": "Future - Low Life ft. The Weeknd",
+        "description": "Please Like, Share and Subscribe! Song Recommendations are appreciated.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T8e5YMKVQXU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T8e5YMKVQXU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T8e5YMKVQXU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ad-Free Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-12T15:47:55Z"
+      }
+    }
+  ]
+}

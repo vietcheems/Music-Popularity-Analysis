@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "i5Jhqf1GEz4TC8PbVOUdckbNvwY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jUOuBj2ndCTPxvENk_coHS_i7EU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GtUVQei3nX4"
+      },
+      "snippet": {
+        "publishedAt": "2009-12-25T00:29:07Z",
+        "channelId": "UCL7CNO0U9SjWFbu7veoLRBw",
+        "title": "Snoop Dogg - Drop It Like It&#39;s Hot (Official Music Video) ft. Pharrell Williams",
+        "description": "REMASTERED IN HD!! Official Music Video for Drop It Like It's Hot performed by Snoop Dogg. Follow Snoop Dogg! Facebook: http://facebook.com/snoopdogg ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GtUVQei3nX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GtUVQei3nX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GtUVQei3nX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SnoopDoggVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-12-25T00:29:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9K9zyxuHmAayHdgr5JvVAU7xP4A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CGLGXkEyE3w"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-31T06:21:55Z",
+        "channelId": "UC5rzm7Jbxk3u2q6hsGRUh8w",
+        "title": "DROP IT LIKE IT&#39;S HOT! (Prod. Luga)",
+        "description": "HAARPER - DROP IT LIKE IT'S HOT! (PROD. LUGA) SPOTIFY: https://open.spotify.com/artist/3v0QTRruILayLe5VsaYdvk ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CGLGXkEyE3w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CGLGXkEyE3w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CGLGXkEyE3w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HAARPER",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-31T06:21:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pvihjLaewG0oU9l46wFwjCgTuu4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OZnBt2W48A0"
+      },
+      "snippet": {
+        "publishedAt": "2011-05-04T20:11:30Z",
+        "channelId": "UC29nZ_NS3ejbWFqgtwkQizQ",
+        "title": "Snoop Dogg Drop it like it&#39;s Hot ft Pharell Wiliams Lyrics",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OZnBt2W48A0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OZnBt2W48A0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OZnBt2W48A0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MrOfficialyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-05-04T20:11:30Z"
+      }
+    }
+  ]
+}

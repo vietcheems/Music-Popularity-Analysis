@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "KOnH5q2EmpMyVCoS1jQKx4WVuKE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8SfJE8NJgFwbKqqAJ3C_M9ldbVY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8KpKc3C9V3w"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-23T21:15:00Z",
+        "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+        "title": "Taylor Swift - The Archer (Lyric Video)",
+        "description": "The official lyric video for “The Archer” by Taylor Swift. Off her upcoming album 'Loverʼ (out August 23). Get the track here: https://TaylorSwift.lnk.to/TheArchersu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8KpKc3C9V3w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8KpKc3C9V3w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8KpKc3C9V3w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaylorSwiftVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-23T21:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9e10_lH8QLQ1aenUZ0gALXwRX00",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mXTO2VI0GFQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-03T10:24:17Z",
+        "channelId": "UCKoafhJ9dkAWaEvlXCiBBwA",
+        "title": "Taylor Swift - The Archer in the Live Lounge",
+        "description": "Taylor Swift performs The Archer in the BBC Radio 1 Live Lounge http://vevo.ly/gnfvWx.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mXTO2VI0GFQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mXTO2VI0GFQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mXTO2VI0GFQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBCRadio1VEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-03T10:24:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OLQ6n42De4NPukFLr-F2XEWrk3Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wLW92kHOPaU"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-23T21:44:01Z",
+        "channelId": "UCl7cVzHngS0kg51TPrDbqlg",
+        "title": "Taylor Swift - The Archer (Lyrics)",
+        "description": "Taylor Swift - The Archer (Lyrics) Download \"Taylor Swift - The Archer\" - https://TaylorSwift.lnk.to/TA Taylor Swift Online Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wLW92kHOPaU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wLW92kHOPaU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wLW92kHOPaU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Shadow Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-23T21:44:01Z"
+      }
+    }
+  ]
+}

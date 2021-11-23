@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Zi4sWZIwgEU3jqvJaKjfobAXAXY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0_U5e58CdY7AWlH_HW4v6I-HpHU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3Bm0I4cApG4"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-28T12:03:17Z",
+        "channelId": "UCRsSLyIWT3he4kziJvAzNKg",
+        "title": "Drake - Free Smoke (Audio)",
+        "description": "Enjoy dropin new heat every friday so just subscribe.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3Bm0I4cApG4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3Bm0I4cApG4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3Bm0I4cApG4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Free Audio",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-28T12:03:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N-XPKhFSmc7SaO9hH2jQVkQtBOc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WHxsNDAfU80"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-04T06:43:58Z",
+        "channelId": "UC2YgZcuvGW0rKPCqD7dflzg",
+        "title": "Drake - Free Smoke/No Long Talk (Intro More Life) Video",
+        "description": "Featuring Giggs, Baka Not Nice, The OVO Group And Drake.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WHxsNDAfU80/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WHxsNDAfU80/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WHxsNDAfU80/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lachlan Morrison",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-04T06:43:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OAkuvDPUqYeZQI9t1aPgrisB45U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "foSYWBkKhnM"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-22T10:57:50Z",
+        "channelId": "UC0on0lnVjS4H-SvJ2llgkEg",
+        "title": "Drake - Free Smoke (Official Audio) More Life",
+        "description": "Rights - OVOpromo, Drake The Official Audio Track of Drake's new Track \"Free Smoke\" in the album More Life.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/foSYWBkKhnM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/foSYWBkKhnM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/foSYWBkKhnM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brandon Leonard",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-22T10:57:50Z"
+      }
+    }
+  ]
+}

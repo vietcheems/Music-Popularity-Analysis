@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "lnTfA7GLOfoxzyAPT31ZvsOKZxo",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QL4t9bcqC1cRPJPzyhLzZ1XRjCg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9WbCfHutDSE"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-31T04:01:00Z",
+        "channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+        "title": "Ariana Grande - Dangerous Woman",
+        "description": "Dangerous Woman Visual 1 Listen to 'Dangerous Woman' the album: https://arianagrande.lnk.to/dangerouswoman-albumYD Connect with Ariana: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9WbCfHutDSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9WbCfHutDSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9WbCfHutDSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArianaGrandeVevo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-31T04:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P7iCZh9KFlTUm5o9wgUsKldpG9w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TFrMDGfW_Sg"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-11T08:00:30Z",
+        "channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+        "title": "Ariana Grande - Dangerous Woman (Audio)",
+        "description": "Dangerous Woman (Official Audio) Listen to 'Dangerous Woman' the album: https://arianagrande.lnk.to/dangerouswoman-albumYD ▻Subscribe to Ariana ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TFrMDGfW_Sg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TFrMDGfW_Sg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TFrMDGfW_Sg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArianaGrandeVevo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-11T08:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5xNhN8VN_cVvnBEzDKMcL6N_psI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VVYTzauIb_4"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-21T04:01:00Z",
+        "channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+        "title": "Ariana Grande - Dangerous Woman (A Cappella)",
+        "description": "Dangerous Woman (A Cappella) Listen to 'Dangerous Woman' the album: https://arianagrande.lnk.to/dangerouswoman-albumYD ▻Subscribe to Ariana ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VVYTzauIb_4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VVYTzauIb_4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VVYTzauIb_4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArianaGrandeVevo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-21T04:01:00Z"
+      }
+    }
+  ]
+}

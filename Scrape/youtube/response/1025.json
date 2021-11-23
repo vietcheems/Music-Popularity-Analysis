@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Eu8-wKGCmxsmudPKuIpAtxtxExA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VWw3ApgH3YDoFWe2kOhIo5fEZWc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kffacxfA7G4"
+      },
+      "snippet": {
+        "publishedAt": "2010-02-19T08:16:34Z",
+        "channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+        "title": "Justin Bieber - Baby (Official Music Video) ft. Ludacris",
+        "description": "REMASTERED IN HD! UP TO 4K!! Official Music Video for Baby performed by Justin Bieber feat. Ludacris. VEVOCertified on April 25, 2010. #JustinBieber ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kffacxfA7G4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kffacxfA7G4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kffacxfA7G4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JustinBieberVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-02-19T08:16:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r9TU9fxF6undUtSy6K6ElQ19yz4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q8hdSF60U0A"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-12T04:15:00Z",
+        "channelId": "UCae9aiM-i5EQQUDTTbf4MGw",
+        "title": "Justin Bieber - Baby ft. Ludacris (Lyrics Video)",
+        "description": "Little Music   Justin Bieber - Baby ft. Ludacris (Lyrics Video) ----------------------------- I do not own anything. All credits go to the right owners. No copyright intended.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q8hdSF60U0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q8hdSF60U0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q8hdSF60U0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Little Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-12T04:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RNXsWFj07iddsBKBul3T1noROYA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D_Tq85_p-iI"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-10T13:11:41Z",
+        "channelId": "UCFn_wjVX-k_AlqjLSyXNSnw",
+        "title": "[Vietsub] Baby - Justin Bieber (live)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D_Tq85_p-iI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D_Tq85_p-iI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D_Tq85_p-iI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mjjeje H",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-10T13:11:41Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "FU-srbRbIrYTOjiMvlZBY2xBcPU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bWWREmaBcYy0H85YuJWrJF2W6VQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "79fzeNUqQbQ"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-27T02:06:14Z",
+        "channelId": "UC81VD6eeuLLSfyY_D-N8sVw",
+        "title": "Madonna - Like A Prayer (Official Video)",
+        "description": "You're watching the official music video for \"Like A Prayer\" from Madonna's album 'Like A Prayer' released on Sire Records in 1989. Buy/Stream the 'Like A ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/79fzeNUqQbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/79fzeNUqQbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/79fzeNUqQbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Madonna",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-27T02:06:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WKLNJ_r83kbuuEUn3E_QXeaYR-8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OECKknqIie0"
+      },
+      "snippet": {
+        "publishedAt": "2012-01-15T16:37:50Z",
+        "channelId": "UC9neFfy1_yAg0btUF3mrLig",
+        "title": "Madonna - Like A Prayer (Lyrics On Screen)",
+        "description": "Madonna - Like A Prayer - 1989 - Track 01 Hope Youtube won't delete it again... Life is a mystery, everyone must stand alone I hear you call my name And it ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OECKknqIie0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OECKknqIie0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OECKknqIie0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Madonna Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-01-15T16:37:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "71rAVj8afs6J1bJLy8IiojuvQtU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pG6FB2p0TcU"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-21T09:30:02Z",
+        "channelId": "UCckKR1kDbRKXJArtGYh6drQ",
+        "title": "Madonna - Like A Prayer (Live 8 2005)",
+        "description": "Madonna performing at Live 8 in London's Hyde Park on the 2nd July, 2005. Organised by Sir Bob Geldof and The Band Aid Trust to raise money to fight poverty ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pG6FB2p0TcU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pG6FB2p0TcU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pG6FB2p0TcU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Live 8",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-21T09:30:02Z"
+      }
+    }
+  ]
+}

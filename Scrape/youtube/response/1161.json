@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "NkH3NAXQOH-dYhDX_RGCH5XWCyc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DAMFuEG6IMadq9uuZ9z1L5HRgb0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GmHrjFIWl6U"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-08T11:00:01Z",
+        "channelId": "UCFkoPRmuxqr37jvGmmpzhzQ",
+        "title": "Maluma - Corazón (Official Video) ft. Nego do Borel",
+        "description": "Maluma ft. Nego do Borel - \"Corazón\" (Official Music Video) “Corazón” is available on the digital platforms! iTunes: http://smarturl.it/CorazonI Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GmHrjFIWl6U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GmHrjFIWl6U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GmHrjFIWl6U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MalumaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-08T11:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Aowa-X1rGS2YCa-qsJ66SCMlRgM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "btbmtFH0eEg"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-03T04:00:00Z",
+        "channelId": "UCFkoPRmuxqr37jvGmmpzhzQ",
+        "title": "Maluma - Corazón (Audio) ft. Nego do Borel",
+        "description": "Maluma ft. Nego do Borel - \"Corazón\" (Audio) “Corazón” is available on the digital platforms! iTunes: http://smarturl.it/CorazonI Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/btbmtFH0eEg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/btbmtFH0eEg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/btbmtFH0eEg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MalumaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-03T04:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mRC4JZEglPS9pS7aaWRiDfTCwGs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "POSMlY-eKiw"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-03T08:32:52Z",
+        "channelId": "UClCAK8lxKyXUPSesM7SftUg",
+        "title": "Maluma - Corazón (LETRA) ft. Nego do Borel",
+        "description": "Maluma - Corazón (LETRA) ft. Nego do Borel.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/POSMlY-eKiw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/POSMlY-eKiw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/POSMlY-eKiw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diamonds Tube.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-03T08:32:52Z"
+      }
+    }
+  ]
+}

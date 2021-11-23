@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "k46PO4_RZwbmheg0mpTwjudWzZY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d4VSUgk_gdJD5qBLO-7lFwJhuc8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FbyHOMrnPKM"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-27T15:00:13Z",
+        "channelId": "UCUcsKcHcCWhA9AE7XnhLLkw",
+        "title": "Queen - Love of My Life (Remastered 2011)",
+        "description": "Love of My Life est une chanson du groupe britannique Queen, écrite par Freddie Mercury et dédiée par lui à Mary Austin, sa grande amie et fiancée2. Issue de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FbyHOMrnPKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FbyHOMrnPKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FbyHOMrnPKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Best of Old Song",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-27T15:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A2pmZLeMlP9OOxZdXa2gMXhtPhI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v3xwCkhmies"
+      },
+      "snippet": {
+        "publishedAt": "2006-05-30T16:00:25Z",
+        "channelId": "UC_fFeXYrleI98XxpElf_QnA",
+        "title": "Queen - Love of My Life",
+        "description": "Wembley, '86.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v3xwCkhmies/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v3xwCkhmies/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v3xwCkhmies/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArKay74",
+        "liveBroadcastContent": "none",
+        "publishTime": "2006-05-30T16:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JfAKjTLnJMLabsTktSYkIlTk4Yo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bG-aK3xyn20"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-19T04:23:05Z",
+        "channelId": "UCDdx1uv27YOmf6-ZMuk15-A",
+        "title": "Love Of My Life (Remastered 2011)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bG-aK3xyn20/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bG-aK3xyn20/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bG-aK3xyn20/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "This Is Queen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-19T04:23:05Z"
+      }
+    }
+  ]
+}

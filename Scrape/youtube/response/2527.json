@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "1Nm-hdjr0LbsHi0DToBZTi0OtC8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vnqOEY_OXdi_eTVb1oe1pooHMbA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CWh-TmG_h7g"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-14T05:00:01Z",
+        "channelId": "UCGIelM2Dj3zza3xyV3pL3WQ",
+        "title": "Offset - Red Room (Official Video)",
+        "description": "Follow Offset on YouTube: http://qualitycontrol.lnk.to/OffsetYouTube Watch the official Music Video for “Red Room\" by Offset. Directed by Aisultan Seitov Creative ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CWh-TmG_h7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CWh-TmG_h7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CWh-TmG_h7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MigosVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-14T05:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KkhOSQSlqZboDowXvCk5nAyfn9w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K082jmkGQ1Q"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-01T05:00:03Z",
+        "channelId": "UCGIelM2Dj3zza3xyV3pL3WQ",
+        "title": "Offset - Red Room (Audio)",
+        "description": "Music video by Offset performing Red Room (Audio). © 2019 Quality Control Music, LLC, under exclusive license to UMG Recordings, Inc. http://vevo.ly/xt191Z.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K082jmkGQ1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K082jmkGQ1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K082jmkGQ1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MigosVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-01T05:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VFzhH0-je9cbB7sIuejZ5kBRlKw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HgwhKOcrt8U"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-14T02:08:31Z",
+        "channelId": "UCzJgRYfWw4URheR4gW4JwXA",
+        "title": "Red Room - Offset (Lyrics)",
+        "description": "I do not claim I own the music in the video All rights go to the team that developed the song.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HgwhKOcrt8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HgwhKOcrt8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HgwhKOcrt8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lyric Gods",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-14T02:08:31Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "vL8l3uVMUXhT9sSZAUHwKMHItX8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hlK-gxqF-Qxq7gPuNvBcS1S0dE8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gdx7gN1UyX0"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-08T16:00:03Z",
+        "channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+        "title": "Justin Bieber - Company (Official Music Video)",
+        "description": "'PURPOSE' AVAILABLE EVERYWHERE NOW: iTunes: http://smarturl.it/PurposeDlx?IQid=VEVOCompany Stream & Add To Your Spotify Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gdx7gN1UyX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gdx7gN1UyX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gdx7gN1UyX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JustinBieberVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-08T16:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yX8nZnFleEoflvarCWgaKN8vnmU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XCqc25gyuzU"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-14T14:44:03Z",
+        "channelId": "UCnsWd9r3Wsn7uFb95VzVkdQ",
+        "title": "Justin Bieber - Company (Lyrics)",
+        "description": "I do not own the music.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XCqc25gyuzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XCqc25gyuzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XCqc25gyuzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mrs Downey",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-14T14:44:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "62-dpyMzrNPOGMLrrNeiHjNDosU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "neSv8fjmDB0"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-14T16:00:01Z",
+        "channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+        "title": "Justin Bieber - Company (PURPOSE : The Movement)",
+        "description": "'Purpose' Available Everywhere Now! iTunes: http://smarturl.it/PurposeDlx?IQid=VEVO1113 Stream & Add To Your Spotify Playlist: http://smarturl.it/sPurpose?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/neSv8fjmDB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/neSv8fjmDB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/neSv8fjmDB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JustinBieberVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-14T16:00:01Z"
+      }
+    }
+  ]
+}

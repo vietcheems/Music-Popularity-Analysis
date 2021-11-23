@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "JnOdLiJQ1NPpcado4b_FnF8PKhQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aukFwgg7ce8GSg0hwlSKaRx78pI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vwhrqd3UaKo"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-12T16:05:44Z",
+        "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+        "title": "5 Seconds Of Summer - Youngblood (Lyrics) 5SOS",
+        "description": "Follow 7clouds on Spotify : http://bit.ly/7CLOUDS 5 Seconds Of Summer - Youngblood (Lyrics) ⏬ Download / Stream: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vwhrqd3UaKo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vwhrqd3UaKo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vwhrqd3UaKo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "7clouds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-12T16:05:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U1aDglj8UAU49GynfwcD_2fSwUc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-RJSbO8UZVY"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-02T16:00:00Z",
+        "channelId": "UClesqLjeKJd-dG8xLfzJyCQ",
+        "title": "5 Seconds of Summer - Youngblood (Official Video)",
+        "description": "Stream, download and buy 5SOS' new single Valentine https://5sos.lnk.to/ValentineSingleID Stream, download and buy 5SOS' album, Youngblood now: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-RJSbO8UZVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-RJSbO8UZVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-RJSbO8UZVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5SOSVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-02T16:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LYRGW7esnZ1urlzCycK4pxgEZkc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Jqs5EaAaueA"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-26T17:00:02Z",
+        "channelId": "UClesqLjeKJd-dG8xLfzJyCQ",
+        "title": "5 Seconds of Summer - Youngblood (Alt Version)",
+        "description": "Stream, download and buy 5SOS' new single Valentine https://5sos.lnk.to/ValentineSingleID Catch 5 Seconds Of Summer on Tour and purchase tickets here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jqs5EaAaueA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jqs5EaAaueA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jqs5EaAaueA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5SOSVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-26T17:00:02Z"
+      }
+    }
+  ]
+}

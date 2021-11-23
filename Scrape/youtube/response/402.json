@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Ex2bKBSbWCPNlqNJq1xg_6Q1n9Y",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-nf9Ay1LFOJRbVOEuAHTELxR63g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-zzP29emgpg"
+      },
+      "snippet": {
+        "publishedAt": "2012-04-23T16:07:14Z",
+        "channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+        "title": "Drake - Take Care ft. Rihanna",
+        "description": "Music video by Drake performing Take Care. (C) 2012 Cash Money Records Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-zzP29emgpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-zzP29emgpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-zzP29emgpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DrakeVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-04-23T16:07:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c6PeDNK4Mzf1emV2E6VasSsWXTU",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLBD1E461544698C85"
+      },
+      "snippet": {
+        "publishedAt": "2012-05-03T02:23:05Z",
+        "channelId": "UCL-VwsiD8gafw_Y6qvmU1UQ",
+        "title": "Take Care (Deluxe Edition)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MShJcmfzNeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MShJcmfzNeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MShJcmfzNeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KiidNobody",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-05-03T02:23:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_okV46_ZBeU-oijzhOzI9cLzNTI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LQ1cE0rt0cY"
+      },
+      "snippet": {
+        "publishedAt": "2011-12-10T09:36:19Z",
+        "channelId": "UCpIy-NWD-PSsx07cKe10U_w",
+        "title": "Drake ft. Rihanna - Take Care (LYRICS)",
+        "description": "For More New Music: http://CantStopHipHop.com http://Facebook.com/DailyNewMusic http://Twitter.com/OfficialDNHH Drake Ft. Rihanna - Take Care [Lyrics on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LQ1cE0rt0cY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LQ1cE0rt0cY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LQ1cE0rt0cY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlatinumLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-12-10T09:36:19Z"
+      }
+    }
+  ]
+}

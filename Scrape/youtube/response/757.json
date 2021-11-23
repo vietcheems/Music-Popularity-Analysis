@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "mVCrQ4GryHb6HMhq88yQPHc0kCY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vL7y5Jc5YqGTyy8DTz--KWe5Mxw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wa64gOwuIyE"
+      },
+      "snippet": {
+        "publishedAt": "2015-06-01T20:00:01Z",
+        "channelId": "UCN1hnUccO4FD5WfM7ithXaw",
+        "title": "Maroon 5 - This Summer&#39;s Gonna Hurt Like A Motherf****r (Explicit) (Official Music Video)",
+        "description": "New single available now on iTunes: http://smarturl.it/M5V Sign up for updates: http://smarturl.it/Maroon5.News http://www.vevo.com/watch/USUV71501094.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wa64gOwuIyE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wa64gOwuIyE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wa64gOwuIyE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Maroon5VEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-06-01T20:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UfwEHRqPZ1RJ0eOPzFJ7pdFBctI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T59kB3hq3Yg"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-15T16:00:00Z",
+        "channelId": "UCN1hnUccO4FD5WfM7ithXaw",
+        "title": "Maroon 5 - This Summer&#39;s Gonna Hurt Like A Motherf****r (Explicit) (Lyric Video)",
+        "description": "Sign up for updates: http://smarturl.it/Maroon5.News New single available now on iTunes: http://smarturl.it/M5V http://www.vevo.com/watch/USUV71501222.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T59kB3hq3Yg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T59kB3hq3Yg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T59kB3hq3Yg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Maroon5VEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-05-15T16:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vBB5P2fT4fkqY6IEfHybycHO8I8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RKhFumkKVzA"
+      },
+      "snippet": {
+        "publishedAt": "2015-06-12T16:00:01Z",
+        "channelId": "UCN1hnUccO4FD5WfM7ithXaw",
+        "title": "Maroon 5 - This Summer&#39;s Gonna Hurt Like A MotherF****r (Clean) (Official Music Video)",
+        "description": "New single available now on iTunes: http://smarturl.it/M5V Sign up for updates: http://smarturl.it/Maroon5.News Music video by Maroon 5 performing This ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RKhFumkKVzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RKhFumkKVzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RKhFumkKVzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Maroon5VEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-06-12T16:00:01Z"
+      }
+    }
+  ]
+}

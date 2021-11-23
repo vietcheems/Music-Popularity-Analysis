@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "J0SOX4z460OfB7IhsvoiKrCSHXs",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jT3bLvTwCLEn1xpRvjllYWqxXTQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3_mmnFtiB48"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-03T17:56:12Z",
+        "channelId": "UCeKbKQkqKuJWW15sboqEwcw",
+        "title": "Cold War Kids - First",
+        "description": "Watch the official music video for \"First\" performed by Cold War Kids Music video by Cold War Kids performing First. (C) 2015 Downtown Records ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3_mmnFtiB48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3_mmnFtiB48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3_mmnFtiB48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ColdWarKidsVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-03T17:56:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gQi8v10kwiBguL59UvNV5FK28uU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zE23hMLbHg4"
+      },
+      "snippet": {
+        "publishedAt": "2014-08-28T19:42:32Z",
+        "channelId": "UC_IXh7aDGgEHqWrtpZjIOQw",
+        "title": "Cold War Kids - First (Official Audio)",
+        "description": "'First' is from Hold My Home: http://smarturl.it/CWKHoldMyHome New single 'What You Say' out now: https://cwk.ffm.to/whatyousay New Age Norms 3 out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zE23hMLbHg4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zE23hMLbHg4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zE23hMLbHg4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cold War Kids",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-08-28T19:42:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "15L-gEAmaQnNTlsP1FCxH1noQPs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mKRXhqgN1N0"
+      },
+      "snippet": {
+        "publishedAt": "2014-11-16T23:41:21Z",
+        "channelId": "UCtFF629XkvHET_QYJzRiznA",
+        "title": "Cold War Kids - First (Lyrics)",
+        "description": "\"First\" by Cold War Kids from Hold My Home Official Audio Here: https://www.youtube.com/watch?v=zE23hMLbHg4&list=UU_IXh7aDGgEHqWrtpZjIOQw Buy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mKRXhqgN1N0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mKRXhqgN1N0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mKRXhqgN1N0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lisa LaBarbera",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-11-16T23:41:21Z"
+      }
+    }
+  ]
+}

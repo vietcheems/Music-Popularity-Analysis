@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "OUqwmtOjJ68B2cREyMwNkcBB39A",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KtL1sw6i1L7YQLPO-57TOvKvVfU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k73EBmeJ950"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-10T12:58:00Z",
+        "channelId": "UCk0wwaFCIkxwSfi6gpRqQUw",
+        "title": "Camila Cabello - Consequences (orchestra)",
+        "description": "\"Consequences (orchestra)\" available at Spotify: http://smarturl.it/ConsequencesCC/spotify Apple Music: http://smarturl.it/ConsequencesCC/applemusic iTunes: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k73EBmeJ950/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k73EBmeJ950/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k73EBmeJ950/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CamilaCabelloVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-10T12:58:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A7rvFLt98OghtVXrrkevjsr0gK0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cEATScyKZtg"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-10T20:22:25Z",
+        "channelId": "UCio_FVgKVgqcHrRiXDpnqbw",
+        "title": "Camila Cabello - Consequences [2018 American Music Awards]",
+        "description": "Camila Cabello - Consequences [2018 American Music Awards] Listen to \"Consequences (orchestra): smarturl.it/ConsequencesCC \"Consequences ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cEATScyKZtg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cEATScyKZtg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cEATScyKZtg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Camila Cabello",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-10T20:22:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gZl06XCkf3fUqWp7BUbpfWBFkDo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ogyJiVHwSRA"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-12T08:00:01Z",
+        "channelId": "UCk0wwaFCIkxwSfi6gpRqQUw",
+        "title": "Camila Cabello - Consequences (Audio)",
+        "description": "\"Camila\" album available at: Spotify http://smarturl.it/Camila_Sptfy Apple Music http://smarturl.it/Camila_AM iTunes http://smarturl.it/Camila_iTunes Google Play ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ogyJiVHwSRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ogyJiVHwSRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ogyJiVHwSRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CamilaCabelloVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-12T08:00:01Z"
+      }
+    }
+  ]
+}

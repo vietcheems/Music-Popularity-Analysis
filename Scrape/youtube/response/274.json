@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Lo8YBNxyIVEUfWblU7_jdsDjdhc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RVZ2nWKi8rXu4DSTllxLAHBM3CQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k4V3Mo61fJM"
+      },
+      "snippet": {
+        "publishedAt": "2011-05-30T13:47:04Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Fix You (Official Video)",
+        "description": "Coldplay - Fix You is taken from the album X&Y released in 2005 (hear the album at https://smarturl.it/x-and-y-cp) Music Of The Spheres, the new Coldplay ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k4V3Mo61fJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k4V3Mo61fJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k4V3Mo61fJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-05-30T13:47:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZHQdSxr3ZDUDgxUbzy-WiXhuhS8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AEp08vVYreg"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-01T16:18:15Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Fix You (Live In São Paulo)",
+        "description": "Coldplay - Fix You (Live in São Paulo) is taken from the Live In São Paulo concert film filmed on 7 and 8 November 2017, part of the Butterfly Package, which ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AEp08vVYreg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AEp08vVYreg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AEp08vVYreg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-01T16:18:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fnekQoyOL5_kIRMpNxoJlHNII1o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_gn2Ro4pGXM"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-28T16:57:22Z",
+        "channelId": "UCoyGedsMfMU-u_CmV6FSy5g",
+        "title": "[Vietsub + Lyrics] Fix You - Coldplay",
+        "description": "[Verse 1: Chris Martin] When you try your best, but you don't succeed When you get what you want, but not what you need When you feel so tired, but you can't ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_gn2Ro4pGXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_gn2Ro4pGXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_gn2Ro4pGXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Myynhh",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-28T16:57:22Z"
+      }
+    }
+  ]
+}

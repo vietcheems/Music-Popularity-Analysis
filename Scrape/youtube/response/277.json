@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Qp5G5b-bxIo6biYnxffEEGQrI-0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b43gLXQI2fsc7HLKJbEcLebGJsM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RB-RcX5DS5A"
+      },
+      "snippet": {
+        "publishedAt": "2011-05-27T16:20:57Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - The Scientist (Official Video)",
+        "description": "Coldplay - The Scientist is taken from the album A Rush of Blood to the Head released in 2002 (hear the album at https://smarturl.it/AROBTTHcp) Music Of The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RB-RcX5DS5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RB-RcX5DS5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RB-RcX5DS5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-05-27T16:20:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UF-A4ZjO2H4x88BNg7l0p4SaQVQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s70OsXlDD94"
+      },
+      "snippet": {
+        "publishedAt": "2011-08-27T15:41:17Z",
+        "channelId": "UC35GMovHzhxE60t8uOaU3Aw",
+        "title": "The Scientist - Coldplay (Lyrics)",
+        "description": "The Scientist - Coldplay (Lyrics) Don't forget to like, comment, and share! It helps me a lot! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s70OsXlDD94/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s70OsXlDD94/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s70OsXlDD94/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MetaLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-08-27T15:41:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FlCyuVS2B-23Vwf7PwZYrFgmEZ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rLm_aSP369M"
+      },
+      "snippet": {
+        "publishedAt": "2011-10-28T02:39:36Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - The Scientist (Live in Madrid 2011)",
+        "description": "Coldplay - The Scientist (Live in Madrid 2011) is taken from a premiere concert streamed live on YouTube. The programme was titled, \"Coldplay Live: Unstaged\" ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rLm_aSP369M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rLm_aSP369M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rLm_aSP369M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-10-28T02:39:36Z"
+      }
+    }
+  ]
+}

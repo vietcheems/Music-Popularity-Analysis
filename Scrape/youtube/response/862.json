@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "WXOJV2rTEA-3-rb5m0AhZR2ba4k",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vVgJArKny3QVWsFeKjk7M9ECa1I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EH3rfRSgKe4"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-21T07:00:00Z",
+        "channelId": "UCwhe-6skwaZxLomc-U6Wy1w",
+        "title": "Bryson Tiller - Sorry Not Sorry (Audio)",
+        "description": "Bryson Tiller's debut album \"T R A P S O U L\" available everywhere. Get it now! Apple Music: http://smarturl.it/TRAPSOULi?IQid=yt Stream on Spotify: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EH3rfRSgKe4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EH3rfRSgKe4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EH3rfRSgKe4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BrysonTillerVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-21T07:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ietDeEko2AKc41nAgoTLzxiKAHg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U4MHrrIQuis"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-14T16:00:01Z",
+        "channelId": "UCwhe-6skwaZxLomc-U6Wy1w",
+        "title": "Bryson Tiller - Sorry Not Sorry",
+        "description": "Bryson Tiller's debut album \"T R A P S O U L\" available everywhere. Get it now! Apple Music: http://smarturl.it/TRAPSOULi?IQid=yt Stream on Spotify: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U4MHrrIQuis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U4MHrrIQuis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U4MHrrIQuis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BrysonTillerVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-14T16:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "58OSMBILnsJlQfpexiIvA5WnoCM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WAoepVQl-Og"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-15T16:09:17Z",
+        "channelId": "UCReyCcM-8JXsstlj89R8kGQ",
+        "title": "Bryson Tiller - Sorry Not Sorry (Lyrics Video)",
+        "description": "BrysonTiller #SorryNot #Relaxing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WAoepVQl-Og/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WAoepVQl-Og/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WAoepVQl-Og/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Viral Monkey",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-15T16:09:17Z"
+      }
+    }
+  ]
+}

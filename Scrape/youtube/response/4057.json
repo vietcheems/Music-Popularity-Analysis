@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "DZG7P4_s3wX2qAbFVkKAK19vJfI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7m64DcEmPUBDIxrCT0BIz62LbyM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rhzmNRtIp8k"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-03T04:38:38Z",
+        "channelId": "UCGRjJrpD2bmk9Ilq6nq80qg",
+        "title": "Foo Fighters - Times Like These (Official HD Video)",
+        "description": "\"Times Like These\" by Foo Fighters Listen to Foo Fighters: https://FooFighters.lnk.to/listen_YD Watch more Foo Fighter videos: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rhzmNRtIp8k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rhzmNRtIp8k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rhzmNRtIp8k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "foofightersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-03T04:38:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_j0f_bsn9rQIckjDjv-xTjH0zUg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cwLBAuem5K4"
+      },
+      "snippet": {
+        "publishedAt": "2014-03-05T01:40:53Z",
+        "channelId": "UCeyUktoos5YqB4Xorlhk9vw",
+        "title": "Foo Fighters- Times Like These [HD]",
+        "description": "Track 04 One By One By: Foo Fighters 2002 Roswell Records Lyrics: I am a one way motorway I'm the road that drives away then follows you back home I am a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cwLBAuem5K4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cwLBAuem5K4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cwLBAuem5K4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GravyMusic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-03-05T01:40:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KyRpNygr0zaiEtKEeFtPPFd_AE8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cvCUXXsP5WE"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-16T07:00:04Z",
+        "channelId": "UCGRjJrpD2bmk9Ilq6nq80qg",
+        "title": "Foo Fighters - Times Like These (Live At Wembley Stadium, 2008)",
+        "description": "Foo Fighters performing “Times Like These” live at Wembley Stadium, 2008 Listen to Foo Fighters: https://FooFighters.lnk.to/ListenYD Filmed over two sold-out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cvCUXXsP5WE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cvCUXXsP5WE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cvCUXXsP5WE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "foofightersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-16T07:00:04Z"
+      }
+    }
+  ]
+}

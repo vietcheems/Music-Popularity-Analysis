@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "_P9p9OFy5lhqrfoohSEx3TNonZs",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PCrOSjPEFWhzMSBckmfeO2ZWWwY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dkk9gvTmCXY"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-17T12:13:12Z",
+        "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+        "title": "Taylor Swift - You Need To Calm Down",
+        "description": "Music video by Taylor Swift performing “You Need To Calm Down” – off her upcoming new album 'Lover' (out August 23). Support the Equality Act: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dkk9gvTmCXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dkk9gvTmCXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dkk9gvTmCXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaylorSwiftVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-17T12:13:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "riHZ98YWOaUQP_55zjzJzUNxdiM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GWtfOHBF1_w"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-14T04:00:04Z",
+        "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+        "title": "Taylor Swift - You Need To Calm Down (Lyric Video)",
+        "description": "'Lover', the album, here: https://TaylorSwift.lnk.to/Lover Music video by Taylor Swift performing You Need To Calm Down (Lyric Video). © 2019 Republic Records ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GWtfOHBF1_w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GWtfOHBF1_w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GWtfOHBF1_w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaylorSwiftVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-14T04:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "opqCw7x07R8U8u0lEcDKTGA8LnM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OttVZsCWMwk"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-14T04:42:24Z",
+        "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+        "title": "Taylor Swift - You Need To Calm Down (Lyrics)",
+        "description": "Taylor Swift - You Need To Calm Down (Lyrics) ⏬ Download / Stream: https://taylorswift.lnk.to/YNTCD Turn on notifications to stay updated with new uploads!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OttVZsCWMwk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OttVZsCWMwk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OttVZsCWMwk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "7clouds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-14T04:42:24Z"
+      }
+    }
+  ]
+}

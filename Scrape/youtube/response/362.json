@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "j8a5qR_2yuLi6wEimjLJwamcorI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1LbzqK3SIJQ5ysS1saZclF-tzXk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aNzCDt2eidg"
+      },
+      "snippet": {
+        "publishedAt": "2011-04-01T15:55:44Z",
+        "channelId": "UCk3NOb_PipJJwzMuaBhEfQg",
+        "title": "Birdy - Skinny Love [Official Music Video]",
+        "description": "\"Skinny Love\" by Bon Iver performed by Birdy from her debut album http://smarturl.it/skinnylove Birdy – Young Heart. The new album, out now: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aNzCDt2eidg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aNzCDt2eidg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aNzCDt2eidg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Birdy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-04-01T15:55:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XlTWEhe5x4rrHEr71uSxKgPNRY8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "59nAovgXpVk"
+      },
+      "snippet": {
+        "publishedAt": "2012-09-08T06:27:24Z",
+        "channelId": "UCtTNGMSf3vPenc3Qds4BF8A",
+        "title": "Birdy - Skinny Love Lyrics (HQ)",
+        "description": "Latest video: https://www.youtube.com/watch?v=Cgr62AW1FD8 Instagram: tillybeard Twitter: https://twitter.com/TillyExalted Lyrics to Birdy's hit song, Skinny Love ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/59nAovgXpVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/59nAovgXpVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/59nAovgXpVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TillyExalted",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-09-08T06:27:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XtbLJ4U2vBSN3PNgfzPGBGOAD_A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Tab8KYybnQE"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-10T15:54:06Z",
+        "channelId": "UCN3_8lcDvoveOg8F73FFZWQ",
+        "title": "[Lyrics + Vietsub] Skinny Love - Birdy",
+        "description": "'' Em bảo người hai ta hãy cùng kiên định Nhắc người rằng cho đến cuối cùng, hãy vẹn tình trọn duyên...'' This is my new video, i really love this song, hope you ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tab8KYybnQE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tab8KYybnQE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tab8KYybnQE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jolene",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-10T15:54:06Z"
+      }
+    }
+  ]
+}

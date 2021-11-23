@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "c_lj5RLFxItJTElHl8QiTcl-2I4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XRZYI73MZa6iEfxoizlZy1L-ZGs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P5lmb5-tnM0"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-28T07:00:02Z",
+        "channelId": "UCP3F4Pfd6Q9uR_u3-__tfwg",
+        "title": "Craig David - 7 Days (Official Video)",
+        "description": "Craig David - 7 Days Listen to Craig David's biggest hits on Spotify http://smarturl.it/6pb7zj/spotify and Apple Music http://smarturl.it/6pb7zj/applemusic Watch all ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P5lmb5-tnM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P5lmb5-tnM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P5lmb5-tnM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CraigDavidVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-28T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wgSJt1sLw-mQv8BE3pbvOoCqtpg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VNSgKDRndpQ"
+      },
+      "snippet": {
+        "publishedAt": "2009-07-31T08:37:52Z",
+        "channelId": "UCKTv8FBJh-7_clKU-9Pbp-g",
+        "title": "Craig David - 7 Days",
+        "description": "2001 - Born To Do It.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VNSgKDRndpQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VNSgKDRndpQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VNSgKDRndpQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "johnniewalker23",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-07-31T08:37:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZZkN_TY5cE5oRT5f4L7BREU8keg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sy6iDX3hN3Q"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-08T08:00:17Z",
+        "channelId": "UCE-dOQkZOQ_s965QuAu-D4Q",
+        "title": "Craig David - 7 Days [Lyrics] 🎵",
+        "description": "Thank you for watching!   This was \" Craig David - 7 Days \" More from Craig David! YouTube: https://www.youtube.com/channel/UCHPdFezF_hIiofXqBTXkokg ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sy6iDX3hN3Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sy6iDX3hN3Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sy6iDX3hN3Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TasteOfMusic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-08T08:00:17Z"
+      }
+    }
+  ]
+}

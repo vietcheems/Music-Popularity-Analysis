@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "gkuiXm9w3pfuCV91fxvPsp9guLA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "poMyoM5kXPWfogJ3fEjosp7JVXM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y-jC3H_8Dk4"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-25T19:33:26Z",
+        "channelId": "UCBG23A6QEgi8lzxbWDrNquQ",
+        "title": "Good Charlotte - Lifestyles of the Rich &amp; Famous (Video)",
+        "description": "Good Charlotte's official music video for 'Lifestyles of the Rich and Famous'. Click to listen to Good Charlotte on Spotify: http://smarturl.it/GoodCharlotteSpot?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y-jC3H_8Dk4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y-jC3H_8Dk4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y-jC3H_8Dk4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GoodCharlotteVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-25T19:33:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SPLHBgjOZH9SEwAnA2CefICLl50",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e6Hgdic5jls"
+      },
+      "snippet": {
+        "publishedAt": "2007-08-22T20:46:45Z",
+        "channelId": "UCalKaMdF2AVP9rNLZjidCcw",
+        "title": "Good Charlotte - Lifestyles of the Rich and Famous",
+        "description": "Karaoke (lyric) of the song Lifestyles of the Rich and Famous from good charlotte.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e6Hgdic5jls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e6Hgdic5jls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e6Hgdic5jls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "joanato22",
+        "liveBroadcastContent": "none",
+        "publishTime": "2007-08-22T20:46:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EexuMXsNxejeFZTZ9xI6LeWIBDw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l5i3tX6V7M0"
+      },
+      "snippet": {
+        "publishedAt": "2008-02-04T08:34:50Z",
+        "channelId": "UClvxS6XU-tnJuzw9yW54spw",
+        "title": "Lifestyles of the Rich and the Famous",
+        "description": "Good Charlotte Young And the Hopeless Lifestyles of the Rich and the Famous Always see it on TV Read it in the magazines Celebrities who want sympathy All ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l5i3tX6V7M0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l5i3tX6V7M0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l5i3tX6V7M0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GoodcharlotteSongs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-02-04T08:34:50Z"
+      }
+    }
+  ]
+}

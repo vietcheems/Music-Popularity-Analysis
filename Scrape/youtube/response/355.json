@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Pnyz6CmESRfldf6WyYLil8ZWSGE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ljkia4ByhtXQSlIrHrMkZCGAa7s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GCdwKhTtNNw"
+      },
+      "snippet": {
+        "publishedAt": "2013-03-05T08:01:03Z",
+        "channelId": "UCJRqaM_C1asb8fq-zeSps0w",
+        "title": "The Neighbourhood - Sweater Weather (Official Video)",
+        "description": "Watch the official music video for \"Sweater Weather\" by The Neighbourhood Listen to The Neighbourhood: https://TheNeighbourhood.lnk.to/listenYD Subscribe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GCdwKhTtNNw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GCdwKhTtNNw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GCdwKhTtNNw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheNeighbourhoodVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-03-05T08:01:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TDeXbFe60GwiVkesAYgfxV36TUU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lE-GhpoL3c4"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-10T14:46:57Z",
+        "channelId": "UCdvBex6r_1-i8Sut-mCy2Jw",
+        "title": "The Neighbourhood - Sweater Weather (Lyrics)",
+        "description": "The Neighbourhood - Sweater Weather (Lyrics) Spotify Playlist: https://TajTracks.lnk.to/Spotify Stream / Download: https://TheNeighbourhood.lnk.to/listenYD The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lE-GhpoL3c4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lE-GhpoL3c4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lE-GhpoL3c4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taj Tracks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-10T14:46:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iX9cBC3aokehBlEvZuNdnS9pums",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AB78H7turZw"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-01T16:00:03Z",
+        "channelId": "UCUKxvWVo8lmRXkbTOkqUhGg",
+        "title": "Sweater Weather - The Neighbourhood",
+        "description": "middle school me had many black and white emo hours to this song jesus it's such a classic and i just rlly felt like singing it. the neighbourhood always punches ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AB78H7turZw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AB78H7turZw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AB78H7turZw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Conan Gray",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-01T16:00:03Z"
+      }
+    }
+  ]
+}

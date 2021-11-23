@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Zvjw5Co6kNiF1sBJBH43R5Bc-pQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2hHRqlGCN9J09KSJIuJG2Ek-JL0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SvQx5FMEVmE"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-06T14:01:30Z",
+        "channelId": "UCXooz9whNJZBRTHi9AqdjPw",
+        "title": "Gusttavo Lima – A Gente Fez Amor - DVD O Embaixador In Cariri (Ao Vivo)",
+        "description": "GusttavoLima #AGenteFezAmor #OEmbaixador Essa música faz parte do novo álbum do Gusttavo Lima, O Embaixador In Cariri, gravado em Crato/CE.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SvQx5FMEVmE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SvQx5FMEVmE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SvQx5FMEVmE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gusttavo Lima Oficial",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-06T14:01:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JQVo5thxj0pKMPHGmudlDyOuO1s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h7G2rQhNe5o"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-01T23:54:11Z",
+        "channelId": "UCQZRN82xmUWczjODNgXEzjQ",
+        "title": "Gusttavo Lima - A gente fez amor (Live embaixador no agronegócio 2.)",
+        "description": "A gente fez amor - Live embaixador no agronegócio 2.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h7G2rQhNe5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h7G2rQhNe5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h7G2rQhNe5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EstevamLima",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-01T23:54:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0uXwQzRvwmXOJlqcdkHyZk-LL0Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RAWL5J0fcYo"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-17T23:06:42Z",
+        "channelId": "UCRtxjIx6RITyO-HgQVfqbWQ",
+        "title": "Gusttavo Lima - A Gente Fez Amor Part. Bruno e Denner (Ao Vivo) Live O Embaixador No Agronegócio",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RAWL5J0fcYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RAWL5J0fcYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RAWL5J0fcYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JP Morais",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-17T23:06:42Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "N1rMhkDm1zNsRwff0EgtJm21GEU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lmDpZR2LbfvTgKgTJFWcQtKqXaQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ph54wQG8ynk"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-08T14:00:01Z",
+        "channelId": "UCk0wwaFCIkxwSfi6gpRqQUw",
+        "title": "Camila Cabello - Never Be the Same",
+        "description": "\"Camila\" album available at: Spotify http://smarturl.it/Camila_Sptfy Apple Music http://smarturl.it/Camila_AM iTunes http://smarturl.it/Camila_iTunes Google Play ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ph54wQG8ynk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ph54wQG8ynk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ph54wQG8ynk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CamilaCabelloVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-08T14:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gRlgy6pLmex2-c-EuC-4uFPWWic",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IFp6FsH83c0"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-08T09:28:34Z",
+        "channelId": "UCWGa9QJWNZTNT71T3Hj7UgA",
+        "title": "Never Be The Same - Camila Cabello (Lyrics)",
+        "description": "Never Be The Same - Camila Cabello (Lyrics) -- \"Never Be The Same\" Available at Spotify: http://smarturl.it/Camila_PreSave Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IFp6FsH83c0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IFp6FsH83c0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IFp6FsH83c0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LyricsZone",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-08T09:28:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gdEc71v_LNbjIJ_wO1H2UTnn-gs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FITSPSA8gQs"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-07T13:00:01Z",
+        "channelId": "UCk0wwaFCIkxwSfi6gpRqQUw",
+        "title": "Camila Cabello - Never Be the Same (Audio)",
+        "description": "\"Never Be The Same\" Available at Spotify: http://smarturl.it/Camila_PreSave Apple Music: http://smarturl.it/Camila_AM iTunes: http://smarturl.it/Camila_iTunes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FITSPSA8gQs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FITSPSA8gQs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FITSPSA8gQs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CamilaCabelloVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-07T13:00:01Z"
+      }
+    }
+  ]
+}

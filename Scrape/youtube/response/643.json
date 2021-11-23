@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "5DDrvGSW0RPxdvhasSkKAG4YkPc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sH1JjPXcPSWg-hZ5EoeKuVkF6vY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R8xYWbRNzyA"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-21T18:31:14Z",
+        "channelId": "UCDdx1uv27YOmf6-ZMuk15-A",
+        "title": "Don&#39;t Stop Me Now (Remastered 2011)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R8xYWbRNzyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R8xYWbRNzyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R8xYWbRNzyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "This Is Queen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-21T18:31:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r6abZ3calQoy4tyb9iGVkt43928",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IgxaYVdSf-0"
+      },
+      "snippet": {
+        "publishedAt": "2013-06-26T22:32:28Z",
+        "channelId": "UCuMbxFl0J5xzFULc2RJYH9w",
+        "title": "Queen - Don&#39;t stop me now - Remastered [HD] - with lyrics",
+        "description": "Don't stop me now Album: Jazz (1978) Lyrics Tonight, I'm gonna have myself a real good time I feel alive and the world turning inside out Yeah! And floating ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IgxaYVdSf-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IgxaYVdSf-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IgxaYVdSf-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "queenremastered4",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-06-26T22:32:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KCJLy-Ii13HUk0IJNqxNYTXLv_g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HgzGwKwLmgM"
+      },
+      "snippet": {
+        "publishedAt": "2008-08-01T12:05:22Z",
+        "channelId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+        "title": "Queen - Don&#39;t Stop Me Now (Official Video)",
+        "description": "Taken from Jazz, 1978 and Greatest Video Hits 1. Click here to buy the DVD with this video at the Official Queen Store: http://www.queenonlinestore.com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HgzGwKwLmgM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HgzGwKwLmgM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HgzGwKwLmgM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Queen Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-08-01T12:05:22Z"
+      }
+    }
+  ]
+}

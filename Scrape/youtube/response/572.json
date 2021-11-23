@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "vnKdi6qZIccLkQwmEMPwXn2utoU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n3wWmYNh_votQUsHotkUjGFuNoo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yuFI5KSPAt4"
+      },
+      "snippet": {
+        "publishedAt": "2006-12-12T20:21:21Z",
+        "channelId": "UCEuOwB9vSL1oPKGNdONB4ig",
+        "title": "Red Hot Chili Peppers - Snow (Hey Oh) (Official Music Video)",
+        "description": "Watch the official music video for Snow (Hey Oh) by Red Hot Chili Peppers from the album Stadium Arcadium. Subscribe to the channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yuFI5KSPAt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yuFI5KSPAt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yuFI5KSPAt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Hot Chili Peppers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2006-12-12T20:21:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "phyPqU2AlBzB2HOA1nA8otFps6c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KvlqclaxyP4"
+      },
+      "snippet": {
+        "publishedAt": "2010-09-24T21:31:41Z",
+        "channelId": "UCBGzm7haKhfUdBBREbGMfIA",
+        "title": "Red Hot Chili Peppers - Snow (Hey Oh)",
+        "description": "RHCP Snow \"Snow (Hey Oh)\" is a song by the Red Hot Chili Peppers from their 2006 double album, Stadium Arcadium. The music video shows the band at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KvlqclaxyP4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KvlqclaxyP4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KvlqclaxyP4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chili World",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-09-24T21:31:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o5d0TEOLFsTylWadcGiPiyCkBaA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p0vM9iINl28"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-27T01:51:27Z",
+        "channelId": "UCEuOwB9vSL1oPKGNdONB4ig",
+        "title": "Red Hot Chili Peppers - Snow [Hey Oh] [Video]",
+        "description": "Watch the official music video for Snow [Hey Oh] by Red Hot Chili Peppers from the album Stadium Arcadium. Subscribe to the channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p0vM9iINl28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p0vM9iINl28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p0vM9iINl28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Hot Chili Peppers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-27T01:51:27Z"
+      }
+    }
+  ]
+}

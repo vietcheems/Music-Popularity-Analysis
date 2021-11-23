@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "A_Xq1RtYQNUuzWyyXY4eOiF6z7A",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ekn0SneBA3uLRvpUj0mMpxbZnFA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3tmd-ClpJxA"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-28T00:30:22Z",
+        "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+        "title": "Taylor Swift - Look What You Made Me Do",
+        "description": "Exclusive Merch: https://store.taylorswift.com ▻Follow Taylor Swift Online Instagram: http://www.instagram.com/taylorswift Facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3tmd-ClpJxA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3tmd-ClpJxA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3tmd-ClpJxA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaylorSwiftVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-28T00:30:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JgZbmVISiPIc-xFldhoXgJcBacw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3K0RzZGpyds"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-25T03:44:23Z",
+        "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+        "title": "Taylor Swift - Look What You Made Me Do (Lyric Video)",
+        "description": "Exclusive Merch: https://store.taylorswift.com ▻Follow Taylor Swift Online Instagram: http://www.instagram.com/taylorswift Facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3K0RzZGpyds/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3K0RzZGpyds/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3K0RzZGpyds/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaylorSwiftVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-25T03:44:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F981xz78yOdl6N1nO_pBGF2pVEs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_k7hmkf2dvQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-23T02:17:40Z",
+        "channelId": "UChWcegNjI5qZV-8jBgFAJ6A",
+        "title": "Taylor Swift - Look What You Made Me Do (Lyrics)",
+        "description": "I take requests just comment! Artist: Taylor Swift Song: Look What You Made Me Do Album: Reputation Year: 2017 Photo: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_k7hmkf2dvQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_k7hmkf2dvQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_k7hmkf2dvQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Audioandlyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-23T02:17:40Z"
+      }
+    }
+  ]
+}

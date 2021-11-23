@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "59OaKNEFnFGoJArNFqOdifOy6_k",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fG_AYaOIrb9z612hsb0UtD-FORs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kRt2sRyup6A"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-05T14:41:46Z",
+        "channelId": "UCbGmbLGPhxIlp1JF4tybiAg",
+        "title": "Juanes - La Camisa Negra",
+        "description": "Escucha lo mejor de Juanes aquí: https://youtube.com/playlist?list=PLKkASunPqysO-99U5cclJ6nlEBXSuY6wX EXITOS de Juanes: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kRt2sRyup6A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kRt2sRyup6A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kRt2sRyup6A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JuanesVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-05T14:41:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iMQEW8QhdRnfF5FFdOrlZtp2fuw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kvEvATBiQ5U"
+      },
+      "snippet": {
+        "publishedAt": "2010-11-17T23:33:11Z",
+        "channelId": "UCmnjixE-SM11d3D8TZ9r7KQ",
+        "title": "Juanes La Camisa Negra  Lyrics .wmv",
+        "description": "Tengo la camisa negra Hoy mi amor está de luto Hoy tengo en el alma una pena Y es por culpa de tu embrujo Hoy sé que tú ya no me quieres Y eso es lo que ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kvEvATBiQ5U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kvEvATBiQ5U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kvEvATBiQ5U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dani Franco",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-11-17T23:33:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TJ2_iQfT8siN4IyReTld_PGY-7s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J3eqAxYPkmA"
+      },
+      "snippet": {
+        "publishedAt": "2012-07-06T07:00:16Z",
+        "channelId": "UCbGmbLGPhxIlp1JF4tybiAg",
+        "title": "Juanes - La Camisa Negra (MTV Unplugged)",
+        "description": "Music video by Juanes performing La Camisa Negra. (C) 2012 Universal Music Latino.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J3eqAxYPkmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J3eqAxYPkmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J3eqAxYPkmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JuanesVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-07-06T07:00:16Z"
+      }
+    }
+  ]
+}

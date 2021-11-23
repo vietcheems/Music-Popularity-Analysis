@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "WCmlcz3NizjipJAXdX9Kea-ZgLA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Za6jCwtq6Px-rBSQFLGe3JTUZ6g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NUTGr5t3MoY"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-27T02:25:14Z",
+        "channelId": "UCqC_GY2ZiENFz2pwL0cSfAw",
+        "title": "Green Day - Basket Case [Official Music Video]",
+        "description": "Watch the official music video for Basket Case by Green Day from the album Dookie. Subscribe to the channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NUTGr5t3MoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NUTGr5t3MoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NUTGr5t3MoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Green Day",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-27T02:25:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iJVpvX-f9O2ZWmMlHQuTDLZdD3g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wZ8eZRxFA-0"
+      },
+      "snippet": {
+        "publishedAt": "2011-07-22T01:40:09Z",
+        "channelId": "UC6q94iWv9iXn4PD-IGPlqvw",
+        "title": "Green Day - Basket Case - [HQ]",
+        "description": "Title: Basket Case Album: Dookie (1994) Lyrics: Do you have the time, To listen to me whine, About nothing and everything all at once? I am one of those ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wZ8eZRxFA-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wZ8eZRxFA-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wZ8eZRxFA-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BunczucznyKKS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-07-22T01:40:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "29bWjNwuTJJvPOk2ChOLgx9l7Ag",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cJGbJNPjmmA"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-27T17:14:47Z",
+        "channelId": "UClh2CI968a1tE8pQ31pg_Ww",
+        "title": "Green Day perform &quot;Basket Case&quot; at the 2015 Rock &amp; Roll Hall of Fame Induction Ceremony",
+        "description": "Green Day perform \"Basket Case\" at the 2015 Rock & Roll Hall of Fame Induction Ceremony Looking for more Induction Ceremony memories from Green Day?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cJGbJNPjmmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cJGbJNPjmmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cJGbJNPjmmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rock & Roll Hall of Fame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-27T17:14:47Z"
+      }
+    }
+  ]
+}

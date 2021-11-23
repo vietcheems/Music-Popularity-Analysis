@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "VD5iPG44fuQvDJENIaegG3GQQ60",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OWuLLmMXGWKuMdc4ZfIaHdlpAmk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y0pdQU87dc8"
+      },
+      "snippet": {
+        "publishedAt": "2009-03-10T18:04:42Z",
+        "channelId": "UCxuYPUdTZHRZKVRZ1km1plw",
+        "title": "(Everything I Do) I Do It For You (Official Music Video)",
+        "description": "This song was written by Bryan Adams and Mutt Lange around a piece of film music by composer Michael Kamen. This trio of songwriters, went on to have 3 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y0pdQU87dc8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y0pdQU87dc8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y0pdQU87dc8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bryan Adams",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-03-10T18:04:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZVJTCNGrWL3bNGT0QZzf3D39bwg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vFD2gu007dc"
+      },
+      "snippet": {
+        "publishedAt": "2009-02-21T22:07:37Z",
+        "channelId": "UCxuYPUdTZHRZKVRZ1km1plw",
+        "title": "Bryan Adams - (Everything I Do) I Do It For You - Live in Canada",
+        "description": "Written by Adams, Lange and Kamen. Live from the classic Waking Up The World Tour, 1992 FOLLOW: https://www.instagram.com/bryanadams/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vFD2gu007dc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vFD2gu007dc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vFD2gu007dc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bryan Adams",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-02-21T22:07:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8Yr3vQEAOx80zAT2GtUkCDuCQIY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "La0IJPt0t4Q"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-11T23:00:00Z",
+        "channelId": "UC58iZEkGZi7ETeXizx_03vg",
+        "title": "Bryan Adams - Everything I Do (Live At Wembley 1996)",
+        "description": "Purchase here: DVD - http://smarturl.it/BRYANADAMWDVD Digital - http://smarturl.it/BRYANADAMSWEMBLEYDIG It was July 27th 1996 and a sell-out crowd in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/La0IJPt0t4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/La0IJPt0t4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/La0IJPt0t4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BryanAdamsVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-11T23:00:00Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "hji8d6ET2JzggiX9bBM6Vr6jY_I",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LOGXJIkVM0ix7ISR4cLpLCMpAwQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TRqiFPpw2fY"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-23T12:00:05Z",
+        "channelId": "UCGRjJrpD2bmk9Ilq6nq80qg",
+        "title": "Foo Fighters - The Sky Is A Neighborhood (Official Music Video)",
+        "description": "Get \"The Sky Is A Neighborhood\" from the new album 'Concrete and Gold' available now: http://smarturl.it/FFCG Video directed by Dave Grohl. Explore your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TRqiFPpw2fY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TRqiFPpw2fY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TRqiFPpw2fY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "foofightersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-23T12:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bq9Jaz-D4skm9s1remzHj0asfEE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4nB48tYWoSM"
+      },
+      "snippet": {
+        "publishedAt": "2018-02-22T02:32:43Z",
+        "channelId": "UCGRjJrpD2bmk9Ilq6nq80qg",
+        "title": "Foo Fighters - The Sky Is A Neighborhood (Live from the BRITs 2018)",
+        "description": "Get \"The Sky Is A Neighborhood\" from the new album 'Concrete and Gold' available now: http://smarturl.it/FFCG LISTEN Apple Music – http://smarturl.it/FFSKYa ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4nB48tYWoSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4nB48tYWoSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4nB48tYWoSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "foofightersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-02-22T02:32:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_X1VoIs4N3Vwr_zEVcfFiQPeLz8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tJX7Cj5mYAo"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-01T18:00:47Z",
+        "channelId": "UCKoafhJ9dkAWaEvlXCiBBwA",
+        "title": "Foo Fighters - Sky Is A Neighborhood (in the Live Lounge)",
+        "description": "Foo Fighters perform Sky Is A Neighborhood live from LA in their own 606 studios for BBC Radio 1's Live Lounge #FooFighters #SkyIsANeighborhood #Vevo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tJX7Cj5mYAo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tJX7Cj5mYAo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tJX7Cj5mYAo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBCRadio1VEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-01T18:00:47Z"
+      }
+    }
+  ]
+}

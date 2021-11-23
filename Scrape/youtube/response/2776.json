@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "XHz2HRfaUbk3vJtfFKk4VrCNu4I",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HA1Q9gJKIlO0GtFie7dklnYjhjo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "snFhcHHdzT0"
+      },
+      "snippet": {
+        "publishedAt": "2012-04-13T07:00:07Z",
+        "channelId": "UCahVGI5idD85mQlBD2InzzA",
+        "title": "Reik - Creo en Ti",
+        "description": "Dale manita arriba y guarda el video para cantar con Reik. ↓ Letras en la descripción ↓ Suscríbete, activa la campanita , y disfruta de toda la música de ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/snFhcHHdzT0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/snFhcHHdzT0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/snFhcHHdzT0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "reikVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-04-13T07:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ApAyeGvankUW3XFq1LUT-rMpreU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hOj7MnpcqFI"
+      },
+      "snippet": {
+        "publishedAt": "2014-06-13T23:11:08Z",
+        "channelId": "UC5Y2UCfCw_m3Fg0OD-FYTnA",
+        "title": "Creo En Ti letra",
+        "description": "Ya no importa cada noche que esperé Cada calle o laberinto que crucé Porque el cielo ha conspirado en mi favor Y en un segundo de rendirme te encontré ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hOj7MnpcqFI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hOj7MnpcqFI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hOj7MnpcqFI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "REIK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-06-13T23:11:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oa6eC6wCmNDkG83JSLp1OzTJSpk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vCrt6BxTXV4"
+      },
+      "snippet": {
+        "publishedAt": "2012-10-30T10:09:43Z",
+        "channelId": "UCahVGI5idD85mQlBD2InzzA",
+        "title": "Reik - Creo En Ti - Music In My Life (En Vivo)",
+        "description": "Music video by Reik performing Creo En Ti. (C) 2012 Sony Music Entertainment México, S.A. De C.V. Descarga “Peligro” aquí: http://smarturl.it/reikpeligroes?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vCrt6BxTXV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vCrt6BxTXV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vCrt6BxTXV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "reikVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-10-30T10:09:43Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "-0WPLzevWEzQc4Si0qhsxqV3AXY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7wgtiNuUi3ovb32XBZCKJ4e-zfY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yn_6LC4loY8"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-25T07:10:35Z",
+        "channelId": "UCm1dsgJNnhaLkY3uAdqN4mA",
+        "title": "Chris Brown - Yo (Excuse Me Miss) (Official Video)",
+        "description": "\"Yo (Excuse Me Miss)\" by Chris Brown\u200b Listen to Chris Brown: https://ChrisBrown.lnk.to/listenYD\u200b Subscribe to the official Chris Brown YouTube channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yn_6LC4loY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yn_6LC4loY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yn_6LC4loY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChrisBrownVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-25T07:10:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9bgVT0VfgFphoraeeHFEiPtCO0A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BVXh_3EtWFM"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-21T02:01:34Z",
+        "channelId": "UCqY3yLvj-LfSmSRODyJbvMg",
+        "title": "Yo (Excuse Me Miss)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BVXh_3EtWFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BVXh_3EtWFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BVXh_3EtWFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chris Brown - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-21T02:01:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eMV9jRYm8OZ3dP58vlraRoS9234",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AQcYRtYrupc"
+      },
+      "snippet": {
+        "publishedAt": "2009-07-22T19:37:33Z",
+        "channelId": "UCODWxXbD1j6068aMttdHgMQ",
+        "title": "Yo (Excuse Me Miss) By Chris Brown with Lyrics",
+        "description": "Yo by Chris Brown.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AQcYRtYrupc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AQcYRtYrupc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AQcYRtYrupc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BeautyBunny100",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-07-22T19:37:33Z"
+      }
+    }
+  ]
+}

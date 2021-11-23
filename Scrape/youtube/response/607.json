@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "QKswZjgebsvTWrxarJ02ZTWmuDY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BlRR8ErfCMdDga3eCrMbzMtl--M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XsFneCExrCQ"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-19T12:00:01Z",
+        "channelId": "UC0sVahwZgKFHjOBaxvm-a7Q",
+        "title": "Tove Lo - Cool Girl (Part of Fairy Dust)",
+        "description": "Playlist Best of Tove Lo https://goo.gl/AKQhp1 Subscribe for more https://goo.gl/ieLWqq “Lady Wood” Out Now: https://lnk.to/LadyWoodYD Listen to “Cool Girl”: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XsFneCExrCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XsFneCExrCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XsFneCExrCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ToveLoVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-19T12:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7dS-57gVSqMDblRAS3UtnxUkL3U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hYi4jkFpRBA"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-04T04:00:01Z",
+        "channelId": "UC0sVahwZgKFHjOBaxvm-a7Q",
+        "title": "Tove Lo - Cool Girl &quot;Audio&quot;",
+        "description": "Playlist Best of Tove Lo https://goo.gl/AKQhp1 Subscribe for more https://goo.gl/ieLWqq https://lnk.to/ToveLocoolgirl Watch more Tove Lo videos here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hYi4jkFpRBA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hYi4jkFpRBA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hYi4jkFpRBA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ToveLoVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-04T04:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "66TGkIt77sU4ufBQo-iGboDTjBM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_pb51aX3juo"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-04T16:41:13Z",
+        "channelId": "UCaNG0ferMazPiIU-oC4lgcQ",
+        "title": "Tove Lo - cool girl (lyrics)",
+        "description": "I do not own music or lyrics ! enjoy :3.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_pb51aX3juo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_pb51aX3juo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_pb51aX3juo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Haru Seokjinnie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-04T16:41:13Z"
+      }
+    }
+  ]
+}

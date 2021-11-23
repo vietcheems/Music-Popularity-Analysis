@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ce2Ye8fkiGUa1Lm330IZ5bi7kDc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8yb751hWbyTCSQs1yFQOM1vfXPA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K3Qzzggn--s"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-12T14:00:08Z",
+        "channelId": "UCZW5lIUz93q_aZIkJPAC0IQ",
+        "title": "Joji - SLOW DANCING IN THE DARK",
+        "description": "OFFICIAL MERCH: https://jojimusic.com/ Stream \"SLOW DANCING IN THE DARK\": https://88rising.lnk.to/SDITD BALLADS 1 is out now: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K3Qzzggn--s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K3Qzzggn--s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K3Qzzggn--s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "88rising",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-12T14:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OSgMX9uar6ZgsWW73MNoYSHAuYk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sVDiAoxdR8E"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-12T15:53:07Z",
+        "channelId": "UCwxDkypwSDkNeqT1upQ8b7Q",
+        "title": "Joji - SLOW DANCING IN THE DARK (Lyrics on screen)",
+        "description": "Subscribe for listen to new songs everyday! https://goo.gl/Y17oeq ○ Artwork by: @laurenwithrow ○ Lucky Spotify Playlist: https://spoti.fi/2Hl4Lyz ○ Download: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sVDiAoxdR8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sVDiAoxdR8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sVDiAoxdR8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lucky",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-12T15:53:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c5MAY36-tTtole4i6lEfkGQ3f7M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V0VAt_8lJEA"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-17T13:29:14Z",
+        "channelId": "UChuRNk7eV0_2D1l23z9YuWg",
+        "title": "[Vietsub+Lyrics] Joji - SLOW DANCING IN THE DARK",
+        "description": "Joji http://instagram.com/sushitrash http://twitter.com/sushitrash http://facebook.com/jojikansai ▻Indie Team https://www.facebook.com/indievietsub ▻Photo by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V0VAt_8lJEA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V0VAt_8lJEA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V0VAt_8lJEA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "indie team",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-17T13:29:14Z"
+      }
+    }
+  ]
+}

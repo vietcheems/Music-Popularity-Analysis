@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Q6l0sou4n2ACrGAfgzCT4pCu6JU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OM1fHMZj-Q2tDpVPex1nUhlnnc0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y2E71oe0aSM"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-04T17:00:11Z",
+        "channelId": "UCx8v-goujcpBVF7QKALgp3g",
+        "title": "Dan + Shay, Justin Bieber - 10,000 Hours (Official Music Video)",
+        "description": "LISTEN TO THE NEW ALBUM: https://wmna.sh/goodthings_thealbum LYRICS: Do you love the rain Does it make you dance When you're drunk with your ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y2E71oe0aSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y2E71oe0aSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y2E71oe0aSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dan And Shay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-04T17:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U7QLe5NPlPlK4TwyPcUlEcSzO4o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3EAliOfw_2w"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-18T14:45:23Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "Dan + Shay, Justin Bieber - 10,000 Hours (Lyrics) 🎵",
+        "description": "Learn how to sing in only 30 days with these easy, fun video lessons! https://www.30daysinger.com/a/8328/BFzaEvmu -- \"Dan + Shay, Justin Bieber - 10000 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3EAliOfw_2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3EAliOfw_2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3EAliOfw_2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-18T14:45:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9RxZpBdJjFpujw_Sv_OqUJXo-uo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bNI1POQ9Nu8"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-12T14:16:30Z",
+        "channelId": "UCx8v-goujcpBVF7QKALgp3g",
+        "title": "Dan + Shay, Justin Bieber - 10,000 Hours (CMA Awards 2020)",
+        "description": "LISTEN TO OUR NEW SINGLE \"GLAD YOU EXIST\" EVERYWHERE: http://gladyouexist.com LISTEN EVERYWHERE: http://wmna.sh/10kHours.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bNI1POQ9Nu8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bNI1POQ9Nu8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bNI1POQ9Nu8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dan And Shay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-12T14:16:30Z"
+      }
+    }
+  ]
+}

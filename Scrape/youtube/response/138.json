@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "MfHoEtQcDTcVdBF2w4mXYBl__7w",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ldvjRPBBvhHa5gQo7NXkoiqPOaQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xUVz4nRmxn4"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-12T03:59:12Z",
+        "channelId": "UC0YlhwQabxkHb2nfRTzsTTA",
+        "title": "Galantis - No Money (Official Video)",
+        "description": "The official music video for Galantis - No Money Available now via Big Beat Records Spotify: http://smarturl.it/NoMoney_S Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xUVz4nRmxn4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xUVz4nRmxn4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xUVz4nRmxn4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Galantis",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-12T03:59:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ABu7N_Dz0dAoqZuJXMB0VvbqrfQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a52Ul2AM92c"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-04T14:00:00Z",
+        "channelId": "UC3ifTl5zKiCAhHIBQYcaTeg",
+        "title": "Galantis - No Money",
+        "description": "Proximity - Your favorite music you haven't heard yet. » Spotify!: http://spoti.fi/Proximity » Facebook: http://bit.ly/FBProximity NEW MERCH: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a52Ul2AM92c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a52Ul2AM92c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a52Ul2AM92c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Proximity",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-04T14:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VV92dujOg6yX6-Alj4fVDaRCl4M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kwmvW54-_Ms"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-15T02:30:11Z",
+        "channelId": "UChWcegNjI5qZV-8jBgFAJ6A",
+        "title": "Galantis - No Money (Lyrics)",
+        "description": "Artist: Galantis Song: No Money Single: No Money Year: 2016 Follow Me Audioandlyrics: Instagram: https://www.instagram.com/audioandlyrics/?hl=en ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kwmvW54-_Ms/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kwmvW54-_Ms/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kwmvW54-_Ms/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Audioandlyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-15T02:30:11Z"
+      }
+    }
+  ]
+}

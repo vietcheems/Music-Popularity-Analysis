@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "7HarZ74tasihjRpVox1rWDEqhZU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qAYs_nvQSHeDTn-a8CpbiyPRp9M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4z2DtNW79sQ"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-03T04:41:46Z",
+        "channelId": "UCkZu0HAGinESFynhe3R4hxQ",
+        "title": "Bruce Springsteen - Streets of Philadelphia (Official Video)",
+        "description": "Official Video of ”Streets Of Philadelphia\" by Bruce Springsteen Listen to Bruce Springsteen: https://BruceSpringsteen.lnk.to/listenYD Pre-Order the Legendary ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4z2DtNW79sQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4z2DtNW79sQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4z2DtNW79sQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BruceSpringsteenVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-03T04:41:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gSIVOdv1LDLHVo9LoM8Bx81AKZI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oYLr9FtYtME"
+      },
+      "snippet": {
+        "publishedAt": "2008-09-06T22:47:18Z",
+        "channelId": "UC-3TRWSo-4GqvlnIwNe-N1Q",
+        "title": "Street of Philadelphia - Bruce Springsteen",
+        "description": "Music.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oYLr9FtYtME/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oYLr9FtYtME/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oYLr9FtYtME/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HTVmuzik",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-09-06T22:47:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rRP0UOYtaUawNu9kbVria7f1Y50",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g5ZYAJTJvwY"
+      },
+      "snippet": {
+        "publishedAt": "2011-07-02T06:18:01Z",
+        "channelId": "UClA2pL5N-2FF0KfXR0gQE0A",
+        "title": "Streets of Philadelphia - Bruce Springsteen",
+        "description": "Streets of Philadelphia - Bruce Springsteen.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g5ZYAJTJvwY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g5ZYAJTJvwY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g5ZYAJTJvwY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Variedades e outros",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-07-02T06:18:01Z"
+      }
+    }
+  ]
+}

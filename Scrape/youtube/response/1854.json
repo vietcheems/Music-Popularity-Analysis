@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "jkSk-4Wvq-HVzJHcaSreTKpIPYk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sjyK-_CvRVK8VGOPDueX-Slp-UE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V1yDsBqxQ2I"
+      },
+      "snippet": {
+        "publishedAt": "2013-12-27T12:39:23Z",
+        "channelId": "UCXN65UoHX8f7mkJKeYmflTQ",
+        "title": "Travis Tritt - Take It Easy (with lyrics)",
+        "description": "\"Take It Easy\" by Travis Tritt with lyrics. Support Travis buying his album \"The Very Best Of Travis Tritt\" here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V1yDsBqxQ2I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V1yDsBqxQ2I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V1yDsBqxQ2I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "drawnmap96",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-12-27T12:39:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hJLMN-_ZoQWPl8cb5qcjT54pCOg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "icOPqAKfDt4"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-09T04:13:03Z",
+        "channelId": "UCEo9UjWGt8t8mO5adI41CDA",
+        "title": "Eagles - Take It Easy Remastered",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/icOPqAKfDt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/icOPqAKfDt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/icOPqAKfDt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Eagles",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-09T04:13:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fGlEzTkXVtz3XRUQxaUaNpB5IeU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YNCdOq8Hq-s"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-27T10:27:26Z",
+        "channelId": "UC49r4GNHHpc-eQ9hmD2Rg6A",
+        "title": "Take It Easy",
+        "description": "Provided to YouTube by Believe SAS Take It Easy · Eagles Unplugged 1994 - The Second Night ℗ RR Live Recordings Released on: 2017-11-23 Author: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YNCdOq8Hq-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YNCdOq8Hq-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YNCdOq8Hq-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Eagles - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-27T10:27:26Z"
+      }
+    }
+  ]
+}

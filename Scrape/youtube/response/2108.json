@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "jeVj3UyRs1fDHHKcHQhaWT2aDEQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zI2fHFlTW_iVtaxRhEGG9jb3joY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "InLvy_CFKUQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-10T04:00:00Z",
+        "channelId": "UCz9yS18zJGQObwUL_K-ICnw",
+        "title": "KAROL G, J. Balvin - Mi Cama ft. Nicky Jam (Official Remix)",
+        "description": "https://UMLE.lnk.to/9TAOHFp [Intro: Karol G & Nicky Jam] Ah, o-oh, oh, oh This-this is the remix Dices que de mí ya te olvidaste Y de tu mente borraste Cuando ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/InLvy_CFKUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/InLvy_CFKUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/InLvy_CFKUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KarolGVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-10T04:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pioIklPH9-EWV2Jo6CULSNmtGZ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6xbbMUtLudg"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-13T04:00:00Z",
+        "channelId": "UCz9yS18zJGQObwUL_K-ICnw",
+        "title": "KAROL G, J. Balvin - Mi Cama ft. Nicky Jam (Remix - Official Audio)",
+        "description": "Music video by Karol G, J. Balvin performing Mi Cama. © 2018 UMG Recordings, Inc. http://vevo.ly/LxhmYT.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6xbbMUtLudg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6xbbMUtLudg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6xbbMUtLudg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KarolGVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-13T04:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dN4vxz1m42FmbuXwxQgiB0mR9co",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8-mloCL49vs"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-11T04:00:00Z",
+        "channelId": "UCz9yS18zJGQObwUL_K-ICnw",
+        "title": "KAROL G - Mi Cama (Official Video)",
+        "description": "Music video by Karol G performing Mi Cama. © 2018 UMG Recordings, Inc. http://vevo.ly/rsmwbJ.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8-mloCL49vs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8-mloCL49vs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8-mloCL49vs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KarolGVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-11T04:00:00Z"
+      }
+    }
+  ]
+}

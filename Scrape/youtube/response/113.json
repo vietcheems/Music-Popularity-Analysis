@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "eOLsz8zXpGGitSF9NjQDPlScH0A",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zk7A9GS9wJBqHkA-ReYXduwRlTo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FyASdjZE0R0"
+      },
+      "snippet": {
+        "publishedAt": "2015-06-16T07:00:01Z",
+        "channelId": "UCRzzwLpLiUNIs6YOPe33eMg",
+        "title": "The Chainsmokers - Roses (Audio) ft. ROZES",
+        "description": "The Chainsmokers debut album 'Memories... Do Not Open' out April 7th featuring \"Something Just Like This\", \"Paris\" and 10 brand new songs from The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FyASdjZE0R0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FyASdjZE0R0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FyASdjZE0R0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChainsmokersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-06-16T07:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eXlzeyJgdMqOxx9v9Fikc2hPeqI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mBZdHuZCfic"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-16T14:00:02Z",
+        "channelId": "UCRzzwLpLiUNIs6YOPe33eMg",
+        "title": "The Chainsmokers - Roses (Lyric Video) ft. ROZES",
+        "description": "The Chainsmokers debut album 'Memories... Do Not Open' out April 7th featuring \"Something Just Like This\", \"Paris\" and 10 brand new songs from The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mBZdHuZCfic/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mBZdHuZCfic/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mBZdHuZCfic/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChainsmokersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-16T14:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xHWSn8QBh-AieTduMfaauK_mFsA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G5Mv2iV0wkU"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-07T07:00:01Z",
+        "channelId": "UCRzzwLpLiUNIs6YOPe33eMg",
+        "title": "The Chainsmokers - Roses (Official Video) ft. ROZES",
+        "description": "The Chainsmokers \"Roses\" out now! Spotify: http://smarturl.it/Roses_Spotify iTunes: http://smarturl.it/RosesiTunes Directed by Impossible Brief ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G5Mv2iV0wkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G5Mv2iV0wkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G5Mv2iV0wkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChainsmokersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-07T07:00:01Z"
+      }
+    }
+  ]
+}

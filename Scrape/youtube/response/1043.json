@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "KTxP6-8XAV-cIAC6t4owYtwoPPo",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jGNi2otvVpvgjxwqHPOUvgVnqfw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1lyu1KKwC74"
+      },
+      "snippet": {
+        "publishedAt": "2009-02-28T08:46:43Z",
+        "channelId": "UCY9j66iGshbnQhO7ggwRyhA",
+        "title": "The Verve - Bitter Sweet Symphony (Official Music Video)",
+        "description": "REMASTERED IN HD! UP TO 4K!! Check out the official music video for \"Better Sweet Symphony\" by The Verve Discover more about this classic song here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1lyu1KKwC74/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1lyu1KKwC74/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1lyu1KKwC74/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheVerveVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-02-28T08:46:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1i22zJJXOFJS4OozpfZHsatbC7w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "opEOYvNfCp4"
+      },
+      "snippet": {
+        "publishedAt": "2012-07-20T17:47:32Z",
+        "channelId": "UCh8pCR5_Ie6_cacECy55hnA",
+        "title": "The Verve - Bittersweet Symphony Lyrics",
+        "description": "watch in HD please. \"Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/opEOYvNfCp4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/opEOYvNfCp4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/opEOYvNfCp4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Maseng",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-07-20T17:47:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WVuUBHviW2WC0-hbKq-kysQy878",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SbFqIRSX6js"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-21T09:30:00Z",
+        "channelId": "UCckKR1kDbRKXJArtGYh6drQ",
+        "title": "Coldplay / Richard Ashcroft - Bittersweet Symphony (Live 8 2005)",
+        "description": "Coldplay and Richard Ashcroft performing at Live 8 in London's Hyde Park on the 2nd July, 2005. Organised by Sir Bob Geldof and The Band Aid Trust to raise ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SbFqIRSX6js/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SbFqIRSX6js/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SbFqIRSX6js/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Live 8",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-21T09:30:00Z"
+      }
+    }
+  ]
+}

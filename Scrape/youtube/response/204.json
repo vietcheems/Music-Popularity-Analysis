@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "mVSO0TR6fuOh3CMaG5kz5cXSOTM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uJVZptj5n5vS896zUn3dNKDe_rU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wg92RrNhB8s"
+      },
+      "snippet": {
+        "publishedAt": "2015-02-06T17:00:05Z",
+        "channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+        "title": "Ariana Grande - One Last Time (Lyric Video)",
+        "description": "One Last Time available for download on the full album “My Everything” here: http://smarturl.it/ArianaMyEvrythnDlxDA Stream/Share “One Last Time” on Spotify: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wg92RrNhB8s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wg92RrNhB8s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wg92RrNhB8s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArianaGrandeVevo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-02-06T17:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wT9niyqlMcbEJl05LrzIhh1ChMs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BPgEgaPk62M"
+      },
+      "snippet": {
+        "publishedAt": "2015-02-16T05:00:01Z",
+        "channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+        "title": "Ariana Grande - One Last Time (Official)",
+        "description": "One Last Time available for download on the full album “My Everything” here: http://smarturl.it/ArianaMyEvrythnDlxDA Stream/Share “One Last Time” on Spotify: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BPgEgaPk62M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BPgEgaPk62M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BPgEgaPk62M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArianaGrandeVevo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-02-16T05:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IrIppu4oNgLIpMh-d03nH0yip1w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "efDDY0zh0FE"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-12T13:13:02Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "Ariana Grande - One Last Time (Lyrics)",
+        "description": "Learn how to sing in only 30 days with these easy, fun video lessons! https://www.30daysinger.com/a/8328/BFzaEvmu -- Ariana Grande - One Last Time (Lyrics) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/efDDY0zh0FE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/efDDY0zh0FE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/efDDY0zh0FE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-12T13:13:02Z"
+      }
+    }
+  ]
+}

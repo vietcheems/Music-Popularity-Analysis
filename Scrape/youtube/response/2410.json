@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "lhhm3KEYVwtxveDbvbW3Ygeo6DQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8iDAtoYVEXUfANetLZCXu8izIYM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T3rXdeOvhNE"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-27T01:27:20Z",
+        "channelId": "UCRRxSTgPUY0q_YToaczc2BQ",
+        "title": "Nickelback - Photograph [OFFICIAL VIDEO]",
+        "description": "Nickelback's latest album, The Best of Nickelback, Volume 1 is available now on Roadrunner Records. - CD: http://smarturl.it/NickelbBestOfCD - iTunes: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T3rXdeOvhNE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T3rXdeOvhNE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T3rXdeOvhNE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Roadrunner Records",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-27T01:27:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vOiCcd9rYM0G4mqdu1nCxmwPMvo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7mJXhEeWhI4"
+      },
+      "snippet": {
+        "publishedAt": "2012-01-07T03:54:38Z",
+        "channelId": "UC85MY3RUltjpiL7TXQoeAgg",
+        "title": "Nickelback   Photograph With Lyrics",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7mJXhEeWhI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7mJXhEeWhI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7mJXhEeWhI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Yousif Alyakobi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-01-07T03:54:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rrIYpKaQ4Vdn2KlHi-1f9qKzK20",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zdp7aOqyelA"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-12T03:57:31Z",
+        "channelId": "UC8DBdOsq1zu-PbKHG8kNV0g",
+        "title": "Photograph - Nickelback (Lyrics) 🎵",
+        "description": "Lyrics: \"Photograph\" https://pillowlyrics.com/photograph-nickelback/ Photograph - Nickelback (Lyrics) Lyrics video for \"Photograph\" by Nickelback. ✓Click the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zdp7aOqyelA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zdp7aOqyelA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zdp7aOqyelA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pillow",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-12T03:57:31Z"
+      }
+    }
+  ]
+}

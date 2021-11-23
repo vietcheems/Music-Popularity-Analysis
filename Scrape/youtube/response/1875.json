@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "egO4fTpDgJ7_o_5zVLbgMHHrBnU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zPtJCgdcUV7r2oE-kVZzn237spw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-MZ8guTxcFU"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-27T12:58:18Z",
+        "channelId": "UCfLdIEPs1tYj4ieEdJnyNyw",
+        "title": "Lauv ft. Julia Michaels - There&#39;s No Way [Official Video]",
+        "description": "Lauv's debut album, ~how i'm feeling~ is available now: http://lauv.lnk.to/howimfeelingYD \"There's No Way\" feat. Julia Michaels available now: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-MZ8guTxcFU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-MZ8guTxcFU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-MZ8guTxcFU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lauv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-27T12:58:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dF6sQ0B5Ftpojem7WnRP0PPQ-co",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gu4Fkyv7TA8"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-27T13:24:00Z",
+        "channelId": "UCdshgFp1JHnqjnB5HrPRwfQ",
+        "title": "Lauv - There&#39;s No Way (Lyrics) ft. Julia Michaels 💙",
+        "description": "Lauv - There's No Way (Lyrics) ft. Julia Michaels is a lyric video for the track There's No Way by Lauv, can stream Lauv - There's No Way using the following link ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gu4Fkyv7TA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gu4Fkyv7TA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gu4Fkyv7TA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sleepy Wolf",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-27T13:24:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5ZTVzx-F_Fgh4eUEpSweLDsiU0g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wQu-bf8WlJg"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-02T05:39:52Z",
+        "channelId": "UCMtFAi84ehTSYSE9XoHefig",
+        "title": "Lauv Performs &#39;There&#39;s No Way&#39; ft. Julia Michaels",
+        "description": "The two singer-songwriters team up to serenade the Late Show audience with their single 'There's No Way.' Subscribe To \"The Late Show\" Channel HERE: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wQu-bf8WlJg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wQu-bf8WlJg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wQu-bf8WlJg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Late Show with Stephen Colbert",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-02T05:39:52Z"
+      }
+    }
+  ]
+}

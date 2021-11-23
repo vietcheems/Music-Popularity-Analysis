@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "yzNfv-R0SIh13vqGUl5Gs5O3jUE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ui4QcbfSBPUVec2AV2O9cc7wHTM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZB7Xjd34pjo"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-06T12:00:01Z",
+        "channelId": "UC0sL86jDLgs2fGRD-XBnPQA",
+        "title": "50 Cent ft. Chris Brown - I&#39;m The Man (Official Video)",
+        "description": "Listen to Chris Brown's remix of 50 Cent's hit song, \"I'm The Man\". Download the song : http://smarturl.it/50ImTheManRmx Stream the song: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZB7Xjd34pjo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZB7Xjd34pjo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZB7Xjd34pjo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "50CentVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-06T12:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GbX6HPtHdfl6co77x79jVLbLJp8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p5XtvhR4oUY"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-10T22:03:51Z",
+        "channelId": "UC8zJedg1f4sKnyuHWeS6vyw",
+        "title": "50 Cent - I&#39;m The Man (ft. Sonny Digital)",
+        "description": "New track off of The Kanan Tape - available for download: http://smarturl.it/50ImTheMan Produced by Sonny Digital Connect: http://instagram.com/50cent ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p5XtvhR4oUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p5XtvhR4oUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p5XtvhR4oUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "50 Cent",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-12-10T22:03:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t86d-abr2zSzd1-HHMfVV4MejMQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WDecHBqrfLI"
+      },
+      "snippet": {
+        "publishedAt": "2016-01-01T22:13:44Z",
+        "channelId": "UC8zJedg1f4sKnyuHWeS6vyw",
+        "title": "50 Cent - I&#39;m The Man (Short Film)",
+        "description": "50 Cent releases the official music video and short film for \"I'm The Man\", song off of The Kanan Tape. Download the song here: http://smarturl.it/50ImTheMan ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WDecHBqrfLI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WDecHBqrfLI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WDecHBqrfLI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "50 Cent",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-01-01T22:13:44Z"
+      }
+    }
+  ]
+}

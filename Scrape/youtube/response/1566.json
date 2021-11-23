@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "WGRZ44uO2zyl183oj1Eq91nQi2g",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 24963,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "efUt5WhHs4Z1t7vSWtveH-VES3M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1s3pDjwls2w"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-20T18:48:05Z",
+        "channelId": "UCeg38DAEPNdYCLnR-OAbZKg",
+        "title": "DNCE - Truthfully - lyrics",
+        "description": "DNCE.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1s3pDjwls2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1s3pDjwls2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1s3pDjwls2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lisa Gudmundson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-20T18:48:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4W7hDU5VSCxoEAq-L-ynfREAbCE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XBG2vfx2D28"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-19T06:46:46Z",
+        "channelId": "UCBg98J9b_uW6_cYBrwXPCWQ",
+        "title": "DNCE - Truthfully (lyrics)",
+        "description": "All Credits Goes To The Owners - https://www.youtube.com/user/DNCEVEVO.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XBG2vfx2D28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XBG2vfx2D28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XBG2vfx2D28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lyrics Kings",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-19T06:46:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "frIxs7tK8mwsR75FaDM3-5QwPB0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "geIuz5RyK3Q"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-18T16:31:47Z",
+        "channelId": "UCkrFeDQAnf-BTvRCrxQp-cw",
+        "title": "DNCE - &quot;Truthfully&quot; Acoustic Performance | Elvis Duran Live",
+        "description": "DNCE stops by to perform their new song, \"Truthfully\" in the Elvis Duran Performing Arts Center.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/geIuz5RyK3Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/geIuz5RyK3Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/geIuz5RyK3Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Elvis Duran Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-18T16:31:47Z"
+      }
+    }
+  ]
+}

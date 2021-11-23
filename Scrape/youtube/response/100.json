@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ZcZEjDgLwOknsi--Vcys4xcoQgE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DdNI-9dYCTX588fEqZjfeB8tTgQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1lbKUiZv1fI"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-19T17:01:47Z",
+        "channelId": "UCqXnWGBQSocV-7nWl9Cv0GQ",
+        "title": "Drake - Too Good ft. Rihanna",
+        "description": "The official audio of \"Too Good\" (feat. Rihanna) by Drake. Lyrics: Oh yeah, yeah, yeah Oh yeah, yeah, yeah Yeah Look... I don't know how to talk to you I don't ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1lbKUiZv1fI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1lbKUiZv1fI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1lbKUiZv1fI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Young Money Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-19T17:01:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XWBEljpPwiG0HDjJ2hFqCxh4eUc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x-u1wHZLezc"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-07T17:59:29Z",
+        "channelId": "UCpmD3iT-8TQzRuygIiS9bAw",
+        "title": "Drake - Too Good (feat. Rihanna)",
+        "description": "I'M GOING ON TOUR! Link to tickets: https://listings.ticketweb.co.uk/conormaynard SUBSCRIBE TO ME: http://smarturl.it/SubConorMaynard SUBSCRIBE TO ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x-u1wHZLezc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x-u1wHZLezc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x-u1wHZLezc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Conor Maynard",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-07T17:59:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R6c-Ha35NNsLnDpEl36UTVYErVw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EBIFffXTVRs"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-19T10:01:46Z",
+        "channelId": "UCm4_8TRTSLt9dT4GvyP_OqQ",
+        "title": "Drake   Too Good ft  Rihanna Lyrics",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EBIFffXTVRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EBIFffXTVRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EBIFffXTVRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sinda Zalteni",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-07-19T10:01:46Z"
+      }
+    }
+  ]
+}

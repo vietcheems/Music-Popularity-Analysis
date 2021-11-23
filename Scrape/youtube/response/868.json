@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "TjyC6S6wkcgKQd5pxxOikeepCBc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e8q3zI_d8bc6kR9bYPJ6hZbspAk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4WIlmsEi1rg"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-08T22:43:00Z",
+        "channelId": "UCKVio7g3Buxm7Smb-8aYS4g",
+        "title": "Kanye West feat. Chris Brown - Waves  (Officiel audio music ) prod :chikho",
+        "description": "Plz abonné/subscribe for more video music.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4WIlmsEi1rg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4WIlmsEi1rg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4WIlmsEi1rg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "chikh bekada sidi mohamed",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-08T22:43:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jLCWsHFXVM_7acgsm7SP5EehSf4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uYnHlW5Eer0"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-06T10:43:25Z",
+        "channelId": "UCUdkADIaGMQGDzKDAWgI0HA",
+        "title": "Kanye West - Waves ft. Chris Brown",
+        "description": "I don't own anything!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uYnHlW5Eer0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uYnHlW5Eer0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uYnHlW5Eer0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "frommacedoniawithlove",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-07-06T10:43:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nQ1N12P7jRaJISSdGlESXz16hlk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lxYmLbLZhPc"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-29T03:27:52Z",
+        "channelId": "UCTL2XJpwH1lLXkqT8Wy5s3w",
+        "title": "Kanye West  -  Waves (Ft. Chris Brown)  -  The Life of Pablo",
+        "description": "Kanye West Waves (featuring Chris Brown & Kid Cudi) The Life of Pablo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lxYmLbLZhPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lxYmLbLZhPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lxYmLbLZhPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Josh Wells",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-29T03:27:52Z"
+      }
+    }
+  ]
+}

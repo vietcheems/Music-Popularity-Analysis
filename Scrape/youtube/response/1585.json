@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "hbPKWr8vOv_K4Y6MNqTa9xi60Sg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HoVq5JoAi3RJe_e3DUaNnfEAgfE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xn_1hFdE-5g"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-09T17:30:46Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Everglow [Single Version] - (Official Video)",
+        "description": "Coldplay - Everglow is taken from the album A Head Full of Dreams released in 2015 (hear the album at https://smarturl.it/cpAHFOD) Subscribe for more content ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xn_1hFdE-5g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xn_1hFdE-5g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xn_1hFdE-5g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-09T17:30:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BZptxFxa5bF5rSMV3IwWba5A4e4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P8jOQUsTU9o"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-02T20:54:54Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Everglow (Live at Belasco Theater)",
+        "description": "Coldplay - Everglow (Live at Belasco Theater) Coldplay - Everglow is taken from the album A Head Full of Dreams released in 2015 (hear the album at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P8jOQUsTU9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P8jOQUsTU9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P8jOQUsTU9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-12-02T20:54:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VPBCOr1PR2xM4m6rFf0e2XYIRig",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZQscWmdFtcc"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-11T01:38:20Z",
+        "channelId": "UCfk_fX_2X08qLXT0qYCfbyw",
+        "title": "Coldplay - Everglow Lyrics",
+        "description": "Everglow by Coldplay *I do not own this music* \"No copyright infringement intended\".",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZQscWmdFtcc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZQscWmdFtcc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZQscWmdFtcc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Andrew Crown",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-11T01:38:20Z"
+      }
+    }
+  ]
+}

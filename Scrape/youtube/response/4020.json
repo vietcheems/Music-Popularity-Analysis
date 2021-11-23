@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "blVljALBypbgmMT_C-wttvnjXnw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6fGeWcU4mTVQASSnK0SSWXkgC9I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JH7bJkG7EEA"
+      },
+      "snippet": {
+        "publishedAt": "2010-05-24T17:04:20Z",
+        "channelId": "UCGg5RmvFgSnuqDKDr-bvLVw",
+        "title": "Ice Cube - Check yo Self (Remix)",
+        "description": "Ice Cube - Check yo Self (Remix) MP3 DownloadLink:http://www43.zippyshare.com/v/88558857/file.html \"Check Yo Self\" is the second hit single from Ice Cube's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JH7bJkG7EEA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JH7bJkG7EEA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JH7bJkG7EEA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OutlawManzion",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-05-24T17:04:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xxg3rzTDuYvqCHOnt3-frVgYZqI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IjrfcW_2txU"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-16T19:48:51Z",
+        "channelId": "UCcFrOIMXUrmX4hxgVSLrAiQ",
+        "title": "IceCube - Check Yo Self (Remix) *UnCuT*",
+        "description": "Yeah more IceCube shit right here..",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IjrfcW_2txU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IjrfcW_2txU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IjrfcW_2txU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IceCubeVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-16T19:48:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_0EmFFc07NYJf3gH8npMU9l3CpQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "teUnSb3O58w"
+      },
+      "snippet": {
+        "publishedAt": "2012-10-01T16:12:20Z",
+        "channelId": "UC5HPMnG14ZkcRfTS2eLGEog",
+        "title": "02 - Ice Cube - Check Yo Self (feat. Das Efx)(Remix)",
+        "description": "Ice Cube - Greatest Hits is a compilation album released in 2001 compiling 17 songs by Ice Cube. Two songs were exclusive to the album, \"$100 Bill Y'all\" and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/teUnSb3O58w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/teUnSb3O58w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/teUnSb3O58w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "O'Shea Jackson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-10-01T16:12:20Z"
+      }
+    }
+  ]
+}

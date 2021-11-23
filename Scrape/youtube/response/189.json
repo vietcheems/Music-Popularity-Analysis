@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "tAxP3OMXo0L9Cd7D-J99s5TAFiw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jQzz67PElXkltzCylMFALt6nnQA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "93ASUImTedo"
+      },
+      "snippet": {
+        "publishedAt": "2012-10-09T14:30:02Z",
+        "channelId": "UCTyZ4LCVRiCEVfkVqdi0m3A",
+        "title": "Disclosure - Latch feat. Sam Smith  (Official Video)",
+        "description": "ENERGY the new album, OUT NOW https://disclosure.lnk.to/ENERGY_AlbumID Disclosure Live: http://disclosureofficial.com/live/ Official Merch: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/93ASUImTedo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/93ASUImTedo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/93ASUImTedo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disclosure",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-10-09T14:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WTASPRZhW1Cuy4L1xsBfcRJDEnc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k0jLE7tTwjY"
+      },
+      "snippet": {
+        "publishedAt": "2015-01-10T23:41:06Z",
+        "channelId": "UCMqoUCDT2rtlvBS93GXGqDA",
+        "title": "Latch Feat. Sam Smith",
+        "description": "Provided to YouTube by Republic of Music Latch Feat. Sam Smith · Disclosure featuring Sam Smith Latch Featuring Sam Smith ℗ PMR Records Released on: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k0jLE7tTwjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k0jLE7tTwjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k0jLE7tTwjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Disclosure - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-01-10T23:41:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nKY-SVmJHbsREpQ5x0hb-1n0LWo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qZpebtp8W7I"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-01T10:18:33Z",
+        "channelId": "UClTZ7rEb1Loyinm1XRoPiOQ",
+        "title": "Disclosure - Latch (Lyrics) ft. Sam Smith",
+        "description": "Subscribe to Cosmos Network For Your Daily Music! http://bit.ly/CosmosNetwork\u200b Subscribe to Cosmos Lyrics for your Daily Music with Lyrics!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qZpebtp8W7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qZpebtp8W7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qZpebtp8W7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cosmos Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-01T10:18:33Z"
+      }
+    }
+  ]
+}

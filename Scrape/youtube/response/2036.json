@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "OpKXesmnGKU275jDyTXhSIAhD-0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fPIviUmcornjQuzgeamwQ0Pa8lY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uXyxFMbqKYA"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-15T07:00:06Z",
+        "channelId": "UCwLK17rpMFUfktQEcMzSyWg",
+        "title": "Luke Combs - When It Rains It Pours",
+        "description": "Official Video for \"When It Rains It Pours\" by Luke Combs Listen to Luke Combs: https://LukeCombs.lnk.to/listenYD Subscribe to the official Luke Combs ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uXyxFMbqKYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uXyxFMbqKYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uXyxFMbqKYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LukeCombsVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-15T07:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n4l_JoBB63S-wFtYaQQfnsXXW3A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DSZts50ATB8"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-07T20:49:13Z",
+        "channelId": "UChfYC_0wfheKTRoVyDNIiag",
+        "title": "Luke Combs When It Rains It Pours Lyrics",
+        "description": "Lyrics Sunday morning, man, she woke up fighting mad Bitching and moaning on and on 'bout the time I had And by Tuesday, you could say that girl was good ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DSZts50ATB8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DSZts50ATB8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DSZts50ATB8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Another Way",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-07T20:49:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R51TDxqJ-c0EBkN8jGcBvqVRnLU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9ZesW_m3yJM"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-14T13:00:01Z",
+        "channelId": "UCwLK17rpMFUfktQEcMzSyWg",
+        "title": "Luke Combs - When It Rains It Pours (Live Acoustic)",
+        "description": "Listen to “When It Rains It Pours” now on Luke Combs' deluxe album, 'This One's For You Too': http://smarturl.it/LCDLX?IQid=youtube Pre-order/add/save Luke ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ZesW_m3yJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ZesW_m3yJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ZesW_m3yJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LukeCombsVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-14T13:00:01Z"
+      }
+    }
+  ]
+}

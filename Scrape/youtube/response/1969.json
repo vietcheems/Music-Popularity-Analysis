@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "-DbanoRR5laiTsCONuPqa3T33jc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pXUetksmtigEAbI9zLC2-y3pMPA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EqWRaAF6_WY"
+      },
+      "snippet": {
+        "publishedAt": "2011-03-18T19:35:42Z",
+        "channelId": "UCGRjJrpD2bmk9Ilq6nq80qg",
+        "title": "Foo Fighters - My Hero (Official HD Video)",
+        "description": "\"My Hero\" by Foo Fighters Listen to Foo Fighters: https://FooFighters.lnk.to/listen_YD Watch more Foo Fighter videos: https://FooFighters.lnk.to/listen_YC/youtube ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EqWRaAF6_WY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EqWRaAF6_WY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EqWRaAF6_WY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "foofightersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-03-18T19:35:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p1jEYkgmmYaAmRY_BNLQ0vnKseQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "87bcPisyTHs"
+      },
+      "snippet": {
+        "publishedAt": "2007-11-25T04:55:26Z",
+        "channelId": "UCTZXK6L-W3RGfw2kMV1oZ7Q",
+        "title": "Foo Fighters - My Hero",
+        "description": "Lyrics Too alarming now to talk about Take your pictures down and shake it out Truth or consequence say it aloud Use that evidence race it around (Chorus) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/87bcPisyTHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/87bcPisyTHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/87bcPisyTHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "0foofighter0",
+        "liveBroadcastContent": "none",
+        "publishTime": "2007-11-25T04:55:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gFvTGUV3ItCRMKuPZnic34z2uw8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rhAUTOBBfm8"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-26T07:00:10Z",
+        "channelId": "UCGRjJrpD2bmk9Ilq6nq80qg",
+        "title": "Foo Fighters - My Hero (Live At Wembley Stadium, 2008)",
+        "description": "Foo Fighters performing “My Hero” live at Wembley Stadium, 2008 Listen to Foo Fighters: https://FooFighters.lnk.to/ListenYD Filmed over two sold-out nights at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rhAUTOBBfm8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rhAUTOBBfm8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rhAUTOBBfm8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "foofightersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-26T07:00:10Z"
+      }
+    }
+  ]
+}

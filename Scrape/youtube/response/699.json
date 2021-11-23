@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "VcVBMoHyN1QMIMIJWE78ZHvzIi0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WQnbZuWKFAdShQSOtUnH17qk4E0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h_L4Rixya64"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-03T20:49:33Z",
+        "channelId": "UCGRjJrpD2bmk9Ilq6nq80qg",
+        "title": "Foo Fighters - Best Of You (Official Music Video)",
+        "description": "Watch the official music video for \"Best Of You\" by Foo Fighters Listen to Foo Fighters: https://FooFighters.lnk.to/listen_YD Subscribe to the official Foo Fighters ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h_L4Rixya64/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h_L4Rixya64/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h_L4Rixya64/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "foofightersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-03T20:49:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jOg3tnhN9hSTr3VOsQ7zqvFGbMo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qnIwCsQYoEc"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-09T07:00:15Z",
+        "channelId": "UCGRjJrpD2bmk9Ilq6nq80qg",
+        "title": "Foo Fighters - Best Of You (Live At Wembley Stadium, 2008)",
+        "description": "Foo Fighters performing “Best of You” live at Wembley Stadium, 2008 Listen to Foo Fighters: https://FooFighters.lnk.to/ListenYD Filmed over two sold-out nights ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qnIwCsQYoEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qnIwCsQYoEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qnIwCsQYoEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "foofightersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-09T07:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lSGejeRFXAM1QjWIAKERD0mtTeU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ENwIVw2h3SQ"
+      },
+      "snippet": {
+        "publishedAt": "2009-05-20T06:17:18Z",
+        "channelId": "UCMrouucDtl_n8vm7BWqH7Zg",
+        "title": "Foo Fighters- The Best Of You(lyrics)",
+        "description": "Foo Fighters- The Best Of You I`m taking requests. Lyrics: Ive got another confession to make Im your fool Everyones got their chains to break Holdin you Were ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ENwIVw2h3SQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ENwIVw2h3SQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ENwIVw2h3SQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "costahp",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-05-20T06:17:18Z"
+      }
+    }
+  ]
+}

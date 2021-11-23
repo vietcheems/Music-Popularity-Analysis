@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "j5B4etyDhp_dwRnAi01oVOL8hdQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gEnbV3KL7xPXLbK7UeQ91-d_N7A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DmeUuoxyt_E"
+      },
+      "snippet": {
+        "publishedAt": "2007-08-14T13:25:19Z",
+        "channelId": "UCRRxSTgPUY0q_YToaczc2BQ",
+        "title": "Nickelback - Rockstar [OFFICIAL VIDEO]",
+        "description": "Nickelback's music video for 'Rockstar' from the album, All The Right Reasons - available now on Roadrunner Records. - CD: http://smarturl.it/NickelbBestOfCD ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DmeUuoxyt_E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DmeUuoxyt_E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DmeUuoxyt_E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Roadrunner Records",
+        "liveBroadcastContent": "none",
+        "publishTime": "2007-08-14T13:25:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5qsyGJUsKSba6RrDEMQ_jgM7taU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IQ67NLzADOE"
+      },
+      "snippet": {
+        "publishedAt": "2014-06-30T11:43:45Z",
+        "channelId": "UCoLLW9VAzz3-MpC9W_iYEzA",
+        "title": "Nickelback - Rockstar (Lyrics, HD)",
+        "description": "The Song \"Rockstar\" from Nickelback with English Lyrics. Made by Lyrics Channel. Rate, Comment and subscribe :) Thank's for watching.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IQ67NLzADOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IQ67NLzADOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IQ67NLzADOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lyrics Channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-06-30T11:43:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AQG8X25wpwA-PwhjEuDJgXLOW_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ip-8VhGSMWg"
+      },
+      "snippet": {
+        "publishedAt": "2012-01-09T08:25:30Z",
+        "channelId": "UC4t-WgmsO_ghsFMtFXjqQlg",
+        "title": "Nickelback- Rockstar Lyrical Video",
+        "description": "\"NO COPYRIGHTS\" \"I DO NOT OWN THIS MUSIC AND/OR LYRICS\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ip-8VhGSMWg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ip-8VhGSMWg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ip-8VhGSMWg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SeeMeBeBrave",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-01-09T08:25:30Z"
+      }
+    }
+  ]
+}

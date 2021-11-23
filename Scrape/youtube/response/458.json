@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "C7Jw4q3F9h5oNZ_1wgXeTsCyrPk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GBPEOxeZ4-lQAvxI12u-OAMGMlo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L53gjP-TtGE"
+      },
+      "snippet": {
+        "publishedAt": "2010-08-05T23:55:08Z",
+        "channelId": "UChpJbg7zMbi5jx9Gdjaxa9g",
+        "title": "Kanye West - POWER",
+        "description": "Best of Kanye West: https://goo.gl/2FXUVW Subscribe here: https://goo.gl/AgJE59 Music video by Kanye West performing POWER. (C) 2010 Roc-A-Fella ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L53gjP-TtGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L53gjP-TtGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L53gjP-TtGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KanyeWestVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-08-05T23:55:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kNFM57Z4zOeYU55VlyCsxcoiBHQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SUtf9Ajlno4"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-14T16:50:27Z",
+        "channelId": "UCNvEx7i3ELzTkqAq8DFrSMg",
+        "title": "Kanye West - Power (Audio)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SUtf9Ajlno4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SUtf9Ajlno4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SUtf9Ajlno4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "mostuploads",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-14T16:50:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yx7pLHVczQmUdlsXIUYqrS6ZDZs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0yJuXCiiBSs"
+      },
+      "snippet": {
+        "publishedAt": "2011-09-14T05:42:38Z",
+        "channelId": "UCVZ3Y0PpMQ-Chn6eyKAwOHg",
+        "title": "Power - Kanye West [Lyrics]",
+        "description": "Kanye West's Single Power from his album My Beautiful Dark Twisted Fantasy. Watch the video on youtube.com/KanyeWestVevo Send us your requests!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0yJuXCiiBSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0yJuXCiiBSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0yJuXCiiBSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BeaverLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-09-14T05:42:38Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "QsVeckn7SUxQ3h2acnu7-5nkJMk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5IS77RxDc2-LCNpN5RD7Y4662-w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DqoLMGSBGYc"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-13T19:01:17Z",
+        "channelId": "UC-rX_f6vueiRY0E75gBNQ0g",
+        "title": "Tracy Chapman - Baby Can I Hold You (Official Music Video)",
+        "description": "Tracy Chapman - Baby Can I Hold You (Official Music Video)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DqoLMGSBGYc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DqoLMGSBGYc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DqoLMGSBGYc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tracy Chapman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-13T19:01:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZEChstXiOhFpEq9TuU8TE0PNmBI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QvYSckKSL5g"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-11T01:02:01Z",
+        "channelId": "UC-oYSv96tFifyD-Lijqs5mw",
+        "title": "Tracy Chapman - Baby Can I Hold You (Live)",
+        "description": "Tracy Chapman performs \"Baby Can I Hold You\" http://vevo.ly/n7svzZ.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QvYSckKSL5g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QvYSckKSL5g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QvYSckKSL5g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ShoutFactoryVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-11T01:02:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WpBPB_RK_hEGzQHKGvQbi-1E0q4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qQdnl0_IuRg"
+      },
+      "snippet": {
+        "publishedAt": "2007-09-17T06:23:13Z",
+        "channelId": "UCMO4LGR8JcEQ10LMAlXVGWw",
+        "title": "Baby Can I Hold You Tonight - Pavarotti and Tracy Chapman Live",
+        "description": "Sorry It's all that you can't say Years gone by and still Words don't come easily Like sorry, like sorry Perdonami È uma parola che Tu non dice mai E non ti è ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qQdnl0_IuRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qQdnl0_IuRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qQdnl0_IuRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jack Daniel's",
+        "liveBroadcastContent": "none",
+        "publishTime": "2007-09-17T06:23:13Z"
+      }
+    }
+  ]
+}

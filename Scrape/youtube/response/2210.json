@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "QUFoO1ni9rFwOiuI44EUMX48hEM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Sk1rNmza1a4fZS3dx4UPQEv5xKc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QtTR-_Klcq8"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-18T01:04:10Z",
+        "channelId": "UCF3EnnuLjeab3r8l1k2rV9g",
+        "title": "The Offspring - Pretty Fly (For A White Guy) (Official Music Video)",
+        "description": "REMASTERED IN HD! Playlist Best of Offspring: https://goo.gl/cwFfP6 Subscribe for more: https://goo.gl/JaSm1N Music video by The Offspring performing Pretty ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QtTR-_Klcq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QtTR-_Klcq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QtTR-_Klcq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OffspringVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-18T01:04:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YG1cPSEMfHPjoYqcRkSQeVnwu78",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cFnAt_I9STw"
+      },
+      "snippet": {
+        "publishedAt": "2012-02-01T02:15:45Z",
+        "channelId": "UCN9dLL86Y3usVSXbIuJHWpQ",
+        "title": "The Offspring - Pretty Fly for a White Guy HD",
+        "description": "Pretty Fly for a White Guy - Americana.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cFnAt_I9STw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cFnAt_I9STw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cFnAt_I9STw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MasterQualityMusic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-02-01T02:15:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ust8FE4TmWEy4yX23p1-ILIdcIg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RxoY3rehsG8"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-17T22:28:41Z",
+        "channelId": "UCkZqulV4hovQ88Oi0htrjFA",
+        "title": "The Offspring - Pretty Fly (For A White Guy) - 7/23/1999 - Woodstock 99 East Stage",
+        "description": "Recorded 7/23/1999 - Woodstock 99 East Stage (Rome, NY) Visit Wolfgang's https://www.wolfgangs.com/music/ to stream concerts from thousands of legendary ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RxoY3rehsG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RxoY3rehsG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RxoY3rehsG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alt Rock on MV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-17T22:28:41Z"
+      }
+    }
+  ]
+}

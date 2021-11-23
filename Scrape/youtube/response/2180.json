@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "G68_qwNHlT5vKr66kmxxz9zh8p4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IIqm1ygDvj2SSC67FUMsNszZSuc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1vhFnTjia_I"
+      },
+      "snippet": {
+        "publishedAt": "2008-09-07T07:11:24Z",
+        "channelId": "UCSvUTZo966NFJoN9VvIFizg",
+        "title": "Neil Diamond - Sweet Caroline High Quality neildiamond",
+        "description": "Neil Diamond - Sweet Caroline High Quality to Live Audience in Neil Diamond's Early Years.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1vhFnTjia_I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1vhFnTjia_I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1vhFnTjia_I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KarlStudios1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-09-07T07:11:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sCjEKjnyC_CcCnT1GP1HEvudvx4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jzXt7YvK9Hw"
+      },
+      "snippet": {
+        "publishedAt": "2011-11-06T23:20:10Z",
+        "channelId": "UCmrM_P4GszuiE4wNfmw9IjQ",
+        "title": "Neil Diamond - Sweet Caroline Lyrics",
+        "description": "I DO NOT OWN ANY CONTENT SEEN IN THIS VIDEO. IT BELONGS TO ITS RESPECTED OWNERS.* For Pep Band Sundays. Video by Stephen.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jzXt7YvK9Hw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jzXt7YvK9Hw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jzXt7YvK9Hw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "lyricspeople1234",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-11-06T23:20:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H0TdO_zPJDc3_C0msB4gon3kn5s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ty1dwBCR6D0"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-27T07:00:07Z",
+        "channelId": "UCihbPSHOwrepGHQrRFsUj4A",
+        "title": "Neil Diamond - Sweet Caroline (Live At The Greek Theatre / 2012)",
+        "description": "Music video by Neil Diamond performing Sweet Caroline. © 2018 Neil Diamond, Under exclusive license to UMG Recordings, Inc. http://vevo.ly/syBPYo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ty1dwBCR6D0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ty1dwBCR6D0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ty1dwBCR6D0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "neildiamondVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-27T07:00:07Z"
+      }
+    }
+  ]
+}

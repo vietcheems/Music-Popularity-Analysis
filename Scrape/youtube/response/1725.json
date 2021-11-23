@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "P1O1DU2646EFAsjRM74jW2hsBYQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c4ygs4OK7RMkq2xLjU-4G1CusEY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YuPzpoC3QNc"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-18T16:00:03Z",
+        "channelId": "UCRzzwLpLiUNIs6YOPe33eMg",
+        "title": "The Chainsmokers - This Feeling (Lyric Video) ft. Kelsea Ballerini",
+        "description": "Official lyric video for ”This Feeling” by The Chainsmokers Listen to The Chainsmokers: https://thechainsmokers.lnk.to/listenYD Watch more videos by The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YuPzpoC3QNc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YuPzpoC3QNc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YuPzpoC3QNc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChainsmokersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-18T16:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0lnwRRdAAhlN2ueVOGVJFPjMbN0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fKtY_37r1VI"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-12T14:58:26Z",
+        "channelId": "UCRzzwLpLiUNIs6YOPe33eMg",
+        "title": "The Chainsmokers - This Feeling (Official Video) ft. Kelsea Ballerini",
+        "description": "The Chainsmokers ft. Kelsea Ballerini \"This Feeling\" out now: http://smarturl.it/TCSThisFeeling Amazon Music: http://smarturl.it/TCSThisFeeling/az Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fKtY_37r1VI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fKtY_37r1VI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fKtY_37r1VI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChainsmokersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-12T14:58:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "--TqxK_OUqJ29WEssXBTks_8ib4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u2BV57EEv4g"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-03T22:47:40Z",
+        "channelId": "UCq3Ci-h945sbEYXpVlw7rJg",
+        "title": "The Chainsmokers - This Feeling (Live From The Victoria’s Secret 2018 Fashion Show)",
+        "description": "THIS FEELING Out Now: http://smarturl.it/TCSThisFeeling See the full show by tuning in to ABC on Friday, December 7 at 9/8c for the encore of The Victoria's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u2BV57EEv4g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u2BV57EEv4g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u2BV57EEv4g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Chainsmokers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-03T22:47:40Z"
+      }
+    }
+  ]
+}

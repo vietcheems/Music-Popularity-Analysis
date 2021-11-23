@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "YU41ADmK2fwYZ9dn7sdwzKdMV4Y",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0WduJ16Nt7k_IXgcqwdWaxYvEFA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eepLY8J4E6c"
+      },
+      "snippet": {
+        "publishedAt": "2013-11-04T03:17:28Z",
+        "channelId": "UCrKYOgcepS54JRLl_ghQ2vw",
+        "title": "The Temptations - My Girl",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eepLY8J4E6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eepLY8J4E6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eepLY8J4E6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "louis * Jukebox *",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-11-04T03:17:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bvx-ANLLK8CiwP8lc0AIHKx2ppo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8Ff2Z0Dq2sg"
+      },
+      "snippet": {
+        "publishedAt": "2014-06-28T12:06:54Z",
+        "channelId": "UCGgVxR9SB4E-W_CyuFMILRA",
+        "title": "My Girl - The Temptations (1964) (HD Quality)",
+        "description": "\"My Girl\" - The Temptations (1964) \"Answer-song to My Guy van Mary Wells, beiden geschreven door Smokey Robinson. No copyright infringement intended.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Ff2Z0Dq2sg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Ff2Z0Dq2sg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Ff2Z0Dq2sg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Marc Leroy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-06-28T12:06:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7C2ilK4_3I_jyRrjLmmGszlNr54",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1hZSulcsImQ"
+      },
+      "snippet": {
+        "publishedAt": "2014-08-14T19:17:15Z",
+        "channelId": "UCi-6X2nKfRP1W6e-MopD9wg",
+        "title": "The Temptations - My Girl (lyrics)",
+        "description": "Special person in my life deserves this special song. I love you sweetheart No copyright infringment intended Help me with joining here. It's totally free: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1hZSulcsImQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1hZSulcsImQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1hZSulcsImQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cehblazlyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-08-14T19:17:15Z"
+      }
+    }
+  ]
+}

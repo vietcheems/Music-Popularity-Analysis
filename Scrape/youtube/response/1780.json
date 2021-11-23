@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "_AsJV4WNasL4CwRyztKb4mY8wps",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o_EEVsb0Jr-bia2EA3Ogzz5ruKo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oBIxScJ5rlY"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-03T20:59:04Z",
+        "channelId": "UC9KhB07HSEtWISy_LFWwHzw",
+        "title": "John Mayer - Waiting On the World to Change (Official Video)",
+        "description": "Official Video for \"Waiting On the World to Change\" by John Mayer Listen to John Mayer: https://John-Mayer.lnk.to/listenYD Watch more John Mayer videos: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oBIxScJ5rlY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oBIxScJ5rlY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oBIxScJ5rlY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "johnmayerVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-03T20:59:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IEzITaY6t1gzoDhCguSeBTw-_Bo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XyF2lHZt8Mo"
+      },
+      "snippet": {
+        "publishedAt": "2011-03-23T06:44:27Z",
+        "channelId": "UC9KhB07HSEtWISy_LFWwHzw",
+        "title": "John Mayer - Waiting On the World to Change (Live at the Nokia Theatre)",
+        "description": "Music video by John Mayer performing Waiting On The World To Change. (c) 2008 Sony Music Entertainment.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XyF2lHZt8Mo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XyF2lHZt8Mo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XyF2lHZt8Mo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "johnmayerVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-03-23T06:44:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gfjqg9rwBU2-RYUMH-eky3JJlpw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "REqz9D7OWZE"
+      },
+      "snippet": {
+        "publishedAt": "2007-11-09T20:45:44Z",
+        "channelId": "UC8-tCF-JdcyLEVGQ0YWNMrw",
+        "title": "Waiting On The World To Change",
+        "description": "Waiting On The World To Change by John Mayer with lyrics.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/REqz9D7OWZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/REqz9D7OWZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/REqz9D7OWZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MusicMaker66",
+        "liveBroadcastContent": "none",
+        "publishTime": "2007-11-09T20:45:44Z"
+      }
+    }
+  ]
+}

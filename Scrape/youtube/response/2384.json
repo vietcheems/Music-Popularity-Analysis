@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "MtukyLww1MFKejXrqwTy16MdXgM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7YFfHnQi6u7oKPZTTY2Hsu1ZvVk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PALMMqZLAQk"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-09T07:00:01Z",
+        "channelId": "UCKzhoblE_rPZbHtQKPVUp2A",
+        "title": "SZA - The Weekend (Audio)",
+        "description": "SZA's \"CTRL\" available on: Apple Music - http://smarturl.it/iCTRL Spotify - http://smarturl.it/sCTRL Soundcloud - http://smarturl.it/scCTRL Tidal ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PALMMqZLAQk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PALMMqZLAQk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PALMMqZLAQk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SZAVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-09T07:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VYtwSaiGGBa9r5mKH0kkad2H2tw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ByucbuSe958"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-15T08:00:02Z",
+        "channelId": "UCKzhoblE_rPZbHtQKPVUp2A",
+        "title": "SZA x Calvin Harris - The Weekend (Funk Wav Remix (Audio))",
+        "description": "The Weekend (Funk Wav Remix)” by SZA and Calvin Harris Listen to SZA: https://Sza.lnk.to/listenYD Subscribe to the official SZA YouTube Channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ByucbuSe958/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ByucbuSe958/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ByucbuSe958/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SZAVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-15T08:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "csQksOmHAaQwoDj-C99gG0HEqkI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cMD63TwzB1o"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-22T05:00:01Z",
+        "channelId": "UCKzhoblE_rPZbHtQKPVUp2A",
+        "title": "SZA - The Weekend (Official Video)",
+        "description": "SZA's \"CTRL\" available on: Apple Music - http://smarturl.it/iCTRL Spotify - http://smarturl.it/sCTRL Soundcloud - http://smarturl.it/scCTRL Tidal ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cMD63TwzB1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cMD63TwzB1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cMD63TwzB1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SZAVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-22T05:00:01Z"
+      }
+    }
+  ]
+}

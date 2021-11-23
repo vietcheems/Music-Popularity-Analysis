@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "TONqLlMHJNNek0uEKS-WjP4TZyQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cA5zHr4OQkNRJ_Iz9beaMX5nxzY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GgD9FyE60hs"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-16T06:37:17Z",
+        "channelId": "UCQRN3HKxukiY4pMp0WIzB-w",
+        "title": "Cher - If I Could Turn Back Time (Official Video)",
+        "description": "CHER Fan Club welcomes brand new Patrons: Catherine Eckert, Francisco Rios, Robby Romero, Niklas Manthey, Rebecca Little, Philipp Heim, Wendy Aitken, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GgD9FyE60hs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GgD9FyE60hs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GgD9FyE60hs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CHER Fan Club",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-16T06:37:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O8cjH6X0bbOHVSiQokjuXF0xF1g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "taM7k2QhJe8"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-08T21:29:59Z",
+        "channelId": "UCmeCk9MXtWSkuhfXyUIT8zg",
+        "title": "Cher - If I Could Turn Back Time",
+        "description": "Music video by Cher performing If I Could Turn Back Time. © 1989 Geffen Records.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/taM7k2QhJe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/taM7k2QhJe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/taM7k2QhJe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CherVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-08T21:29:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OETzTXZC6ab37r579DKBJs069rs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jq_BAHIAuNw"
+      },
+      "snippet": {
+        "publishedAt": "2010-09-06T23:20:50Z",
+        "channelId": "UCT8eLyy98bR7pxIe8zfviuA",
+        "title": "Cher if i could turn back time lyrics",
+        "description": "Cher if i could turn back time lyrics i do not own this music.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jq_BAHIAuNw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jq_BAHIAuNw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jq_BAHIAuNw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Defiance007",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-09-06T23:20:50Z"
+      }
+    }
+  ]
+}

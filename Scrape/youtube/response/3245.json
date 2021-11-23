@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Ep29ZnkDKGZcrConFPJUxAd_M3U",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IB81W68Y6m7dJG8spVNSxH7_TsI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Z8nkc2KKjd8"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-21T22:00:00Z",
+        "channelId": "UCsEj8E122ibbJetQe8BoV7g",
+        "title": "Kane Brown - Lose It",
+        "description": "Get “Lose It” on Kane Brown's new album, Experiment, available now! Apple Music: http://smarturl.it/kbexperiment/applemusic?IQid=yt iTunes: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Z8nkc2KKjd8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Z8nkc2KKjd8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Z8nkc2KKjd8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KaneBrownVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-21T22:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CWUq2MCtv8nlK_72bzWiw9Je-90",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4gNMUWeYHG4"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-09T21:34:14Z",
+        "channelId": "UCKvM2LydWT5TJSKtTU7F7ZA",
+        "title": "Kane Brown - Lose It - Lyrics",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4gNMUWeYHG4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4gNMUWeYHG4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4gNMUWeYHG4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Worldwide Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-09T21:34:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AYFcCwLFFMGwuAESLhlWzSwOsL0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wOwMCgCmA-c"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-31T04:00:17Z",
+        "channelId": "UCsEj8E122ibbJetQe8BoV7g",
+        "title": "Kane Brown - Lose It (Pandora Live)",
+        "description": "Kane Brown \"Lose It\" from Pandora Live. Hear all the tracks from Kane's performance here: https://KB.lnk.to/pandoraliveAY Subscribe to Kane Brown's YouTube ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wOwMCgCmA-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wOwMCgCmA-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wOwMCgCmA-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KaneBrownVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-31T04:00:17Z"
+      }
+    }
+  ]
+}

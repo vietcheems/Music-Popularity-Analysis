@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Uf_Lk5Nq1jYLwJmywvAdfHjlrA8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YehaHTihJyz6AKQqcUZ2xriEgEs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "diIFhc_Kzng"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-27T21:48:01Z",
+        "channelId": "UCqf-kTp9ERV5T1rPayno7LA",
+        "title": "Frank Ocean - Nikes",
+        "description": "Frank Ocean - Nikes ℗ Boys Don't Cry Released August 20, 2016.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/diIFhc_Kzng/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/diIFhc_Kzng/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/diIFhc_Kzng/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Blonded",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-27T21:48:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A8mitI7EH7JwA9rFPcPzfw9GVjs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bjIGZNSKZrY"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-08T06:30:01Z",
+        "channelId": "UCVu1GuWfCt5dZlWQbT6SjVA",
+        "title": "Frank Ocean - Nikes | (music video)",
+        "description": "I do not earn a single penny from this channel. If you think it's worth something, I'd appreciate ANY AMOUNT of a donation! https://paypal.me/visualletters .",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bjIGZNSKZrY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bjIGZNSKZrY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bjIGZNSKZrY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "visual letters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-08T06:30:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gcl4KcEfATpJKWDU4uy27bpv0sw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5qKP32GYiks"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-04T09:19:38Z",
+        "channelId": "UCbBnHVQCcYMXNjVoRa0_1eA",
+        "title": "Frank Ocean - Nikes (Live Studio Recording)",
+        "description": "Live piano rendition of Nikes by ⭐ Frank Ocean.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5qKP32GYiks/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5qKP32GYiks/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5qKP32GYiks/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JetPackGuy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-04T09:19:38Z"
+      }
+    }
+  ]
+}

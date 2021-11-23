@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "JdD0mH0ZQl1za2xvMVTdi-cBzVg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 256581,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wrB9Umwc7YIJQdnezTowuShgQcI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QV9JJmSCiI8"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-27T14:00:20Z",
+        "channelId": "UCAb60rVrvVQVfSgrX1UWb0g",
+        "title": "Fleetwood Mac - Don&#39;t Stop (Official Music Video)",
+        "description": "You're watching the official music video for Fleetwood Mac - \"Don't Stop\" from the 1977 album \"Rumours\". The new Fleetwood Mac collection '50 Years – Don't ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QV9JJmSCiI8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QV9JJmSCiI8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QV9JJmSCiI8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fleetwood Mac",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-27T14:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wJfltJ7_1zq88y7BaDt2eJcuPT0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SybgWaQy7_c"
+      },
+      "snippet": {
+        "publishedAt": "2011-04-19T01:14:58Z",
+        "channelId": "UCLB3FLLV7CVFueVLEpkhXiQ",
+        "title": "Fleetwood Mac - Don&#39;t Stop [with lyrics]",
+        "description": "Fleetwood Mac - Don't Stop from 1977 with lyrics LYRICS: If you wake up and don't want to smile If it takes just a little while Open your eyes and look at the day ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SybgWaQy7_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SybgWaQy7_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SybgWaQy7_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "muzicchnl",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-04-19T01:14:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iVE-B1H1U9CJylpp_MrGoPouyjA",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLZ7HEDonKkO9rMD7WXu6EvLVrTIYKEv_O"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-01T15:24:51Z",
+        "channelId": "UCOUOxSq2SWBykibiwldO5Yg",
+        "title": "Fleetwood Mac 50 Years - Don&#39;t Stop",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lupina de Prata",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-01T15:24:51Z"
+      }
+    }
+  ]
+}

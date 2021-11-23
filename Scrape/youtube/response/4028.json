@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "6ZQj4pd7tN-E1uuQH37Ay-mknQ0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BMoxyf0pLYu8Y-8Qp6JNNmUH6KI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yO28Z5_Eyls"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-25T14:00:00Z",
+        "channelId": "UCNDaFXLGF7W6ADJ7eUwIhgg",
+        "title": "The Greatest Showman | &quot;Rewrite The Stars&quot; Lyric Video | Fox Family Entertainment",
+        "description": "Sing-a-long with Zac Efron and Zendaya during their epic performance of \"Rewrite the Stars\" with Fox Family Entertainment! Inspired by the imagination of P.T. ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yO28Z5_Eyls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yO28Z5_Eyls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yO28Z5_Eyls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fox Family Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-25T14:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C6cBhM8V00eeU-wQnuKRTbRBp_U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RI-HOQ27QEM"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-02T17:00:02Z",
+        "channelId": "UCj4mJaB6K3a6eCw1xIQ2jsA",
+        "title": "Zac Efron, Zendaya - Rewrite The Stars (Lyrics / Lyrics Video)",
+        "description": "Zac Efron, Zendaya - Rewrite The Stars (Lyrics / Lyrics Video) https://spoti.fi/2C8Gzkc The Greatest Showman Soundtrack Available Now!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RI-HOQ27QEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RI-HOQ27QEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RI-HOQ27QEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NewMelody",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-02T17:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-VQXPb1JzhBYqIoTBHu6VSsa6fw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LNdvSa6YUbs"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-29T13:07:42Z",
+        "channelId": "UCneWUC3UiiidpuJmjWS7U3g",
+        "title": "Rewrite the Stars - Zac and Zendaya (From The Greatest Showman) HD",
+        "description": "Rewrite the Stars” was the third promotional song to be released before The Greatest Showman premiered. It is the eighth song overall on the soundtrack.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LNdvSa6YUbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LNdvSa6YUbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LNdvSa6YUbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kookie Master",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-29T13:07:42Z"
+      }
+    }
+  ]
+}

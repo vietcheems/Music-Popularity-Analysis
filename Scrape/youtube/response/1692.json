@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "SMODFqAqfxGTp89Sg5O2b1GQORQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w_I--VzcoJiU_WbXdLHRY0XEn9k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "H1HdZFgR-aA"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-18T23:55:39Z",
+        "channelId": "UCjIILWUX89AHJmDpFCZ2-og",
+        "title": "2Pac - All Eyez On Me",
+        "description": "2Pac performing All Eyez On Me. From the album All Eyez On Me © 1996 DRR Lyrics: [2Pac:] Big Syke, Newt, Hank Beugard, Big Sur Y'all know how this shit go ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H1HdZFgR-aA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H1HdZFgR-aA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H1HdZFgR-aA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Seven Hip-Hop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-18T23:55:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XIG7Ja9s6r_4KmsfwG7PNvRIOQk",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLNvnh4cN6-ATtLWZMdVVkEwms-srSDCAz"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-06T08:57:03Z",
+        "channelId": "UCjIILWUX89AHJmDpFCZ2-og",
+        "title": "2Pac - All Eyez On Me [Full Album]",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pDTFR7ivvgE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pDTFR7ivvgE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pDTFR7ivvgE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Seven Hip-Hop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-06T08:57:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PW6orTcaNHw96gLuPLJkjjOkMDs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QgADsQqcKUs"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-16T19:45:28Z",
+        "channelId": "UC1NAcAcANasvrThTviyNl9A",
+        "title": "Tupac - All Eyes OnMe | Full Album | | Best Quality | | HD |",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QgADsQqcKUs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QgADsQqcKUs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QgADsQqcKUs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "2Pac-King",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-16T19:45:28Z"
+      }
+    }
+  ]
+}

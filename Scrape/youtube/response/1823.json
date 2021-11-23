@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "3IzT1pGPLt49UysTyqOOuw5jbO4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hcNYyEnEpXTafZWF8Ih7-Wmirko",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WXBHCQYxwr0"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-27T16:26:25Z",
+        "channelId": "UCOwgc8DswjoBMuuUU2ScPvQ",
+        "title": "Ava Max - Sweet but Psycho [Official Music Video]",
+        "description": "Listen to my debut album \"Heaven & Hell\" now: https://AvaMax.lnk.to/HeavenandHellID \"Sweet but Psycho\" Available Now Download/Stream: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WXBHCQYxwr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WXBHCQYxwr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WXBHCQYxwr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ava Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-27T16:26:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RzNKHbwGc61o9NVRgyFAN7naOkg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2KBFD0aoZy8"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-15T19:25:03Z",
+        "channelId": "UCdvBex6r_1-i8Sut-mCy2Jw",
+        "title": "Ava Max - Sweet but Psycho (Lyrics)",
+        "description": "Ava Max - Sweet but Psycho (Lyrics) https://avamax.lnk.to/SweetButPsychoID Turn on notifications not to miss any uploads! Ava Max: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2KBFD0aoZy8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2KBFD0aoZy8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2KBFD0aoZy8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taj Tracks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-15T19:25:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m5luF7RXQkcheWYDw5bfoIN8Uno",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "12GDRH3W-ys"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-12T18:00:00Z",
+        "channelId": "UCOwgc8DswjoBMuuUU2ScPvQ",
+        "title": "Ava Max - Sweet but Psycho (Live Performance)",
+        "description": "Listen to my debut album \"Heaven & Hell\" now: https://AvaMax.lnk.to/HeavenandHellID Subscribe for more official content from Ava Max: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/12GDRH3W-ys/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/12GDRH3W-ys/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/12GDRH3W-ys/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ava Max",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-12T18:00:00Z"
+      }
+    }
+  ]
+}

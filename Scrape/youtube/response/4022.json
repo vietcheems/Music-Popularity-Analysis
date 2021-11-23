@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "gozq7snjFwlBZC1jXhVNXCuLAe0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F58oUH8iupn8rk82y4UlRIPvmn0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h4UqMyldS7Q"
+      },
+      "snippet": {
+        "publishedAt": "2009-02-24T23:35:48Z",
+        "channelId": "UCcFrOIMXUrmX4hxgVSLrAiQ",
+        "title": "Ice Cube - It Was A Good Day (Official Video)",
+        "description": "Music video by Ice Cube performing \"It Was A Good Day.\" #IceCube #ItWasAGoodDay #Vevo #HipHop #VevoOfficial.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h4UqMyldS7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h4UqMyldS7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h4UqMyldS7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IceCubeVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-02-24T23:35:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cgyFMVpb1EdBaga1EWeaI7FLASA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j0hGvtDybLE"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-13T11:22:39Z",
+        "channelId": "UCEWqFRLtJdf0tfggH68Gikw",
+        "title": "Ice Cube  - It Was Good Day (Lyrics)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j0hGvtDybLE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j0hGvtDybLE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j0hGvtDybLE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OLD SCHOOL RAP/HIP HOP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-13T11:22:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tOPJ1OJyEny-n8IIUzkqWNORR48",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EHoqwPcXup0"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-23T12:58:43Z",
+        "channelId": "UCHmkH5dYxCA7Cwz7l2EH92w",
+        "title": "Ice Cube - It was a good day (UNCENSORED)",
+        "description": "Enjoy.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EHoqwPcXup0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EHoqwPcXup0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EHoqwPcXup0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Uvuvwevwevwe Onyetenyevwe Ugwemuhwem Osas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-23T12:58:43Z"
+      }
+    }
+  ]
+}

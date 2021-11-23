@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "B6teDQ9BNY2SrsBNVx6p7rqnXxk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8PwpnGqa7GMSZtZV2htNv3VI98s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b-eYbUVZedY"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-25T23:15:00Z",
+        "channelId": "UCm3FgJ2Hqm7tb70T-GfwXVA",
+        "title": "Halsey - New Americana",
+        "description": "Listen to the newest album “If I Can't Have Love, I Want Power” out now: https://halsey.lnk.to/IICHLIWPID Discover more Halsey on Spotify: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b-eYbUVZedY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b-eYbUVZedY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b-eYbUVZedY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HalseyVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-09-25T23:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9cugohbRy7zes3xjyPNYnuggQ7o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zLFSVBO9WOE"
+      },
+      "snippet": {
+        "publishedAt": "2015-07-30T15:22:15Z",
+        "channelId": "UCsJDeonmhPiGrN__rakFwVg",
+        "title": "Halsey // New Americana (Lyrics)",
+        "description": "i know there are typos in this! im sorry about that! i didn't notice them until after i had uploaded it x All rights go to halsey. No copyright intended.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zLFSVBO9WOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zLFSVBO9WOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zLFSVBO9WOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kit Jordan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-07-30T15:22:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "77hhFz4hamfnVvZsJGiPrckWasw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7nZAbsKG-Jc"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-22T11:58:59Z",
+        "channelId": "UCi26HBU8iIbdH2y2ieUw3Pg",
+        "title": "Halsey - New Americana (THYPONYX Remix)",
+        "description": "New Remix Out Now On SoundCloud & Youtube. SoundCloud Link: https://soundcloud.com/thyponyxmusic/halsey-new-americana-thyponyx-remix Download ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7nZAbsKG-Jc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7nZAbsKG-Jc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7nZAbsKG-Jc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "THYPONYX",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-22T11:58:59Z"
+      }
+    }
+  ]
+}

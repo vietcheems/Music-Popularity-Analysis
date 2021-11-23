@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "iTYv5F77qJXbAFufFutFessrDQs",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n1e4_Mt4JxXpsProEp3y1_DNVjY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iTno21crSsY"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-26T18:12:24Z",
+        "channelId": "UCz9f4llEeQyb5F2_p9CirYw",
+        "title": "PARTYNEXTDOOR - Not Nice [Official Music Video]",
+        "description": "Watch the official music video for Not Nice by PARTYNEXTDOOR from the album P3. Subscribe to the channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iTno21crSsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iTno21crSsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iTno21crSsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PARTYNEXTDOOR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-26T18:12:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XDtWQiYcefFXV-u3RX2-eBAYTsY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vh978t4WgzM"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-05T21:53:03Z",
+        "channelId": "UCqlf2COFNF6ghWXsjW4VeqQ",
+        "title": "PARTYNEXTDOOR - Not Nice",
+        "description": "SHANGRIXLA - amplifying the underground https://shangrixla.com/sound »Instagram: http://instagram.com/shangrixla »Soundcloud: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vh978t4WgzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vh978t4WgzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vh978t4WgzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SHANGRIXLA",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-05T21:53:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9sH0oC_tb8dNqS_E8ZEHp2hWnrM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IKovXf11r28"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-16T19:57:59Z",
+        "channelId": "UCBnI2D63kcT0vnmo74F23wg",
+        "title": "PARTYNEXTDOOR - NOT NICE LYRICS",
+        "description": "This was my favorite song on PartyNextDoor 3 (P3), go check it out and enjoy!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IKovXf11r28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IKovXf11r28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IKovXf11r28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lyrics Maniac",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-16T19:57:59Z"
+      }
+    }
+  ]
+}

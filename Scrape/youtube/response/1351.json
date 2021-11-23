@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "tkyRYMdm_QXoxWZ2uldFYT2NXpc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j9DbuGedxz2_iFzPFFgAgfjuBjc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zVOuRQPPdoo"
+      },
+      "snippet": {
+        "publishedAt": "2011-07-28T18:17:57Z",
+        "channelId": "UCnNA-IVTGgWjM2WZJm4s9UQ",
+        "title": "Eric Clapton - Cocaine ( HD )",
+        "description": "Cocaine. Eric Clapton.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zVOuRQPPdoo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zVOuRQPPdoo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zVOuRQPPdoo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sean Fox",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-07-28T18:17:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PKUV50jSeaYJZ113wR8HAmc6dM0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F-YOTJoKz_o"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-16T14:00:00Z",
+        "channelId": "UC2LSxCQoApZVmpWEBudCZlQ",
+        "title": "Eric Clapton - Cocaine (Slowhand At 70 Live At The Royal Albert Hall)",
+        "description": "Available Now: https://mercury-studios.lnk.to/EricClaptonRAH \"Slowhand at 70\" captures a momentous night for the legend that is Eric Clapton. An immense ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F-YOTJoKz_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F-YOTJoKz_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F-YOTJoKz_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "STAGES",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-16T14:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3gl3j6fCQ3XiqUaRoIItfCVVSvo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0kie9hvmClE"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-07T17:42:04Z",
+        "channelId": "UCkeEGzg2bQQ1lLXisLTrYfw",
+        "title": "Eric Clapton[70] 16. Cocaine",
+        "description": "Eric.Clapton Slowhand at 70 Live at The Royal Albert Hall 2015 힐링팝스 http://cafe.daum.net/healingpops.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0kie9hvmClE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0kie9hvmClE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0kie9hvmClE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DAECHANG BAND",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-07T17:42:04Z"
+      }
+    }
+  ]
+}

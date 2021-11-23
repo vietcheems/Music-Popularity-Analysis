@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "xml87cPQH3mrhQQKKS4aCCC3O-k",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IDT9kQTr-frNdQ5m7ZmA4-G5Z4w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ic8j13piAhQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-23T04:00:06Z",
+        "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+        "title": "Taylor Swift - Cruel Summer (Official Audio)",
+        "description": "Official audio for 'Cruel Summer' performed by Taylor Swift. Off her new album 'Lover.' Stream/Download the album here: https://TaylorSwift.lnk.to/Loversu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ic8j13piAhQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ic8j13piAhQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ic8j13piAhQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaylorSwiftVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-23T04:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vu3Mg_ns5EPsFV9Vvv-lU0jWx5Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aRwy8FyH8ik"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-23T04:00:11Z",
+        "channelId": "UCn7Z0uhzGS1KjnO-sWml_dw",
+        "title": "Taylor Swift - Cruel Summer (Lyrics)",
+        "description": "Get Taylor Swift - Cruel Summer (Lyrics): https://TaylorSwift.lnk.to/Loversu ✖ BEST MUSIC ON SPOTIFY: https://spoti.fi/2LrpDX7 ✖ FOLLOW MY AWESOME ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aRwy8FyH8ik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aRwy8FyH8ik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aRwy8FyH8ik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Unique Vibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-23T04:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ej-ifTAkBqa60aAuccbOBGs62i4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GrKQvyXpNgc"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-23T12:12:01Z",
+        "channelId": "UCWfFt3bscuJVTzUjHIgDSWA",
+        "title": "Taylor Swift - Cruel Summer (Music Video)",
+        "description": "Don't forget to SUBSCRIBE!!! Follow our Instagram: https://instagram.com/musicnewsfacts Love Me Like You Do (5th ANNIVERSARY EDITION): ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GrKQvyXpNgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GrKQvyXpNgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GrKQvyXpNgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pop World",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-23T12:12:01Z"
+      }
+    }
+  ]
+}

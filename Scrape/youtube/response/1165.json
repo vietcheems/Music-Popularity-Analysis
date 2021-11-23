@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "dOA8F93kBlZn3BUX_OM_4JXZOX0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "11lIycaBQIola2LDxWp_hD6gf-I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ob2Fzh6qI38"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-17T16:00:03Z",
+        "channelId": "UCeTDWSJawSuNbBEURTC6w_A",
+        "title": "2 Chainz - 4 AM ft. Travis Scott (Official Music Video)",
+        "description": "Download/Stream 2 Chainz \"4am ft. Travis Scott\" from Pretty Girls Like Trap Music: http://smarturl.it/PGLTM?iqid=yt Music video by 2 Chainz performing 4 AM.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ob2Fzh6qI38/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ob2Fzh6qI38/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ob2Fzh6qI38/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "2ChainzVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-17T16:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SpxuN_KJQBnXvCqyZIsw9QgLB0Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TyylUeaTT10"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-06T04:00:00Z",
+        "channelId": "UCeTDWSJawSuNbBEURTC6w_A",
+        "title": "2 Chainz - 4 AM ft. Travis Scott (Official Audio)",
+        "description": "Music video by 2 Chainz performing 4 AM. (C) 2017 Def Jam Recordings, a division of UMG Recordings, Inc. http://vevo.ly/OA2dzj.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TyylUeaTT10/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TyylUeaTT10/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TyylUeaTT10/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "2ChainzVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-06T04:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KA8GJtcB9pd2QozHvXhOPBghabs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wy1HewoURwQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-06T15:27:58Z",
+        "channelId": "UCQ-_g8ly0_jJ9Vw0565xgEA",
+        "title": "2 Chainz ft. Travis Scott- 4AM || @HiiiKey | Ayo &amp; Teo",
+        "description": "FOLLOW US: @Shmateo_ @Ogleloo @KingKumo_ @TheRealHasani @Mr_Hotspot @KingCinco @TheHighestBider @RichHomieKey We definitely have the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wy1HewoURwQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wy1HewoURwQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wy1HewoURwQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hiii Key",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-06T15:27:58Z"
+      }
+    }
+  ]
+}

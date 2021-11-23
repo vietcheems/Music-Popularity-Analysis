@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "7n3SXQNrqK5ZtU93pdUyPx8HqU8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0QSKonaW9626QCDSIdZOoSYgMXY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dqD1a4lD1CE"
+      },
+      "snippet": {
+        "publishedAt": "2015-06-30T20:19:20Z",
+        "channelId": "UCkAeZNEq_a6xW9KpdHDog3g",
+        "title": "The Who MY GENERATION album MONO vs STEREO",
+        "description": "SUBSCRIBE FOR MORE VIDEOS! http://www.youtube.com/subscription_center?add_user=mickdead ▻SUBSCRIBE TO MY PODCAST!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dqD1a4lD1CE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dqD1a4lD1CE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dqD1a4lD1CE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tom Urrutia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-06-30T20:19:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vz6KRTrNs9Ds2zCHC1_q4v10TKw",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLJPlEDxzQ3QYFwkDC__ZVdY5yZshizFME"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-31T02:13:58Z",
+        "channelId": "UCvkUpPxGiO2WtkJ-AcrhcUg",
+        "title": "The Who - My Generation [Deluxe Edition] (1965)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "For the Love of Good Music..",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-31T02:13:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rpcFcOd1amdr-uFxQrutpVIGqUI",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLL-NbN8uTOiiD9Ffp74dl2DAI66Q_eGME"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-23T08:25:36Z",
+        "channelId": "UCtU5OXsw9VGnuL1VGG7ZRTg",
+        "title": "My Generation (Full Album)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Albums",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-23T08:25:36Z"
+      }
+    }
+  ]
+}

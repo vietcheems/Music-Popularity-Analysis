@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "9IjbMn5MR8BkdnKjml0cRj1Bs38",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "40c8M7BoAlicTCtBd8MZ9rFaA5Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kN0iD0pI3o0"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-07T17:00:07Z",
+        "channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+        "title": "Ariana Grande - breathin",
+        "description": "sweetener out now http://arianagrande.lnk.to/sweetener i love you breathin' (visual) Directed by Hannah Lux Davis Produced by Fuliane Petikyan & Brandon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kN0iD0pI3o0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kN0iD0pI3o0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kN0iD0pI3o0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArianaGrandeVevo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-07T17:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NQmjHaVjk_wLjeckTEZDLdJ4c7g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1BYr1br2Ee4"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-24T04:00:10Z",
+        "channelId": "UC9CoOnJkIBMdeijd9qYoT_g",
+        "title": "Ariana Grande - breathin (audio)",
+        "description": "sweetener out now http://arianagrande.lnk.to/sweetener i love you.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1BYr1br2Ee4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1BYr1br2Ee4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1BYr1br2Ee4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ariana Grande",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-24T04:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n6rZsQOgaxhg1BzLDT683OH94M0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3HAY7DNWP-k"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-24T13:23:08Z",
+        "channelId": "UC30eMx0MCjwCn20vOZHLjfg",
+        "title": "Ariana Grande - breathin&#39; (Lyrics)",
+        "description": "Ariana Grande breathin' official lyrics from her new album \"Sweetener\"! if you liked this video, give it a like and subscribe for more like this!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3HAY7DNWP-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3HAY7DNWP-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3HAY7DNWP-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OfficialGrandeVideos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-24T13:23:08Z"
+      }
+    }
+  ]
+}

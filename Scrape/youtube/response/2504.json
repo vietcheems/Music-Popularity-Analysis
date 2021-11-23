@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "1w5S6PAHDL-qG-u-i8i7DpUqgOw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sn0FZZJwz-VTlEP4HNw9vZrbKpE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L_u97PqWX6g"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-01T15:55:01Z",
+        "channelId": "UCjy_236yst_A71OPsgSf8NA",
+        "title": "N.E.R.D &amp; Rihanna - Lemon",
+        "description": "\"Lemon\" performed by N.E.R.D and Rihanna Get the new album \"NO_ONE EVER REALLY DIES\" now: http://smarturl.it/nerd?IQid=youtube Directors: Todd ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L_u97PqWX6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L_u97PqWX6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L_u97PqWX6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NERDVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-01T15:55:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1OTD_xue0sciF2ZBfLiJpyj_mIU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FL4OXQAFBHY"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-01T16:26:37Z",
+        "channelId": "UC_0lDnia8rHCv5dwxyhpf6g",
+        "title": "N.E.R.D Feat. Rihanna - Lemon",
+        "description": "N.E.R.D Feat. Rihanna - Lemon.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FL4OXQAFBHY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FL4OXQAFBHY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FL4OXQAFBHY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Selection",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-01T16:26:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SGyKMonfXFlule1qNSMPQz9q0xY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fzCct3j-pH8"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-18T00:01:01Z",
+        "channelId": "UCjy_236yst_A71OPsgSf8NA",
+        "title": "N.E.R.D, Rihanna - Lemon (Drake Remix - Audio) ft. Drake",
+        "description": "Get the \"Lemon (Drake Remix)\": http://smarturl.it/LemonRemix?IQid=youtube Get the new album \"NO_ONE EVER REALLY DIES\" now: http://smarturl.it/nerd?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fzCct3j-pH8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fzCct3j-pH8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fzCct3j-pH8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NERDVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-18T00:01:01Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "DOkhQ9MCRb-iz_SrALNgQABhzqs",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YsoSmlgJsHK2Araw36nIyg2ruqU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GHLVjriwzFg"
+      },
+      "snippet": {
+        "publishedAt": "2009-05-11T20:18:49Z",
+        "channelId": "UCX_gHEqsNCpJl-DWf5EN2Ww",
+        "title": "Aventura - Por Un Segundo",
+        "description": "The official music video for Por Un Segundo. El vídeo musical de Por Un Segundo. Subscribe/Suscríbete: http://radi.al/AventuraSubscribe #Dominicana ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GHLVjriwzFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GHLVjriwzFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GHLVjriwzFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Aventura",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-05-11T20:18:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ctaUu8bwzo6pJnaX5ih1UTT7fz8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z5gT1tnFKVE"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-03T19:14:09Z",
+        "channelId": "UC3ieK9-0r5dzs8WGbjCXD8w",
+        "title": "Aventura - Por un Segundo (Audio)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z5gT1tnFKVE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z5gT1tnFKVE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z5gT1tnFKVE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Luis Fernando flores",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-03T19:14:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RqGSXQfoPE7dK7KppYM4ZFENpps",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PeaLgF1bIxU"
+      },
+      "snippet": {
+        "publishedAt": "2009-12-02T03:09:59Z",
+        "channelId": "UCafOyFRTIjEwDfB_GBNVN6Q",
+        "title": "Aventura- Por Un Segundo (lyrics)",
+        "description": "Por Un Segundo (lyrics) BY AVENTURA... I LUV THIS SONG!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PeaLgF1bIxU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PeaLgF1bIxU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PeaLgF1bIxU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "iCANDYforU",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-12-02T03:09:59Z"
+      }
+    }
+  ]
+}

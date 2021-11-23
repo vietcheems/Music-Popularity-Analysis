@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "c8onzAh5hJrQKULOyod1Q3ZlFjI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1ch52S8_DNTPdwkbAhxIWqDiXsw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pc0mxOXbWIU"
+      },
+      "snippet": {
+        "publishedAt": "2010-09-01T10:47:48Z",
+        "channelId": "UCse-L5jdWjkURTdqbc59eWw",
+        "title": "CeeLo Green - FUCK YOU (Official Video)",
+        "description": "Watch the video for Cee Lo Green's massive single 'Fuck You!', the first single from the brand new album The Lady Killer New Christmas album 'CeeLo's Magic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pc0mxOXbWIU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pc0mxOXbWIU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pc0mxOXbWIU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CeeLo Green",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-09-01T10:47:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Fk-VgalZNQSCZFrpq2p3tbXfwm8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CAV0XrbEwNc"
+      },
+      "snippet": {
+        "publishedAt": "2010-08-20T06:35:27Z",
+        "channelId": "UCse-L5jdWjkURTdqbc59eWw",
+        "title": "Cee Lo Green - FUCK YOU",
+        "description": "You can now watch the new, official video for \"FUCK YOU\" on Cee Lo's Youtube channel: http://www.youtube.com/watch?v=pc0mxOXbWIU Download \"Fuck ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CAV0XrbEwNc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CAV0XrbEwNc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CAV0XrbEwNc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CeeLo Green",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-08-20T06:35:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gJAtNuspshi9Udm5HsDiswkfo1c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "94o6uIR31hk"
+      },
+      "snippet": {
+        "publishedAt": "2020-06-05T21:45:00Z",
+        "channelId": "UCZtDUmC3W7j25XHZWFT_XgQ",
+        "title": "CeeLo Green - F*** You (Later Archive)",
+        "description": "CeeLo Green performs F*** You Later... with Jools Holland. Watch more on iPlayer: bbc.co.uk/iplayer.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/94o6uIR31hk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/94o6uIR31hk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/94o6uIR31hk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBC Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-06-05T21:45:00Z"
+      }
+    }
+  ]
+}

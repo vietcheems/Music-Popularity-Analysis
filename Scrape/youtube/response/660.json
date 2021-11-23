@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "iUL3GXaNBgGsCmZO7Lws6z8uz2U",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O5wHrWy72dko-1nUVc7p1eoDI8I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UqyT8IEBkvY"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-07T03:31:50Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - 24K Magic (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"24K Magic\" from the album '24K Magic'. Subscribe for the latest official music videos, live performances, lyric videos, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UqyT8IEBkvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UqyT8IEBkvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UqyT8IEBkvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-07T03:31:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Tt6sqjEoSrTFKeXxk7egqgwlGnE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ttlTus58MNA"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-27T15:07:08Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - 24K Magic (from the 2016 American Music Awards) (Official Live Performance)",
+        "description": "The official live performance of Bruno Mars' \"24K Magic\" from the album '24K Magic' at the 2016 American Music Awards. Subscribe for the latest official music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ttlTus58MNA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ttlTus58MNA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ttlTus58MNA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-27T15:07:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6Sakd-jVl8CrPp4Y7nplLo9gH6I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cSMB63GMfWM"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-06T09:00:35Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - 24K Magic (from the Victoria’s Secret 2016 Fashion Show) (Official Live Performance)",
+        "description": "The official live performance of Bruno Mars' \"24K Magic\" from the album '24K Magic' at the Victoria's Secret 2016 Fashion Show. Subscribe for the latest ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cSMB63GMfWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cSMB63GMfWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cSMB63GMfWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-06T09:00:35Z"
+      }
+    }
+  ]
+}

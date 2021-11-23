@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "X8ezsINjc-U-nDYiiAesDb-KbEI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_QpxCS44WK3h0nsZOW2M7Napyhk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-aOy9P_OAeM"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-14T13:00:00Z",
+        "channelId": "UCcN-NDV03eHs6oLd1pe2r8w",
+        "title": "Khalid - Up All Night (Official Audio)",
+        "description": "\"Up All Night\" out now! https://smarturl.it/xUpAllNight Follow Khalid: https://www.facebook.com/thegreatkhalid https://twitter.com/thegreatkhalid ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-aOy9P_OAeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-aOy9P_OAeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-aOy9P_OAeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KhalidVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-14T13:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GZMgR-Na_MQDzrZj-NEjHE6kPA4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uf_7wfrrKok"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-14T13:29:14Z",
+        "channelId": "UCvilIAl3GxxCLtW2c7ag80A",
+        "title": "Khalid - Up All Night (Lyrics)",
+        "description": "Subscribe and press (  ) to join the Notification Squad and stay updated with new uploads \"Up All Night\" out now! https://smarturl.it/xUpAllNight Follow Khalid: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uf_7wfrrKok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uf_7wfrrKok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uf_7wfrrKok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Epic Sound",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-14T13:29:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LCvcSfCZOcqhLm9lEzuzdN24gSI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ns5U8OMbj_A"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-20T01:11:31Z",
+        "channelId": "UCQ-3TNHShbzzthkVwNN0BVw",
+        "title": "Khalid - Up All Night (Music Video)",
+        "description": "Khalid - Up All Night (Official Music Video) Turn on notifications to stay updated with new uploads! \"Up All Night\" out now! https://smarturl.it/xUpAllNight ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ns5U8OMbj_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ns5U8OMbj_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ns5U8OMbj_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Koala Vibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-20T01:11:31Z"
+      }
+    }
+  ]
+}

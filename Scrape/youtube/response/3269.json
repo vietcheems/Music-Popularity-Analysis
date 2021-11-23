@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "6AJcWpSSGao9Bu1NAfN6usEM_B0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gyVNehNllwY8NFvHrdB0gjcMNhQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vLkBybsH73k"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-25T16:15:00Z",
+        "channelId": "UCi2KNss4Yx73NG0JARSFe0A",
+        "title": "Foo Fighters | Everlong (Acoustic - March 20, 2021)",
+        "description": "Recorded at Studio 606 in Northridge, CA Originally aired March 20th 2021 as part of Oates Song Fest 7908. Oates Fest was organized by John & Aimee Oates ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vLkBybsH73k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vLkBybsH73k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vLkBybsH73k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Foo Fighters",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-25T16:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-zVokbSyr-EIl6if_GGSl9dxfxw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AAMgHB-1_Fo"
+      },
+      "snippet": {
+        "publishedAt": "2011-08-16T23:54:08Z",
+        "channelId": "UCXqQ9-6v1icPrmArDauOQiA",
+        "title": "Foo  Fighters - Everlong (Acoustic)",
+        "description": "Everlong (Acoustic) by Foo Fighters from Greatest Hits i do not own the rights to this song.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AAMgHB-1_Fo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AAMgHB-1_Fo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AAMgHB-1_Fo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JmListener",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-08-16T23:54:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dh5x6K7yDdCGWI6MNyfz0nYKBcs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OgMkST2rUR8"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-30T15:10:56Z",
+        "channelId": "UCssjM-XbCk6c5FbgyZxtnVw",
+        "title": "Foo Fighters - Everlong Acoustic (Greatest Hits version)",
+        "description": "Foo Fighters - Everlong (solo acoustic version) Greatest hits album version Hello I've waited here for you Everlong Tonight I throw myself into And out of the red, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OgMkST2rUR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OgMkST2rUR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OgMkST2rUR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BloodR4ven",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-30T15:10:56Z"
+      }
+    }
+  ]
+}

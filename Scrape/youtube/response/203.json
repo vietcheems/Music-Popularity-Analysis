@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "wudEHJmF9BOVY223qI7s9q-QeVc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QGIM0cv4yZ_HS-gfuHP5nfxDUsE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qtb11P1FWnc"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-07T13:57:09Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Magic (Official Video)",
+        "description": "Coldplay - Magic is taken from the album Ghost Stories released in 2014 (hear the album at https://smarturl.it/ghststrs) Subscribe for more content from Coldplay: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qtb11P1FWnc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qtb11P1FWnc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qtb11P1FWnc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-07T13:57:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "28IEdqhY2CE7HyhNw-abtQDzHp8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1PvBc2TOpE4"
+      },
+      "snippet": {
+        "publishedAt": "2014-03-03T06:41:18Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Magic (Official Audio)",
+        "description": "Coldplay - Magic is taken from the album Ghost Stories released in 2014 (hear the album at https://smarturl.it/ghststrs) Subscribe for more content from Coldplay: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1PvBc2TOpE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1PvBc2TOpE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1PvBc2TOpE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-03-03T06:41:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1BktkjpkUWmrOm_EtK2M_0UEX0s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0TQe5rWGgK0"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-29T21:51:24Z",
+        "channelId": "UCCj956IF62FbT7Gouszaj9w",
+        "title": "Coldplay - Magic - Later... with Jools Holland - BBC Two",
+        "description": "Subscribe and to OFFICIAL BBC YouTube https://bit.ly/2IXqEIn Stream original BBC programmes FIRST on BBC iPlayer https://bbc.in/2J18jYJ See more ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0TQe5rWGgK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0TQe5rWGgK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0TQe5rWGgK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-29T21:51:24Z"
+      }
+    }
+  ]
+}

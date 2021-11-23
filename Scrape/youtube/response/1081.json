@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "O3djNYfPc3SKwCKzkx_WBoaPJmI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TgwpZIXeA91wpwNk0egSFydO5RI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "glaG64Ao7sM"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-27T19:00:05Z",
+        "channelId": "UCoYfzC2zMlc9M-Odgaf6OSg",
+        "title": "Kendrick Lamar - ELEMENT.",
+        "description": "DAMN. available now http://smarturl.it/DAMN Director: Jonas Lindstroem & the little homies Producer: Anthony “Top Dawg” Tiffith, Dave Free, Jannis Birsner ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/glaG64Ao7sM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/glaG64Ao7sM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/glaG64Ao7sM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KendrickLamarVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-27T19:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YWtlEl5LM-66fB-WEsziZ1ZMC2I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bqqUvduHONk"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-16T18:29:27Z",
+        "channelId": "UCtzWwU28GMLzMftqHL2COng",
+        "title": "ELEMENT - Kendrick Lamar (DAMN)",
+        "description": "For Music Promotion, visit https://motionmarketingusa.com/music-promotion/ Instagram - http://bit.ly/KDotSpotlightIG Twitter - http://bit.ly/KDotSpotlightTwitter ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bqqUvduHONk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bqqUvduHONk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bqqUvduHONk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kendrick Lamar Spotlight",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-16T18:29:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nNbP7OP_8ulya9TXrh5yFlpzX2Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f62c2wIsTcU"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-02T22:39:14Z",
+        "channelId": "UCXKC5euuSAefATuv5A_BWXQ",
+        "title": "Kendrick Lamar - ELEMENT. (lyrics)",
+        "description": "Enjoy!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f62c2wIsTcU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f62c2wIsTcU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f62c2wIsTcU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Trending Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-02T22:39:14Z"
+      }
+    }
+  ]
+}

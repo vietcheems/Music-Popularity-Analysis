@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "h6URn0JaDiFa4Txuk3wMpEZc_2g",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yiyct34ncmF0ZrKA2t8ioXEOR94",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9-rzG8qwkjA"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-28T09:00:00Z",
+        "channelId": "UCf1weKUE9iUaTW7YEgR3qlA",
+        "title": "Juan Magan, Belinda, Manuel Turizo, Snova, B-Case - Déjate Llevar  (Video Oficial)",
+        "description": "Single \"Déjate Llevar\" ya disponible aquí: https://umusices.lnk.to/JMDLYA Sigue a Juan Magan en: Facebook: https://www.facebook.com/JUANMAGAN/ Twitter: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9-rzG8qwkjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9-rzG8qwkjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9-rzG8qwkjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JuanMaganVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-28T09:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e5ImxH4RFoE92rTy6riDCDruNq4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tgnz9NlaLEM"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-28T08:16:06Z",
+        "channelId": "UC7xOJCNTBpVdm6az71323ng",
+        "title": "Déjate llevar — Juan Magan Ft. Belinda, Manuel Turizo, Snova (Video Lyrics).",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tgnz9NlaLEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tgnz9NlaLEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tgnz9NlaLEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "R Z",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-28T08:16:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o3_d5nYioyGHNTGBgHY8mDQk84k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zMkCTw3Ai_s"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-24T22:11:22Z",
+        "channelId": "UC-AkXzYqFZHbhlHFId4xpMQ",
+        "title": "Déjate llevar - Juan Magan - Letra",
+        "description": "janaorozco.16.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zMkCTw3Ai_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zMkCTw3Ai_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zMkCTw3Ai_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jana Orozco",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-24T22:11:22Z"
+      }
+    }
+  ]
+}

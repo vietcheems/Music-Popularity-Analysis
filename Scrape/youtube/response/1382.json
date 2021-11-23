@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "m3RtnZLIUOhSJHeLaWQICAR7PMw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tSi97WWPQVDE2V9H9f4bMrrBH7o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xTlNMmZKwpA"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-29T14:05:10Z",
+        "channelId": "UCxMAbVFmxKUVGAll0WVGpFw",
+        "title": "Cardi B, Bad Bunny &amp; J Balvin - I Like It [Official Music Video]",
+        "description": "Cardi B, Bad Bunny & J Balvin - I Like It from Cardi B's Debut Album Invasion of Privacy available now! INVASION OF PRIVACY merchandise available here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xTlNMmZKwpA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xTlNMmZKwpA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xTlNMmZKwpA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cardi B",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-29T14:05:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LKhQCgcXJaKLpDYQN9QV44TbagQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bIFog12aGls"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-06T13:33:32Z",
+        "channelId": "UC8_2a1dZvTAbTTb6zNQSRXg",
+        "title": "Cardi B, Bad Bunny &amp; J Balvin - I Like It (Lyrics)",
+        "description": "CardiB #Invasion Of Privacy #ILikeIt.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bIFog12aGls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bIFog12aGls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bIFog12aGls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "All Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-06T13:33:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zh4QoY23Odh56Y6-AX5tAWMHh2Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U4fErC9skHE"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-06T04:00:05Z",
+        "channelId": "UCxMAbVFmxKUVGAll0WVGpFw",
+        "title": "Cardi B, Bad Bunny &amp; J Balvin - I Like It [Official Audio]",
+        "description": "Cardi B, Bad Bunny & J Balvin - I Like It from Cardi B's Debut Album Invasion of Privacy available now! Stream/Download: https://CardiB.lnk.to/IOPAY INVASION ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U4fErC9skHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U4fErC9skHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U4fErC9skHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cardi B",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-06T04:00:05Z"
+      }
+    }
+  ]
+}

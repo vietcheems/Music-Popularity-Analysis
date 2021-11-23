@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "V5GjBbO2pzz5qlbQyFGAbzkbMv8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9VysELD4krhq97F2fO4W_63wBTU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0EWbonj7f18"
+      },
+      "snippet": {
+        "publishedAt": "2013-08-19T14:00:39Z",
+        "channelId": "UCpDJl2EmP7Oh90Vylx0dZtA",
+        "title": "DVBBS &amp; Borgeous - TSUNAMI (Original Mix)",
+        "description": "DVBBS & Borgeous - TSUNAMI. Like this track? Grab your copy on iTunes or listen on Spotify/Apple Music: https://doornrecords.lnk.to/dvbbs-borgeous-tsunami ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0EWbonj7f18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0EWbonj7f18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0EWbonj7f18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Spinnin' Records",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-08-19T14:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "InGPbqV9xQsWJ1rfptqGJNFvfVw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I41CX0RdmPQ"
+      },
+      "snippet": {
+        "publishedAt": "2013-08-23T15:23:59Z",
+        "channelId": "UCpDJl2EmP7Oh90Vylx0dZtA",
+        "title": "DVBBS &amp; Borgeous - TSUNAMI (Music Video)",
+        "description": "The highly anticipated TSUNAMI by DVBBS & Borgeous is out now. Grab your copy on Beatport: http://btprt.dj/1bxWZcL Subscribe to Spinnin' TV here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I41CX0RdmPQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I41CX0RdmPQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I41CX0RdmPQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Spinnin' Records",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-08-23T15:23:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dqaoXhKJOhrywtczT9WhASBXOwU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a7yk1ac_M2g"
+      },
+      "snippet": {
+        "publishedAt": "2013-12-15T15:30:00Z",
+        "channelId": "UCpDJl2EmP7Oh90Vylx0dZtA",
+        "title": "DVBBS &amp; Borgeous - Tsunami (Live Footage Video)",
+        "description": "Watch DVBBS & Borgeous drop the massive Tsunami on stages all over the world! Stay up to date on more Spinnin' artists & music here!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a7yk1ac_M2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a7yk1ac_M2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a7yk1ac_M2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Spinnin' Records",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-12-15T15:30:00Z"
+      }
+    }
+  ]
+}

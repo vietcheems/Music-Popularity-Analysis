@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "mPWOB5nZ60Je7EmEkUP8AdB-e9M",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VX65X4RIVYQVh9W-rI5F6gpgoUA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BCPnQc1Ek4I"
+      },
+      "snippet": {
+        "publishedAt": "2014-07-17T00:42:09Z",
+        "channelId": "UCoJ7iJz1vKwUqiaroO167sA",
+        "title": "MAGIC! - Rude (Acoustic) (PSEUDO VIDEO)",
+        "description": "MAGIC!'s debut album 'Don't Kill The Magic' Available Now. Download on iTunes http://smarturl.it/DKTMiTunes?IQid=yt Music video by MAGIC! performing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BCPnQc1Ek4I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BCPnQc1Ek4I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BCPnQc1Ek4I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ournameismagicVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-07-17T00:42:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2wVfxFRSPOiUr4kTovwQQPN41sE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9xBOA9gTpvw"
+      },
+      "snippet": {
+        "publishedAt": "2014-01-17T18:46:01Z",
+        "channelId": "UCZ2KbFug6U6DO02xIIu2JAA",
+        "title": "MAGIC! - Rude (Acoustic) Bondi Beach",
+        "description": "During MAGIC!'s visit to Sydney, Australia they took a visit to Bondi Beach to enjoy the sun and play Rude! 'Don't Kill The Magic' from MAGIC! will be available ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9xBOA9gTpvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9xBOA9gTpvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9xBOA9gTpvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MAGIC!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-01-17T18:46:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mLXTKvmy7syQIRWPFSMBUqZAO3Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PQKXmhtcA6c"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-07T20:49:07Z",
+        "channelId": "UCZ2KbFug6U6DO02xIIu2JAA",
+        "title": "MAGIC! - Rude (Acoustic) 98.1 CHFI Toronto",
+        "description": "While in Toronto a few months ago we made a stop to visit our friends over at 98.1 CHFI. Thanks for all the support and enjoy \"Rude\" 'Don't Kill The Magic' from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PQKXmhtcA6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PQKXmhtcA6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PQKXmhtcA6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MAGIC!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-07T20:49:07Z"
+      }
+    }
+  ]
+}

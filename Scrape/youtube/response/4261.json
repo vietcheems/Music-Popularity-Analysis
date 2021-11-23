@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ZNiTqLFT4uqQshBjzE_JceRJFCo",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G-o5oWcrH6CWQY3s93Q-EmL_9D8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zpib0LxEOxU"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-13T14:01:12Z",
+        "channelId": "UCfLTxnQboSLcoSakgONmukQ",
+        "title": "Henrique e Juliano - BRIGA FEIA - DVD Ao Vivo No Ibirapuera",
+        "description": "ASSISTA TAMBÉM: DVD COMPLETO: https://www.youtube.com/playlist?list=PLZl5gqjItoKxcrqIChyX09RvP9ksIggp8 LIBERDADE PROVISÓRIA: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zpib0LxEOxU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zpib0LxEOxU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zpib0LxEOxU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Henrique e Juliano",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-13T14:01:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sbRtL0rfqKJb0XXwhZqxk8rRQkY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SXqQBjWgcHI"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-25T07:38:55Z",
+        "channelId": "UChu6wCUk6_hX4UU8b7B2Dtw",
+        "title": "Henrique e Juliano - BRIGA FEIA - AO VIVO #BaileDaSantinha 2020",
+        "description": "BRIGA FEIA [ letra ] Compositores: Cristhyan Ribeiro, Rodrigo Marco, Felipe Kef, Kaique Kef Era só você ter pedido desculpas E você já saiu pra rua E beijou ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SXqQBjWgcHI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SXqQBjWgcHI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SXqQBjWgcHI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pedro Italo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-25T07:38:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dwgL8iswGkZU8g8Vfe5PfawAtFI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kAg2BsOi85Y"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-02T17:53:47Z",
+        "channelId": "UCvM1XOwaJSkfFqefth6wCyA",
+        "title": "Henrique e Juliano - Briga Feia",
+        "description": "01/02/2019 Atlético Clube Juventus.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kAg2BsOi85Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kAg2BsOi85Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kAg2BsOi85Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Renato Nascimento",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-02T17:53:47Z"
+      }
+    }
+  ]
+}

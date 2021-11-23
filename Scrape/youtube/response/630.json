@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "wwzfw58VZsCiA4j7t8BmYeSi6Q8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4CiIXd0nYxblIUSm0yMYz-6B_jQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KdS6HFQ_LUc"
+      },
+      "snippet": {
+        "publishedAt": "2011-01-31T22:35:39Z",
+        "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+        "title": "Rihanna - S&amp;M (Official Music Video)",
+        "description": "REMASTERED IN HD! Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream on TIDAL: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KdS6HFQ_LUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KdS6HFQ_LUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KdS6HFQ_LUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RihannaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-01-31T22:35:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OWKKfGVWHD96HZC7CtJHFe4ieP0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ce2_k0LaE7E"
+      },
+      "snippet": {
+        "publishedAt": "2011-06-21T01:46:28Z",
+        "channelId": "UCt4k_6YHV7PgRRe18d8kJtg",
+        "title": "Rihanna - S&amp;M (Audio)",
+        "description": "Rihanna preforming \"S&M\" 2010 the Island Def Jam (C)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ce2_k0LaE7E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ce2_k0LaE7E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ce2_k0LaE7E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RihannaForVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-06-21T01:46:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R0W_8wKUwLUrzcAOBe8GxmxRMpc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dlEdFJpQ8-c"
+      },
+      "snippet": {
+        "publishedAt": "2011-02-07T15:47:59Z",
+        "channelId": "UCIOS-fr7XrL1dePy98RqTzA",
+        "title": "Rihanna - S&amp;M (Lyrics)",
+        "description": "Rihanna - S&M (Lyrics)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dlEdFJpQ8-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dlEdFJpQ8-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dlEdFJpQ8-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "atlyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-02-07T15:47:59Z"
+      }
+    }
+  ]
+}

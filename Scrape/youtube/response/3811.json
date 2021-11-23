@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "GO1cNRSj8U51add3oKYKyUpPRbw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 112375,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GYaTWyhnx0BXcTvcVYGNM0hPJ0Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4vaN01VLYSQ"
+      },
+      "snippet": {
+        "publishedAt": "2009-11-23T21:35:55Z",
+        "channelId": "UCNZVlxvEihoudEmVdULMQ4Q",
+        "title": "Salt-N-Pepa - Shoop (Official Video)",
+        "description": "Music video by Salt-N-Pepa performing Shoop. (C) 1994 The Island Def Jam Music Group #SaltNPepa #Shoop #Vevo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4vaN01VLYSQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4vaN01VLYSQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4vaN01VLYSQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SaltNPepaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-11-23T21:35:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Va9ZysYhTSHIU3Y5p0mzhxIPk6k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "knVbGWMxLmc"
+      },
+      "snippet": {
+        "publishedAt": "2013-06-01T16:17:23Z",
+        "channelId": "UCKqGPmBDAu282y8fJZn3swA",
+        "title": "Salt N Pepa Shoop lyrics",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/knVbGWMxLmc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/knVbGWMxLmc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/knVbGWMxLmc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "katcat654",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-06-01T16:17:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k_-dWRNAdA2RBV6xvQobgC8Moiw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h8m5T-9zJuc"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-15T20:31:36Z",
+        "channelId": "UCWfQ8QaunyyZKPVPiYxfGLQ",
+        "title": "Salt-N-Pepa - Shoop (Deadpool Edit) / Deadpool OST",
+        "description": "Hip-hop + Deadpool = Dope Hype! Check out this track from the \"Deadpool\" trailer! I wanna shoop, babe! Enjoy the beat | Like | Share | Subscribe Check out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h8m5T-9zJuc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h8m5T-9zJuc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h8m5T-9zJuc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Save The Lost Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-15T20:31:36Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "AbWJ-5ugI7g0Nh9hCpVAsDH_1oU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Bz5esEXYtolBSHoPlVnTSyPY0a0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DCCJCILiX3o"
+      },
+      "snippet": {
+        "publishedAt": "2014-07-31T20:00:01Z",
+        "channelId": "UClesqLjeKJd-dG8xLfzJyCQ",
+        "title": "5 Seconds of Summer - Amnesia (Official Video)",
+        "description": "Pre-order 5 Seconds of Summer's brand new album, Youngblood, here: https://5sosuk.lnk.to/YoungbloodID Here's the official video for Amnesia! Listen to our ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DCCJCILiX3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DCCJCILiX3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DCCJCILiX3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5SOSVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-07-31T20:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4OHrJzN_LIh6ar9T3RZGkCvokGQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ByEE5jlGXtg"
+      },
+      "snippet": {
+        "publishedAt": "2014-07-02T18:20:37Z",
+        "channelId": "UCcWa8ZIlLFE3HSOQf0w82ZA",
+        "title": "5 Seconds of Summer - Amnesia Lyrics",
+        "description": "subscribe plz ☺ lovers 5 seconds of summer.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ByEE5jlGXtg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ByEE5jlGXtg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ByEE5jlGXtg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "song lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-07-02T18:20:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TcL47UQLPC-_2symJcCO93Sz8tI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7uQpjrLVqw4"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-24T20:00:01Z",
+        "channelId": "UClesqLjeKJd-dG8xLfzJyCQ",
+        "title": "5 Seconds of Summer - Amnesia (Vevo Certified Live)",
+        "description": "5 Seconds of Summer - Amnesia (Vevo Certified Live) Music never stops. Get the Vevo App! http://smarturl.it/vevoapps Buy, stream and download 5SOS' new ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7uQpjrLVqw4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7uQpjrLVqw4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7uQpjrLVqw4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5SOSVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-24T20:00:01Z"
+      }
+    }
+  ]
+}

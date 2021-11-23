@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "TvbX8YpYI6vaVGGnMOI4hK9m-uA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R04cIsFZJ0cw0VPY8qa3oA5w65I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xKkb13IU_DE"
+      },
+      "snippet": {
+        "publishedAt": "2013-11-11T11:00:00Z",
+        "channelId": "UCJ6Ro2AGCFTh4b1aNENUYEA",
+        "title": "Kid Ink - Show Me (Explicit) ft. Chris Brown",
+        "description": "iTunes: http://smarturl.it/BodyLangiT?IQid=youtube Amazon: http://smarturl.it/BodyLangAM?IQid=youtube Spotify: http://smarturl.it/BodyLangSp?IQid=youtube ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xKkb13IU_DE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xKkb13IU_DE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xKkb13IU_DE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KidInkOfficialVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-11-11T11:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bu0L8AYRg5DtDr3aDsCTxCtBZIc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4fWTGZYOZSc"
+      },
+      "snippet": {
+        "publishedAt": "2013-09-06T17:58:36Z",
+        "channelId": "UCJ6Ro2AGCFTh4b1aNENUYEA",
+        "title": "Kid Ink - Show Me (Audio) ft. Chris Brown",
+        "description": "iTunes: http://smarturl.it/BodyLangiT?IQid=youtube Amazon: http://smarturl.it/BodyLangAM?IQid=youtube Spotify: http://smarturl.it/BodyLangSp?IQid=youtube ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4fWTGZYOZSc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4fWTGZYOZSc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4fWTGZYOZSc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KidInkOfficialVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-09-06T17:58:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GA_peXEk8mBbYy2kUjQSt0MDzDU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zSZoVlare3w"
+      },
+      "snippet": {
+        "publishedAt": "2013-09-07T16:56:08Z",
+        "channelId": "UCQwa9A66k7eW9cvD6bsxv7g",
+        "title": "Kid Ink - Show Me (ft. Chris Brown) [Lyrics]",
+        "description": "Kid Ink New Single ''Show Me'' featuring Chris Brown [2013]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zSZoVlare3w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zSZoVlare3w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zSZoVlare3w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "parlable",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-09-07T16:56:08Z"
+      }
+    }
+  ]
+}

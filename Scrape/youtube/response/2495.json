@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "W9cMct7k2c_ll3sS9jqtz7rntZ0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ve5gUV_9qCoyLaim7xwd1Ls4qLA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8u-_64S7plI"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-24T04:00:01Z",
+        "channelId": "UCjK8ORC71kwyj1DWFwril_A",
+        "title": "Selena Gomez - Look At Her Now (Official Music Video)",
+        "description": "Get Selena's new album 'Rare', out now: http://smarturl.it/RARESG Get 'Look At Her Now,' out now: http://smarturl.it/LookAtHerNow Get 'Lose You To Love Me': ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8u-_64S7plI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8u-_64S7plI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8u-_64S7plI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SelenaGomezVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-24T04:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "emnuepAhN3Tf7hCYeYQHZ8Oe3ts",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9vTm96LPk5c"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-24T14:16:39Z",
+        "channelId": "UC4XJeGGdXj0vA4CxDDJ8J_A",
+        "title": "Selena Gomez - Look At Her Now (Lyrics)",
+        "description": "Follow Cakes & Eclairs on Spotify: http://bit.ly/CakesEclairs Selena Gomez - Look At Her Now (Lyrics) Download / Stream: http://smarturl.it/LookAtHerNow ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9vTm96LPk5c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9vTm96LPk5c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9vTm96LPk5c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cakes & Eclairs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-24T14:16:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZmiTPFhtKnkNzKUGnOCqrIlsEb8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pMTwsA_Isyk"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-03T18:47:31Z",
+        "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+        "title": "Selena Gomez - Look At Her Now (Lyrics)",
+        "description": "Follow our Spotify playlists: http://bit.ly/7cloudsSpotify Selena Gomez - Look At Her Now (Lyrics) ⏬ Download / Stream: http://smarturl.it/LookAtHerNow Turn ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pMTwsA_Isyk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pMTwsA_Isyk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pMTwsA_Isyk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "7clouds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-03T18:47:31Z"
+      }
+    }
+  ]
+}

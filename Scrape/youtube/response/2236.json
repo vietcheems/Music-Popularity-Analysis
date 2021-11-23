@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "GAjfuGnOm-MtLePt8fEP4zIgZVk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OGNFBISxf4DUG0i3B0QqPz3hG4Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RfoqELZWcp8"
+      },
+      "snippet": {
+        "publishedAt": "2008-11-02T01:26:16Z",
+        "channelId": "UC5wDar9BJ4g_QDCxCkWMy4w",
+        "title": "Jack Johnson - Better Together Lyrics",
+        "description": "Download mp3: http://amzn.to/TZFRpx Jack Johnson Better Together Lyrics Done By Request Please: Subscribe Add Me Rate Comment Favorite If You Like It ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RfoqELZWcp8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RfoqELZWcp8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RfoqELZWcp8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "619GuitarHeroSSC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-11-02T01:26:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s4yw-PiKtAvy_DWILQkbU21xu8Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "seZMOTGCDag"
+      },
+      "snippet": {
+        "publishedAt": "2010-04-19T22:46:23Z",
+        "channelId": "UCGtoY2YzP_nP54-aRK8s7VA",
+        "title": "Jack Johnson - Better Together",
+        "description": "Check out the official music video for Jack Johnsons \"Better Together,\" from the album In Between Dreams (2005). For more, please visit: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/seZMOTGCDag/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/seZMOTGCDag/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/seZMOTGCDag/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jackjohnsonmusic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-04-19T22:46:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DABhSwDAVESKBHOLpndC3ddUZ5A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9nPOCfOLbTo"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-09T19:26:01Z",
+        "channelId": "UCZvysOTYDHMewYyIX_at8mw",
+        "title": "Jack Johnson - Better Together (Farm Aid 2020 On the Road)",
+        "description": "Jack Johnson performs Better Together virtually at Farm Aid 2020 On the Road on September 26. Farm Aid was started by Willie Nelson, Neil Young and John ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9nPOCfOLbTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9nPOCfOLbTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9nPOCfOLbTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Farm Aid",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-09T19:26:01Z"
+      }
+    }
+  ]
+}

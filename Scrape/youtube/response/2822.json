@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "dn0hkzfFKz_kAy9v_m-0ZwkR-_o",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U_f7buJ7QOaXaLpgW6E1vInlKrc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CoOXbP7hmc0"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-02T00:01:34Z",
+        "channelId": "UCQOmAH9SLrMXcSDjxX3TZUg",
+        "title": "MARVIN GAYE (1973) - Let&#39;s Get It On",
+        "description": "After brilliantly surveying the social, political, and spiritual landscape with What's Going On, Marvin Gaye turned to more intimate matters with Let's Get It On, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CoOXbP7hmc0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CoOXbP7hmc0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CoOXbP7hmc0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rodrigo Cantillano",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-02T00:01:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wS-sfmYmOk6yWQLPEvY_KmQPCpQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x6QZn9xiuOE"
+      },
+      "snippet": {
+        "publishedAt": "2010-07-22T20:18:53Z",
+        "channelId": "UCTvx0hgT3g8vDFjzTdmr1VQ",
+        "title": "Marvin Gaye - Let&#39;s Get It On",
+        "description": "Marvin Gaye performing Let's Get It On. (C) 1973 Tamla Records Lyrics: I've been really tryin', baby Tryin' to hold back this feeling for so long And if you feel like I ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x6QZn9xiuOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x6QZn9xiuOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x6QZn9xiuOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Soul Machine",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-07-22T20:18:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y8LHpFyVqc5VwAnJ5MjJK3cume0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9vAiESu5wrA"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-17T14:49:11Z",
+        "channelId": "UCz68VvN2oOV4537DutdPhUw",
+        "title": "Marvin Gaye - Let&#39;s Get It On",
+        "description": "Live in Amsterdam (1976)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9vAiESu5wrA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9vAiESu5wrA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9vAiESu5wrA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lovely Nights",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-17T14:49:11Z"
+      }
+    }
+  ]
+}

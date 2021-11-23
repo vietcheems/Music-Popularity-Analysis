@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Ay5STelRfTtLWxsGf6QvBLzbDHQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LqVbGBbeKbVZczP4ip7UyxCd1_w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sAYuOc7_TKg"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-08T15:14:43Z",
+        "channelId": "UCa5R55NSXiWAZWi9997XYvg",
+        "title": "Ne-Yo - Mad (Official Music Video)",
+        "description": "Music video by Ne-Yo performing Mad. (C) 2008 The Island Def Jam Music Group #NeYo #Mad #Vevo #RandB #OfficialMusicVideo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sAYuOc7_TKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sAYuOc7_TKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sAYuOc7_TKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NeYoVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-08T15:14:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ao8LJWPxp2opNsORgKmW4l-BHAc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_Gjuug_JCO8"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-10T04:50:25Z",
+        "channelId": "UCjEFXMcvN2hjFpGltHjshFg",
+        "title": "Ne-Yo - Mad (Lyrics)",
+        "description": "Ne-Yo - Mad (Lyrics) Follow NE-YO: https://www.instagram.com/NEYO https://twitter.com/NEYOcompound https://www.facebook.com/NEYO ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Gjuug_JCO8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Gjuug_JCO8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Gjuug_JCO8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Aiken Alam",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-10T04:50:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cse04MIgCas-Nh7JPs_8srPSmRw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PU6-2RSkA_c"
+      },
+      "snippet": {
+        "publishedAt": "2009-12-11T23:18:53Z",
+        "channelId": "UCa5R55NSXiWAZWi9997XYvg",
+        "title": "Ne-Yo - When You&#39;re Mad (Official Music Video)",
+        "description": "Music video by Ne-Yo performing When You're Mad. (C) 2006 The Island Def Jam Music Group #NeYo #WhenYoureMad #Vevo #RandB #OfficialMusicVideo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PU6-2RSkA_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PU6-2RSkA_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PU6-2RSkA_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NeYoVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-12-11T23:18:53Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "yETuagp1Ta3eeWpDDiHxRl5SooY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JkhLQ9ciB86JZM6DZAoIBFU9MK4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yKNxeF4KMsY"
+      },
+      "snippet": {
+        "publishedAt": "2011-05-30T13:12:47Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Yellow (Official Video)",
+        "description": "Coldplay - Yellow is taken from the debut album Parachutes released in 2000 Newly restored 4K version of the video added 10 July 2020. Music Of The Spheres ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yKNxeF4KMsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yKNxeF4KMsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yKNxeF4KMsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-05-30T13:12:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rfJyUVW7xGAByQpR-Pzwathm-iE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7PDUO3l8xiM"
+      },
+      "snippet": {
+        "publishedAt": "2011-05-29T14:45:49Z",
+        "channelId": "UCB35Y70mF9Zx5TKl365JxkA",
+        "title": "Coldplay - Yellow Lyrics",
+        "description": "Music Yellow by Coldplay with lyrics.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7PDUO3l8xiM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7PDUO3l8xiM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7PDUO3l8xiM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MusicToAndForU",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-05-29T14:45:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GDvoyBQKFpV6KMrNXoqvB_V6bvM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OBxEXZ_WhIQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-31T15:59:51Z",
+        "channelId": "UCU0xUICZul1abiw-X50vZcQ",
+        "title": "|| Lyric + Vietsub || Yellow - Coldplay",
+        "description": "Bài hát: Yellow Ca sĩ: Coldplay Trans + sub: Drake. Bài này dành tặng những bạn thích màu vàng. ------------------------------------------- The official video for 'Yellow': ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OBxEXZ_WhIQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OBxEXZ_WhIQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OBxEXZ_WhIQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Levis Drake",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-31T15:59:51Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Oc9PjwLbeGFO9cZDDoDwf8jDjAs",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aagLK6Gotv9o_77IjtqqPRnbDX4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nCrlyX6XbTU"
+      },
+      "snippet": {
+        "publishedAt": "2008-10-19T00:21:38Z",
+        "channelId": "UC6Cs83D0FMzirv1hmfvLM5Q",
+        "title": "Joe Cocker - With a little help from my friends",
+        "description": "Joe Cocker - With a little help from my friends.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nCrlyX6XbTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nCrlyX6XbTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nCrlyX6XbTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "alfrecatorce",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-10-19T00:21:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7SkqlZM8sUHZUt4HC2_xQBkRqPA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LpwabPQW4p4"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-08T16:00:02Z",
+        "channelId": "UCleklo8cQS80xEg9fwLwceg",
+        "title": "Joe Cocker - With A Little Help From My Friends (Live)",
+        "description": "For more info - http://www.eagle-rock.com/artist/joe-... Eagle Vision continues our new programme of releases from the archives of the German WDR TV series ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LpwabPQW4p4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LpwabPQW4p4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LpwabPQW4p4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JoeCockerVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-08T16:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jo2Vm0-eCi7HkR1-AVcljZ3nth4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NR-H2uFCQls"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-22T21:53:55Z",
+        "channelId": "UC3bLiTc7_UpKSl0dnYR-d3A",
+        "title": "In Memory of Joe Cocker  1944 - 2014",
+        "description": "Joe passes at the age of 70 , Rest in Peace The Sheffield-born singer had a career lasting more than 40 years, with hits including You Are So Beautiful and Up ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NR-H2uFCQls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NR-H2uFCQls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NR-H2uFCQls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HDPinkFloyd",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-12-22T21:53:55Z"
+      }
+    }
+  ]
+}

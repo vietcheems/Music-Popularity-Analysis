@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "nq45w5qBTfaP7JwwmAKU9ZfA3Lk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wcXBmMiY0eHB7GkO462Tu8_bA8s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QtXby3twMmI"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-29T08:00:45Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Adventure Of A Lifetime (Official Video)",
+        "description": "Coldplay - Adventure Of A Lifetime is taken from the album A Head Full of Dreams released in 2015 Music Of The Spheres, the new Coldplay album is out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QtXby3twMmI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QtXby3twMmI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QtXby3twMmI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-29T08:00:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D5dR7L2cr3tgOCcjjmMnD2Pd8h4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KGBfLie5gz8"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-17T16:00:23Z",
+        "channelId": "UC1aX7gNPb3uUTI-z50EC43g",
+        "title": "Adventure Of A Lifetime - Coldplay ( lyrics + vietsub )",
+        "description": "Adventure Of A Lifetime - Coldplay ( lyrics + vietsub ) #Lyrics: Turn your magic on Umi she'd say Everything you want's a dream away And we are legends every ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KGBfLie5gz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KGBfLie5gz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KGBfLie5gz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Time Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-17T16:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b8UFNUzkloSvZhRf1pt3R5jLQHA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vzHwYQJ9cCA"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-01T03:09:07Z",
+        "channelId": "UCQ5E5lp9l3ZaHLx392AcN6Q",
+        "title": "Adventure of a Lifetime - Live In São Paulo  (Coldplay)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vzHwYQJ9cCA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vzHwYQJ9cCA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vzHwYQJ9cCA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LiveMusic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-01T03:09:07Z"
+      }
+    }
+  ]
+}

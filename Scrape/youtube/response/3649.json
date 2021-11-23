@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "2fbuu08W-Ws2HA-p64KtqAfLkgA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gsDyersKExGR9kxUgNLq0rlLGVI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xQOO2xGQ1Pc"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-16T04:00:08Z",
+        "channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+        "title": "Justin Bieber &amp; benny blanco - Lonely (Official Music Video)",
+        "description": "Lonely is out now: http://smarturl.it/imsolonely Starring Jacob Tremblay and directed by Jake Schreier If you're feeling Lonely or know someone who is struggling ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xQOO2xGQ1Pc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xQOO2xGQ1Pc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xQOO2xGQ1Pc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JustinBieberVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-16T04:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2kBw8fgghZxOGqljhWIf-wrgtrU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Cu5hhxP_prE"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-27T18:00:09Z",
+        "channelId": "UCIwFjwMjI0y7PDBVEO9-bkQ",
+        "title": "Justin Bieber &amp; benny blanco - Lonely (Official Acoustic Video)",
+        "description": "Lonely out now: http://smarturl.it/imsolonely Directed by Jake Schreier Watch the official video: https://smarturl.it/lonelyvideo Subscribe to benny blanco's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cu5hhxP_prE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cu5hhxP_prE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cu5hhxP_prE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Justin Bieber",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-27T18:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HCqTp8-_EdShLu7gXXWjeWVrAlg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SrRtd-4fvM8"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-26T17:44:30Z",
+        "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+        "title": "Justin Bieber &amp; benny blanco - Lonely (Lyrics)",
+        "description": "Follow 7clouds on Spotify : http://bit.ly/7CLOUDS Justin Bieber & benny blanco - Lonely (Lyrics) ⏬ Download / Stream: http://smarturl.it/imsolonely Turn on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SrRtd-4fvM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SrRtd-4fvM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SrRtd-4fvM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "7clouds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-26T17:44:30Z"
+      }
+    }
+  ]
+}

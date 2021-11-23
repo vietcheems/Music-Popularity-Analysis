@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "WRzqv2Vg98cjCOCP_oySzyydgvY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "64LZWqx_zKpIA2B24dD1AKFiqkA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w3xcybdis1k"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-28T13:00:06Z",
+        "channelId": "UCjB3CzA-MwHrDzuXGweNiMg",
+        "title": "The Killers - The Man",
+        "description": "New Album 'Imploding The Mirage' Out Now: https://thekillers.lnk.to/ImplodingTheMirageID Follow The Killers: Instagram: https://www.instagram.com/thekillers/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w3xcybdis1k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w3xcybdis1k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w3xcybdis1k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheKillersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-28T13:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XWaPYE5nCb_LTpe202n-o8LLAC0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q9h55mdF4lw"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-15T00:54:16Z",
+        "channelId": "UCy6VDT3HS49UtPkRNMcCTHQ",
+        "title": "The Killers - The Man (Lyrics)",
+        "description": "The Man - The Killers Written by: Flowers, Stoermer, Lee, Bell, Bell, Brown, Nash, Smith, Westfield, Mickens, Boyce, Thomas Music video by The Killers ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q9h55mdF4lw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q9h55mdF4lw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q9h55mdF4lw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "R O B I N E TT E",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-15T00:54:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IYvVtyQU_vOLaeKEdEwX0WfDzT0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dVu9AMPQF2w"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-02T20:25:15Z",
+        "channelId": "UCjB3CzA-MwHrDzuXGweNiMg",
+        "title": "The Killers - The Man (Live From Jimmy Kimmel Live!)",
+        "description": "Buy/stream The Killers' new single “The Man”: iTunes: https://IslandRecs.lnk.to/TheManDL/it... Apple Music: https://IslandRecs.lnk.to/TheManDL/ap... Amazon: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dVu9AMPQF2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dVu9AMPQF2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dVu9AMPQF2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheKillersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-02T20:25:15Z"
+      }
+    }
+  ]
+}

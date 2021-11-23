@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "kiwjXNgr29lLhXucxz0vgYkcx14",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K0V7nfd7L1Q7c1gAttArsppSeg0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ojdbDYahiCQ"
+      },
+      "snippet": {
+        "publishedAt": "2009-12-23T17:35:38Z",
+        "channelId": "UCHai12P6Gh7PaIYZGnzyrSA",
+        "title": "Amy Winehouse - Tears Dry On Their Own",
+        "description": "The official music video for Tears Dry On Their Own by Amy Winehouse. This track was the fourth single from the album Back To Black and was released on 13th ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ojdbDYahiCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ojdbDYahiCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ojdbDYahiCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AmyWinehouseVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-12-23T17:35:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y8MDe3GdCMsagFyogqchc1Dqdac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S4BgyHWCVg8"
+      },
+      "snippet": {
+        "publishedAt": "2008-12-18T22:55:19Z",
+        "channelId": "UCO0NEZDnEAtbs0xAacHJnyA",
+        "title": "Amy Winehouse-Tears Dry On Their Own Lyrics",
+        "description": "I love this song.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S4BgyHWCVg8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S4BgyHWCVg8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S4BgyHWCVg8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jmcpherson123",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-12-18T22:55:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "16QB5svE5V_YuuCLtUvniGymHbg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yXPHzVWcHjs"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-01T16:53:43Z",
+        "channelId": "UCZtDUmC3W7j25XHZWFT_XgQ",
+        "title": "Amy Winehouse - Tears Dry On Their Own  (Later Archive 2006)",
+        "description": "See more at http://www.bbc.co.uk/later Amy Winehouse performs Tears Dry On Their Own on Later... with Jools Holland in 2006.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yXPHzVWcHjs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yXPHzVWcHjs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yXPHzVWcHjs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBC Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-01T16:53:43Z"
+      }
+    }
+  ]
+}

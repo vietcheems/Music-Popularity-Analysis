@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "y0bFoq7n8Y9n6E80Csn7muUa4Pk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yXGOJPNDb3c4TQtgfHiFl3ZecbY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l2UktJtKpFw"
+      },
+      "snippet": {
+        "publishedAt": "2010-08-17T13:44:32Z",
+        "channelId": "UCIVROfF-b3Wjpk-G1-_ulFw",
+        "title": "Billy Talent - Red Flag - Official Video",
+        "description": "From the album Billy Talent II. Available on iTunes now: http://bit.ly/19TwUUR Subscribe to Billy Talent on YouTube: https://www.youtube.com/user/billytalent ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l2UktJtKpFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l2UktJtKpFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l2UktJtKpFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Billy Talent",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-08-17T13:44:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t0q936smWaDBZWPTc7CMDlbUCQ4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1XAn5Gbrcs4"
+      },
+      "snippet": {
+        "publishedAt": "2013-02-16T06:00:23Z",
+        "channelId": "UCVhH02wVTBM9vBeWMXGeYHA",
+        "title": "Billy Talent - Red Flag (HD,HQ)",
+        "description": "GUARANTEED BEST QUALITY ON YOU TUBE ** MP3 320kbps, 44.1kHz Download: http://www.4shared.com/mp3/iw8ZDeFv/02_Billy_Talent_-_Red_Flag.html ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1XAn5Gbrcs4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1XAn5Gbrcs4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1XAn5Gbrcs4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HQMusicBank",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-02-16T06:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6xVvZIPTUn1yp8NXg79u3iPHMvw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iCQYRBVfYNc"
+      },
+      "snippet": {
+        "publishedAt": "2010-07-24T20:28:16Z",
+        "channelId": "UCr6amnrh--1YZgPbrT0LMIg",
+        "title": "Billy Talent Red Flag Lyrics",
+        "description": "Billy Talent - Red Flag mit Lyrics! :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iCQYRBVfYNc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iCQYRBVfYNc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iCQYRBVfYNc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YourLyrix",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-07-24T20:28:16Z"
+      }
+    }
+  ]
+}

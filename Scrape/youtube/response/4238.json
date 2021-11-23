@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "F4QRA8MQtXyA9cPO6su5MSyIH8k",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LGR3DZCcLmuarPAz-pnd7vLXNP0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8OARiNiJ_w8"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-14T14:00:00Z",
+        "channelId": "UCjjC1Jk_1o1VWpLalgo21XQ",
+        "title": "G-Eazy - Sober (Official Video) ft. Charlie Puth",
+        "description": "G-Eazy feat. Charlie Puth – “Sober” out now! http://smarturl.it/zSober 'The Beautiful & Damned' Available Everywhere http://smarturl.it/TBAD iTunes: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8OARiNiJ_w8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8OARiNiJ_w8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8OARiNiJ_w8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GEazyMusicVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-14T14:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cc5n3zFLkl7r8kQlEnNTXWLfURY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HKIIgYFhQlE"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-08T05:00:01Z",
+        "channelId": "UCjjC1Jk_1o1VWpLalgo21XQ",
+        "title": "G-Eazy - Sober (Audio) ft. Charlie Puth",
+        "description": "New Album 'The Beautiful & Damned' Available Everywhere http://smarturl.it/TBAD Get exclusive TB&D bundles here: http://smarturl.it/TBAD/officialstore ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HKIIgYFhQlE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HKIIgYFhQlE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HKIIgYFhQlE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GEazyMusicVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-08T05:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wf6hYbIl5cEN2iKt2tCLCIJp4kU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XLWADznqdvw"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-08T08:16:29Z",
+        "channelId": "UCy9zjfGD_LGnfaz27K5pvnw",
+        "title": "G-Eazy - Sober (Lyrics) ft. Charlie Puth",
+        "description": "G-Eazy - Sober (Lyrics) ft. Charlie Puth -- G-Eazy Sober Lyrics, Charlie Puth Sober Lyrics, G-Eazy Sober feat. Charlie Puth Lyrics, G Eazy Sober Lyrics, G-Eazy ft.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XLWADznqdvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XLWADznqdvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XLWADznqdvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SuperbLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-08T08:16:29Z"
+      }
+    }
+  ]
+}

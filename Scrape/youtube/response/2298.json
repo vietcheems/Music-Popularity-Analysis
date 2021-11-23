@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ssaNQ-tx0UE7hNFQHA-2KPbtqLI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5SIWowGdtIgJud_TjYJd66iY3Yk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XaCrQL_8eMY"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-04T13:57:48Z",
+        "channelId": "UCXVMHu5xDH1oOfUGvaLyjGg",
+        "title": "Lizzo - Juice (Official Video)",
+        "description": "The official music video for Lizzo's \"Juice\" From the album 'Cuz I Love You' available now. Listen here: https://Lizzo.lnk.to/CuzILoveYouAY WATCH, SIP, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XaCrQL_8eMY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XaCrQL_8eMY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XaCrQL_8eMY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lizzo Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-04T13:57:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tOCrh9_rLNE-FXQTUC7r3KfLNuE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n3VjKtROscQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-25T17:55:06Z",
+        "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+        "title": "Lizzo - Juice (Lyrics)",
+        "description": "Follow our Spotify playlists: http://bit.ly/7cloudsSpotify Lizzo - Juice (Lyrics) ⏬ Download / Stream: https://Lizzo.lnk.to/CuzILoveYouAY Turn on notifications to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n3VjKtROscQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n3VjKtROscQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n3VjKtROscQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "7clouds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-25T17:55:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UmO9eKDEogHr3gtY0YN1ZhAhdYA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uPS1qFK6PAM"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-18T19:20:08Z",
+        "channelId": "UCKoafhJ9dkAWaEvlXCiBBwA",
+        "title": "Harry Styles - Juice (Lizzo cover) in the Live Lounge",
+        "description": "Harry Styles covers Lizzo Juice in the BBC Radio 1 Live Lounge http://vevo.ly/V4jgBZ.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uPS1qFK6PAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uPS1qFK6PAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uPS1qFK6PAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBCRadio1VEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-18T19:20:08Z"
+      }
+    }
+  ]
+}

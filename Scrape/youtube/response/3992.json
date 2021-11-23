@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "9ihQG6AcbkH7xydYtLPj46kNi_8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xl4Xc4iqEL3XIM4kJK8POGm2huo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "82t_UOMHPJY"
+      },
+      "snippet": {
+        "publishedAt": "2007-07-16T20:43:19Z",
+        "channelId": "UCiCEl_00nC3UW5J2K-kBg0w",
+        "title": "J. Holiday - Bed (Official Music Video)",
+        "description": "Music video by J. Holiday performing Bed.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/82t_UOMHPJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/82t_UOMHPJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/82t_UOMHPJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JHolidayVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2007-07-16T20:43:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vq1xlsHgSs4-Gobs8XGy4mHFf8Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uAwPjFq1W4s"
+      },
+      "snippet": {
+        "publishedAt": "2007-12-11T19:23:04Z",
+        "channelId": "UCuGrmayj09D6E98WKwN-X6g",
+        "title": "J Holiday - Bed",
+        "description": "Lyrics from J Holiday - Bed.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uAwPjFq1W4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uAwPjFq1W4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uAwPjFq1W4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NFFCMitch1992",
+        "liveBroadcastContent": "none",
+        "publishTime": "2007-12-11T19:23:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y9L3LAylgCpAifooDvqKJ9drHyU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6ORyIzgCqi0"
+      },
+      "snippet": {
+        "publishedAt": "2009-03-25T03:14:24Z",
+        "channelId": "UCYmzY1mMl8tu7QhbpoWUdIQ",
+        "title": "J.Holiday feat. Trey Songz - Bed (Remix)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ORyIzgCqi0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ORyIzgCqi0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ORyIzgCqi0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Leehziin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-03-25T03:14:24Z"
+      }
+    }
+  ]
+}

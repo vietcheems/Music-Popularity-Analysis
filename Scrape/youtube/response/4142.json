@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "_Meoy2WzK6IDktS4c95Zq8VtgCA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k7C1OKZts1addCULY8_jpmNJN_g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "adLGHcj_fmA"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-05T05:00:00Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]",
+        "description": "The official music video for Bruno Mars, Anderson .Paak, Silk Sonic's new single \"Leave the Door Open\" 'An Evening with Silk Sonic' available now: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/adLGHcj_fmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/adLGHcj_fmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/adLGHcj_fmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-05T05:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NiVj0XZ7sMPSfivFZSRlmaK3KMY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y0ScH6M_x_g"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-07T19:00:05Z",
+        "channelId": "UCl7cVzHngS0kg51TPrDbqlg",
+        "title": "Bruno Mars, Anderson .Paak - Leave The Door Open (Lyrics)",
+        "description": "Bruno Mars, Anderson .Paak - Leave The Door Open (Lyrics) is a lyric video for \"Leave The Door Open” by Bruno Mars, Anderson .Paak “Leave The Door Open” ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y0ScH6M_x_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y0ScH6M_x_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y0ScH6M_x_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Shadow Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-07T19:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "33CfHfkC1iAu5Oj4hkLtXHnwlp8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yoWJfsk0gvk"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-28T07:00:11Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars, Anderson .Paak, Silk Sonic - Leave The Door Open (Live from the BET Awards)",
+        "description": "Bruno Mars, Anderson .Paak, Silk Sonic - Leave The Door Open - Live from the BET Awards 2021 'An Evening with Silk Sonic' available now: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yoWJfsk0gvk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yoWJfsk0gvk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yoWJfsk0gvk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-28T07:00:11Z"
+      }
+    }
+  ]
+}

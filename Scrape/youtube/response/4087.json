@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "TYi9cmOREqxs8Q9vRWOJTrLcP0Y",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x9umODTNjfw5A2rRV7CIunyx5iQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n95eekfFZZg"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-12T18:00:31Z",
+        "channelId": "UCNMceJPDpB-1ZQJzh2PZ1qw",
+        "title": "Cage The Elephant - Cold Cold Cold",
+        "description": "Official music video for ”Cold Cold Cold” by Cage the Elephant Listen to Cage the Elephant: https://CageTheElephant.lnk.to/ListenYD Watch more videos by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n95eekfFZZg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n95eekfFZZg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n95eekfFZZg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CageTheElephantVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-12T18:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GEmw0xiwgayQEjfAlOsJTRCGlSw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TNTkpTSLdPk"
+      },
+      "snippet": {
+        "publishedAt": "2016-01-21T01:39:09Z",
+        "channelId": "UCHg5FXY3a-qIRQc7OVWpZxA",
+        "title": "Cage the Elephant - Cold Cold Cold (lyrics)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TNTkpTSLdPk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TNTkpTSLdPk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TNTkpTSLdPk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ForYou",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-01-21T01:39:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C1hyVWY8vpbBX2u-4D_wIqRvDpM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TzFdKMyIzMo"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-09T00:40:06Z",
+        "channelId": "UCNMceJPDpB-1ZQJzh2PZ1qw",
+        "title": "Cage The Elephant - Cold Cold Cold (Audio)",
+        "description": "Get the New Album 'Tell Me I'm Pretty' Now! iTunes: http://smarturl.it/TMIPi?IQid=YT Spotify: http://smarturl.it/TMIPs?IQid=YT Amazon: http://smarturl.it/TMIPamz?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TzFdKMyIzMo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TzFdKMyIzMo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TzFdKMyIzMo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CageTheElephantVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-09T00:40:06Z"
+      }
+    }
+  ]
+}

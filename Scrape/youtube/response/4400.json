@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ha60qD_NlcXavzdKZfDuSsgV6tM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bTFKH8tRNmi0_Hut0mnBta7Iee8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pC4RRPY32RY"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-18T00:33:03Z",
+        "channelId": "UCjDJVmt4p8cqRa51829CyFA",
+        "title": "Wait a Minute! - Willow Smith lyrics",
+        "description": "This channel and I do not claim any rights over the song used in this video. All rights reserved to the respective copyright owners. Original video: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pC4RRPY32RY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pC4RRPY32RY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pC4RRPY32RY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "roses",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-18T00:33:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hVljI8riIyU1IqhalOqcyb4lUuo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RXDyqhrYj4Y"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-27T19:17:41Z",
+        "channelId": "UCGNGywozM9GJSYSHfqcYP6A",
+        "title": "Willow Smith - Wait a Minute! (live performance)",
+        "description": "Willow smith - wait a minute live performance #willowsmith #jadensmith #willow #smithfamily.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RXDyqhrYj4Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RXDyqhrYj4Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RXDyqhrYj4Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jonguin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-27T19:17:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6q7LR_-2TLMH8RDVR-YmBCHDjFw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tgwKAOWVMQo"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-11T03:16:42Z",
+        "channelId": "UCYFThOulCsF87C8Q5S7BaKA",
+        "title": "wait a minute! - willow smith lyrics",
+        "description": "the song isn't mine, all credit goes to willow smith. i only typed the lyrics out for the video :) so i've realized that the lyric isn't \"some people lie to me,\" instead it is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tgwKAOWVMQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tgwKAOWVMQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tgwKAOWVMQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tig",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-11T03:16:42Z"
+      }
+    }
+  ]
+}

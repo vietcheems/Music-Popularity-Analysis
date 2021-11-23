@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "rbFkB0VJBCb85deuG4YXOcAD4xM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3yMmyP5Xz09zWekYYw9ivaz9XKs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mGgMZpGYiy8"
+      },
+      "snippet": {
+        "publishedAt": "2010-02-23T15:02:31Z",
+        "channelId": "UC9YTouco1dW1KIZL-P3znoA",
+        "title": "The Cure - Friday I&#39;m In Love (Official Video)",
+        "description": "Order The Cure's expanded edition of 'Mixed Up' here: https://lnk.to/MixedUp Explore more music from The Cure: https://lnk.to/TheCureHits Follow The Cure: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mGgMZpGYiy8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mGgMZpGYiy8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mGgMZpGYiy8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheCureVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-02-23T15:02:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J6_pReWz_nFSGTpKtLYflMUjOYA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tJ4b99-aujI"
+      },
+      "snippet": {
+        "publishedAt": "2010-05-31T02:45:23Z",
+        "channelId": "UCK_kW1-vM2BUAw_UfIkBEYA",
+        "title": "The Cure- Friday im in love (lyrics)",
+        "description": "i hope you like it :D.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tJ4b99-aujI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tJ4b99-aujI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tJ4b99-aujI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1006vic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-05-31T02:45:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zSFVd7XEPdugR_2pLeibADeSKT4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qdYwrFRxKH0"
+      },
+      "snippet": {
+        "publishedAt": "2010-02-23T14:36:34Z",
+        "channelId": "UC9YTouco1dW1KIZL-P3znoA",
+        "title": "The Cure - Friday I&#39;m In Love (Acoustic Version)",
+        "description": "Order The Cure's expanded edition of 'Mixed Up' here: https://lnk.to/MixedUp Explore more music from The Cure: https://lnk.to/TheCureHits Follow The Cure: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qdYwrFRxKH0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qdYwrFRxKH0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qdYwrFRxKH0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheCureVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-02-23T14:36:34Z"
+      }
+    }
+  ]
+}

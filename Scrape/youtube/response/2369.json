@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "DvlPPN8TAwTeqLGz7wcF6bxC-TI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fJ9Ri819i1UaByAjjflFh-qb3F4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BME88lS6aVY"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-27T21:48:16Z",
+        "channelId": "UCqf-kTp9ERV5T1rPayno7LA",
+        "title": "Frank Ocean - Self Control",
+        "description": "Frank Ocean - Self Control ℗ Boys Don't Cry Released August 20, 2016.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BME88lS6aVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BME88lS6aVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BME88lS6aVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Blonded",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-27T21:48:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JztetIhLlWttP5GHXEJ9pmFN4K4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A6C_wjw3y-g"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-16T23:02:07Z",
+        "channelId": "UCapYlZwJbR8ZpZhFEVPuerQ",
+        "title": "Self Control - Frank Ocean Lyrics",
+        "description": "I do not own this. NO copyright was intended.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A6C_wjw3y-g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A6C_wjw3y-g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A6C_wjw3y-g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lexisss",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-16T23:02:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wC2EobxxTwb4HWTiGsGpH55_1oM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_hSQ9HYjM-w"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-20T05:29:22Z",
+        "channelId": "UCWVJlRW9RrJVRHh8R8q_JBA",
+        "title": "Frank Ocean   Self Control Live @ Way Out West 2017",
+        "description": "not my video (got it from reddit but the original post was deleted so I can't credit the person). posting for the intro tbh.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_hSQ9HYjM-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_hSQ9HYjM-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_hSQ9HYjM-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ocin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-20T05:29:22Z"
+      }
+    }
+  ]
+}

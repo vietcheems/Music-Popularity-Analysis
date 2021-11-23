@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "69PRvvC7uLg-2Q56yTBnXLEbQnE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WZlAF34JIzedNBJO6mC-nJu0e1I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5YIK4b7fNeo"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-26T22:42:37Z",
+        "channelId": "UCXooz9whNJZBRTHi9AqdjPw",
+        "title": "Gusttavo Lima - Cem Mil - DVD O Embaixador (Ao Vivo)",
+        "description": "OEmbaixador #GusttavoLima #CemMil Essa música faz parte do novo álbum do Gusttavo Lima, O Embaixador, gravado em Barretos/SP INSCREVA-SE NO ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5YIK4b7fNeo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5YIK4b7fNeo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5YIK4b7fNeo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gusttavo Lima Oficial",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-26T22:42:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BcfGL_yQYwXiTzE7hb4dj1_H1vg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b8XBmvUIEWQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-18T04:26:43Z",
+        "channelId": "UC8VJv9uF9eETPi73B9QnmYw",
+        "title": "Gusttavo Lima - Cem Mil (Caldas Country 2019 / Ao Vivo) | O Embaixador",
+        "description": "2019 - Créditos ao canal Caldas Country. Vídeo não oficial, gravado durante a última edição do Caldas Country em Caldas Novas, Goiás. Informações: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b8XBmvUIEWQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b8XBmvUIEWQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b8XBmvUIEWQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Trechos Caldas Country",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-18T04:26:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O0Zv6Az7cUsmKmR31A9PofeM8X8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J9TcFCxyj08"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-23T14:05:01Z",
+        "channelId": "UCf8QzTy-greedDnBDm5Je0w",
+        "title": "Buteco-Do-Gusttavo-Lima-BH-Cem-Mil",
+        "description": "Buteco Do Gustavo Lima Ao Vivo Em Belo Horizonte Pra Mais De 57.000 Mil Pessoas Em Pleno Mineirão!! Galera deixa àquele joinha maroto pra fortalecer o ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J9TcFCxyj08/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J9TcFCxyj08/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J9TcFCxyj08/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "So as melhores",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-23T14:05:01Z"
+      }
+    }
+  ]
+}

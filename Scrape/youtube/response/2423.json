@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "clA6sAXRHajtIGZE4W5zBqjBYt0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UjCa_pkDNuopRGE1Ad_0s1t19_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cBMXQrW3VNA"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-19T22:02:41Z",
+        "channelId": "UCDdx1uv27YOmf6-ZMuk15-A",
+        "title": "Killer Queen (Remastered 2011)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cBMXQrW3VNA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cBMXQrW3VNA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cBMXQrW3VNA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "This Is Queen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-19T22:02:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zN2kd4EpbOCR7e_qBB6WYhaGdJ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ULZ9oCwY1pA"
+      },
+      "snippet": {
+        "publishedAt": "2013-07-23T13:28:07Z",
+        "channelId": "UCuMbxFl0J5xzFULc2RJYH9w",
+        "title": "Queen - Killer queen - Remastered [HD] - with lyrics",
+        "description": "Killer queen Album: Sheer heart attack (1974) Lyrics: She keeps Moet et Chandon in her pretty cabinet 'Let them eat cake' she says just like Marie Antoinette A ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ULZ9oCwY1pA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ULZ9oCwY1pA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ULZ9oCwY1pA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "queenremastered4",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-07-23T13:28:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hnOJkp78Tt1SP7A-tWpt6mogItM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2ZBtPf7FOoM"
+      },
+      "snippet": {
+        "publishedAt": "2008-08-01T12:32:47Z",
+        "channelId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+        "title": "Queen - Killer Queen (Top Of The Pops, 1974)",
+        "description": "Taken from Sheer Heart Attack, 1974. The official 'Killer Queen' music video. Taken from Queen - 'Greatest Video Hits 1'. Click here to buy the DVD with this ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2ZBtPf7FOoM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2ZBtPf7FOoM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2ZBtPf7FOoM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Queen Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-08-01T12:32:47Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "e1XNvSzUacmjSjsdbXByCAL18ow",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-Poc5A_z0F1gknTfa6IQXx1C6ac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WGoDaYjdfSg"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-12T21:48:16Z",
+        "channelId": "UCXQWf0KEholU1zS7LElUBrA",
+        "title": "The Jimi Hendrix Experience - Purple Haze (Audio)",
+        "description": "\"Purple Haze\" by The Jimi Hendrix Experience Listen to Jimi Hendrix: https://jimihendrix.lnk.to/listenYD Subscribe to the official Jimi Hendrix YouTube Channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WGoDaYjdfSg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WGoDaYjdfSg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WGoDaYjdfSg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JimiHendrixVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-12T21:48:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UoFJ-HOn4bIN5_ifnbeF-gCTTg8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cJunCsrhJjg"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-20T07:00:00Z",
+        "channelId": "UCXQWf0KEholU1zS7LElUBrA",
+        "title": "Purple Haze (Live at the Atlanta Pop Festival) (Digital Video)",
+        "description": "Click to subscribe: http://smarturl.it/SubscribeJHVevo?IQid=ytd.jh.phapf Listen to Jimi Hendrix on Spotify: http://smarturl.it/JimiHSpotify?IQid=ytd.jh.phapf Album's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cJunCsrhJjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cJunCsrhJjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cJunCsrhJjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JimiHendrixVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-20T07:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PejV13MBlykK6t78toZ1D4Pi7pU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zSsjtiky9xI"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-13T13:03:10Z",
+        "channelId": "UCYyFEZ-3Hy4pdLFctDtRu3w",
+        "title": "The Jimi Hendrix Experience - Purple Haze - LIVE (1967)",
+        "description": "The Jimi Hendrix Experience was an American-English rock band that formed in Westminster, London, in September 1966. Singer, songwriter, and guitarist Jimi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zSsjtiky9xI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zSsjtiky9xI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zSsjtiky9xI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Beat-Club",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-13T13:03:10Z"
+      }
+    }
+  ]
+}

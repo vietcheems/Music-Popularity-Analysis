@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Lv6s_e2fvD4YcHV4zyAS5I1PWGw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HjUzHU5P3e8NBF_tMvqQ_rLaZkI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3_feY0v77p4"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-30T04:14:46Z",
+        "channelId": "UCOlxqtcKc-HBEQJgDsylyhA",
+        "title": "Lil Tecca - Did It Again (Official Audio)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3_feY0v77p4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3_feY0v77p4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3_feY0v77p4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lil Tecca",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-30T04:14:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kPk9uqeepZeAL5RfGyjyBUSVH5U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YdrUe_IFSjs"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-02T20:09:01Z",
+        "channelId": "UC-yXuc1__OzjwpsJPlxYUCQ",
+        "title": "Lil Tecca &quot;Did it Again&quot; (WSHH Exclusive - Official Music Video)",
+        "description": "Watch the official music video for \"Did it Again\" by Lil Tecca. We launched on Snap Discover! SUBSCRIBE HERE: http://bit.ly/worldstarsnap SUBSCRIBE for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YdrUe_IFSjs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YdrUe_IFSjs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YdrUe_IFSjs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WORLDSTARHIPHOP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-02T20:09:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pnOOPOt9UYPTZKRjbCMAdcvhsq8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r037Yxm_sbU"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-28T15:22:58Z",
+        "channelId": "UCKI8WnM4EvHoKf9r5DVo7uw",
+        "title": "Lil Tecca - Did It Again (Lyrics)",
+        "description": "Lil Tecca - Did It Again (Lyrics) Subscribe and turn notifications on for more Lyric videos Lil Tecca • https://www.instagram.com/liltecca/. ♛ Partner Channels: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r037Yxm_sbU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r037Yxm_sbU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r037Yxm_sbU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "VibesOnly",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-28T15:22:58Z"
+      }
+    }
+  ]
+}

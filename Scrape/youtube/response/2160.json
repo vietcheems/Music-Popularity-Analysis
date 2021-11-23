@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Wrs1io4CGZGhxvFJMfOG3apRwfY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zg_ObuRhb52R_gcgqIaijWhVx1Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3wxyN3z9PL4"
+      },
+      "snippet": {
+        "publishedAt": "2014-05-09T07:00:02Z",
+        "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
+        "title": "Starship - Nothing&#39;s Gonna Stop Us Now (Official Music Video)",
+        "description": "You're watching the official music video for Starship - \"Nothing's Gonna Stop Us Now\" from the 1987 album 'No Protection'. Subscribe to the Rhino Channel!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3wxyN3z9PL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3wxyN3z9PL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3wxyN3z9PL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RHINO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-05-09T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Gr1Dyg1d4AvzSz2-LvZLAH8GVb8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vJVtAzpX50k"
+      },
+      "snippet": {
+        "publishedAt": "2013-04-26T14:58:15Z",
+        "channelId": "UCALkTfj8cGsmjPG58nSQUxQ",
+        "title": "STARSHIP - Nothing&#39;s Gonna Stop Us Now (Lyrics)",
+        "description": "For educational purposes only and no copyright infringement intended. all materials used on the video are the properties of their respective lawful and rightful ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vJVtAzpX50k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vJVtAzpX50k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vJVtAzpX50k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bob Tsukamoto",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-04-26T14:58:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vCdy_xSR5mYkdQrfMt5f9-Ter0I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DuVaLWf2114"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-29T21:57:06Z",
+        "channelId": "UCPbEcJyVcETaWrubYOg4UTw",
+        "title": "&#39;NOTHING&#39;S GONNA STOP US NOW&#39; (STARSHIP) cover by HSCC",
+        "description": "'NOTHING'S GONNA STOP US NOW' (Starship Classic) performed Live by the HINDLEY STREET COUNTRY CLUB feat Kat Jade and Jordan Lennon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DuVaLWf2114/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DuVaLWf2114/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DuVaLWf2114/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Hindley Street Country Club",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-29T21:57:06Z"
+      }
+    }
+  ]
+}

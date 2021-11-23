@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "aZigCy21-WDnLJRi0KSP34BVKaQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BdGmBqlrkfdV0lyg17BWtb3nDbw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g3ncYwtsQWY"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-04T07:00:06Z",
+        "channelId": "UCYhoLFLdKWOuhOkTtmMSe7w",
+        "title": "Sam Cooke - Bring It On Home to Me (Official Audio)",
+        "description": "Music video by Sam Cooke performing Bring It On Home to Me (Audio). (C) 2017 RCA Records, a division of Sony Music Entertainment http://vevo.ly/luCPm6.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g3ncYwtsQWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g3ncYwtsQWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g3ncYwtsQWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SamCookeVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-04T07:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yCW4n8LGhWKAvJUkmReQVpho4tw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WjtndPBN6jE"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-08T03:19:34Z",
+        "channelId": "UCfxdHuwHM7BNjaF3pmEwzkQ",
+        "title": "Sam Cooke - Bring It On Home to Me - with lyrics",
+        "description": "If you you like this, you'll like this i think. The Sims Twins - That's Where It's At - 1963 https://www.youtube.com/watch?v=Zd94oniFD1s.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WjtndPBN6jE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WjtndPBN6jE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WjtndPBN6jE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Matt Laufenberg",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-08T03:19:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HmNRmWdtSQkkzgnIjkbsNtM4qwA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dl5usKhGz60"
+      },
+      "snippet": {
+        "publishedAt": "2009-09-06T20:00:51Z",
+        "channelId": "UCbR1jZLwdp4wiNfM_Mb49Tw",
+        "title": "Sam Cooke Bring It Home To Me",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dl5usKhGz60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dl5usKhGz60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dl5usKhGz60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clay More",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-09-06T20:00:51Z"
+      }
+    }
+  ]
+}

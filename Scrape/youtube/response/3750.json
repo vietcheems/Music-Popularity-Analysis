@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "eZ1fcvXp9jQj4q4GC_m-mtPKmV4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ctojKMFjS5iVMMQImgoAJ3mQVu4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S1plVCMeEGw"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-01T08:50:36Z",
+        "channelId": "UChaZ-at3K45qDkiVpEBlMCw",
+        "title": "Drake - Get It Together ft Black Coffee &amp; Jorja Smith (Official Audio)",
+        "description": "Drake - Get It Together ft Black Coffee & Jorja Smith (Official Audio) Album : More Life.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S1plVCMeEGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S1plVCMeEGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S1plVCMeEGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "B 13",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-01T08:50:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oow6xs7FgH6kX8sxRAP0lzD3B44",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CjEe35jlnmM"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-21T04:56:43Z",
+        "channelId": "UCjZjk_6h1Jtt3acgaLoJmVA",
+        "title": "Drake - Get It Together (ft. Jorja Smith &amp; Black Coffee) [MORE LIFE] Lyrics",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CjEe35jlnmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CjEe35jlnmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CjEe35jlnmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "maria moronta",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-21T04:56:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nHpNJw_L2WPD1BpJkjO5RDfeTRc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6IQjZnTm4Y8"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-16T18:08:46Z",
+        "channelId": "UCbMSxYC2xBD-Uw6WjoVpUhg",
+        "title": "Drake Ft. Jorja Smith - Get It Together ( slowed + reverb )",
+        "description": "+ (some extra bass lines and snare sounds) no copyright intended. song : Get It Together artists : Drake , Jorja Smith , Black Coffee.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6IQjZnTm4Y8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6IQjZnTm4Y8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6IQjZnTm4Y8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Doruk Kural",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-16T18:08:46Z"
+      }
+    }
+  ]
+}

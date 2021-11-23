@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "g-E0NTZdDYk8N8mE-y9P0UoLmpU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 967210,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Edaw5W_jbwX3Y5s7BvtIhGP9wmU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s36eQwgPNSE"
+      },
+      "snippet": {
+        "publishedAt": "2016-01-12T12:21:21Z",
+        "channelId": "UCp79gGmFTk9kJZl1woueGLQ",
+        "title": "Funkytown- Lipps Inc (original)",
+        "description": "Registrazione sonora gestita da: UMG.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s36eQwgPNSE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s36eQwgPNSE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s36eQwgPNSE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daniel Pignataro",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-01-12T12:21:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g2f7Gy8g86lN3CZGJNXb4oo10lQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v7aeamKVz_U"
+      },
+      "snippet": {
+        "publishedAt": "2013-09-17T15:08:50Z",
+        "channelId": "UCEPdfN-fTQanVRsWr52OEig",
+        "title": "Lipps Inc -  Funkytown (Single Version)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v7aeamKVz_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v7aeamKVz_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v7aeamKVz_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ZTC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-09-17T15:08:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KriYdjxkLq6b24AWc5gGGYbzrRo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I5ht9pKiMQw"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-11T07:59:42Z",
+        "channelId": "UC4CZEOBupUT3mb5l3PU4aeQ",
+        "title": "Lipps, Inc. ✧ Funkytown (Single Version)",
+        "description": "LippsInc #Funkytown #SingleVersion Support The Artists. All Rights Reserved To The Original Artists & Label No Copyright Infrigement Intended.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I5ht9pKiMQw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I5ht9pKiMQw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I5ht9pKiMQw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ramón Valls",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-11T07:59:42Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "yxRxDlUr6hEYcFJCm11SpkeXccw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "66BJ52y4PHL6nC4gKI5KTGcMUzM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rXwMrBb2x1Q"
+      },
+      "snippet": {
+        "publishedAt": "2013-02-26T08:01:13Z",
+        "channelId": "UCXQWf0KEholU1zS7LElUBrA",
+        "title": "The Jimi Hendrix Experience - Hey Joe (Official Audio)",
+        "description": "Click to subscribe: http://smarturl.it/SubscribeJHVevo?IQid=ytd.jh.HJ Listen to Jimi Hendrix on Spotify: http://smarturl.it/JimiHSpotify?IQid=ytd.jh.HJ Album's from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rXwMrBb2x1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rXwMrBb2x1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rXwMrBb2x1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JimiHendrixVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-02-26T08:01:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mJgRRH5pwiYHXpfReBl0k32_IiI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rX-4eluL-HM"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-20T04:44:32Z",
+        "channelId": "UC4xgwA83L7J7Jfef3P-wAOw",
+        "title": "Jimi Hendrix - Hey Joe ( the best version )",
+        "description": "Jimi Hendrix - Hey Joe.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rX-4eluL-HM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rX-4eluL-HM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rX-4eluL-HM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Psychedelic Moods",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-20T04:44:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oy1dWws-BCD5ZKZgaAKXBKrEKvA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i5nkYQo6XcU"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-28T17:49:00Z",
+        "channelId": "UCv3BtGS-7Xyrr6Cp2stE9dQ",
+        "title": "(4K) Jimi Hendrix - Hey Joe (Monterey 1967)",
+        "description": "The Jimi Hendrix Experience cover the song \"Hey Joe\" at the Monterey Pop Festival in 1967. The author of the song is unknown. Hey Joe: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i5nkYQo6XcU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i5nkYQo6XcU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i5nkYQo6XcU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vintage Blues in 4K",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-28T17:49:00Z"
+      }
+    }
+  ]
+}

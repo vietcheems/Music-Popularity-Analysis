@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "LaFfQ3AFZWhUcEKRqzLzSiU4ZIo",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wfghN5mM92nf1dEHcILAZjbTk9o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hKgl5-lkT8U"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-11T17:00:08Z",
+        "channelId": "UC1-Ru6RKUnkOJHN-Eq0uPYg",
+        "title": "Daniel Caesar &amp; H.E.R. - Best Part, a Visual",
+        "description": "Best Part, a Visual” Directed by Keavan Yazdani & Sean Brown for theENDS Written by Daniel Caesar & H.E.R Music by Daniel Caesar, H.E.R, Riley Bell, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hKgl5-lkT8U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hKgl5-lkT8U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hKgl5-lkT8U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DanielCaesarVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-11T17:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eHy1gRS_4hd5_5ioJxd-imWO8IE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vBy7FaapGRo"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-20T19:16:05Z",
+        "channelId": "UCQT3bmChpmnR5ThhY_ewoOQ",
+        "title": "H.E.R. - Best Part (Audio) ft. Daniel Caesar",
+        "description": "Listen to Vol. 1 & 2 along with The B Sides: http://smarturl.it/Vol2BSides?IQid=yt Follow H.E.R. https://twitter.com/HERMusicx ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vBy7FaapGRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vBy7FaapGRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vBy7FaapGRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HERMusicVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-20T19:16:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bi7NB0WGFHd9kBfF0OHOgSApr_c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iKk6_2-AAGc"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-25T04:01:13Z",
+        "channelId": "UCUsgEUUY2w9c7Z5M4u2zdww",
+        "title": "Daniel Caesar - Best Part (feat. H.E.R.)",
+        "description": "EscapeTracks - Let your mind escape. » Snapchat ▸ EscapeTracks » Spotify: https://open.spotify.com/user/escapetracks » Twitter: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iKk6_2-AAGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iKk6_2-AAGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iKk6_2-AAGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EscapeTracks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-25T04:01:13Z"
+      }
+    }
+  ]
+}

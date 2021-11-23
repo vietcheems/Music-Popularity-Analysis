@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "eHYB6BSpmLYhfg8fiMJOY2ZLHfc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "irGd9nTUrRP-ywKWDOYobXA6-2s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ao8cGLIMtvg"
+      },
+      "snippet": {
+        "publishedAt": "2015-04-16T13:00:00Z",
+        "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+        "title": "Rihanna - American Oxygen",
+        "description": "Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream on TIDAL: http://smarturl.it/streamANTIdlx Download ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ao8cGLIMtvg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ao8cGLIMtvg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ao8cGLIMtvg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RihannaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-04-16T13:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8QDmrFPPiaw8EQb8qepjWnIlUZM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "99adRZb09q8"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-08T20:45:36Z",
+        "channelId": "UCCdOwiru0eMpmHCHF34jotQ",
+        "title": "Rihanna  American Oxygen Lyrics",
+        "description": "New Song By Rihanna. First time using this new program hope you like it :)I do not own anything.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/99adRZb09q8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/99adRZb09q8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/99adRZb09q8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChiomaDiamonds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-05-08T20:45:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eEAYo6NqCHOnwTipriMrWNtzxYg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fbakTADm6ZI"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-30T17:53:20Z",
+        "channelId": "UC_pEHdg7QneLPLb9yS9lSBg",
+        "title": "American Oxygen -Rihanna (lyrics)",
+        "description": "Please like and subscribe for more videos. Thank you.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fbakTADm6ZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fbakTADm6ZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fbakTADm6ZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lyrics Vibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-30T17:53:20Z"
+      }
+    }
+  ]
+}

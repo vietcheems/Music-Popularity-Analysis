@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "hCor97ELR92vlm7VnXuqmpPMGek",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hIngcTqcdInkLpHjxUT902o1T1U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l3SBBWIxGZA"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-20T04:00:06Z",
+        "channelId": "UC4dqLAF7yT-_DqeYisQ001w",
+        "title": "The Beatles - Come Together (2019 Mix / Audio)",
+        "description": "Music video by The Beatles performing Come Together (2019 Mix / Audio). © 2019 Calderstone Productions Limited (a division of Universal Music Group) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l3SBBWIxGZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l3SBBWIxGZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l3SBBWIxGZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheBeatlesVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-20T04:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qaEV0undq-29oFTX29uxe0MLA3U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "45cYwDMibGo"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-21T15:00:01Z",
+        "channelId": "UC4dqLAF7yT-_DqeYisQ001w",
+        "title": "The Beatles - Come Together",
+        "description": "Music video by The Beatles performing Come Together. © 2015 Calderstone Productions Limited (a division of Universal Music Group) / Apple Films Ltd.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/45cYwDMibGo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/45cYwDMibGo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/45cYwDMibGo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheBeatlesVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-21T15:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vXp2xXiMWnHiFRki8OiIecjzViY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SbXaOgmYBBU"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-20T04:00:06Z",
+        "channelId": "UC4dqLAF7yT-_DqeYisQ001w",
+        "title": "The Beatles - Come Together (Take 5 / Audio)",
+        "description": "Music video by The Beatles performing Come Together (Take 5 / Audio). © 2019 Calderstone Productions Limited (a division of Universal Music Group) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SbXaOgmYBBU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SbXaOgmYBBU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SbXaOgmYBBU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheBeatlesVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-20T04:00:06Z"
+      }
+    }
+  ]
+}

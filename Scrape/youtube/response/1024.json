@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "wSfofsVNiGp5BRpVFwez-AHykRo",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JS-jXlvToQ-81g2flrgEICkaRlk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BldYlGqs7pA"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-28T14:11:29Z",
+        "channelId": "UC9NpXOk2h41HJNWiMaIqEOQ",
+        "title": "Justin Bieber &amp; BloodPop® - Friends (Official Music Video)",
+        "description": "Justin Bieber & BloodPop® - Friends (Official Music Video) | 2017 | is a fan made video for Friends by Justin Bieber ➡️ Turn on the bell to be the first to listen ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BldYlGqs7pA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BldYlGqs7pA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BldYlGqs7pA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "kINFINITY",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-28T14:11:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4_BcEq9Orvv703tOfBKKHUpAFf4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ctfLLsD84vk"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-17T16:03:01Z",
+        "channelId": "UCxIYv_3YscxaGdTxTmfnCgQ",
+        "title": "Justin Bieber &amp; BloodPop® - Friends [Official Audio]",
+        "description": "Official audio for Justin Bieber & BloodPop® - Friends Out Now via GENPOP/RBMG/Schoolboy/Def Jam/Republic \"Friends\" out now: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ctfLLsD84vk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ctfLLsD84vk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ctfLLsD84vk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BloodPop®",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-17T16:03:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F5hvTJmWHWNhc0Es1FrnsYEQbeM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8e4f9f-j-5Y"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-18T16:00:01Z",
+        "channelId": "UCTFMVmIScW1j5K--8Bz5_Kg",
+        "title": "Justin Bieber, BloodPop® - Friends (Official Lyric Video)",
+        "description": "Official lyric video for Justin Bieber & BloodPop® - Friends Out Now via GENPOP/RBMG/Schoolboy/Def Jam/Republic \"Friends\" out now: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8e4f9f-j-5Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8e4f9f-j-5Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8e4f9f-j-5Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BloodPopVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-18T16:00:01Z"
+      }
+    }
+  ]
+}

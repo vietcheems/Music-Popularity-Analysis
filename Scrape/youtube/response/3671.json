@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "NL12SoCLNXoX7KrKM8eZNxmuo2Q",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IczfE4vwYhxRp3QqSyZLZxI-l-k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w9QLn7gM-hY"
+      },
+      "snippet": {
+        "publishedAt": "2012-09-03T12:01:20Z",
+        "channelId": "UCmhpto_Ztz1ytcmRvYr1ghQ",
+        "title": "Bing Crosby - White Christmas (1942) Original Version",
+        "description": "\"White Christmas\" is an Irving Berlin song reminiscing about an old-fashioned Christmas setting. According to the Guinness Book of World Records, the version ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w9QLn7gM-hY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w9QLn7gM-hY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w9QLn7gM-hY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BingCrosbyLegacy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-09-03T12:01:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XUnKGRA55IMa-lH8olV-r93qs_I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A9ibhWgMlso"
+      },
+      "snippet": {
+        "publishedAt": "2014-02-16T19:48:20Z",
+        "channelId": "UCB2C8g3thnX0Vw5jRToiAGQ",
+        "title": "Bing Crosby, White Christmas (1947)",
+        "description": "Música: White Christmas Interpretação: Bing Crosby White Christmas foi composta por Irving Berlin no início dos anos 1940. Em 1942 a canção foi gravada por ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A9ibhWgMlso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A9ibhWgMlso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A9ibhWgMlso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "78rps",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-02-16T19:48:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ppodzx0fr8tkPBzzgNpzPXreiV8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v5ryZdpEHqM"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-30T16:00:10Z",
+        "channelId": "UCtQEDtPVw0_PIhi0XvIHWOA",
+        "title": "White Christmas (Official Video)",
+        "description": "Bing Crosby “White Christmas” official video. Subscribe to never miss an update. Watch videos from the Christmas With Bing Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v5ryZdpEHqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v5ryZdpEHqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v5ryZdpEHqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BingCrosbyVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-30T16:00:10Z"
+      }
+    }
+  ]
+}

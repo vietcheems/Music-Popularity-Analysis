@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "maZySeyRJGeWLcjxJtG0oS_yXQg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C58xDus8VqsrYzcNSlSMSHTMADY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kIDWgqDBNXA"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-03T04:37:42Z",
+        "channelId": "UClx2ih2Nx8enGmsMsA6C3BQ",
+        "title": "Christina Aguilera - Genie In A Bottle",
+        "description": "Christina Aguilera's official music video for \"Geenie In a Bottle\" Listen to Christina Aguilera: https://ChristinaAguilera.lnk.to/listenYD Subscribe to the official ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kIDWgqDBNXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kIDWgqDBNXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kIDWgqDBNXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CAguileraVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-03T04:37:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y2QspeSAmyVacrhECK63ZKuVBOY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iu7Ixskp0dY"
+      },
+      "snippet": {
+        "publishedAt": "2009-01-21T07:35:42Z",
+        "channelId": "UCYOTstJAyf0TgCPLLxe6ZMg",
+        "title": "Christina Aguilera - Genie in A Bottle {Lyrics}",
+        "description": "No copyright infringement intended!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iu7Ixskp0dY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iu7Ixskp0dY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iu7Ixskp0dY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lidya Kamila",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-01-21T07:35:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NO2pQRcsA4d1X_lc748KfWv5v2s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LPfOnPqISxc"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-26T12:32:30Z",
+        "channelId": "UC4JUzmhmiGmPl7uzLpzODyw",
+        "title": "Christina Aguilera - Genie In A Bottle (Lyrics)",
+        "description": "Christina Aguilera - Genie In A Bottle (Lyrics) Stream/Download: https://christinaaguilera.lnk.to/listenYD Follow our Spotify Playlist: https://loku.lnk.to/Spotify ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LPfOnPqISxc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LPfOnPqISxc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LPfOnPqISxc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Loku",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-26T12:32:30Z"
+      }
+    }
+  ]
+}

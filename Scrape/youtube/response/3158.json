@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "LX6XMKEhrdB_mfECrXlQRqKyRgU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "55p3DNapzpFEiPNvAbABU-S0x5M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kvdMAcG01tc"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-26T00:36:52Z",
+        "channelId": "UC6Ibj3Vm_35X98B0BVH336g",
+        "title": "Kendrick Lamar - GOD. (Explicit)",
+        "description": "Song: GOD. Artist: Kendrick Lamar Album: DAMN. Album Release Date: April 14, 2017 © 2017 Top Dawg Entertainment, Vivendi.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kvdMAcG01tc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kvdMAcG01tc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kvdMAcG01tc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "That One Album Uploader",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-26T00:36:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S5S69275MF-VeBFJEIMDQSn9wHs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EiWmaOSvGos"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-14T00:51:36Z",
+        "channelId": "UC1b5gdSFiCQy-PgEtGjKXUg",
+        "title": "God – Kendrick Lamar",
+        "description": "from DAMN (2017)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EiWmaOSvGos/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EiWmaOSvGos/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EiWmaOSvGos/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ulrik Stoch Jensen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-14T00:51:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8eC_7bvqXtZIgwgZ8w4V-m-MH6Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fBtnbaa8RAI"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-06T08:13:40Z",
+        "channelId": "UCNynYI4mB2L81JeiYH6cwMQ",
+        "title": "Kendrick Lamar - GOD (Official lyrics)",
+        "description": "Kendrick Lamar god.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fBtnbaa8RAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fBtnbaa8RAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fBtnbaa8RAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Multifandom",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-06T08:13:40Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "3IzJOo1_wDOW4GJH_Ao_vc4qlt8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M2lziPIBaQgLwgnn36JMj396Cus",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3IzxTBMmjXc"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-08T18:25:06Z",
+        "channelId": "UCIwFjwMjI0y7PDBVEO9-bkQ",
+        "title": "What Do You Mean? (Acoustic)",
+        "description": "thank u my beliebers. this is for u iTunes: http://smarturl.it/iWDYM Spotify: http://smarturl.it/sWDYM.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3IzxTBMmjXc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3IzxTBMmjXc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3IzxTBMmjXc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Justin Bieber",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-09-08T18:25:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U0mDZmdaSHIOjA9vSB2co1N8g2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Pwwg8o1RKLE"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-30T23:18:09Z",
+        "channelId": "UCluDTFMgRFW-7kL7yI43Xbg",
+        "title": "Justin Bieber - What Do You Mean Acoustic live on Senkveld, Norway",
+        "description": "Follow me on Twitter @ddrewjustin.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pwwg8o1RKLE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pwwg8o1RKLE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pwwg8o1RKLE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ddrewjustin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-30T23:18:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IX5jfH6I6rvpBqwgje78M3Wu7V8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w-duaZAdbkA"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-01T13:36:10Z",
+        "channelId": "UCq0ZTcEQ_2PzQ0Sl8smRv_w",
+        "title": "Justin Bieber - What Do You Mean? (Acoustic Lyric Version)",
+        "description": "Like this and subscribe if you want to see more Justin's videos.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w-duaZAdbkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w-duaZAdbkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w-duaZAdbkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Justin Bieber Crew",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-01T13:36:10Z"
+      }
+    }
+  ]
+}

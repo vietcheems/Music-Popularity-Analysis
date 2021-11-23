@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "xCxqHnA0FPMemeOiknenTOBmQ-w",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bGTh6rVgm81F_1lR5JBAIe6fhS8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AqAJLh9wuZ0"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-27T12:00:11Z",
+        "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+        "title": "Taylor Swift - The Man (Official Video)",
+        "description": "Official music video by Taylor Swift performing “The Man” – off her album 'Lover.' Stream/Download the album here: https://TaylorSwift.lnk.to/Loversu ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AqAJLh9wuZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AqAJLh9wuZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AqAJLh9wuZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaylorSwiftVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-27T12:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NTA010jQYJNPbfdQeT9cntXstvY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tbEekLA7J3Y"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-07T17:00:20Z",
+        "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+        "title": "Taylor Swift - The Man (Lyric Video)",
+        "description": "Official lyric video by Taylor Swift performing “The Man” – off her album 'Lover.' Stream/Download the album here: https://TaylorSwift.lnk.to/Loversu ▻Subscribe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tbEekLA7J3Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tbEekLA7J3Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tbEekLA7J3Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaylorSwiftVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-07T17:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vZN3fYV8psUTqNZUxhP5cDazxs8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F3aXpa1rQEY"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-18T05:00:02Z",
+        "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+        "title": "Taylor Swift - The Man (Live From Paris)",
+        "description": "Official live video by Taylor Swift performing “The Man” – off her album 'Lover.' Stream/Download the album here: https://TaylorSwift.lnk.to/Loversu ▻Subscribe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F3aXpa1rQEY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F3aXpa1rQEY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F3aXpa1rQEY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaylorSwiftVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-18T05:00:02Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ETGSLm0E-q1t4f368UQR8mldC6M",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bV-D9GBX5JXdZH9TNXXyiVA0RhY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nQJACVmankY"
+      },
+      "snippet": {
+        "publishedAt": "2008-08-06T17:28:57Z",
+        "channelId": "UCsD7zvGKkqB7GvQpygW2few",
+        "title": "T.I. - Whatever You Like [Official Video]",
+        "description": "T.I. - Whatever You Like [Official Video] Subscribe:http://bit.ly/YouTubeTIvsTIP The new US or ELSE EP is available on all digital retailers. Download and stream ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nQJACVmankY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nQJACVmankY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nQJACVmankY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TIvsTIP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-08-06T17:28:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hkSeVAhJ3_FX7jqmZfiHhKg1-Rg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NuqVKRT66ls"
+      },
+      "snippet": {
+        "publishedAt": "2013-01-16T16:22:17Z",
+        "channelId": "UCTUPsBBQA4Am8k23BYETRJg",
+        "title": "T.I. - &quot;Whatever You Like&quot; captured from The Live Room",
+        "description": "T.I. performs his song, \"Whatever You Like\" in an exclusive recording session live in the legendary Sunset Studio in Hollywood, CA for The Live Room on The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NuqVKRT66ls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NuqVKRT66ls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NuqVKRT66ls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Songkick",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-01-16T16:22:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wp-etAK8VE_XfHVzWbLZPN1SsGw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BlfbGC5ap0M"
+      },
+      "snippet": {
+        "publishedAt": "2011-07-19T17:11:27Z",
+        "channelId": "UCUanPHf8vmuHudscb1rNEcw",
+        "title": "Whatever You Like-T.I. (Lyrics)",
+        "description": "I do NOT own ANY of the music. All rights go to the owner. No copyright infringement intended.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BlfbGC5ap0M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BlfbGC5ap0M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BlfbGC5ap0M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Samantha Lau",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-07-19T17:11:27Z"
+      }
+    }
+  ]
+}

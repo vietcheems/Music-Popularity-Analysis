@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "tSdxgpiCewwVjv5xQ2Jr6Z8v1_4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vXLQBVsrSPrfg6kc7kHgfi6WAjg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3CxtK7-XtE0"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-04T04:15:41Z",
+        "channelId": "UCrFB54bqp8sda4udJyNswlA",
+        "title": "DJ Khaled ft. Drake - POPSTAR (Official Music Video - Starring Justin Bieber)",
+        "description": "\"POPSTAR\" ft. Drake available at: https://DJKhaled.lnk.to/POPSTAR Official Audio: https://youtu.be/-iNWEwLfkv8 Production Company: Fela / Mssng Peces ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3CxtK7-XtE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3CxtK7-XtE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3CxtK7-XtE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DJKhaledVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-04T04:15:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TRgVFEKSrP4WK9wferIlz2yplyk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-iNWEwLfkv8"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-17T04:00:00Z",
+        "channelId": "UCrFB54bqp8sda4udJyNswlA",
+        "title": "DJ Khaled ft. Drake - POPSTAR (Official Audio)",
+        "description": "\"POPSTAR\" ft. Drake available at: https://DJKhaled.lnk.to/POPSTAR Official Visualizer: https://youtu.be/E66p1SlIe6g Follow DJ Khaled: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-iNWEwLfkv8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-iNWEwLfkv8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-iNWEwLfkv8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DJKhaledVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-17T04:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hOcizshRljAewPIRiEwi84kS-DM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Lk6KHRW0MB0"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-21T10:38:11Z",
+        "channelId": "UChO8h2G8UjOVc081rgYU8XQ",
+        "title": "DJ Khaled ft. Drake - POPSTAR (Lyrics)",
+        "description": "DJ Khaled ft. Drake - POPSTAR Stream/Download: https://DJKhaled.lnk.to/POPSTAR • DJ Khaled • https://www.instagram.com/djkhaled/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lk6KHRW0MB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lk6KHRW0MB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lk6KHRW0MB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vibe Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-21T10:38:11Z"
+      }
+    }
+  ]
+}

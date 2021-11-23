@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "u3hXA--HzV1OxHpDS-KvU31W6iI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LGn9m7Btnof8FxOXwXGAGN5qGz8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "g6mDSHAfa4M"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-23T07:00:02Z",
+        "channelId": "UCjjC1Jk_1o1VWpLalgo21XQ",
+        "title": "G-Eazy - Calm Down (Official Music Video)",
+        "description": "G-Eazy new album \"When It's Dark Out\" Available Now! Get it on: iTunes: http://smarturl.it/GEazyWIDO?IQid=yt Stream on Spotify: http://smarturl.it/GEazyWIDOs?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g6mDSHAfa4M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g6mDSHAfa4M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g6mDSHAfa4M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GEazyMusicVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-23T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6sjlnHb2OD6yCVaxzArePHnvQmQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rdxfC-yHIP8"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-04T17:00:02Z",
+        "channelId": "UCjjC1Jk_1o1VWpLalgo21XQ",
+        "title": "G-Eazy - Calm Down (Official Audio)",
+        "description": "G-Eazy new album \"When It's Dark Out\" Available Now! Get it on: iTunes: http://smarturl.it/GEazyWIDO?IQid=yt Stream on Spotify: http://smarturl.it/GEazyWIDOs?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rdxfC-yHIP8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rdxfC-yHIP8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rdxfC-yHIP8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GEazyMusicVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-12-04T17:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kBEx6nK0ISbNdwnTupljuCg1T6I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KvoaM8vD3YM"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-26T14:19:34Z",
+        "channelId": "UCqUP-7bVGQOg8DA1wrlaFgg",
+        "title": "G Eazy - Calm Down Lyrics",
+        "description": "G Eazy - Calm Down Lyrics Dope Rap Song ! Check out our Chill Study mix: https://www.youtube.com/watch?v=8HHAMde6TiU Like Fail Videos, Click Here ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KvoaM8vD3YM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KvoaM8vD3YM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KvoaM8vD3YM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lyrics Town",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-12-26T14:19:34Z"
+      }
+    }
+  ]
+}

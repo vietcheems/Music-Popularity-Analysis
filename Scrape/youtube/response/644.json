@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "hnZeMDKxt0-HgtpZieQcW3bymKw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 197156,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q1TbqzwAbKQHyVDrVL6IUiTx3O4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1tLYYSofs3U"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-21T20:23:04Z",
+        "channelId": "UCDdx1uv27YOmf6-ZMuk15-A",
+        "title": "Another One Bites The Dust (Remastered 2011)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1tLYYSofs3U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1tLYYSofs3U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1tLYYSofs3U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "This Is Queen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-21T20:23:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hZpRw758E3mnfxeke45WT8db5e4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rY0WxgSXdEE"
+      },
+      "snippet": {
+        "publishedAt": "2008-08-01T11:40:18Z",
+        "channelId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+        "title": "Queen - Another One Bites the Dust (Official Video)",
+        "description": "Taken from The Game, 1980 and Greatest Video Hits 1. Click here to buy the DVD with this video at the Official Queen Store: http://www.queenonlinestore.com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rY0WxgSXdEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rY0WxgSXdEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rY0WxgSXdEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Queen Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-08-01T11:40:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1l8VgdkR_MuQsCdmObHiXRhirFE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NVIbCvfkO3E"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-24T19:15:01Z",
+        "channelId": "UCi_ibH-M4Ej1c6ZUmj99HjA",
+        "title": "Queen - Another One Bites The Dust (Live)",
+        "description": "Best of Queen: https://goo.gl/xuXqa4 Subscribe here: https://goo.gl/38F2jD Music video by Queen performing Another One Bites The Dust. (C) 2007 Queen ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NVIbCvfkO3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NVIbCvfkO3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NVIbCvfkO3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "QueenVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-24T19:15:01Z"
+      }
+    }
+  ]
+}

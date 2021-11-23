@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "N2KMUUzoKFYRhQbKCIcVy_nNZcE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E0Yp6LGWVj9lLEFHhyjX6C_h7L8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LsoLEjrDogU"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-04T04:49:43Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Finesse (Remix) (feat. Cardi B) (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"Finesse (Remix)\" featuring Cardi B. Directed by Bruno Mars Co-Directed by Florent Dechard Choreography: Phil Tayag ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LsoLEjrDogU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LsoLEjrDogU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LsoLEjrDogU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-04T04:49:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nXXIXS-M2JRrudpL0DFIhU9FgGc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vQzqbpkJlTo"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-06T13:33:18Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "Bruno Mars - Finesse (Lyrics) Feat. Cardi B",
+        "description": "Learn how to sing in only 30 days with these easy, fun video lessons! https://www.30daysinger.com/a/8328/BFzaEvmu -- \"Bruno Mars - Finesse (Lyrics) Feat.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vQzqbpkJlTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vQzqbpkJlTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vQzqbpkJlTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-06T13:33:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zl2KnjsXbb1h3T-vwE0QTvitkTw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r8_oSz9X2pE"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-26T18:02:20Z",
+        "channelId": "UCZSa_dpLfYKpJMDvfX7l7-g",
+        "title": "Bruno Mars ft. Cardi B - Finesse (Lyrics)",
+        "description": "Shop your merch here: http://www.redbubble.com/people/ylovesmusic Song: Finesse Artist: Bruno Mars ft. Cardi B Length: 3:43 I don't own anything. Sorry if ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r8_oSz9X2pE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r8_oSz9X2pE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r8_oSz9X2pE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YlovesMUSIC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-26T18:02:20Z"
+      }
+    }
+  ]
+}

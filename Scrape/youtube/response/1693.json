@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "8hq5inNfu5XtTd0w1TD82owSZyo",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mc96yy_kzbcn1iWbr17DsZpmCW8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vG_s7MMvGTc"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-10T14:55:52Z",
+        "channelId": "UC6Ibj3Vm_35X98B0BVH336g",
+        "title": "2Pac - California Love (Original Version) (Explicit)",
+        "description": "Song: California Love (Original Version) Artist: 2Pac Album: Greatest Hits Album Release Date: November 24, 1998 © 1998 Vivendi & Hasbro, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vG_s7MMvGTc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vG_s7MMvGTc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vG_s7MMvGTc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "That One Album Uploader",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-10T14:55:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MMU14CjfrOoJUscO11Q51ExCngo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mwgZalAFNhM"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-29T23:56:57Z",
+        "channelId": "UCjIILWUX89AHJmDpFCZ2-og",
+        "title": "2Pac - California Love feat. Dr. Dre (Dirty) (Music Video) HD",
+        "description": "Official music video to 2Pac performing California Love featuring Dr. Dre & Roger Troutman. Lyrics: California love California knows how to party California ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mwgZalAFNhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mwgZalAFNhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mwgZalAFNhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Seven Hip-Hop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-29T23:56:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Nd5TafvwIVFwIENXweCD-i58JDk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "omfz62qu_Bc"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-16T19:42:19Z",
+        "channelId": "UCWGljB8djPusdaKtVx1UKfg",
+        "title": "2Pac ft. Dr. Dre - California Love (Official Video) [Full Length Version]",
+        "description": "2Pac ft. Dr. Dre - California Love (Full Video) from the album \"All Eyez On Me\" (1996) Subscribe to UPROXX Video and ring the bell to turn on notifications: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/omfz62qu_Bc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/omfz62qu_Bc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/omfz62qu_Bc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "UPROXX Video",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-16T19:42:19Z"
+      }
+    }
+  ]
+}

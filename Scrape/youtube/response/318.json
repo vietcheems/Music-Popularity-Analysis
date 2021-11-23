@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Wx1WckRbNA0bxN3IDZCuUZNiccM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "49BJC1SIiFl18gU4YoWoz6alN80",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S2oxFIsENgM"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-23T20:48:37Z",
+        "channelId": "UC-d_WZCjZ8f2NidLJ4guqyg",
+        "title": "Joel Adams - Please Don&#39;t Go (Official Music Video)",
+        "description": "New single, \"Fake Friends\" is out Friday, Oct 5th! Sign up for the mailing list! https://joeladamsofficial.com Director of Music Video: Chuong Vo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S2oxFIsENgM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S2oxFIsENgM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S2oxFIsENgM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Joel Adams",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-12-23T20:48:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NZMHXr9tX-kOmFWlUJ9Wt_dxKss",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cx7lbPE7Hpk"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-16T11:31:39Z",
+        "channelId": "UCQfF8nosDT-ViVcUQ1185KA",
+        "title": "Joel Adams - Please Don&#39;t Go (Lyrics)",
+        "description": "INFORMATION BELOW Original Fire Motion Background: https://www.youtube.com/watch?v=VrYA7VGLJeo Original Rain and Fire Motion Background: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cx7lbPE7Hpk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cx7lbPE7Hpk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cx7lbPE7Hpk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Best of LYRICS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-16T11:31:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ABISDiQzP-GoF19tfGQG-TypyJs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aEcyKKG0i0Q"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-28T15:22:55Z",
+        "channelId": "UCCTSB5wKKV2NWVUOfeCZCvQ",
+        "title": "[Vietsub+Lyric] Please Don&#39;t Go - Joel Adams",
+        "description": "Follow Fall In Luv: ☘ Subcribe: https://www.youtube.com/FallInLuvMusic ☘ Fanpage: https://www.facebook.com/Fallinluvmusicc ☘ Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aEcyKKG0i0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aEcyKKG0i0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aEcyKKG0i0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fall In Luv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-28T15:22:55Z"
+      }
+    }
+  ]
+}

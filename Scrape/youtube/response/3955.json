@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "da06wJnsusgRQvwD7pe1lHdOtys",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5MevZtshXGrldSdpUFy3sPiC1q0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jhgVu2lsi_k"
+      },
+      "snippet": {
+        "publishedAt": "2014-07-08T13:05:38Z",
+        "channelId": "UCNkhZlHm1ccjIcDyt7W1Opg",
+        "title": "Royal Blood - Figure It Out (Official Video)",
+        "description": "The official music video for Royal Blood - Figure It Out Taken from their debut studio album Royal Blood released in 2014, which featured the singles 'Out Of The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jhgVu2lsi_k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jhgVu2lsi_k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jhgVu2lsi_k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Royal Blood",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-07-08T13:05:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PKHibNtl0FZ2KTmUZaCikGasX44",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GHX3lWJxQPA"
+      },
+      "snippet": {
+        "publishedAt": "2014-09-02T22:42:22Z",
+        "channelId": "UCYRAW-gf08h3IICaydBB2Mw",
+        "title": "Royal Blood - Figure It Out (Royal Blood Album) [HD]",
+        "description": "Royal Blood: Mike Kerr – lead vocals, bass guitar Ben Thatcher – drums.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GHX3lWJxQPA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GHX3lWJxQPA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GHX3lWJxQPA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Arturo Ramírez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-09-02T22:42:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HJ_QUW3tKqqtkve8d2R68b3TKvI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n0AlyFVnde4"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-22T15:00:14Z",
+        "channelId": "UCENdrrK5sWM-RV5nTLwBNXw",
+        "title": "Royal Blood “Figure It Out” Live on the Stern Show (2015)",
+        "description": "Rock band Royal Blood treated Howard to a performance of “Figure It Out” when they stopped by the Stern Show in 2015. SUBSCRIBE for more videos: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n0AlyFVnde4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n0AlyFVnde4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n0AlyFVnde4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Howard Stern Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-22T15:00:14Z"
+      }
+    }
+  ]
+}

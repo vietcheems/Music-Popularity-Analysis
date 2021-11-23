@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "sMwUiyOCqVA9otqSiTOvSVS57RY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xAePDTYPE1BnqO44-Xi6Dlz-6rA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EDwb9jOVRtU"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-27T01:58:43Z",
+        "channelId": "UC81VD6eeuLLSfyY_D-N8sVw",
+        "title": "Madonna - Hung Up (Official Video) [HD]",
+        "description": "Stream: https://apple.co/3v7LSbT You're watching the HD Remastered music video for Madonna's \"Hung Up\". Original song taken from Madonna's 'Confessions ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EDwb9jOVRtU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EDwb9jOVRtU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EDwb9jOVRtU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Madonna",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-27T01:58:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lsFsOHcMfk1gt2746BfgbUoX3TQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e99M6-7KW0k"
+      },
+      "snippet": {
+        "publishedAt": "2012-11-12T23:39:56Z",
+        "channelId": "UCPThN4x67nEu7cQ11zLYiLQ",
+        "title": "Madonna - Hung Up (Album Version)",
+        "description": "Song: Hung Up Artist: Madonna Album: Confessions On a Dance Floor Full Track Listings: 1. Hung Up 2. Get Together 3. Sorry 4. Future Lovers 5. I Love New ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e99M6-7KW0k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e99M6-7KW0k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e99M6-7KW0k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sim Fortin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-11-12T23:39:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jjlES6UbqQTm0g1EZ99-qLTUIfc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O4svIh86ZVc"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-19T20:36:10Z",
+        "channelId": "UC81VD6eeuLLSfyY_D-N8sVw",
+        "title": "Madonna - Hung Up (Live at the 2006 Grammy Awards)",
+        "description": "You're watching the 2006 Grammy Awards live performance of “Hung Up” featuring Gorillaz. Original song taken from Madonna's album 'Confessions on a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O4svIh86ZVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O4svIh86ZVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O4svIh86ZVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Madonna",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-19T20:36:10Z"
+      }
+    }
+  ]
+}

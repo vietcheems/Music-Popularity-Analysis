@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "3Sj933PRM8Y5WXDbcVMsF79hwtY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3YRybXBC8SSafctv6jv33725StI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PANEcjhSfv4"
+      },
+      "snippet": {
+        "publishedAt": "2007-10-10T00:12:34Z",
+        "channelId": "UCclJ42Vajtxz-ujfrMSTiPA",
+        "title": "Dr. Dre ft Eminem &amp; Xzibit - What&#39;s the Difference",
+        "description": "Whats the difference between me and you.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PANEcjhSfv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PANEcjhSfv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PANEcjhSfv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "cvmkyle",
+        "liveBroadcastContent": "none",
+        "publishTime": "2007-10-10T00:12:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gb5CibCDiNBTt-8dmeujqBH9SsE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fo8Bj21Twec"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-24T17:37:08Z",
+        "channelId": "UCDHYRl3V6q-nUBYFPGufk-A",
+        "title": "What&#39;s The Difference - Dr Dre feat Eminem and Xzibit",
+        "description": "Up In Smoke Tour.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fo8Bj21Twec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fo8Bj21Twec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fo8Bj21Twec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Eduardo Meira",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-07-24T17:37:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xdl2xI1VGatETJv9t-Ko50yaKKY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cnRokMFo6Po"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-24T23:00:04Z",
+        "channelId": "UCfX95TE7Q09sD7Z46HiAMgw",
+        "title": "Dr. Dre - What&#39;s the Difference ft. Eminem &amp; Xzibit (Lyrics)",
+        "description": "Artist/Group: Dr. Dre Album: 2001 Released: 1999 Label: Aftermath/Interscope -------------------------------------------------- Follow Dr. Dre: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cnRokMFo6Po/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cnRokMFo6Po/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cnRokMFo6Po/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Real Hip Hop Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-24T23:00:04Z"
+      }
+    }
+  ]
+}

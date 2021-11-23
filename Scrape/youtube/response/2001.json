@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "4Y8Cys2UCbbqh6oQJrxWOpI9gL0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1gkY_xMYRsOaDbFYi-sqqJ1NNZc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U0V1y2p1sgs"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-25T19:58:46Z",
+        "channelId": "UCRzzwLpLiUNIs6YOPe33eMg",
+        "title": "The Chainsmokers - Who Do You Love (Official Video) ft. 5 Seconds of Summer",
+        "description": "Official music video for ”Who Do You Love” by The Chainsmokers Listen to The Chainsmokers: https://thechainsmokers.lnk.to/listenYD Watch more videos by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U0V1y2p1sgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U0V1y2p1sgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U0V1y2p1sgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChainsmokersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-25T19:58:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NAr6qbbf-XWc8qR7fvwURVsGBvY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KqTG85G1JQ0"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-13T17:00:06Z",
+        "channelId": "UCRzzwLpLiUNIs6YOPe33eMg",
+        "title": "The Chainsmokers, 5 Seconds of Summer - Who Do You Love (Live from World War Joy Tour) | Vevo",
+        "description": "The Chainsmokers ft. 5 Seconds of Summer - Who Do You Love (Live From World War Joy Tour) Anyone looking for Andrew Taggart and Alex Pall the last few ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KqTG85G1JQ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KqTG85G1JQ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KqTG85G1JQ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChainsmokersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-13T17:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VBGht7eb8HRCXo8H0H-HH_zFQaA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hPc7m1ffj3s"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-07T13:00:05Z",
+        "channelId": "UCRzzwLpLiUNIs6YOPe33eMg",
+        "title": "The Chainsmokers - Who Do You Love (Lyric Video) ft. 5 Seconds of Summer",
+        "description": "Official lyric video for ”Who Do You Love” by The Chainsmokers Listen to The Chainsmokers: https://thechainsmokers.lnk.to/listenYD Watch more videos by The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hPc7m1ffj3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hPc7m1ffj3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hPc7m1ffj3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChainsmokersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-07T13:00:05Z"
+      }
+    }
+  ]
+}

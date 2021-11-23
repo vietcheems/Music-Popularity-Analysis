@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "g2X6iZ-lHSeTWh1Xf27PArvdz0A",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jKZpBMAZWXXO1oZLVDWCvENQ4vw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZAfAud_M_mg"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-29T15:58:23Z",
+        "channelId": "UCm3FgJ2Hqm7tb70T-GfwXVA",
+        "title": "Halsey - Without Me",
+        "description": "Listen to the newest album “If I Can't Have Love, I Want Power” out now: https://halsey.lnk.to/IICHLIWPID Halsey's new album 'Manic' out now!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZAfAud_M_mg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZAfAud_M_mg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZAfAud_M_mg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HalseyVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-29T15:58:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qV76XeLYIKeJKJFP7UqJI5xALlY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J6enOG547lk"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-06T20:05:46Z",
+        "channelId": "UCi0LydWaEUy3Vx8flL29ebQ",
+        "title": "Halsey - Without Me (Lyrics)",
+        "description": "Download Halsey - Without Me (Lyrics): https://halsey.lnk.to/WithoutMeYD Spotify Playlist: http://spotify.syrebralvibes.com ⚡ Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J6enOG547lk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J6enOG547lk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J6enOG547lk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SyrebralVibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-06T20:05:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qAuAwuvBTg4S7jCjeLb7BsszNZQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CWlbjXwUMJI"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-03T08:00:00Z",
+        "channelId": "UCm3FgJ2Hqm7tb70T-GfwXVA",
+        "title": "Halsey - Without Me (Live From The Victoria’s Secret 2018 Fashion Show)",
+        "description": "Listen to the newest album “If I Can't Have Love, I Want Power” out now: https://halsey.lnk.to/IICHLIWPID Halsey's new album 'Manic' out now!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CWlbjXwUMJI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CWlbjXwUMJI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CWlbjXwUMJI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HalseyVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-03T08:00:00Z"
+      }
+    }
+  ]
+}

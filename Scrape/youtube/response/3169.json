@@ -1,0 +1,108 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "LB6Cw8EyqduRz14t3hCCaJnpncQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4QTJQ5q3FFov-Wk6tvLXJ4W6qyI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sw4r0k8WWqU"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-24T04:00:20Z",
+        "channelId": "UClRx3MMyYUyqOxyEqA5F2nQ",
+        "title": "THE SCOTTS, Travis Scott, Kid Cudi - THE SCOTTS (Audio)",
+        "description": "THE SCOTTS OUT NOW: https://THESCOTTS.lnk.to/THESCOTTS OFFICIAL STORE: https://shop.travisscott.com https://instagram.com/travisscott ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sw4r0k8WWqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sw4r0k8WWqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sw4r0k8WWqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TravisScottVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-24T04:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "epJGVv8fJiTjP42sMkEKtUcneoI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8oaW16lGNxE"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-24T04:00:02Z",
+        "channelId": "UClRx3MMyYUyqOxyEqA5F2nQ",
+        "title": "THE SCOTTS, Travis Scott, Kid Cudi - THE SCOTTS (FORTNITE ASTRONOMICAL EVENT)",
+        "description": "THE SCOTTS OUT NOW: https://THESCOTTS.lnk.to/THESCOTTS OFFICIAL STORE: https://shop.travisscott.com https://instagram.com/travisscott ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8oaW16lGNxE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8oaW16lGNxE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8oaW16lGNxE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TravisScottVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-24T04:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "121Na9lXlk_NNZwRg5RGEGOThys",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCFgRHRh1tx4eDNSQHgCGS5g"
+      },
+      "snippet": {
+        "publishedAt": "2010-04-03T19:38:16Z",
+        "channelId": "UCFgRHRh1tx4eDNSQHgCGS5g",
+        "title": "THE SCOTTS",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/3eGfSqEVWil1n1C_18emlvIv7nY7J-BWhx3bkLV9pikURv-5zwlaMJWeoPNG3DLAZH01vqAHHbI=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/3eGfSqEVWil1n1C_18emlvIv7nY7J-BWhx3bkLV9pikURv-5zwlaMJWeoPNG3DLAZH01vqAHHbI=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/3eGfSqEVWil1n1C_18emlvIv7nY7J-BWhx3bkLV9pikURv-5zwlaMJWeoPNG3DLAZH01vqAHHbI=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "THE SCOTTS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-04-03T19:38:16Z"
+      }
+    }
+  ]
+}

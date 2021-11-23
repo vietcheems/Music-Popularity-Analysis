@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "mdkbBdwbcufOwJLPRhyyX3CCtD8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N8kIPaR-CKdf2-ee7YRkSAitl4o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JdttvuGdlvs"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-09T17:52:39Z",
+        "channelId": "UCOhtMAg7xh8wv_wUHMgFc-Q",
+        "title": "Post Malone - Allergic (Audio)",
+        "description": "Official audio by Post Malone performing “Allergic” – off his new album 'Hollywood's Bleeding' available now: https://PostMalone.lnk.to/hollywoodsbleedingYD ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JdttvuGdlvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JdttvuGdlvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JdttvuGdlvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PostMaloneVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-09T17:52:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c0q4U2u4JmhV1LZ0nnM5-zuMN6g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ja_TkSd9Xl4"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-06T06:27:58Z",
+        "channelId": "UCl7cVzHngS0kg51TPrDbqlg",
+        "title": "Post Malone - Allergic (Lyrics)",
+        "description": "Post Malone - Allergic (Lyrics) Stream the album \"Hollywood's Bleeding\" by Post Malone here: https://PostMalone.lnk.to/hollywoodsbleeding Post Malone ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ja_TkSd9Xl4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ja_TkSd9Xl4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ja_TkSd9Xl4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Shadow Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-06T06:27:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pTmzkm-EbQBH_mDi75yveLdLoLc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wvS0bj0Lf8E"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-06T05:11:00Z",
+        "channelId": "UCp0gATorETNZ6ttOTMeV7jA",
+        "title": "Post Malone - Allergic (Lyrics)",
+        "description": "Artist: Post Malone Song Name: Allergic Description: Post Malone - Allergic (Lyrics) is a brand new Post Malone lyric video for this incredible catchy track from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wvS0bj0Lf8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wvS0bj0Lf8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wvS0bj0Lf8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Promoting Sounds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-06T05:11:00Z"
+      }
+    }
+  ]
+}

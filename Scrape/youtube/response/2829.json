@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "CUxYIr8uM7ouPLP8Fm2iQRba0IQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QF-i9uATbaTyARUWznIsyEe_QUo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j0Mz_IqpZX8"
+      },
+      "snippet": {
+        "publishedAt": "2013-03-07T20:11:32Z",
+        "channelId": "UC8mD1yzItMqdFg2bQ6hyomQ",
+        "title": "The Doors - People Are Strange",
+        "description": "The Doors - People Are Strange z Albumu The Very Best Of The Doors :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j0Mz_IqpZX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j0Mz_IqpZX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j0Mz_IqpZX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RockArt Michal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-03-07T20:11:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i7tKHYYRlAWVaTHMr_CBRh4DozI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sezc05A4s2g"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-26T22:25:49Z",
+        "channelId": "UCky903Nbc-E4UI_sfVlXc-w",
+        "title": "The Doors - &quot;People Are Strange&quot; 1967 HD (Official Video) 1080P Jim Morrison",
+        "description": "The Doors - «People Are Strange» HD (Official Video) Jim Morrison 1080P Lyrics Sub (1967) RECORDING DATE: Early Sept. 1967 LOCATION: Battery Park ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sezc05A4s2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sezc05A4s2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sezc05A4s2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jim Morrison",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-26T22:25:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WHsRRQCye0-auRhlnMgV9MJIQg8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AgHaGrZkkv4"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-31T04:00:01Z",
+        "channelId": "UCYgJ2M1mq8Ae0QOm_VQU4VQ",
+        "title": "The Doors - People Are Strange (Official Audio)",
+        "description": "Happy Halloween from The Doors! Official audio for The Doors - \"People Are Strange\" from 'Strange Days' (1967) Listen to more Halloween Monster Hits here ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AgHaGrZkkv4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AgHaGrZkkv4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AgHaGrZkkv4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Doors",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-31T04:00:01Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "FlFpZzJGgaxcK8XULcLNpSCn2V4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S2SS6N3unCp0U79xzb9tCwb0cr4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wNFY8lJhm0A"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-17T04:00:10Z",
+        "channelId": "UCYpVqLSvfseUqb2URAkexlw",
+        "title": "Kygo, Zak Abel - Freedom ft. Zak Abel",
+        "description": "Official video for Kygo & Zak Abel's “Freedom” https://smarturl.it/xFreedom Directed and filmed by Johannes Lovund Produced by Palmtree Productions Enjoy ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wNFY8lJhm0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wNFY8lJhm0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wNFY8lJhm0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KygoOfficialVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-17T04:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oWpKKS-KCcHsY4u60TgK7BSetJs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eMBJMZfVIWU"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-25T10:24:12Z",
+        "channelId": "UCxH0sQJKG6Aq9-vFIPnDZ2A",
+        "title": "Kygo - Freedom (Lyrics) ft. Zak Abel",
+        "description": "Kygo - Freedom (Lyrics) ft. Zak Abel Kygo - Freedom (ft. Zak Abel) For more quality music subscribe here ➡ http://bit.ly/sub2thvbgd We're on Spotify ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eMBJMZfVIWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eMBJMZfVIWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eMBJMZfVIWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Vibe Guide",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-25T10:24:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n45Nzp08aMwCCYERNEHKNrZA0g4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JfQycjqZK3c"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-29T04:02:45Z",
+        "channelId": "UCCFJeI-2sT_cWgz-QJRgbCw",
+        "title": "Kygo - Freedom w/ Zak Abel (Official Audio)",
+        "description": "Kygo's Golden Hour available everywhere now https://smarturl.it/xGoldenHour Enjoy more videos by Kygo: Freedom with Zak Abel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JfQycjqZK3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JfQycjqZK3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JfQycjqZK3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KygoMusic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-29T04:02:45Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "tC83UeTqctIbarzoVIzU0iJac14",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iGKxIRx_v474vqsYAclAvVIeR8g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pZ12_E5R3qc"
+      },
+      "snippet": {
+        "publishedAt": "2014-02-25T16:00:02Z",
+        "channelId": "UC9zX2xZIJ4cnwRsgBpHGvMg",
+        "title": "Beyoncé - Partition (Explicit Video)",
+        "description": "BEYONCÉ Platinum Edition. Available on iTunes: http://beyonce.lk/itunesplatinum Available on Amazon: http://beyonce.lk/platinumam Box Set includes : 2 New ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pZ12_E5R3qc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pZ12_E5R3qc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pZ12_E5R3qc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BeyoncéVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-02-25T16:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E9r0gOrMF6nMIAOedChVwqFuKrg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X3P6dnL2OyY"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-13T08:27:47Z",
+        "channelId": "UCOmHUn--16B90oW2L6FRR3A",
+        "title": "BLACKPINK - &#39;PARTITION (Beyonce)&#39; DANCE COVER 0812 SBS PARTY PEOPLE",
+        "description": "Copyrightc2017 SBS Contents Hub Co., Ltd. & YG Entertainment Inc. All rights reserved. CHOREOGRAPHY BY : KYLE HANAGAMI ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X3P6dnL2OyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X3P6dnL2OyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X3P6dnL2OyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLACKPINK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-13T08:27:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4E7UrUFq3M9_JBw2_jfmjI-uyJs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IsVE8zwld28"
+      },
+      "snippet": {
+        "publishedAt": "2014-03-17T18:02:45Z",
+        "channelId": "UCcGWyFM8ZN8ZmIuP8-Sp61g",
+        "title": "Beyonce - Yonce/Partition",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IsVE8zwld28/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IsVE8zwld28/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IsVE8zwld28/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "entertainment tv",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-03-17T18:02:45Z"
+      }
+    }
+  ]
+}

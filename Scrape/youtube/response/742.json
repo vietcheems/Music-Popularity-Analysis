@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "KEyPFhKhLfSx99IXL92RPCVgW9g",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qQbuDTIXAW-zJEwXE-I8sqm1Yxk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OOevVQwQ-LM"
+      },
+      "snippet": {
+        "publishedAt": "2013-03-15T22:57:38Z",
+        "channelId": "UCEwkiaCY_VibPiRIL4OV30A",
+        "title": "Alesso vs OneRepublic - If I Lose Myself (Alesso Remix)",
+        "description": "Original version of Alesso's remix of OneRepublic's If I Lose Myself. Support the artists when its released. Release date: April 2.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OOevVQwQ-LM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OOevVQwQ-LM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OOevVQwQ-LM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "muz111k",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-03-15T22:57:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QjmXrItyaE8rg8TnP9Hr3Eu3y9g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dLa_ryRjC7M"
+      },
+      "snippet": {
+        "publishedAt": "2013-05-07T07:00:12Z",
+        "channelId": "UCQ5kHOKpF3-1_UCKaqXARRg",
+        "title": "OneRepublic - Alesso Vs. OneRepublic - If I Lose Myself ft. Alesso (Remix)",
+        "description": "Stream & Download OneRepublic's latest album “Human”: https://OneRepublic.lnk.to/Human Listen to OneRepublic: Spotify: http://smarturl.it/1RSpotify Apple ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dLa_ryRjC7M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dLa_ryRjC7M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dLa_ryRjC7M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OneRepublicVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-05-07T07:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VlIhIj87A4af3_c-apNemWYULAk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TGx0rApSk6w"
+      },
+      "snippet": {
+        "publishedAt": "2013-01-25T05:00:17Z",
+        "channelId": "UCQ5kHOKpF3-1_UCKaqXARRg",
+        "title": "OneRepublic - If I Lose Myself (Official Music Video)",
+        "description": "Stream & Download OneRepublic's latest album “Human”: https://OneRepublic.lnk.to/Human Listen to OneRepublic: Spotify: http://smarturl.it/1RSpotify Apple ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TGx0rApSk6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TGx0rApSk6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TGx0rApSk6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OneRepublicVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-01-25T05:00:17Z"
+      }
+    }
+  ]
+}

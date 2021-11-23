@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "gQxgOyY6DHJUXAeTEBGnQvzRvFo",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ewakv9V1FMLT-fNK1ZtSzbu79hc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cedoBlUvBlI"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-07T21:45:15Z",
+        "channelId": "UC4rasfm9J-X4jNl9SvXp8xA",
+        "title": "Era Istrefi - Bonbon (Official Video)",
+        "description": "Era Istrefi - BonBon Available Now! http://smarturl.it/BonbonEP Check Out the English Version: https://youtu.be/vxc1ufJxPGM Listen to more songs like this with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cedoBlUvBlI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cedoBlUvBlI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cedoBlUvBlI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ultra Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-07T21:45:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "syShVknxpX27gU5dfqm_0ePiMVo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sWlOWeVtpjs"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-26T23:16:31Z",
+        "channelId": "UCBr_mdq9PrjsrcE2TnerLwg",
+        "title": "Era Istrefi - BonBon (English Lyrics)",
+        "description": "I love this song.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sWlOWeVtpjs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sWlOWeVtpjs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sWlOWeVtpjs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Djellza Rrahmani",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-26T23:16:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u6ejThBoF6JaRm8kBn-9BdjoB90",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vxc1ufJxPGM"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-23T20:37:43Z",
+        "channelId": "UC4rasfm9J-X4jNl9SvXp8xA",
+        "title": "Era Istrefi - Bonbon (English Version Cover Art)",
+        "description": "Era Istrefi - Bonbon (English Version) Available Now! http://smarturl.it/BonbonEP \"Listen to more songs like this with our \"Dance All Day Playlist\"\" Spotify ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vxc1ufJxPGM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vxc1ufJxPGM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vxc1ufJxPGM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ultra Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-23T20:37:43Z"
+      }
+    }
+  ]
+}

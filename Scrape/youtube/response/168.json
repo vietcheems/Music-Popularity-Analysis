@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "6v7ijGHKYWElJZMucV5H30nEMZ8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3pNcsHAmiBcS4VkkuG7zCzEA0Hg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qpgTC9MDx1o"
+      },
+      "snippet": {
+        "publishedAt": "2014-09-29T16:00:13Z",
+        "channelId": "UCN1hnUccO4FD5WfM7ithXaw",
+        "title": "Maroon 5 - Animals (Official Music Video)",
+        "description": "Maroon 5 - Animals Director: Samuel Bayer Buy Now! http://smarturl.it/M5V Sign up for updates: http://smarturl.it/Maroon5.News.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qpgTC9MDx1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qpgTC9MDx1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qpgTC9MDx1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Maroon5VEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-09-29T16:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1OlfUcYHx2gJdNM44lZg4Xdu5eI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0GVExpdmoDs"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-22T16:03:51Z",
+        "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+        "title": "Maroon 5 - Animals (Lyrics)",
+        "description": "Maroon 5 - Animals (Lyrics) ⏬ Download / Stream: http://smarturl.it/M5V Turn on notifications to stay updated with new uploads! Maroon5: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0GVExpdmoDs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0GVExpdmoDs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0GVExpdmoDs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "7clouds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-22T16:03:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n2kWhR_lZ0u4fszWcOA_jCghbtg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7BJ3ZXpserc"
+      },
+      "snippet": {
+        "publishedAt": "2014-08-22T07:00:02Z",
+        "channelId": "UCN1hnUccO4FD5WfM7ithXaw",
+        "title": "Maroon 5 - Animals (Lyric Video)",
+        "description": "Pre-Order V on iTunes ft Animals: http://smarturl.it/M5V Sign up for updates: http://smarturl.it/Maroon5.News Music video by Maroon 5 performing Animals.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7BJ3ZXpserc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7BJ3ZXpserc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7BJ3ZXpserc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Maroon5VEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-08-22T07:00:02Z"
+      }
+    }
+  ]
+}

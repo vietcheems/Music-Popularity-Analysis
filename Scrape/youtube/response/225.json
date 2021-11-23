@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "vjldi0GK3987Vif8XLw_b_lcTa0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hofan4kScYNkOssjQhBr36FIZCI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sv6dMFF_yts"
+      },
+      "snippet": {
+        "publishedAt": "2011-12-28T06:24:43Z",
+        "channelId": "UClVrJwcIy7saPcGc1nct80A",
+        "title": "Fun.: We Are Young ft. Janelle Monáe [OFFICIAL VIDEO]",
+        "description": "Fun.'s music video for 'We Are Young' featuring Janelle Monáe from the album, Some Nights - available now on Fueled By Ramen. Download it at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sv6dMFF_yts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sv6dMFF_yts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sv6dMFF_yts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fueled By Ramen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-12-28T06:24:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JzP1VZ_sZ1NQXwZ-8kMMnoQHJXs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "azvekNsOrEU"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-17T11:39:00Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "Fun - We Are Young (Lyrics) ft. Janelle Monáe",
+        "description": "Fun.: We Are Young (Lyrics) ft. Janelle Monáe Fun.: We Are Young ft. Janelle Monáe Fun.'s lyrics video for 'We Are Young' featuring Janelle Monáe from the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/azvekNsOrEU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/azvekNsOrEU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/azvekNsOrEU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-17T11:39:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fHn-AoK6yOzWodVv3iQp_fKP8ss",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FQLGhPHzxjc"
+      },
+      "snippet": {
+        "publishedAt": "2011-11-04T15:02:33Z",
+        "channelId": "UClVrJwcIy7saPcGc1nct80A",
+        "title": "Fun.: We Are Young ft. Janelle Monáe (ACOUSTIC)",
+        "description": "Fun. and Janelle Monáe perform an acoustic version of the single 'We Are Young' from the album, Some Nights - available now on Fueled By Ramen. Download ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FQLGhPHzxjc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FQLGhPHzxjc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FQLGhPHzxjc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fueled By Ramen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-11-04T15:02:33Z"
+      }
+    }
+  ]
+}

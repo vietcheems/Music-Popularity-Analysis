@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "VtBqzQAp7fa2jBqDJowFScA3A_k",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AJlEi0f93Hslbxi2KaxS4s0STU4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CMla2ZIz7-4"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-03T16:00:12Z",
+        "channelId": "UCFzm6oAGFmmZfkrzQ5wATSQ",
+        "title": "Zedd &amp; Kehlani - Good Thing (Official Music Video)",
+        "description": "'Good Thing' with Kehlani out now: https://smarturl.it/GoodThingZedd Director: Warren Fu @warrenjfu DP: Rob Witt @robwittdidit Producer: Whitney Jackson ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CMla2ZIz7-4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CMla2ZIz7-4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CMla2ZIz7-4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ZEDDVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-03T16:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rVGIs1H5tluB534zLEAAGCVvV3Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DQXPnwxnbbo"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-27T04:01:14Z",
+        "channelId": "UCPNokRZ9hacjIQ3IQL6HNUQ",
+        "title": "Zedd - Good Thing (with Kehlani) Official Audio",
+        "description": "New single 'Good Thing' with Kehlani out now: https://smarturl.it/GoodThingZedd The Orbit Tour: https://www.zedd.net/ Shop the Zedd Store: http://zedd.net ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DQXPnwxnbbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DQXPnwxnbbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DQXPnwxnbbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Zedd",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-27T04:01:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nGyNAN4nK8v2UoPHDrivhmq3Uno",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VzU63aN0Lno"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-27T04:00:07Z",
+        "channelId": "UCn7Z0uhzGS1KjnO-sWml_dw",
+        "title": "Zedd, Kehlani - Good Thing (Lyrics)",
+        "description": "Get Zedd, Kehlani - Good Thing (Lyrics): https://smarturl.it/GoodThingZedd ✖ BEST MUSIC ON SPOTIFY: https://spoti.fi/2LrpDX7 ✖ FOLLOW MY AWESOME ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VzU63aN0Lno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VzU63aN0Lno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VzU63aN0Lno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Unique Vibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-27T04:00:07Z"
+      }
+    }
+  ]
+}

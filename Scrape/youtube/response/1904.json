@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "n_rFGvCgOY2RsaJ77XDWOi9z844",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 126217,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4mr7PcCa6mDNTVriSNSQBcYmQXE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4EQrbyUHof8"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-25T14:29:27Z",
+        "channelId": "UCpp6nAhUB-MEfVzjJHmmSQw",
+        "title": "Alphaville - Forever Young - REMASTERED",
+        "description": "Digitally remastered for a a cleaner, sharper, wider and more refined listening experience. Music the way it was meant to be heard and sounds better than the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4EQrbyUHof8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4EQrbyUHof8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4EQrbyUHof8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mastering Revolution",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-25T14:29:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BFzVLEQhJcIJlSkPFp1naC49wQ0",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLlt5moLGmQ1s7V4Z2Ip-OU5F2ozajU87q"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-04T18:00:42Z",
+        "channelId": "UClS1Wj5S7onUVbo5y0uFCrg",
+        "title": "Alphaville - Forever Young (2019 Remaster)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ken Boost",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-04T18:00:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iLr2ZmJTsLbz21U_wGOkTw6aeuU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "08A8cLf6QSs"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-29T11:00:00Z",
+        "channelId": "UClHfLDqEcCCAEHCQeOthohA",
+        "title": "Alphaville - Forever Young (Disco of the 80&#39;s Festival, Russia, 2019)",
+        "description": "Watch👁️ more videos with music of the 80s on the new website of the festival \"Disco of the 80s\". Click https://disco80.ru/?utm_source=youtube_description ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/08A8cLf6QSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/08A8cLf6QSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/08A8cLf6QSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "80's Disco Hits",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-29T11:00:00Z"
+      }
+    }
+  ]
+}

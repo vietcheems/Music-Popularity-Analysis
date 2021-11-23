@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "CqkNwCsWdlvLP-jkbfEvLSXYgyA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hxh4jhScXQ9A1VEETwSPZLUQB5Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uzS3WG6__G4"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-27T21:48:19Z",
+        "channelId": "UCqf-kTp9ERV5T1rPayno7LA",
+        "title": "Frank Ocean - Pink + White",
+        "description": "Frank Ocean - Pink + White ℗ Boys Don't Cry Released August 20, 2016.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uzS3WG6__G4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uzS3WG6__G4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uzS3WG6__G4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Blonded",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-27T21:48:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "etstkyb-hkbAXFeTV8kILXsbAxQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SXHpcYneDeM"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-14T09:44:46Z",
+        "channelId": "UCWdeNo2nrVf7Lf7L0A7HrBQ",
+        "title": "Frank Ocean – Pink + White (music video)",
+        "description": "Sports news and betting: https://betforce.ru Frank Ocean – Pink + White (music video) Directed by Mikhail Mutskyi Instagram: https://www.instagram.com/mutskyi.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SXHpcYneDeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SXHpcYneDeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SXHpcYneDeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mikhail Mutskyi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-14T09:44:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8RCMPNyUbY2VOgdMHdcw07zpo-w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Yg3ZR0IzNjA"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-08T19:46:25Z",
+        "channelId": "UCBQZzcHWMOe1ZtvKhALe_ew",
+        "title": "Frank Ocean - Pink + White (lyrics)",
+        "description": "Song: Pink + White Artist: Frank Ocean Album: Blonde ℗ 2016 Boys Don't Cry Background credits: Tiny Teal Flickr: https://www.flickr.com/photos/sabrinks/ IG: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Yg3ZR0IzNjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Yg3ZR0IzNjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Yg3ZR0IzNjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "old dollar billz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-08T19:46:25Z"
+      }
+    }
+  ]
+}

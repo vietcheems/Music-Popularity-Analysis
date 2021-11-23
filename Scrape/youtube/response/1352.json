@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "EvohjyQn39-iskmNS1rpPVzDnhY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1EYNWZCb0XaxUnX0NyaI6jl2RLM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "80_39eAx3z8"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-14T15:00:07Z",
+        "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
+        "title": "Buffalo Springfield - For What It&#39;s Worth (Official Audio)",
+        "description": "You're listening to the official audio for Buffalo Springfield - \"For What It's Worth\" from their eponymous debut album. Subscribe to the Rhino Channel!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/80_39eAx3z8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/80_39eAx3z8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/80_39eAx3z8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RHINO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-14T15:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N5wb93yXRDk5_4UL-Rsxl1F_6Jc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gp5JCrSXkJY"
+      },
+      "snippet": {
+        "publishedAt": "2010-08-26T20:46:12Z",
+        "channelId": "UCoQnGI2qd6AARaCn7rJt6Eg",
+        "title": "Buffalo Springfield - For What It&#39;s Worth 1967",
+        "description": "There's something happening here What it is ain't exactly clear There's a man with a gun over there Telling me I got to beware I think it's time we stop, children, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gp5JCrSXkJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gp5JCrSXkJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gp5JCrSXkJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PettyYou007",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-08-26T20:46:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4GYKj5CXz0E4pNgd5xAmWqKzjRg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JqjwEGw10w0"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-15T02:03:06Z",
+        "channelId": "UCuEn7Atunt8Z3YoRx6vcJzQ",
+        "title": "For What It&#39;s Worth extended Buffalo Springfield",
+        "description": "A great extended version of Buffalo Springfield's hit For What It's Worth with a great video clip. PLEASE NOTE: For What it's Worth the song and music is the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JqjwEGw10w0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JqjwEGw10w0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JqjwEGw10w0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dugster Vee",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-15T02:03:06Z"
+      }
+    }
+  ]
+}

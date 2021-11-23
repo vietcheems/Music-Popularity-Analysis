@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "2OJI6w16kPY6dvyPZHIy8L3RC5Y",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6DsccmV5AGqhP00mCLe8Ya9QECc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J6nfhiZKnTg"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-26T10:06:39Z",
+        "channelId": "UCmZgot99CN2PQ_TFnQ3L92Q",
+        "title": "Wild Horses (2009 Mix) - The Rolling Stones | Only Vocals (Isolated Acapella)",
+        "description": "Isolated vocals (acapella version) of Wild Horses (2009 Mix) by The Rolling Stones from the album Sticky Fingers (Super Deluxe). ✔️ Subscribe for more ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J6nfhiZKnTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J6nfhiZKnTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J6nfhiZKnTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lipbite Music - Vocals",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-26T10:06:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Tr76M67QGFIxlVBJyfhe-sv909s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S_PqgjBtDqM"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-26T10:00:43Z",
+        "channelId": "UCldlFTX9zN5RG2MmxTXO2nw",
+        "title": "Wild Horses (2009 Mix) - The Rolling Stones | Only Bass (Isolated)",
+        "description": "Isolated bass track of Wild Horses (2009 Mix) by The Rolling Stones from the album Sticky Fingers (Super Deluxe). ✔️ Subscribe for more videos: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S_PqgjBtDqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S_PqgjBtDqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S_PqgjBtDqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lipbite Music - Bass",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-26T10:00:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vor7HsJVdxLDTG72etIwNvaXr3Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sSCLNHMZG84"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-26T10:03:41Z",
+        "channelId": "UCD1-XzMPiCj8f0FHi2yTUAA",
+        "title": "Wild Horses (2009 Mix) - The Rolling Stones | No Drums (Play Along)",
+        "description": "Drumless version of Wild Horses (2009 Mix) by The Rolling Stones from the album Sticky Fingers (Super Deluxe). ✔️ Subscribe for more videos: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sSCLNHMZG84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sSCLNHMZG84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sSCLNHMZG84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lipbite Music - Drums",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-26T10:03:41Z"
+      }
+    }
+  ]
+}

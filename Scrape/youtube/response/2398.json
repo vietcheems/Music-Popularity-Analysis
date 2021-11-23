@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Vi6eUX3kq4YElBakjAdy6jukpqs",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nhHDDzlmz4QVq5gf8gK6mdEqs9w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SlPhMPnQ58k"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-08T14:00:10Z",
+        "channelId": "UCN1hnUccO4FD5WfM7ithXaw",
+        "title": "Maroon 5 - Memories (Official Video)",
+        "description": "Memories” is out now: https://smarturl.it/MemoriesMaroon5 For more, visit: https://www.facebook.com/maroon5 https://twitter.com/maroon5 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SlPhMPnQ58k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SlPhMPnQ58k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SlPhMPnQ58k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Maroon5VEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-08T14:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BE0i8dLgh9wes8utaN6RnMfVB6o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o2DXt11SMNI"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-04T12:32:15Z",
+        "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+        "title": "Maroon 5 - Memories (Lyrics)",
+        "description": "Follow our Spotify playlists: http://bit.ly/7cloudsSpotify Maroon 5 - Memories (Lyrics) ⏬ Download / Stream: https://smarturl.it/MemoriesMaroon5 Turn on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o2DXt11SMNI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o2DXt11SMNI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o2DXt11SMNI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "7clouds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-04T12:32:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SKL3Y1JyCrw884-894NA4HtoweI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XB6yjGVuzVo"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-16T16:00:16Z",
+        "channelId": "UCRa07c47CSfHHC7DbXMgbuQ",
+        "title": "Maroon 5 - Memories | One Voice Children&#39;s Choir Cover",
+        "description": "LIMITED EDITION ALBUM on-sale now: https://store.onevoicechildren.com. All proceeds help fund our non-profit organization. Make a donation to support ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XB6yjGVuzVo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XB6yjGVuzVo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XB6yjGVuzVo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "One Voice Children's Choir",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-16T16:00:16Z"
+      }
+    }
+  ]
+}

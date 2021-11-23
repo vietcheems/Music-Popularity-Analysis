@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "bKs_8xY-xpBLrztc1RJZ-YDXmr8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "md6Qqi80A_o95pXmW8cRASnecdk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y96WY5Do_bs"
+      },
+      "snippet": {
+        "publishedAt": "2011-11-25T17:42:07Z",
+        "channelId": "UCgUEvgyldaJK9E43rdUQyaA",
+        "title": "Nickelback - When We Stand Together",
+        "description": "Buy the latest Nickelback album here: DIGITAL http://smarturl.it/Nickelback PHYSICAL http://smarturl.it/Nickelback_CD.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y96WY5Do_bs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y96WY5Do_bs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y96WY5Do_bs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Roadrunner Records UK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-11-25T17:42:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LnpkYAp9O3nGoMsc9tF7L2zsfPk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fHi8GweNVa4"
+      },
+      "snippet": {
+        "publishedAt": "2011-12-23T06:46:41Z",
+        "channelId": "UCJ5v_MCY6GNUBTO8-D3XoAg",
+        "title": "Nickelback performs &quot;When We Stand Together&quot;",
+        "description": "Tribute to the Troops 2011: Nickelback performs \"When We Stand Together\"",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fHi8GweNVa4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fHi8GweNVa4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fHi8GweNVa4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WWE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-12-23T06:46:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vvXXO-G0HkHTyVueNHnJw89ugcU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BV9kCcBiC6g"
+      },
+      "snippet": {
+        "publishedAt": "2011-12-23T21:48:04Z",
+        "channelId": "UCvEMMVQxON3zBRAVeDQSABA",
+        "title": "Nickelback - When we stand together [Lyrics] [HQ]",
+        "description": "Nickelback - When we stand together [Lyrics] [HQ] Nickelback - When we stand together [Lyrics] [HQ] Nickelback - When we stand together [Lyrics] [HQ]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BV9kCcBiC6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BV9kCcBiC6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BV9kCcBiC6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MakeLyricsHQ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-12-23T21:48:04Z"
+      }
+    }
+  ]
+}

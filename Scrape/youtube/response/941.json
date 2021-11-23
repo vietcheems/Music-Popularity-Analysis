@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "AlYSDMoIkqjbfCoUqXY_C5NvBJE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ydd3qJXD5TIqyklmAkBg4rTGRf4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FG9M0aEpJGE"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-17T16:00:04Z",
+        "channelId": "UCuE1A4MDBt8YkgUkRAKMtjw",
+        "title": "Kehlani &amp; G-Eazy - Good Life (from The Fate of the Furious: The Album) [Official Video]",
+        "description": "Watch the new music video for “Altar”: https://www.youtube.com/watch?v=lsbJvA_ag3c The official audio of \"Good Life\" by Kehlani & G-Eazy from the album 'The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FG9M0aEpJGE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FG9M0aEpJGE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FG9M0aEpJGE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kehlani",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-17T16:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Egha80dL0YKWCgGtwY4pijN9kjc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wZs8LxMCzNw"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-04T13:24:20Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "Good Life - G-Eazy &amp; Kehlani (from The Fate of the Furious: The Album)(Lyrics)",
+        "description": "Learn how to sing in only 30 days with these easy, fun video lessons! https://www.30daysinger.com/a/8328/BFzaEvmu -- Good Life - G-Eazy & Kehlani (from The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wZs8LxMCzNw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wZs8LxMCzNw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wZs8LxMCzNw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-04T13:24:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oIQvDDbCfmeoVDAyzbvN2ti8oV4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-SINPQnGUZk"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-15T14:00:00Z",
+        "channelId": "UCw8ZhLPdQ0u_Y-TLKd61hGA",
+        "title": "Good Life - G-Eazy &amp; Kehlani / Koosung X Isabelle Choreography",
+        "description": "Koosung and Isabelle teaches choreography to Good Life by G-Eazy and Kehlani. Learn from instructors of 1MILLION Dance Studio on YouTube! 1MILLION ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-SINPQnGUZk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-SINPQnGUZk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-SINPQnGUZk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1MILLION Dance Studio",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-15T14:00:00Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "fqN0aWAc-95WS9qnJu0bIemKc4w",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PiCEUfhuZmuDII3gEd88GdOAVAc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "COiIC3A0ROM"
+      },
+      "snippet": {
+        "publishedAt": "2009-09-20T12:33:27Z",
+        "channelId": "UCBdtc2bB4hfb2f7rIwkVvCA",
+        "title": "Al Green - Let&#39;s Stay Together",
+        "description": "\"Let's Stay Together\" performed by Al Green Lyrics: I, I'm I'm so in love with you Whatever you want to do Is all right with me Cause you make me feel so brand ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/COiIC3A0ROM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/COiIC3A0ROM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/COiIC3A0ROM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sunshine Sound",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-09-20T12:33:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0IKs88ID3YN6nct3AORl3oi3lVI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XXx6RDzR6eM"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-02T19:37:06Z",
+        "channelId": "UCiE5dPVpnFpPl8ki4QjLH5Q",
+        "title": "Al Green - Let&#39;s Stay Together (Official Audio)",
+        "description": "Official audio for \"Let's Stay Together\" by Al Green #AlGreen #Music #Soul Download: http://flyt.it/LetsStayTogetherLP Spotify: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XXx6RDzR6eM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XXx6RDzR6eM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XXx6RDzR6eM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Al Green",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-02T19:37:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QDu3QnZlT04kx_0Tgot_mJ9jz-A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uSu6tcbMOu0"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-27T19:15:30Z",
+        "channelId": "UC3ONOZPjsyOMTfm9_IZj5cQ",
+        "title": "Al Green - Let&#39;s Stay Together",
+        "description": "Al Green performs \"Let's Stay Together\" http://vevo.ly/1zfRQu.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uSu6tcbMOu0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uSu6tcbMOu0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uSu6tcbMOu0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AlGreenVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-27T19:15:30Z"
+      }
+    }
+  ]
+}

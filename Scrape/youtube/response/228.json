@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "yM8Nzk8ckwrc63LYG_foSbfDpOI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kish6-yqnyDYX2mmupkOp7Wh7ro",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qV5lzRHrGeg"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-07T04:45:00Z",
+        "channelId": "UCtKuVNj4wVrZvTfxPxAUHcQ",
+        "title": "Carly Rae Jepsen - I Really Like You",
+        "description": "Get E•MO•TION on iTunes now: http://smarturl.it/E-MO-TION Sign up for Carly Rae Jepsen news here: http://smarturl.it/CRJ.News ©2015 School Boy/Interscope ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qV5lzRHrGeg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qV5lzRHrGeg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qV5lzRHrGeg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CarlyRaeJepsenVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-03-07T04:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OV7SvFLmfhYj67M7tkXahUeqbqw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "77PzXCKDyVQ"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-02T05:00:00Z",
+        "channelId": "UCtKuVNj4wVrZvTfxPxAUHcQ",
+        "title": "Carly Rae Jepsen - I Really Like You (Audio)",
+        "description": "Get E•MO•TION on iTunes now: http://smarturl.it/E-MO-TION Sign up for Carly Rae Jepsen news here: http://smarturl.it/CRJ.News Music video by Carly Rae ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/77PzXCKDyVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/77PzXCKDyVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/77PzXCKDyVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CarlyRaeJepsenVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-03-02T05:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e1WPXWIzf2zj4mzRPh72sq6kObU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XE2ReFQp1K4"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-15T11:16:17Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "Carly Rae Jepsen - I Really Like You (Lyrics) 🎵",
+        "description": "Learn how to sing in only 30 days with these easy, fun video lessons! https://www.30daysinger.com/a/8328/BFzaEvmu -- \"Carly Rae Jepsen - I Really Like You ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XE2ReFQp1K4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XE2ReFQp1K4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XE2ReFQp1K4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-15T11:16:17Z"
+      }
+    }
+  ]
+}

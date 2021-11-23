@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "AjC8NLllOeuenJa7wm45gXRfM-U",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XRaFfBMdryviupJFQIgbUInxN1w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fyMhvkC3A84"
+      },
+      "snippet": {
+        "publishedAt": "2011-06-29T03:39:49Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Every Teardrop Is a Waterfall (Official Video)",
+        "description": "Coldplay - Every Teardrop Is a Waterfall is taken from the album Mylo Xyloto released in 2011 (hear the album at https://smarturl.it/cpmyloxyloto) Subscribe for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fyMhvkC3A84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fyMhvkC3A84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fyMhvkC3A84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-06-29T03:39:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GE65nbDlhH5iNBZ7Dw_5hYvXVdw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1Kf_6BWcOOg"
+      },
+      "snippet": {
+        "publishedAt": "2011-06-02T23:45:55Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Every Teardrop Is A Waterfall (Official Audio)",
+        "description": "Coldplay - Every Teardrop Is a Waterfall is taken from the album Mylo Xyloto released in 2011 (hear the album at https://smarturl.it/cpmyloxyloto) Subscribe for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Kf_6BWcOOg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Kf_6BWcOOg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Kf_6BWcOOg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-06-02T23:45:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lJpFK2TMJl9XSwqEpq0WjAbXV2w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JGLwhTQsxUw"
+      },
+      "snippet": {
+        "publishedAt": "2011-10-28T17:34:28Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Every Teardrop is a Waterfall (Live in Madrid 2011)",
+        "description": "Coldplay - Every Teardrop is a Waterfall (Live in Madrid 2011) is taken from a premiere concert streamed live on YouTube. The programme was titled, \"Coldplay ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JGLwhTQsxUw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JGLwhTQsxUw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JGLwhTQsxUw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-10-28T17:34:28Z"
+      }
+    }
+  ]
+}

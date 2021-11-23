@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "e7jp9GyTiXwIBTHLWYLEZyPq5Nw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mG5FnrIq8Djbp9vJg-KmjtrUg7o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xdYFuCp3m9k"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-30T22:00:04Z",
+        "channelId": "UCm3FgJ2Hqm7tb70T-GfwXVA",
+        "title": "Halsey - Bad At Love",
+        "description": "Listen to the newest album “If I Can't Have Love, I Want Power” out now: https://halsey.lnk.to/IICHLIWPID Get New Album Manic: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xdYFuCp3m9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xdYFuCp3m9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xdYFuCp3m9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HalseyVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-30T22:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sU_SIVII-3j-VENOROhnsLv08QU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U2va1dknCuo"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-13T20:17:59Z",
+        "channelId": "UC1iqebKNH36JIdBIjEy8-iQ",
+        "title": "Halsey – Bad At Love (Lyrics) 🎵",
+        "description": "\"Halsey – Bad At Love (Lyrics) \" Hit the to join the notification squad! Support Pixl Networks http://snapchat.com/add/pixlnetworks ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U2va1dknCuo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U2va1dknCuo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U2va1dknCuo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pixl Networks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-13T20:17:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2Ybx6rDguBAb0Gl5JVVebWLc5IA",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLXkYU9X6yyt0Md-C9CzALthiCyGalHGwh"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-13T21:09:53Z",
+        "channelId": "UCm3FgJ2Hqm7tb70T-GfwXVA",
+        "title": "Halsey - Bad At Love",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xdYFuCp3m9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xdYFuCp3m9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xdYFuCp3m9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HalseyVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-13T21:09:53Z"
+      }
+    }
+  ]
+}

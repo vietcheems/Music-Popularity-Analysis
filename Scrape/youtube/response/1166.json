@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "jJtVehZ5A3TC7fWDxKBpt9Q1TNA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nzCOiisB9zUQopiF8KiY19MuVh0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tU3p6mz-uxU"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-20T16:00:05Z",
+        "channelId": "UCeTDWSJawSuNbBEURTC6w_A",
+        "title": "2 Chainz - It&#39;s A Vibe ft. Ty Dolla $ign, Trey Songz, Jhené Aiko (Official Music Video)",
+        "description": "Watch the new video from 2 Chainz, \"It's A Vibe\" featuring Ty Dolla $ign, Trey Songz and Jhene Aiko. http://smarturl.it/ItsAVibe #PRETTYGIRLSLIKETRAPMUSIC ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tU3p6mz-uxU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tU3p6mz-uxU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tU3p6mz-uxU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "2ChainzVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-20T16:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b5DEmy3RNE_t-D6E0k9KeMqORMo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CK3COY6UU_M"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-15T04:00:00Z",
+        "channelId": "UCeTDWSJawSuNbBEURTC6w_A",
+        "title": "2 Chainz ft. Ty Dolla $ign, Trey Songz, Jhené Aiko - It&#39;s A Vibe (Official Audio)",
+        "description": "Listen 2 Chainz, “It's A Vibe” feat. Ty Dolla $ign, Trey Songz, Jhene Aiko http://smarturl.it/ItsAVibe #PRETTYGIRLSLIKETRAPMUSIC STREAM:: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CK3COY6UU_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CK3COY6UU_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CK3COY6UU_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "2ChainzVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-15T04:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W2Tj2Ntsmjc7tshOOpbZnyvN5_o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YupAt6w_UOc"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-05T01:13:26Z",
+        "channelId": "UCZM1K1Q9f5PpNhqc83mAxxA",
+        "title": "2 Chainz - It&#39;s A Vibe ft. Ty Dolla $ign, Trey Songz, Jhené Aiko (lyrics)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YupAt6w_UOc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YupAt6w_UOc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YupAt6w_UOc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daniela Fernandes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-05T01:13:26Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "mMgv-a5Y_IcUy5K8ZdOLjYcwiWs",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ocM0rBxq9bxzQEa3P5kUbrBbL0Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vGZMvV9KBp8"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-19T07:52:56Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - A Head Full Of Dreams (Official Video)",
+        "description": "Coldplay - A Head Full of Dreams is taken from the album A Head Full of Dreams released in 2015 (hear the album at https://smarturl.it/cpAHFOD) Subscribe for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vGZMvV9KBp8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vGZMvV9KBp8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vGZMvV9KBp8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-19T07:52:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YAEMrZi3suEnE_eQX7BWOemfxzs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6YypytpsftA"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-29T17:00:04Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - A Head Full Of Dreams (Live In São Paulo)",
+        "description": "Coldplay - A Head Full Of Dreams (Live in São Paulo) is taken from the Live In São Paulo concert film filmed on 7 and 8 November 2017, part of the Butterfly ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6YypytpsftA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6YypytpsftA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6YypytpsftA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-29T17:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x3y3Ysjv7C-QBTvLldZ_hLkjkKE",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLV6v1tqr_zxxSJsJrh4T8Cry1iHA9Kma_"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-09T03:55:24Z",
+        "channelId": "UCefjclsAt4LkRVuss1qy5KQ",
+        "title": "Coldplay a head full of dreams album",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OGVN7pI32VU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OGVN7pI32VU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OGVN7pI32VU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HotPinkPunk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-09T03:55:24Z"
+      }
+    }
+  ]
+}

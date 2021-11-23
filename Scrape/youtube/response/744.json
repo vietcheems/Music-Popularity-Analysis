@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "A2fs4LCZ8A7hjbUOdnFWWs21Smc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OvJLt_4KSakpvFxxh23Y-u8hQUU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W1tzURKYFNs"
+      },
+      "snippet": {
+        "publishedAt": "2013-12-26T14:50:13Z",
+        "channelId": "UCdI8evszfZvyAl2UVCypkTA",
+        "title": "Miley Cyrus - Adore You (Official Video)",
+        "description": "Miley's New Album Plastic Hearts is Available Now: https://mileyl.ink/PlasticHearts Music video by Miley Cyrus performing Adore You (C) 2013 RCA Records, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W1tzURKYFNs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W1tzURKYFNs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W1tzURKYFNs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MileyCyrusVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-12-26T14:50:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n3mRjp9sQtxMesG1YidLk7SbG04",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AVjfp5PmhiY"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-09T13:00:00Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "Miley Cyrus - Adore You (Lyrics) 🎵",
+        "description": "Learn how to sing in only 30 days with these easy, fun video lessons! https://www.30daysinger.com/a/8328/BFzaEvmu -- \"Miley Cyrus - Adore You (Lyrics) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AVjfp5PmhiY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AVjfp5PmhiY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AVjfp5PmhiY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-09T13:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rq-CY_y9uqD9NxulJP1AfO-E1I4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1tbgtKoe7ro"
+      },
+      "snippet": {
+        "publishedAt": "2014-01-18T21:46:08Z",
+        "channelId": "UCfwG72tMRwlazjOlASYRGXQ",
+        "title": "Miley Cyrus Adore You Lyrics",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1tbgtKoe7ro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1tbgtKoe7ro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1tbgtKoe7ro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Eda Yıldırım",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-01-18T21:46:08Z"
+      }
+    }
+  ]
+}

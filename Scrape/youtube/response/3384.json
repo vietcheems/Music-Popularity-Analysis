@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "qAp2C7soCqRhCrrrGm47Mm-t8rU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QEkrsLN0PqTuUdh6GmTbdzK7ukw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WDZJPJV__bQ"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-09T17:00:03Z",
+        "channelId": "UC9zX2xZIJ4cnwRsgBpHGvMg",
+        "title": "Beyoncé - Formation (Official Video)",
+        "description": "Grammy nominated best video of the year \"Formation\" from LEMONADE the Visual Album Available Now! iTunes: http://smarturl.it/LEMONADEitunes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WDZJPJV__bQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WDZJPJV__bQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WDZJPJV__bQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BeyoncéVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-09T17:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pXbb0t8hqGzAuZ4dTa8q2YtWWUg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WQE9y8W9NC8"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-30T15:22:51Z",
+        "channelId": "UCQk989vTW-NrDSHOvqKc2-Q",
+        "title": "Beyonce - Formation (Lyrics)",
+        "description": "Beyonce #Formation #Lemonade.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WQE9y8W9NC8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WQE9y8W9NC8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WQE9y8W9NC8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Normani Access",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-30T15:22:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jlN1RDo68lB4AvF4V4Oxi5beVFo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l92V6V2Uy1Q"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-14T15:00:29Z",
+        "channelId": "UCqRkp0ih42DCH9YPW9Cambw",
+        "title": "Beyoncé - Formation (Live at The Formation World Tour) (Legendado)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l92V6V2Uy1Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l92V6V2Uy1Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l92V6V2Uy1Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Leonardo Castelo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-14T15:00:29Z"
+      }
+    }
+  ]
+}
