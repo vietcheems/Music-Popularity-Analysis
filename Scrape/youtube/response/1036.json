@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "6OoIcPfmvWXsnjjjy532IQY19mA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "L4DMY9FowNaFMIrGZpaS3PIdfwI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GMFewiplIbw"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-14T04:00:00Z",
+        "channelId": "UCJrREGJ2R1mMuKJkZ8SMCcA",
+        "title": "Becky G, Bad Bunny - Mayores (Official Video)",
+        "description": "Becky G feat. Bad Bunny - \"Mayores\" (Official Music Video) \"Mayores\" feat. Bad Bunny is available now on these digital platforms: Choose Your Platform: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GMFewiplIbw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GMFewiplIbw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GMFewiplIbw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BeckyGVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-14T04:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "glYdiaExwUMeTzrKOAry6CMhESQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QuSEbo03fc4"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-14T22:04:50Z",
+        "channelId": "UCJrREGJ2R1mMuKJkZ8SMCcA",
+        "title": "Becky G, Bad Bunny - Mayores (2017 Latin American Music Awards)",
+        "description": "Music video by Becky G, Bad Bunny performing Mayores (2017 Latin American Music Awards). (C) 2017 Kemosabe Records http://vevo.ly/lX52mu.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QuSEbo03fc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QuSEbo03fc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QuSEbo03fc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BeckyGVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-14T22:04:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V8r1zxdFHFlQ21NweTpFK08dMs8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TdhcrQG4TJI"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-16T17:52:54Z",
+        "channelId": "UC_NJ0E1aDKf5Q5DRX872k-w",
+        "title": "Becky G - Mayores (Letra/Lyric Video) ft. Bad Bunny",
+        "description": "Get Becky G - Mayores (Letra/Lyric Video) ft. Bad Bunny: Stream: https://sml.lnk.to/Mayores Follow Becky G! Official Site: http://iambeckyg.com Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TdhcrQG4TJI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TdhcrQG4TJI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TdhcrQG4TJI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cadence",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-16T17:52:54Z"
+      }
+    }
+  ]
+}

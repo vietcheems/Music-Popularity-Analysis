@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "2YINFxvP6lU0MLshGzZDfq-3ZD0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ITHg5o-5KDpJN8MOwJlWNmx1eUQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RsW66teC0BQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-23T20:00:02Z",
+        "channelId": "UCe4LM_eKc9ywRmVuBm5pjQg",
+        "title": "Doja Cat - Boss B*tch (from Birds of Prey: The Album) [Official Music Video]",
+        "description": "Doja Cat - Boss B*tch (from Birds of Prey: The Album) Directed by: Jack Begert @psycho-films Subscribe for more official content from Atlantic Records: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RsW66teC0BQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RsW66teC0BQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RsW66teC0BQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Atlantic Records",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-23T20:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HIfFrxqyQt_ESaFwHBOUy-oU_Pc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9QAevjELLMs"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-23T16:15:00Z",
+        "channelId": "UCRj_YzvblVTAbL6SJxuoWAg",
+        "title": "Doja Cat - Boss Bitch (Lyrics)",
+        "description": "Welcome to Paradise Your Home For The Best Rap Music With Lyrics! “Doja Cat - Boss Bitch” Lyrics / Lyric Video brought to you by Rap Paradise ⏬ “Doja Cat ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9QAevjELLMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9QAevjELLMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9QAevjELLMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rap Paradise",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-23T16:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JeXOXGl5vX0KVsXW9QaIUn5D1VU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XR9d86XOkLI"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-19T12:00:39Z",
+        "channelId": "UC4XJeGGdXj0vA4CxDDJ8J_A",
+        "title": "Doja Cat - Boss Bitch (Lyrics)",
+        "description": "Follow Cakes & Eclairs on Spotify: http://bit.ly/CakesEclairs Doja Cat - Boss Bitch (Lyrics) Download / Stream: https://BirdsOfPrey.lnk.to/BossBitchID Don't ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XR9d86XOkLI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XR9d86XOkLI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XR9d86XOkLI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cakes & Eclairs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-19T12:00:39Z"
+      }
+    }
+  ]
+}

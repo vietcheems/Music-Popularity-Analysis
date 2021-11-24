@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "aFZuCUQ9If5yDprSfsY7svnemjg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wWxUHhpA-6XHMrmao_ve71lWwyI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sYhz7_aeURc"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-16T16:19:55Z",
+        "channelId": "UCGL_i1LClRT6VOiuA3My3Cw",
+        "title": "AJ Mitchell - Used To Be (Official Video)",
+        "description": "Listen to \"Used To Be” here: Spotify: https://open.spotify.com/track/4ROD16K3Ju9rmnYWJuzKTS iTunes: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sYhz7_aeURc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sYhz7_aeURc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sYhz7_aeURc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AJ Mitchell",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-16T16:19:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3SNM6ecu9lgqDsMY1-feDjXXQw4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eY9CCgbrl7o"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-23T12:00:28Z",
+        "channelId": "UCJrHSufD4ncoY1w5yfduEaw",
+        "title": "AJ Mitchell - Used To Be [Full HD] Lyrics",
+        "description": "hope u enjoy this video :) Please subscribe !!! I do not own this song. All rights belong to AJ Mitchell :D.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eY9CCgbrl7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eY9CCgbrl7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eY9CCgbrl7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LYRICS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-23T12:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nk-NTo9zAkr6uMZhjPB7ONTKA_s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yMhvrAbBgO4"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-08T17:00:09Z",
+        "channelId": "UCkDlyGVzEE0yX_zTu4YVlCw",
+        "title": "AJ Mitchell - Used to Be (Live) | Vevo LIFT Live Sessions",
+        "description": "AJ Mitchell - Used To Be - LIFT Live Performance How do you know you're headed in the right direction, career-wise? Write a song at the age of 13, release it ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yMhvrAbBgO4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yMhvrAbBgO4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yMhvrAbBgO4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AJMitchellVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-08T17:00:09Z"
+      }
+    }
+  ]
+}

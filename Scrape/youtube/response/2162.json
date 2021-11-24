@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "MZfnnNbBkn4ysyOSTi2Phk_EycI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yF19lG_FjuqqQ-48o67mBwDrC7U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ihXS8Ha7uGQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-16T10:16:53Z",
+        "channelId": "UCo8_Jr6Z7vRLckpob2f_-kw",
+        "title": "Maniac",
+        "description": "Provided to YouTube by Believe SAS Maniac · Robert Khan Big Hair 80's Hits ℗ 2018 No Name Music Released on: 2018-12-17 Author: D. Matkossky ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ihXS8Ha7uGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ihXS8Ha7uGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ihXS8Ha7uGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Various Artists - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-16T10:16:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tW4-Cy-CxQ23pLeL-cS37ngm764",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YBlUEG9Xm0w"
+      },
+      "snippet": {
+        "publishedAt": "2013-05-29T20:14:00Z",
+        "channelId": "UCuNjLPEzgm0PHuiPUIOKpNw",
+        "title": "Various-Maniac",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YBlUEG9Xm0w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YBlUEG9Xm0w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YBlUEG9Xm0w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "aldo luis",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-05-29T20:14:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gn6xug9OVIjBiQMj8kI5Zbymff0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JHLMovWP3lA"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-23T14:52:31Z",
+        "channelId": "UCQ8cSXTLcq4vS2-nF-rBEqQ",
+        "title": "Maniac",
+        "description": "Provided to YouTube by Believe SAS Maniac · Josh Jameson Back to Basics 80's Pop Hits ℗ 2017 Showin' Stuff Records Released on: 2017-04-05 Author: M.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JHLMovWP3lA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JHLMovWP3lA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JHLMovWP3lA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Various Artists - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-23T14:52:31Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "mCZ7njUIVt4YnAmzNfM9O5jxG7Y",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4ZBhIlVUqwkOcWYlKgKalM3Uh7s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k6M5C-oKw9k"
+      },
+      "snippet": {
+        "publishedAt": "2009-12-14T03:28:23Z",
+        "channelId": "UCa5R55NSXiWAZWi9997XYvg",
+        "title": "Ne-Yo - Miss Independent (Official Music Video)",
+        "description": "REMASTERED IN HD!! Official Music Video for Miss Independent performed by Ne-Yo. Visit Ne-Yo online: https://www.instagram.com/neyo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k6M5C-oKw9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k6M5C-oKw9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k6M5C-oKw9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NeYoVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-12-14T03:28:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ruYadU0ATAGHegwJuSvEx2NuhNk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yzGAbnheXsI"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-19T02:32:48Z",
+        "channelId": "UCvtkFm0XlCLqyvtP7UpqAoA",
+        "title": "Ne-Yo - Miss Independent (Miss Universe)",
+        "description": "Ne-Yo's performance of \"Miss Independent\" live on Miss Universe 2018. Stream/Download: https://spoti.fi/2D2cTa9 SUBSCRIBE: http://bit.ly/neyosubscribe New ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yzGAbnheXsI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yzGAbnheXsI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yzGAbnheXsI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ne-Yo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-19T02:32:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pD0FUTTZ5oW4pTm15YiAlVEZTNs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kggHPK2yprQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-15T22:48:32Z",
+        "channelId": "UCpOy1elCmlt6IxyX4nPBX0A",
+        "title": "Ne-Yo - Miss Independent (Lyrics)",
+        "description": "This is the lyrics to the song “Miss Independent”",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kggHPK2yprQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kggHPK2yprQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kggHPK2yprQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Music Paradise",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-15T22:48:32Z"
+      }
+    }
+  ]
+}

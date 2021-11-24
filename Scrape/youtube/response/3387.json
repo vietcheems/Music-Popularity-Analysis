@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ueOcN_ZJqVBwv7XO3b90D-2vUlQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LawfmP9aSwVvvbT6jRB1J1Of5TI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GuJQSAiODqI"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-27T02:07:34Z",
+        "channelId": "UC81VD6eeuLLSfyY_D-N8sVw",
+        "title": "Madonna - Vogue (Official Video)",
+        "description": "You're watching the official music video for \"Vogue\" directed by David Fincher from Madonna's soundtrack album 'I'm Breathless' for the motion picture 'Dick ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GuJQSAiODqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GuJQSAiODqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GuJQSAiODqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Madonna",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-27T02:07:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rTHR9rO_xGjAiayINKB8gXTlK0U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lTaXtWWR16A"
+      },
+      "snippet": {
+        "publishedAt": "2010-11-18T00:19:52Z",
+        "channelId": "UC81VD6eeuLLSfyY_D-N8sVw",
+        "title": "Madonna - Vogue (Live at the MTV Awards 1990) [Official Video]",
+        "description": "You're watching Madonna perform \"Vogue\" on the VMAs in 1990. Original song taken from Madonna's soundtrack album 'I'm Breathless' for the motion picture ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lTaXtWWR16A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lTaXtWWR16A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lTaXtWWR16A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Madonna",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-11-18T00:19:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nOU8B-o8kZ_jziRrY-xa5MgJLAM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yzG_3UJ-LvU"
+      },
+      "snippet": {
+        "publishedAt": "2013-09-04T07:00:25Z",
+        "channelId": "UCmQmc-Y4N9btVMUS1BfnyDw",
+        "title": "Madonna - Vogue (from MDNA World Tour)",
+        "description": "You're watching Madonna perform \"Vogue\" on the MDNA World Tour. Buy/Stream 'MDNA': https://Madonna.lnk.to/MDNA Listen to Madonna's latest release ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yzG_3UJ-LvU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yzG_3UJ-LvU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yzG_3UJ-LvU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MADONNAVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-09-04T07:00:25Z"
+      }
+    }
+  ]
+}

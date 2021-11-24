@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "vsP1D59mji4aKM_DNdfV7P5-6nw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_ItsYAE-y2HC4zfH_1Som2VfQUc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HTgUwtoLl_o"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-09T07:00:00Z",
+        "channelId": "UCKzhoblE_rPZbHtQKPVUp2A",
+        "title": "SZA - Garden (Say It Like Dat) (Audio)",
+        "description": "SZA's \"CTRL\" available on: Apple Music - http://smarturl.it/iCTRL Spotify - http://smarturl.it/sCTRL Soundcloud - http://smarturl.it/scCTRL Tidal ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HTgUwtoLl_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HTgUwtoLl_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HTgUwtoLl_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SZAVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-09T07:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l8N7EGNyeT30Sqnd2Y2wgH2LT6I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pcJo0tIWybY"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-18T14:00:04Z",
+        "channelId": "UCKzhoblE_rPZbHtQKPVUp2A",
+        "title": "SZA - Garden (Say It Like Dat) (Official Video)",
+        "description": "SZA's \"CTRL\" available on: Apple Music - http://smarturl.it/iCTRL Spotify - http://smarturl.it/sCTRL Soundcloud - http://smarturl.it/scCTRL Tidal ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pcJo0tIWybY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pcJo0tIWybY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pcJo0tIWybY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SZAVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-18T14:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LL7wdMXr5p3Z7TM1UqPtahkIOGc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ogWNU07zCRM"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-08T00:10:03Z",
+        "channelId": "UCLT5H0xkVBPtYvvET-n6j_Q",
+        "title": "SZA- Garden (Say it like Dat) Lyrics",
+        "description": "I do not own this song. This is the property of SZA. Hope these lyrics helped!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ogWNU07zCRM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ogWNU07zCRM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ogWNU07zCRM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lyrics Plug",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-08T00:10:03Z"
+      }
+    }
+  ]
+}

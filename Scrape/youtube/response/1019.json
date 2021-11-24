@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "MU-oKNpHqY0zPdc5z-asMjFHQF4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_n6YFLd2oqp0TqNrVqNuSTaZQ9Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "erG5rgNYSdk"
+      },
+      "snippet": {
+        "publishedAt": "2009-06-17T05:47:46Z",
+        "channelId": "UCjXfz0RBwagVrDo7uL6liqg",
+        "title": "Weezer - Island In The Sun (Official Music Video)",
+        "description": "REMASTERED IN HD! What's your favorite Weezer video? Vote here: https://www.udiscovermusic.com/stories/best-weezer-videos/ Listen to more from Weezer: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/erG5rgNYSdk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/erG5rgNYSdk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/erG5rgNYSdk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WeezerVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-06-17T05:47:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BeLq0ptjCrWSWH9VOGSsXTCyPts",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HVHUjzZZGQ4"
+      },
+      "snippet": {
+        "publishedAt": "2009-07-03T12:41:09Z",
+        "channelId": "UCVaX2SN5hi6LSzalg2Vly4g",
+        "title": "Weezer - Island In The Sun",
+        "description": "Weezer - Island In The Sun (The green album)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HVHUjzZZGQ4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HVHUjzZZGQ4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HVHUjzZZGQ4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sandrova92",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-07-03T12:41:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rciK7kxcmKlkrbUAO6vY6IIeJYo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0C3zgYW_FAM"
+      },
+      "snippet": {
+        "publishedAt": "2009-06-17T05:26:55Z",
+        "channelId": "UCjXfz0RBwagVrDo7uL6liqg",
+        "title": "Weezer - Island In The Sun (Spike Jonze Version)",
+        "description": "REMASTERED IN HD! What's your favorite Weezer video? Vote here: https://www.udiscovermusic.com/stories/best-weezer-videos/ Listen to more from Weezer: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0C3zgYW_FAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0C3zgYW_FAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0C3zgYW_FAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WeezerVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-06-17T05:26:55Z"
+      }
+    }
+  ]
+}

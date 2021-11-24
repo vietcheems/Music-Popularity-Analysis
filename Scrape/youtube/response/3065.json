@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "waDTRzfZ_LaQINqnUZt-315zc_c",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 830373,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1Fte7_rBNjXnGAUNspCHQsesjw4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ff3r10rCKFs"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-06T14:01:10Z",
+        "channelId": "UCfLTxnQboSLcoSakgONmukQ",
+        "title": "Henrique e Juliano - LIBERDADE PROVISÓRIA - DVD Ao Vivo No Ibirapuera",
+        "description": "ASSISTA TAMBÉM: DVD COMPLETO: https://www.youtube.com/playlist?list=PLZl5gqjItoKxcrqIChyX09RvP9ksIggp8 LIBERDADE PROVISÓRIA: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ff3r10rCKFs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ff3r10rCKFs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ff3r10rCKFs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Henrique e Juliano",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-06T14:01:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P199rjHRr37I_llYZkdfWzabDo0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NfX44TYN1-s"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-25T06:30:32Z",
+        "channelId": "UChu6wCUk6_hX4UU8b7B2Dtw",
+        "title": "Henrique e Juliano - LIBERDADE PROVISÓRIA - AO VIVO #BaileDaSantinha 2020",
+        "description": "LIBERDADE PROVISÓRIA [ letra ] Compositores: Henrique Casttro, Elvis Elan No inicio foi assim Terminou tá terminado Cada um pro seu lado Não precisa ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NfX44TYN1-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NfX44TYN1-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NfX44TYN1-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pedro Italo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-25T06:30:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fPyep2pPgxMD8pIXmOP_jhlVheg",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLssrJYg6t8leM10dOpsaWKEROO2X2nMhb"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-11T19:20:00Z",
+        "channelId": "UC0pXSfmU1B1Ky1EZYgj76gQ",
+        "title": "Henrique e Juliano 2021 - Ao Vivo no Ibirapuera - Liberdade Provisoria e muito mais.",
+        "description": "Playlist Created with https://www.tunemymusic.com?source=plcreated that lets you transfer your playlist to YouTube from any music platform such as Spotify, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Ef-Nmqf7C0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Ef-Nmqf7C0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Ef-Nmqf7C0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Erick Menezes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-11T19:20:00Z"
+      }
+    }
+  ]
+}

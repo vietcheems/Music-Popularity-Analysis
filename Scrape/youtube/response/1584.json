@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "x91ofduVAamzltXAEdoJsNeLtbo",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yha8_SiFKz_8bnORa_3i-fegZYg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kcASPx3-HuI"
+      },
+      "snippet": {
+        "publishedAt": "2011-05-30T13:36:02Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Trouble (Official video)",
+        "description": "Coldplay - Trouble is taken from the debut album Parachutes released in 2000 (hear the album at https://smarturl.it/cp-pararchutes) Newly restored HD version of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kcASPx3-HuI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kcASPx3-HuI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kcASPx3-HuI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-05-30T13:36:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LYz2tqLLVKuwlTjF940QGCSofdk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FPzI4dpEcF8"
+      },
+      "snippet": {
+        "publishedAt": "2008-06-16T19:07:53Z",
+        "channelId": "UCB2uQ73l1wSuLJthrlyqbsQ",
+        "title": "Coldplay - Trouble",
+        "description": "Trouble by Coldplay (4K/high quality audio) The sixth track from Coldplay's rock/brit-pop album Parachutes, also released as a single Lyrics: Oh no I see A ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FPzI4dpEcF8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FPzI4dpEcF8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FPzI4dpEcF8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Somber Sounds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-06-16T19:07:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J2Re6nAeRenktsMO__bVheTo8G0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BXvztVMnLVo"
+      },
+      "snippet": {
+        "publishedAt": "2011-09-21T00:17:24Z",
+        "channelId": "UC92wk8slyb7siu_aseR0XDg",
+        "title": "Coldplay - Trouble Lyrics",
+        "description": "Coldplay fans, enjoy! Subscribe for more content coming soon...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BXvztVMnLVo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BXvztVMnLVo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BXvztVMnLVo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Paola Rivera",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-09-21T00:17:24Z"
+      }
+    }
+  ]
+}

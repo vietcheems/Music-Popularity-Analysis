@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "x61Gpwl8kxmRH1J0Ef_xjGYVqzE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nW03iSJZ2r47218aia5M8Go77cA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Els_GCWuJVk"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-09T09:00:00Z",
+        "channelId": "UCvclA06ZUVv54J-1ZeJ54Aw",
+        "title": "The Vamps - Just My Type",
+        "description": "Watch more videos in the complete playlist here: https://TheVamps.lnk.to/Playlist Listen to The Vamps complete collection here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Els_GCWuJVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Els_GCWuJVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Els_GCWuJVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheVampsVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-09T09:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mC5MVIC2L-fZpG1ZvyVN3x7uC-Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Th1bOmqIPpM"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-16T16:45:01Z",
+        "channelId": "UCj4mJaB6K3a6eCw1xIQ2jsA",
+        "title": "The Vamps - Just My Type (Lyrics)",
+        "description": "The Vamps – Just My Type (Lyrics) https://lnk.to/TheVampsJustMyType THE VAMPS Website | https://www.getvamps.com Facebook ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Th1bOmqIPpM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Th1bOmqIPpM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Th1bOmqIPpM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NewMelody",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-16T16:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fQewsylzQNWVjMHhH68tqV44BH8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_yaOgVSD7io"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-10T12:22:52Z",
+        "channelId": "UCrAlrayQMF7GPqctjsg-b1A",
+        "title": "The Vamps - Just My Type LYRICS",
+        "description": "Subscribe II Subscribe II Subscribe II Subscribe II Subscribe II Subscribe #Ariana Grande new song - Break up with your girlfriend, i'm bored (Lyrics) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_yaOgVSD7io/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_yaOgVSD7io/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_yaOgVSD7io/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Music is Life",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-10T12:22:52Z"
+      }
+    }
+  ]
+}

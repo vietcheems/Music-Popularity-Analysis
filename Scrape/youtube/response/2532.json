@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "oaf0u-QlRKDeNyQaRdwueB-1jjs",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H50tTDLX0Cg-vO7JI6totUi59k8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "crrOl0egI00"
+      },
+      "snippet": {
+        "publishedAt": "2012-07-18T10:00:08Z",
+        "channelId": "UCa5R55NSXiWAZWi9997XYvg",
+        "title": "Ne-Yo - Let Me Love You (Until You Learn To Love Yourself) (Official Music Video)",
+        "description": "Buy it Now! iTunes - http://smarturl.it/lmlyit Amazon - http://smarturl.it/lmlyam Music video by Ne-Yo performing Let Me Love You (Until You Learn To Love ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/crrOl0egI00/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/crrOl0egI00/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/crrOl0egI00/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NeYoVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-07-18T10:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "STBGbncVgD6RTZqwv7e-cnGnlt4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AtC7F4L5Ivo"
+      },
+      "snippet": {
+        "publishedAt": "2012-07-26T22:12:42Z",
+        "channelId": "UCxGkKOTkxJbBaSINxGn4qLA",
+        "title": "Ne-Yo - Let me love you (lyrics)",
+        "description": "Ne-Yo Let me love you (lyrics) by TheLyricist Note: I do not own this song and I respect the copyright.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AtC7F4L5Ivo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AtC7F4L5Ivo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AtC7F4L5Ivo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheLyricist2012",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-07-26T22:12:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i1MoZeciFmbCvoe0ppnembuvHmE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QKOm_uA0bU0"
+      },
+      "snippet": {
+        "publishedAt": "2013-01-23T22:55:08Z",
+        "channelId": "UCa5R55NSXiWAZWi9997XYvg",
+        "title": "Let Me Love You (Until You Learn To Love Yourself) (Remix...",
+        "description": "Buy Now! iTunes: http://smarturl.it/neyoreditd Amazon: http://smarturl.it/neyoredamd Music video by Ne-Yo performing Let Me Love You (Until You Learn To Love ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QKOm_uA0bU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QKOm_uA0bU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QKOm_uA0bU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NeYoVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-01-23T22:55:08Z"
+      }
+    }
+  ]
+}

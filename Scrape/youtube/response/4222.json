@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "3R4eW1xYyh9fW9fXzRmcbubQkW8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JOqY5ApF5dMHcPnTlOMrSYniZio",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PrBUjXaRSUQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-10T15:04:59Z",
+        "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
+        "title": "Dio - Rainbow In The Dark (Official Music Video)",
+        "description": "You're watching the official music video for Dio - \"Rainbow In The Dark\" from the album 'Holy Diver' (1983). Subscribe to the Rhino Channel!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PrBUjXaRSUQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PrBUjXaRSUQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PrBUjXaRSUQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RHINO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-10T15:04:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vmh_QWMHR0-lvUi8APCczOYJEBM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qcWKZTI9OC4"
+      },
+      "snippet": {
+        "publishedAt": "2010-07-01T17:59:07Z",
+        "channelId": "UCO9SS62EmpZ5lNPKIfL8GSQ",
+        "title": "Dio - Rainbow In The Dark [HD]",
+        "description": "R.I.P Dio! :( I think this is the best quality on youtube :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qcWKZTI9OC4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qcWKZTI9OC4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qcWKZTI9OC4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MusicStudio9",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-07-01T17:59:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E8ADm-hSBINZI_zrlxKD0ZSvbRU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LmSt1oEIshE"
+      },
+      "snippet": {
+        "publishedAt": "2007-06-01T02:08:50Z",
+        "channelId": "UCq96dD0PpX8bRa40wQellyQ",
+        "title": "1983 Ronnie James Dio  &quot;Rainbow In The Dark&quot; (Rock Palace)",
+        "description": "Ronnie James Dio performing \"Rainbow In The Dark\" on a US late night television show, \"The Rock Palace.\" I believe this was recorded very shortly after the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LmSt1oEIshE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LmSt1oEIshE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LmSt1oEIshE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "music3874",
+        "liveBroadcastContent": "none",
+        "publishTime": "2007-06-01T02:08:50Z"
+      }
+    }
+  ]
+}

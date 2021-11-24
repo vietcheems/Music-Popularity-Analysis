@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ro4R60_Rxa0t_IpLl8fLtpW08k0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k18Y5WmbrRO-T09T6YdyeI1SOfk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sUpu7618KrM"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-31T04:00:32Z",
+        "channelId": "UCxGRSwwWDtOjXUn0xcNJmjg",
+        "title": "Logic - Everybody (Official Audio)",
+        "description": "Music video by Logic performing Everybody. (C) 2017 Def Jam Recordings, a division of UMG Recordings, Inc. http://vevo.ly/R4yEXa Best of Logic: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sUpu7618KrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sUpu7618KrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sUpu7618KrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LogicVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-31T04:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "U4cE_umVSMh5mP6ulw2umClq8UU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D_fQMaLciww"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-31T06:10:51Z",
+        "channelId": "UCqtyKOWcGwD38h7nVMj3c0g",
+        "title": "Logic - Everybody (Lyrics)",
+        "description": "https://www.youtube.com/channel/UC6xcBMq5zQEV2IzUGlSBINw NEW CHANNEL GOT BANNED ON THIS ONE DUE TO COPYRIGHT SADLY I do not own ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D_fQMaLciww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D_fQMaLciww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D_fQMaLciww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "5amTruly",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-31T06:10:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x9LSoG-6YAhy_bEu12N2LRSP25w",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLv16fXg2izkqBFv6L2TUHszVhcsZ-UeX2"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-05T23:19:41Z",
+        "channelId": "UCMBEGfSPH8ww0OT3c7TLOJw",
+        "title": "Logic - Everybody (Full Album) (Uncensored)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_50-V-IejRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_50-V-IejRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_50-V-IejRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ajlol",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-05T23:19:41Z"
+      }
+    }
+  ]
+}

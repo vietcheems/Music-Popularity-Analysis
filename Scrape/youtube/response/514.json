@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "M0MUdWOJAhhU3Q_KLuYoS6pupeE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5FV8CKyu2ALoy2vn4JDCa5a0rCs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HUhrF7-ciiY"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-28T22:59:23Z",
+        "channelId": "UCk4XGYjL1hU9bMccpLJBQGg",
+        "title": "Drake - Pop Style",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HUhrF7-ciiY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HUhrF7-ciiY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HUhrF7-ciiY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Drake",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-28T22:59:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aoHaOHqY5q7hmFoQlFG5q_n89Fc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yEUGoUg1TJw"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-18T18:20:56Z",
+        "channelId": "UCa4Fy6CxWY3IZfFRo4GtNAw",
+        "title": "Drake - Pop Style (Jack Daily Remix)",
+        "description": "Jack Daily - pop style | Drake - popstyle (Jack Daily Remix) 'Dropped outta school now we dumb rich' | Lyrics ⇣ Spotify-Playlist (LITTOPIA): ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yEUGoUg1TJw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yEUGoUg1TJw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yEUGoUg1TJw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IDLEGLANCE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-18T18:20:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DSGlNDFBKSAiCdqFE9HT8GeIBmM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UOg7t9J5nmg"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-17T19:21:29Z",
+        "channelId": "UCU5So3kN7TrLhiqkxBEK0TQ",
+        "title": "Drake - Pop Style (OG Version) Feat. Jay-Z &amp; Kanye West",
+        "description": "I've finally found the original version from drake's album, ENJOY!! Please SUBSCRIBE for more !! *Copyright Disclaimer Under Section 107 of the Copyright Act ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UOg7t9J5nmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UOg7t9J5nmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UOg7t9J5nmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SportGamingComputing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-17T19:21:29Z"
+      }
+    }
+  ]
+}

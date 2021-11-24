@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "lJt0GiKOyqvIo0tHQZK3kP4je9c",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AdRrpkYTqFUDzxub_dWBDMYgAEM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GEGTBU7hV0Q"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-04T22:00:00Z",
+        "channelId": "UCDJgRiKf5KG1lx7w3nFwmlQ",
+        "title": "Holiday/Boulevard of Broken Dreams/Wake Me Up When September Ends/Whatsername [Edited Medley]",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GEGTBU7hV0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GEGTBU7hV0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GEGTBU7hV0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Weird Al Yankovic Countdowns AND MORE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-04T22:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nyZIQb0uaGG4DR03QrLEZDPaGLo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2vC1VKlSq9o"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-31T09:05:16Z",
+        "channelId": "UCCnaeze4TtkMDrb35O5Gczg",
+        "title": "Green Day - Holiday / Boulevard of Broken Dreams",
+        "description": "Holiday / Boulevard of Broken Dreams · Green Day American Idiot ℗ 2004 Reprise Records Guitar, Producer: Billie Joe Armstrong Lead Vocals: Billie Joe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2vC1VKlSq9o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2vC1VKlSq9o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2vC1VKlSq9o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vlad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-31T09:05:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FKSBSYY4xvGsiJLhiQ84ECkGJ9A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HKVAmfHuURI"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-08T22:31:21Z",
+        "channelId": "UC19tjLNiv_Q-bCJx-joxaHQ",
+        "title": "Green Day - Holiday/Boulevard Of Broken Dreams (Video)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HKVAmfHuURI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HKVAmfHuURI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HKVAmfHuURI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Beto Cruz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-08T22:31:21Z"
+      }
+    }
+  ]
+}

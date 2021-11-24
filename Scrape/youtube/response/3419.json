@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "lL_rmoouOqwyItcYInC3QATl4DI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C9f4ug7qApVJW5xc_aEW2dYiEMY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GrAchTdepsU"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-05T19:00:17Z",
+        "channelId": "UC6YyYm5LWzar8Isrqs2eXzQ",
+        "title": "24kGoldn - Mood (Official Video) ft. iann dior",
+        "description": "Official video for \"Mood\" by 24kGoldn featuring iann dior. Listen + Download 'El Dorado' out now: https://24kgoldn.lnk.to/ElDorado Amazon Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GrAchTdepsU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GrAchTdepsU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GrAchTdepsU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "24KGoldnVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-05T19:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GJcTlgFyX8htSFDQ_aKFYtgbWS0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nMVFSwfV6wk"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-26T15:09:14Z",
+        "channelId": "UCdvBex6r_1-i8Sut-mCy2Jw",
+        "title": "24kGoldn - Mood (Lyrics) ft. Iann Dior",
+        "description": "24kGoldn - Mood (Lyrics) ft. Iann Dior Spotify Playlist: https://TajTracks.lnk.to/Spotify Download / Stream: https://24kGoldn.lnk.to/Mood 24kGoldn: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nMVFSwfV6wk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nMVFSwfV6wk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nMVFSwfV6wk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taj Tracks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-26T15:09:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DopBvn_9hMq0QMf5WCpA4SxKJMM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2fvw0TkENHM"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-24T04:00:01Z",
+        "channelId": "UC6YyYm5LWzar8Isrqs2eXzQ",
+        "title": "24kGoldn - Mood (Official Audio) ft. iann dior",
+        "description": "Official audio for \"Mood\" by 24kGoldn featuring Iann Dior. Listen + Download 'El Dorado' out now: https://24kgoldn.lnk.to/ElDorado Amazon Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2fvw0TkENHM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2fvw0TkENHM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2fvw0TkENHM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "24KGoldnVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-24T04:00:01Z"
+      }
+    }
+  ]
+}

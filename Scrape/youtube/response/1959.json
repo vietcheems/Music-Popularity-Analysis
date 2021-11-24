@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "KS91FZ1BKCg6_B6yAsKFf_b6AQY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 254882,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x6kyTrvQaae4fiMaNbuEXtfgw3U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X9fLbfzCqWw"
+      },
+      "snippet": {
+        "publishedAt": "2009-02-24T23:03:07Z",
+        "channelId": "UC3zWZsGJ4GUM3yokVChBeVg",
+        "title": "Yellowcard - Ocean Avenue (Official Video)",
+        "description": "Music video by Yellowcard performing Ocean Avenue. #Yellowcard #OceanAvenue #Vevo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X9fLbfzCqWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X9fLbfzCqWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X9fLbfzCqWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YellowcardVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-02-24T23:03:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hzWbC66hOuc-zgSKiFQPH6dvVWU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9S5LA_c6WT8"
+      },
+      "snippet": {
+        "publishedAt": "2009-02-02T01:05:26Z",
+        "channelId": "UCWLziXsScL1nQoBHNkWQIGA",
+        "title": "Yellowcard - Ocean Avenue ( Lyrics )",
+        "description": "Yellowcard - Ocean Avenue Lyrics. There's a place off Ocean Avenue Where I used to sit and talk with you We were both 16 and it felt so right Sleeping all day, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9S5LA_c6WT8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9S5LA_c6WT8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9S5LA_c6WT8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "L33Rixx",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-02-02T01:05:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j_FSMJ9TFDON8d2euhfskKqxeV8",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL2icB-k-9pmKQo6lTcYVJfLVApm_wXrGw"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-26T19:52:04Z",
+        "channelId": "UCN9KJcXJVRfZ8BXb__fjMhQ",
+        "title": "Yellowcard - Ocean Avenue (Album Audio)",
+        "description": "The official Yellowcard account does not seem to have a playlist with just the audio versions so I made it here with a couple bonus tracks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "tiehole",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-26T19:52:04Z"
+      }
+    }
+  ]
+}

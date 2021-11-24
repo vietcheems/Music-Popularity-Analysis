@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "qOPJ-B5cgvkJB9_3IqzQm_p7LtY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ogh7rzcpxTl5lqIfdS_nMiBB1e4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ekzHIouo8Q4"
+      },
+      "snippet": {
+        "publishedAt": "2013-02-05T20:01:34Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - When I Was Your Man (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"When I Was Your Man\" from the album 'Unorthodox Jukebox'. Directed by Cameron Duddy & Bruno Mars Subscribe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ekzHIouo8Q4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ekzHIouo8Q4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ekzHIouo8Q4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-02-05T20:01:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tEjKDWoItKYe10EMG1FFxNEjg5o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8WgP_NzXdd8"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-05T14:59:41Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "When I Was Your Man - Bruno Mars (Lyrics)",
+        "description": "Learn how to sing in only 30 days with these easy, fun video lessons! https://www.30daysinger.com/a/8328/BFzaEvmu -- \"When I Was Your Man - Bruno Mars ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8WgP_NzXdd8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8WgP_NzXdd8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8WgP_NzXdd8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-05T14:59:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Pl0MgfoYnF51gQsM4tj-CPXp47Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OAREzsE6oFo"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-26T09:21:42Z",
+        "channelId": "UCDqc6fixiXZmoXd_9zFkcDQ",
+        "title": "Dulcet Music - When I Was Your Man - Bruno Mars",
+        "description": "Dulcet Music - When I Was Your Man - Bruno Mars.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OAREzsE6oFo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OAREzsE6oFo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OAREzsE6oFo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jazz Music - Gloria Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-26T09:21:42Z"
+      }
+    }
+  ]
+}

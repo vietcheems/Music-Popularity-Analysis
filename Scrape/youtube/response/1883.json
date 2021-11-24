@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "1DhamU10Y9mS20kT5WzMeLSgbJM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y34-sfTS4kogQnwUO2Upy00qlFE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bKJSJngH__c"
+      },
+      "snippet": {
+        "publishedAt": "2013-07-30T23:22:44Z",
+        "channelId": "UCuMbxFl0J5xzFULc2RJYH9w",
+        "title": "Queen - Radio Ga Ga - (Remastered 2011)",
+        "description": "Radio Ga Ga Album: The works (1984) Lyrics: I'd sit alone and watch your light my only friend through teenage nights and everything i had to know i heard it on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bKJSJngH__c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bKJSJngH__c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bKJSJngH__c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "queenremastered4",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-07-30T23:22:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AIZ_uIpQJG4obbmyNJ2xT-VIZUQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qlZqEFbVxgo"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-29T02:41:57Z",
+        "channelId": "UCDdx1uv27YOmf6-ZMuk15-A",
+        "title": "Radio Ga Ga (Remastered 2011)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qlZqEFbVxgo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qlZqEFbVxgo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qlZqEFbVxgo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "This Is Queen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-29T02:41:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vL90fp6hAx7EAJ0nGdXFKXacco4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "azdwsXLmrHE"
+      },
+      "snippet": {
+        "publishedAt": "2008-08-01T13:32:21Z",
+        "channelId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+        "title": "Queen - Radio Ga Ga (Official Video)",
+        "description": "Taken from The Works, 1984. Click here to buy the DVD with this video at the Official Queen Store: http://www.queenonlinestore.com The official 'Radio Ga Ga' ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/azdwsXLmrHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/azdwsXLmrHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/azdwsXLmrHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Queen Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-08-01T13:32:21Z"
+      }
+    }
+  ]
+}

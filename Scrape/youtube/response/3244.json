@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "vvuI4U0Q9asGwfX5RjPwlaF7cPE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wH_RTNFq1WkBTZAgJj-AgOQF0_I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fM8V1XOI-14"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-14T07:00:02Z",
+        "channelId": "UCsEj8E122ibbJetQe8BoV7g",
+        "title": "Kane Brown - What Ifs ft. Lauren Alaina",
+        "description": "Get Kane Brown's “What Ifs” (featuring Lauren Alaina) on his self-titled debut album: http://smarturl.it/kanebrown?IQid=yt.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fM8V1XOI-14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fM8V1XOI-14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fM8V1XOI-14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KaneBrownVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-14T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b8VYAUTqWjQA7Xhs4Dpyn__uN2g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-27y6vjx9PY"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-05T07:00:00Z",
+        "channelId": "UCsEj8E122ibbJetQe8BoV7g",
+        "title": "Kane Brown - What Ifs (Lyric Video) ft. Lauren Alaina",
+        "description": "Get \"What Ifs\" (featuring Lauren Alaina) on Kane Brown's self-titled debut album available now: http:// smarturl.it/kanebrown.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-27y6vjx9PY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-27y6vjx9PY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-27y6vjx9PY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KaneBrownVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-05T07:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3ZWmX8ze5pIAuovRaQbkKrrHF98",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y0b9IcUWIuU"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-14T15:21:27Z",
+        "channelId": "UCwEd5fjVmwJw7SBjsV49Wiw",
+        "title": "Kane Brown- What Ifs ft. Lauren Alaina (Lyrics)",
+        "description": "Kane Brown- What Ifs ft. Lauren Alaina I do not own the rights to anything in this video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y0b9IcUWIuU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y0b9IcUWIuU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y0b9IcUWIuU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Life Tips",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-14T15:21:27Z"
+      }
+    }
+  ]
+}

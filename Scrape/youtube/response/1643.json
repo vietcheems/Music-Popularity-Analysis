@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "GMoZ6xmIz8VRaCO94UqEN78Fvk0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZeBluoU0dVDsqemZxA_LgdHm6dc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yydNF8tuVmU"
+      },
+      "snippet": {
+        "publishedAt": "2015-06-11T17:07:59Z",
+        "channelId": "UC_kRDKYrUlrbtrSiyu5Tflg",
+        "title": "Daft Punk - Harder, Better, Faster, Stronger (Official audio)",
+        "description": "Daft Punk - Discovery : ℗ 2001 Daft Life under exclusive license to Parlophone Records Ltd./Parlophone Music, a division of Parlophone Music France Youtube ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yydNF8tuVmU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yydNF8tuVmU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yydNF8tuVmU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daft Punk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-06-11T17:07:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5QYXYcO0DssJ-E5Ad05i5nsfz1g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gAjR4_CbPpQ"
+      },
+      "snippet": {
+        "publishedAt": "2009-02-26T22:55:19Z",
+        "channelId": "UC_kRDKYrUlrbtrSiyu5Tflg",
+        "title": "Daft Punk - Harder Better Faster (Official Video)",
+        "description": "Official video for Daft Punk's \"Harder Better Faster\" from the album Discovery. Stream: https://apple.co/2N5fd5s Explore the incredible Daft Punk catalogue on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gAjR4_CbPpQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gAjR4_CbPpQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gAjR4_CbPpQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daft Punk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-02-26T22:55:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zSZBQLryPshKWOSiX7YcPn1vqVg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9sjWU5dGcGI"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-26T14:25:41Z",
+        "channelId": "UCa10nxShhzNrCE1o2ZOPztg",
+        "title": "Daft Punk - Harder, Better, Faster, Stronger (Far Out Remix)",
+        "description": "Daft Punk - Harder, Better, Faster, Stronger (Far Out Remix) ↪︎https://hypeddit.com/track/vy7cca Trap Nation on Apple Music: https://apple.co/2AcAWz7 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9sjWU5dGcGI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9sjWU5dGcGI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9sjWU5dGcGI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Trap Nation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-26T14:25:41Z"
+      }
+    }
+  ]
+}

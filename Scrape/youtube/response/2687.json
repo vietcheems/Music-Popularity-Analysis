@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "85w8Pra394h5uCYIhv1cF3gwDPw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 160784,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z3ls6ai731fIWOpZZvJxLj-YJOk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VpvyG2NrS1Y"
+      },
+      "snippet": {
+        "publishedAt": "2012-05-24T02:16:14Z",
+        "channelId": "UCRGfhmYGDuprNIjtZjrLhNQ",
+        "title": "Fat Joe - What&#39;s Luv? ft. Ashanti (Official Music Video)",
+        "description": "Music video by Fat Joe performing What's Luv? #FatJoe #WhatsLuv #Vevo #HipHop #OfficialMusicVideo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VpvyG2NrS1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VpvyG2NrS1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VpvyG2NrS1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FatJoeVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-05-24T02:16:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AzVxFEYmSSyR6DBztJDR9j5o7mQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tXHUi01DgbI"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-01T07:02:49Z",
+        "channelId": "UC0Q9kl9spa6X6exgGmpttvg",
+        "title": "Fat Joe - What&#39;s Luv? (feat. Ja Rule &amp; Ashanti) [Explicit Version]",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tXHUi01DgbI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tXHUi01DgbI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tXHUi01DgbI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Corey Vuitton",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-01T07:02:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Yim2DolwVDSkENWKvvmKc4hGWMA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9y1Fap67rEE"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-26T07:55:04Z",
+        "channelId": "UC7hoY1OhUgHu0-Mde8HXDCQ",
+        "title": "Fat Joe - What&#39;s Luv? ft. Ashanti &amp; Ja Rule (Remix)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9y1Fap67rEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9y1Fap67rEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9y1Fap67rEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nicolas Fuentealba",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-26T07:55:04Z"
+      }
+    }
+  ]
+}

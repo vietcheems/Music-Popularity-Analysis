@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "7quvEaVPF8cKds1wexlSRHcwv6c",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OfzCaKJNNXQBnUqHDcPbEhaliqQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_EyZUTDAH0U"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-13T22:00:00Z",
+        "channelId": "UClRx3MMyYUyqOxyEqA5F2nQ",
+        "title": "Travis Scott - BUTTERFLY EFFECT",
+        "description": "\"Butterfly Effect\" available at iTunes http://smarturl.it/ButterflyEffect_iT Apple Music http://smarturl.it/BufferflyEffect_AM Spotify http://smarturl.it/BufferflyEffect_Sptf ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_EyZUTDAH0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_EyZUTDAH0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_EyZUTDAH0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TravisScottVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-13T22:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zCrNWYVTorq_n2nAoqwyLzj5ZMQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SiWVfhECEGQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-17T06:20:40Z",
+        "channelId": "UCSHuuzkzeSRzyIN97YJt20w",
+        "title": "Travis Scott - Butterfly Effect - Lyrics",
+        "description": "Please like and Subscribe for more lyric videos!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SiWVfhECEGQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SiWVfhECEGQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SiWVfhECEGQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "A - Z Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-17T06:20:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JTn_De3vZbZi5C_hoLKumz3Bd10",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A6O9kt3WgeE"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-19T14:30:00Z",
+        "channelId": "UC_GsuiZ13oZoIMW2RRB4Iew",
+        "title": "Travis Scott - \u200bButterfly Effect (Lyrics) | RapTunes",
+        "description": "Travis Scott - \u200bButterfly Effect (Lyric Video) Travis Scott - \u200bButterfly Effect (Lyrics) Help us reach 500000 Subscribers!: http://bit.ly/sub-raptunes-lyrics ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A6O9kt3WgeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A6O9kt3WgeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A6O9kt3WgeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RapTunes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-19T14:30:00Z"
+      }
+    }
+  ]
+}

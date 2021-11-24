@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "cofmfDeiBQceYHoq5LB0ntoZhxs",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YWF6VLdQJPQbUun2RGbLY42zv8I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hhzYbExfVIY"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-13T15:00:06Z",
+        "channelId": "UCM1gEqLPsgej7ZKzu9w8v7A",
+        "title": "Lil Baby, Gunna - Close Friends",
+        "description": "Watch the music video for \"Close Friends\" by Lil Baby \"Drip Harder\" - Lil Baby & Gunna, featuring \"Close Friends\" OUT NOW!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hhzYbExfVIY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hhzYbExfVIY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hhzYbExfVIY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LilBabyVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-13T15:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n7GblPgr4j2Toj-Oj-NBFT0tG6I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nClKdcnzVsc"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-15T04:00:04Z",
+        "channelId": "UCM1gEqLPsgej7ZKzu9w8v7A",
+        "title": "Lil Baby, Gunna - Close Friends (Audio)",
+        "description": "Stream/Download 'Drip Harder': https://BabyGunna.lnk.to/DripHarder Stream/Download “Drip Too Hard”: https://babygunna.lnk.to/driptoohard Follow Lil Baby ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nClKdcnzVsc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nClKdcnzVsc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nClKdcnzVsc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LilBabyVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-15T04:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HLV_Ip1f_GN9iRxj-GTudagyeqs",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLerZUoCXZfN8fyph_PjsyQAgRGm2pAw6A"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-16T04:32:08Z",
+        "channelId": "UCEyGdBIdBWOeWobdzFQSGXQ",
+        "title": "Lil Baby - Close Friends (Lil Baby &amp; Gunna)",
+        "description": "Lil Baby, Gunna - Close Friends 21 Savage - a lot ft. J. Cole Mustard - Ballin' ft. Roddy Ricch (Official Music Video) Chris Brown - No Guidance (Official Video) ft.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hhzYbExfVIY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hhzYbExfVIY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hhzYbExfVIY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Luscious Juggernauts",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-16T04:32:08Z"
+      }
+    }
+  ]
+}

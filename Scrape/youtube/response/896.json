@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "LDEvwvsz0ThYtXnd6LskgVoap5c",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8zjkEoXJNPS1z92oVzIpWHicWAc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FTQbiNvZqaY"
+      },
+      "snippet": {
+        "publishedAt": "2013-05-22T07:09:18Z",
+        "channelId": "UCeVb1p9-ZgbuNCDpITSfxVQ",
+        "title": "Toto - Africa (Official HD Video)",
+        "description": "Official HD Video for \"Africa\" by Toto Listen to Toto: https://Toto.lnk.to/listenYD Watch more Toto videos: https://Toto.lnk.to/listenYD/youtube Subscribe to the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FTQbiNvZqaY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FTQbiNvZqaY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FTQbiNvZqaY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TotoVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-05-22T07:09:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t69ZVe2npO_j5qu3AYhlU7fzmVY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UQn-7GCh2r0"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-08T22:10:16Z",
+        "channelId": "UCLScOxXQZt2GQN5a7-vCDlw",
+        "title": "Toto - Africa",
+        "description": "Toto - Africa Toto: 40 Tours Around the Sun \"Für mich sind Toto die besten Musiker auf dem Planeten\", sagt Gitarrist Eddie Van Halen. 1978 erscheint ihr ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UQn-7GCh2r0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UQn-7GCh2r0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UQn-7GCh2r0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Günter Bauer Spielbach",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-08T22:10:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "isGZXTQccLoKqJQADGhW8GjZxMg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DWfY9GRe7SI"
+      },
+      "snippet": {
+        "publishedAt": "2011-11-21T18:12:02Z",
+        "channelId": "UCAbXS5JbCAG_tBWoUSTRIWg",
+        "title": "Toto Africa Lyrics",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DWfY9GRe7SI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DWfY9GRe7SI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DWfY9GRe7SI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Yunus Emre Selik",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-11-21T18:12:02Z"
+      }
+    }
+  ]
+}

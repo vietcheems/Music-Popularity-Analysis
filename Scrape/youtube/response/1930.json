@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "HkeIL9HRft4gNqlykZ8Mc33cdnw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DA0XE9GVKVt7khfFgQHPdzQnv6w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PH34kMOjmQk"
+      },
+      "snippet": {
+        "publishedAt": "2010-01-08T16:05:51Z",
+        "channelId": "UCCFs35_Ey5FXLh5L8eN08hg",
+        "title": "The Game - How We Do (Official Music Video)",
+        "description": "REMASTERED IN HD!! Official Music Video for How We Do performed by The Game. (C) 2004 Aftermath Entertainment/Interscope Records. #TheGame ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PH34kMOjmQk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PH34kMOjmQk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PH34kMOjmQk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheGameVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-01-08T16:05:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GbxmGMbkzGkuK0ENWEB_sQRw6ag",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_mWkdqGcH7k"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-18T05:19:07Z",
+        "channelId": "UCvbeCOGyXOgtBj4mIwvaaSA",
+        "title": "The Game - How We Do (Official Audio)",
+        "description": "Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_mWkdqGcH7k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_mWkdqGcH7k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_mWkdqGcH7k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RST Loc The Woken Marauder",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-18T05:19:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XCVNRde2VtDr-XUe_ieBDABLeYo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0tMEqJOK_eY"
+      },
+      "snippet": {
+        "publishedAt": "2012-08-31T13:48:38Z",
+        "channelId": "UCf7mp4UMZGt7IHgbyBPjPrg",
+        "title": "The Game ft 50 Cent - How we do (dirty lyrics)",
+        "description": "2004.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0tMEqJOK_eY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0tMEqJOK_eY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0tMEqJOK_eY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hovh. Nazaretyan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-08-31T13:48:38Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "vQi4RzIY5EaqDmBzW5cNT0Lh9IA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jqo9rd-hLEVHx-k72f7ynyvYuhI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F0-50nRyuy8"
+      },
+      "snippet": {
+        "publishedAt": "2014-08-24T00:21:55Z",
+        "channelId": "UCtFF629XkvHET_QYJzRiznA",
+        "title": "Ariana Grande - Just a Little Bit of Your Heart (Lyrics)",
+        "description": "Ariana Grande - Just a Little Bit of Your Heart (Lyrics and Official Audio) from My Everything Buy the album on iTunes: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F0-50nRyuy8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F0-50nRyuy8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F0-50nRyuy8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lisa LaBarbera",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-08-24T00:21:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5oiJFyG0wJK5pQR2wwqrUgklZ-A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HsmpBo6M1EI"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-12T15:47:02Z",
+        "channelId": "UCC8mX2nZ5prUK-axHCtMZjQ",
+        "title": "Ariana Grande - Just A Little Bit Of Your Heart (Live Grammy&#39;s 2015)",
+        "description": "Relembre a performance da Ariana no Grammy 2015!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HsmpBo6M1EI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HsmpBo6M1EI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HsmpBo6M1EI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Arianators Brasil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-12T15:47:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8_r5Vv5xJdcHjqTDdkTWeXJptfY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hr_1lzf_mz8"
+      },
+      "snippet": {
+        "publishedAt": "2014-09-29T16:24:12Z",
+        "channelId": "UC_2qPYRDVsgaMZbSv7HNGAA",
+        "title": "Ariana Grande - Just a Little Bit of You Heart live at iHeartRadio",
+        "description": "Singing by: Ariana Grande Written by: Harry Styles.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hr_1lzf_mz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hr_1lzf_mz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hr_1lzf_mz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Just Kailee",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-09-29T16:24:12Z"
+      }
+    }
+  ]
+}

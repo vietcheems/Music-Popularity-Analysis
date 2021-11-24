@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Qf195ximNLo3IgSqBsn_mO-6ZCM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GlVaZ-KFmd4wnXzwY34tJz5qk5M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5NV6Rdv1a3I"
+      },
+      "snippet": {
+        "publishedAt": "2013-04-19T06:55:07Z",
+        "channelId": "UCKHFvArwRwQU2VbRjMpaVGw",
+        "title": "Daft Punk - Get Lucky (Official Audio) ft. Pharrell Williams, Nile Rodgers",
+        "description": "Daft Punk's official audio for 'Get Lucky' ft. Pharrell Williams and Nile Rodgers. Click to listen to Daft Punk on Spotify: http://smarturl.it/DaftPunkSpotify?IQ.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5NV6Rdv1a3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5NV6Rdv1a3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5NV6Rdv1a3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DaftPunkVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-04-19T06:55:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eYCN_uMw9EamTmnhZVl5neGgLiU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CCHdMIEGaaM"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-28T13:43:01Z",
+        "channelId": "UCH9fakOo40rOv7HGvbGc1rQ",
+        "title": "Daft Punk feat. Pharrell Williams - Get Lucky (Official Video)",
+        "description": "Publication date: 19 April 2013 Album: Random Access Memories Label: Daft Life, Columbia Songwriter(s): Thomas Bangalter, Guy-Manuel de Homem-Christo, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CCHdMIEGaaM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CCHdMIEGaaM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CCHdMIEGaaM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "convar HUN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-28T13:43:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nU0n6iI7YlsI9quHqAWz7U2gN78",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5glDAaCaazc"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-02T17:54:16Z",
+        "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+        "title": "Daft Punk - Get Lucky (Lyrics) ft. Pharrell Williams, Nile Rodgers",
+        "description": "Follow 7clouds on Spotify : http://bit.ly/7CLOUDS Daft Punk - Get Lucky (Lyrics) ft. Pharrell Williams, Nile Rodgers ⏬ Download / Stream: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5glDAaCaazc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5glDAaCaazc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5glDAaCaazc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "7clouds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-02T17:54:16Z"
+      }
+    }
+  ]
+}

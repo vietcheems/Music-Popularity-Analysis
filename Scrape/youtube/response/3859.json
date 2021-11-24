@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ML1IdU06GzEoMA0eKP9ll0bzwS4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1b2NobAdXsiwdM7YuZ5BYFZ_mJE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Dh-ULbQmmF8"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-18T04:12:36Z",
+        "channelId": "UClc5Eis2-L2JCcN62jmD21w",
+        "title": "Ciara - Level Up",
+        "description": "Get Ciara's new album 'Beauty Marks' featuring “Thinkin Bout You”, “Level Up”, and “Greatest Love” now: https://ciara.ffm.to/beautymarks.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Dh-ULbQmmF8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Dh-ULbQmmF8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Dh-ULbQmmF8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ciara",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-18T04:12:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GtZZB9s5_53ifhllTN008NTRrwg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oGw1VrLTIeE"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-19T21:14:50Z",
+        "channelId": "UCuR7KpndjchJ7cZDwU-Cnxg",
+        "title": "Ciara - Level Up Lyrics",
+        "description": "I own nothing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oGw1VrLTIeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oGw1VrLTIeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oGw1VrLTIeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Skittles123452",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-19T21:14:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zRIog7Hu6a65nFq22DhSa1GVNO8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zUSvieorPGk"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-30T19:52:53Z",
+        "channelId": "UC7Ul2k3EhfIHE2RFvjoMorA",
+        "title": "Level Up | Ciara | Aliya Janell Choreography | Queens N Lettos",
+        "description": "Queens N' Lettos Tour Tix Here! http://bit.ly/queensnlettostour 9/15 Brooklyn, NY 9/16 Philadelphia, PA 9/22 Toronto, ON 9/23 Detroit, MI 9/29 Dallas, TX 9/30 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zUSvieorPGk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zUSvieorPGk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zUSvieorPGk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Aliya Janell",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-30T19:52:53Z"
+      }
+    }
+  ]
+}

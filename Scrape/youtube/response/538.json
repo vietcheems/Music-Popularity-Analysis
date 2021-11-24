@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "fhMdJkbc8FxKLU-opC0Mrig6S8o",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iFkIai355F60CF4SIum-7KtrNgY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Oxr9XWogBQA"
+      },
+      "snippet": {
+        "publishedAt": "2012-09-09T01:33:48Z",
+        "channelId": "UC5qREkJ7aF5u4FFLVTrzdZQ",
+        "title": "Kanye West - Clique ft. Big Sean &amp; Jay-Z (Explicit)",
+        "description": "[Intro: James Fauntleroy] What of the dollar you murdered for Is that the one fighting for your soul Or your brother's the one that you're running from But if you got ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oxr9XWogBQA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oxr9XWogBQA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oxr9XWogBQA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mrawsomo man",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-09-09T01:33:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7QDtq4iApo0WtkCX7khczwfUvTA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZK6Qo0AH3u8"
+      },
+      "snippet": {
+        "publishedAt": "2012-09-28T18:58:38Z",
+        "channelId": "UCdCcqDgSkJNaLGPO7gMVKOA",
+        "title": "Kanye West   Clique Lyrics On Screen",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZK6Qo0AH3u8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZK6Qo0AH3u8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZK6Qo0AH3u8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Maxou&Mimi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-09-28T18:58:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8zYaWF_FlxL5Sa-7QaSj-sY_enM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "reDIBMuan2c"
+      },
+      "snippet": {
+        "publishedAt": "2013-03-18T19:22:44Z",
+        "channelId": "UCGi6YYn6DHO1tJSPL03bi0g",
+        "title": "Kanye West - Clique ft. Big Sean _ Jay-Z (Explicit Version)",
+        "description": "not an offical video Kanye West - Clique ft. Big Sean _ Jay-Z (Explicit Version) Kanye West - Clique ft. Big Sean _ Jay-Z (Explicit Version) Kanye West - Clique ft.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/reDIBMuan2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/reDIBMuan2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/reDIBMuan2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jose Perez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-03-18T19:22:44Z"
+      }
+    }
+  ]
+}

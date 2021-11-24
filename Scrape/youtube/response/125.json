@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "jO5VHgjiYjRLxNpspYn79o9sDpc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "20dZGwKkD9PL97kUhNZouLZQ698",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SXiSVQZLje8"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-30T03:00:00Z",
+        "channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+        "title": "Ariana Grande ft. Nicki Minaj - Side To Side (Official Video) ft. Nicki Minaj",
+        "description": "Side To Side ft. Nicki Minaj (Official Video) Listen to 'Dangerous Woman' the album: https://arianagrande.lnk.to/dangerouswoman-albumYD Best of Ariana ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SXiSVQZLje8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SXiSVQZLje8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SXiSVQZLje8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArianaGrandeVevo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-30T03:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cxO-bqFTrLSRBzxteEU22O5LADA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o1zIw9RZDrw"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-24T02:40:25Z",
+        "channelId": "UCYT1K2tDW6gJbNNCS9IgWzQ",
+        "title": "Ariana grande - side to side ||lyrics",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o1zIw9RZDrw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o1zIw9RZDrw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o1zIw9RZDrw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "songly world",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-24T02:40:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EwAK46Ehe0UcCvyhDfhYwjaYRbQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A42N4IygFcg"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-29T05:00:00Z",
+        "channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+        "title": "Ariana Grande - Side To Side (Live from the 2016 MTV VMAs) ft. Nicki Minaj",
+        "description": "Ariana Grande and Nicki Minaj perform “Side to Side” live at the 2016 MTV Video Music Awards at Madison Square Garden in New York City. Listen to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A42N4IygFcg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A42N4IygFcg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A42N4IygFcg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArianaGrandeVevo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-29T05:00:00Z"
+      }
+    }
+  ]
+}

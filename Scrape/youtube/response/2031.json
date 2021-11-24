@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "5GKKrFAk80JAqa7NQ78EEKflK-Q",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 215348,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fMWhu1_zg2M5-guhOkc5OaY_xEE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uSquiIVLhrQ"
+      },
+      "snippet": {
+        "publishedAt": "2011-09-30T13:37:58Z",
+        "channelId": "UCOtzs9GUfXya0ZDIXVs_uhA",
+        "title": "Derek And The Dominos - Layla",
+        "description": "Title: Layla Artist: Derek And The Dominos Album: Layla And Other Assorted Love Songs Year: 1970 I do not claim ownership to this song. Lyrics: What'll you do ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uSquiIVLhrQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uSquiIVLhrQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uSquiIVLhrQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "80sclassicrocksongs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-09-30T13:37:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1nHFmJgmXwGF3zjmTadxYu-z63I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sb1qpuQoMxo"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-29T12:36:17Z",
+        "channelId": "UCBOFKormSGezYGz6Ng_jlpg",
+        "title": "Derek And The Dominos - Layla Live 1984",
+        "description": "Click To Subscribe Now! https://www.youtube.com/OLDTAPES?sub_confirmation=1.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sb1qpuQoMxo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sb1qpuQoMxo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sb1qpuQoMxo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OLD TAPES",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-29T12:36:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OUdL2Z_pomnhheO1RFI20u-u3n8",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLp8oXTv1PUtHOpd1TQhLOpP8bQHk2rQOV"
+      },
+      "snippet": {
+        "publishedAt": "2012-12-31T04:42:39Z",
+        "channelId": "UCLbmMOELeSj0_gEIpuuIjzw",
+        "title": "Derek and the Dominos - Layla and Other Assorted Love Songs",
+        "description": "(1970)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PMlmoLvRBNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PMlmoLvRBNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PMlmoLvRBNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rodrigo Lima",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-12-31T04:42:39Z"
+      }
+    }
+  ]
+}

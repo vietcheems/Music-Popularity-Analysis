@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "7TbpbIP-uUeMcPjbkRP-EthSbxM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uxvn8kLr0gGjgTuqSyeHXUahLa0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pt8VYOfr8To"
+      },
+      "snippet": {
+        "publishedAt": "2013-10-02T01:40:00Z",
+        "channelId": "UCZijND2e2tPp2AQL8Go2YSg",
+        "title": "Britney Spears - Work B**ch (Official Music Video)",
+        "description": "From the album \"Britney Jean\". Download now on iTunes: http://smarturl.it/britneyjean?Iqid=yt Black Dog Films/Little Minx Director: Ben Mor Executive Producer: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pt8VYOfr8To/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pt8VYOfr8To/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pt8VYOfr8To/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BritneySpearsVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-10-02T01:40:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2WuV_-GNPkD40VnQGoGeMAEiu4E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MPharU5r778"
+      },
+      "snippet": {
+        "publishedAt": "2013-10-16T11:27:36Z",
+        "channelId": "UC7dHyY5rg6AfATzJXQ7Q_uw",
+        "title": "Britney Spears - Work Bitch (Lyrics)",
+        "description": "I do not own the rights of this song Subscribe to us and make sure to like our facebook page for more awesome songs ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MPharU5r778/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MPharU5r778/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MPharU5r778/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheLazy Cat",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-10-16T11:27:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iHesiSi_jh3Mro7dBax5S5REQOs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ra-h_p-vD2s"
+      },
+      "snippet": {
+        "publishedAt": "2013-09-15T19:05:02Z",
+        "channelId": "UCZijND2e2tPp2AQL8Go2YSg",
+        "title": "Britney Spears - Work B**ch (Official Audio)",
+        "description": "From the album \"Britney Jean\". Download now on iTunes: http://smarturl.it/britneyjean?Iqid=yt Music video by Britney Spears performing Work Bitch. (C) 2013 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ra-h_p-vD2s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ra-h_p-vD2s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ra-h_p-vD2s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BritneySpearsVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-09-15T19:05:02Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "FBMv8jO0LsUt2Io8vyKBIEzLKUA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PH42hoFjfybPqBxr4FApUYiBIVY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_ABk7TmjnVk"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-13T15:50:00Z",
+        "channelId": "UChpJbg7zMbi5jx9Gdjaxa9g",
+        "title": "All Day (Live At The 2015 BRIT Awards) (Explicit)",
+        "description": "Best of Kanye West: https://goo.gl/2FXUVW Subscribe here: https://goo.gl/AgJE59 Kanye West ft. Theophilus London, Allan Kingdom & Paul McCartney - All Day ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_ABk7TmjnVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_ABk7TmjnVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ABk7TmjnVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KanyeWestVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-03-13T15:50:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8rC-Lh6wid3Vipxo9xIjkY55UmM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bsrc3vCL13E"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-07T13:25:18Z",
+        "channelId": "UCMNBQ8rRMyg0giuuXXPdNLw",
+        "title": "Kanye West - All Day Nigga (Explicit)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bsrc3vCL13E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bsrc3vCL13E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bsrc3vCL13E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Shkodi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-03-07T13:25:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7OFeq4J0-CSzBEBnu0r1mcEF5oc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YuDbrsZMaD8"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-12T22:05:49Z",
+        "channelId": "UCGCvB-7E4tDx_xuQg23RePw",
+        "title": "Kanye West Recording ‘All Day’",
+        "description": "htttp://www.kenewest.com.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YuDbrsZMaD8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YuDbrsZMaD8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YuDbrsZMaD8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ирена понорошку",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-03-12T22:05:49Z"
+      }
+    }
+  ]
+}

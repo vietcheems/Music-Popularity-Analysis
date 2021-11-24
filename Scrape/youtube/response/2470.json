@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "3CGOP8O7INFdfOuOZRa-wAKUp1k",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dIDnD26TLO0KhQSnhAjcc6FCRFc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J_8xCOSekog"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-13T02:05:35Z",
+        "channelId": "UC3SEvBYhullC-aaEmbEQflg",
+        "title": "Mac Miller - My Favorite Part (feat. Ariana Grande)",
+        "description": "Directed by _p From The Divine Feminine, in stores now: https://smarturl.it/MM.TDF CONNECT WITH MAC MILLER Twitter: https://twitter.com/macmiller ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J_8xCOSekog/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J_8xCOSekog/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J_8xCOSekog/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mac Miller",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-13T02:05:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fYWzWJLPlpy3uT0AqNjFKcM6Yt8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2vkko-vX06I"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-09T03:38:45Z",
+        "channelId": "UC3SEvBYhullC-aaEmbEQflg",
+        "title": "Mac Miller - My Favorite Part (feat. Ariana Grande)",
+        "description": "From The Divine Feminine, in stores now: https://smarturl.it/MM.TDF Watch the music video for \"Dang!\" here: https://youtu.be/LR3GQfryp9M CONNECT WITH ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2vkko-vX06I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2vkko-vX06I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2vkko-vX06I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mac Miller",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-09T03:38:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "glYEwn4VEESIk4oEv9Y5z5t3qJw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ndf-eMyEVG8"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-10T23:02:12Z",
+        "channelId": "UC3SEvBYhullC-aaEmbEQflg",
+        "title": "Mac Miller - My Favorite Part (feat. Ariana Grande) (Live)",
+        "description": "From The Divine Feminine, in stores now: https://smarturl.it/MM.TDF Directed by Bart Peters Follow Mac Miller: https://macmillerswebsite.com/ Facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ndf-eMyEVG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ndf-eMyEVG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ndf-eMyEVG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mac Miller",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-10T23:02:12Z"
+      }
+    }
+  ]
+}

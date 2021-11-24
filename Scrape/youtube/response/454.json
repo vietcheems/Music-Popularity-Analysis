@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "m_b9TkzKTDA3Ln1usuIvfXuBWDI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8qwGa5azrqs_zACCnkMGZqJxgHM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QZXc39hT8t4"
+      },
+      "snippet": {
+        "publishedAt": "2009-06-16T23:18:06Z",
+        "channelId": "UCx4Lxn5CzeG99X01__YsJpw",
+        "title": "Dr. Dre ft. Snoop Dogg, Kurupt, Nate Dogg - The Next Episode (Official Video)",
+        "description": "Get COMPTON the NEW ALBUM from Dr. Dre on Apple Music: http://smarturl.it/Compton Music video by Dr. Dre performing The Next Episode. (C) 1999 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QZXc39hT8t4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QZXc39hT8t4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QZXc39hT8t4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DrDreVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-06-16T23:18:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V33BN4jhCbMOSSHa46HxlzlQGD8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vZv9-TWdBJM"
+      },
+      "snippet": {
+        "publishedAt": "2014-10-20T12:36:41Z",
+        "channelId": "UCa10nxShhzNrCE1o2ZOPztg",
+        "title": "Dr. Dre - The Next Episode (San Holo Remix)",
+        "description": "Trap Nation's limited apparel: https://nations.io Dr. Dre - The Next Episode (San Holo Remix) Support the Original: http://apple.co/1eNCrWU Copyright Free ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vZv9-TWdBJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vZv9-TWdBJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vZv9-TWdBJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Trap Nation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-10-20T12:36:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n5_8LYCQFt_2XAfzJSR3basXUMg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ADIyIlO-_Ug"
+      },
+      "snippet": {
+        "publishedAt": "2009-09-13T16:05:52Z",
+        "channelId": "UCfM_fzrClGD-lehy33K-TyA",
+        "title": "Dr. Dre, Ft Snoop Dogg-The Next Episode (lyrics)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ADIyIlO-_Ug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ADIyIlO-_Ug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ADIyIlO-_Ug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vato Loco",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-09-13T16:05:52Z"
+      }
+    }
+  ]
+}

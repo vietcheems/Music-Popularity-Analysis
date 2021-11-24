@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "9NgZ1hefcc3K9o81WoURxIvjy2M",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qd9MEEMkTJtSZrc9xBz2KWcmIhY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AmpCyFObf2Q"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-22T23:50:30Z",
+        "channelId": "UCco0BlKBA-N_MiUWZLbCAyQ",
+        "title": "Tungevaag, Raaban - All For Love",
+        "description": "Connect with Tungevaag: ➜ Instagram: https://instagram.com/tungevaag ➜ Facebook: https://facebook.com/tungevaag ➜ Spotify: https://spoti.fi/2Zc2dOS.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AmpCyFObf2Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AmpCyFObf2Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AmpCyFObf2Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tungevaag",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-22T23:50:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Td6Utqt1BqT7iKy1RTQtH5ct1qA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "La0jkbHikuY"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-29T13:58:19Z",
+        "channelId": "UCco0BlKBA-N_MiUWZLbCAyQ",
+        "title": "Tungevaag, Raaban - All For Love (Official Video)",
+        "description": "Connect with Tungevaag: ➜ Instagram: https://instagram.com/tungevaag ➜ Facebook: https://facebook.com/tungevaag ➜ Spotify: https://spoti.fi/2Zc2dOS Credits: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/La0jkbHikuY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/La0jkbHikuY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/La0jkbHikuY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tungevaag",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-29T13:58:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o9q2e5VMuiKkEoKa9H1rxPGDBis",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "poLCbr5syZI"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-19T16:58:40Z",
+        "channelId": "UCxIJVrB5dq_UREV_Phpfp1Q",
+        "title": "Tungevaag &amp; Raaban – All For Love Lyrics",
+        "description": "All credit går till Tungevaag & Raaban.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/poLCbr5syZI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/poLCbr5syZI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/poLCbr5syZI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Swedish Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-19T16:58:40Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "t_bI1P4pW7dii9VRnVnJ7LFPOdI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gi1LzlZLtylzDYn6MWborIBeylE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m-M1AtrxztU"
+      },
+      "snippet": {
+        "publishedAt": "2013-12-05T15:56:34Z",
+        "channelId": "UCvhQPdeTHzIRneScV8MIocg",
+        "title": "Clean Bandit - Rather Be ft. Jess Glynne [Official Video]",
+        "description": "Download or stream our new single Tick Tock with Mabel ft. 24kGoldn: https://cleanbandit.lnk.to/TickTock Download or stream our new album \"What Is Love?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m-M1AtrxztU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m-M1AtrxztU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m-M1AtrxztU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clean Bandit",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-12-05T15:56:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rGtkhzB3tEwuPPxPEtGV2L5rfck",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jUjDcqdvCrk"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-21T16:34:51Z",
+        "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+        "title": "Clean Bandit - Rather Be (Lyrics) feat. Jess Glynne",
+        "description": "Follow 7clouds on Spotify : http://bit.ly/7CLOUDS Clean Bandit - Rather Be (Lyrics) feat. Jess Glynne ⏬ Download / Stream: http://atlanti.cr/WhatIsLove Turn ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jUjDcqdvCrk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jUjDcqdvCrk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jUjDcqdvCrk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "7clouds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-21T16:34:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sWEV6184f8mQUlgQxUPR3nzXxcE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W4ZW3lzFoOI"
+      },
+      "snippet": {
+        "publishedAt": "2014-07-05T17:48:29Z",
+        "channelId": "UCZzwjZPc6R_PbnDgFVMwlvQ",
+        "title": "Clean Bandit feat. Jess Glynne - Rather Be (Summertime Ball 2014)",
+        "description": "Clean Bandit performing 'Rather Be' live at Wembley Stadium for Capital FM's Summertime Ball 2014. #CleanBandit #RatherBe #JessGlynne Subscribe: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W4ZW3lzFoOI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W4ZW3lzFoOI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W4ZW3lzFoOI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Capital FM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-07-05T17:48:29Z"
+      }
+    }
+  ]
+}

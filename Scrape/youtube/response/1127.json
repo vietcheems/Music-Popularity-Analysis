@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "rLsMUnQz3JiRSG9S9iUIvssA6s8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rp9t_VVsD2Vxu2ovXOQEK03kS5c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ksdAs4LBRq8"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-20T10:56:46Z",
+        "channelId": "UCfSAqqftdc7FM1SY5vJjKfA",
+        "title": "Rita Ora - Anywhere (Official Video)",
+        "description": "'Anywhere' out now - http://atlanti.cr/anywhere My new album 'Phoenix' is out now: http://atlanti.cr/Phoenix Subscribe to Rita Ora's channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ksdAs4LBRq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ksdAs4LBRq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ksdAs4LBRq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rita Ora",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-20T10:56:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nM0wlykIQlJTiw7MU4TxrFrfeKw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rkVZtZuMd8Y"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-23T16:00:06Z",
+        "channelId": "UCrC_ZFYISEAUuCu00y52Evg",
+        "title": "Rita Ora - Anywhere (Lyrics / Lyric Video)",
+        "description": "Rita Ora - Anywhere (Lyrics / Lyric Video) ✓ Could you support Royal Music by hitting subscribe? Turn on notifications to stay updated with new uploads!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rkVZtZuMd8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rkVZtZuMd8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rkVZtZuMd8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Royal Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-23T16:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Rt30ndTIkinh6nlMGBR3dHhvGio",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4KcUYrmDzFc"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-10T07:15:43Z",
+        "channelId": "UCZtDUmC3W7j25XHZWFT_XgQ",
+        "title": "Rita Ora - Anywhere (Radio 2 Live in Hyde Park)",
+        "description": "Rita Ora perform Anywhere at Radio 2 Live in Hyde Park. Visit the Radio 2 Live in Hyde Park website for more videos and photos ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4KcUYrmDzFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4KcUYrmDzFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4KcUYrmDzFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBC Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-10T07:15:43Z"
+      }
+    }
+  ]
+}

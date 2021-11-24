@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "iB12sKmKNuvdkHmPfzAu3bkH9b4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XhpZBhg9VVEPUsVo4j8XmMGc4EA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XnbsIl2BnWw"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-27T21:48:00Z",
+        "channelId": "UCqf-kTp9ERV5T1rPayno7LA",
+        "title": "Frank Ocean - Chanel",
+        "description": "Frank Ocean - Chanel ℗ Blonded Released March 10, 2017.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XnbsIl2BnWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XnbsIl2BnWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XnbsIl2BnWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Blonded",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-27T21:48:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F9qhiU0Kp2_o8_spAs3xUrs0eyU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hUM7eTax76U"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-01T03:15:21Z",
+        "channelId": "UCID66ZkESv5WbaUfT-WHN5w",
+        "title": "Chanel - Frank Ocean (Lyrics)",
+        "description": "Lyrics: My guy pretty like a girl And he got fight stories to tell I see both sides like Chanel See on both sides like Chanel Swimming laps through pool water ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hUM7eTax76U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hUM7eTax76U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hUM7eTax76U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pᴇᴀᴄʜɪɪɢʟᴏss _",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-01T03:15:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WRQhgdowXmSDETnN9_HVqvay0Nc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bHugxNlAbtM"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-24T21:52:48Z",
+        "channelId": "UCJS8uT-OvnSw2Kb9tGkoSjQ",
+        "title": "Frank Ocean - Chanel (Nick Leon Atmosphere Remix)",
+        "description": "8d Audio version is up! https://www.youtube.com/watch?v=MwZdB8ujfoY - Keep in mind, that this it not my creation so please give the artist credit. It is truly a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bHugxNlAbtM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bHugxNlAbtM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bHugxNlAbtM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Icestah Vibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-24T21:52:48Z"
+      }
+    }
+  ]
+}

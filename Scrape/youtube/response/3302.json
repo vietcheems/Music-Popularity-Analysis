@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "XLGaFx1texEwtRoE70708-aOOlE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dIHrkP8iO16wDl_VfPFiRtSTNdo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c18441Eh_WE"
+      },
+      "snippet": {
+        "publishedAt": "2009-03-06T19:34:09Z",
+        "channelId": "UCyd8nl1opqfEVwJer32vURA",
+        "title": "Kylie Minogue - Can&#39;t Get You Out Of My Head (Official Video)",
+        "description": "Music video by Kylie Minogue performing Can't Get You Out Of My Head. Taken from the album 'Fever' Buy Kylie's greatest hits on iTunes here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c18441Eh_WE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c18441Eh_WE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c18441Eh_WE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kylie Minogue",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-03-06T19:34:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "o9Md1QerkkP__SvA4xWnzqtYQgM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MB578q9zjrM"
+      },
+      "snippet": {
+        "publishedAt": "2013-03-03T23:34:33Z",
+        "channelId": "UC9KGBizDzFB_y4ww0ye2PLw",
+        "title": "Kylie Minogue - Can&#39;t Get You Out of My Head (HQ)",
+        "description": "Kylie Minogue - Can't Get You Out of My Head From the album: Fever Capitol Records 2001.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MB578q9zjrM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MB578q9zjrM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MB578q9zjrM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mac Campbell",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-03-03T23:34:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n8uxd0PQdB3UqDB0TtU753jQBUY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cW-exN1yiUk"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-15T12:38:51Z",
+        "channelId": "UCFdQrTKm-47g0j12brGNbXw",
+        "title": "[Vietsub] Can&#39;t Get You Out Of My Head - glimmer of Blooms",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cW-exN1yiUk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cW-exN1yiUk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cW-exN1yiUk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Retro Video",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-15T12:38:51Z"
+      }
+    }
+  ]
+}

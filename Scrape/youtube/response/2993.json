@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "IsxY90Ye5XRwPJEQfPPUqX6t9Ys",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fcQb0wW4vrXYSfgg8P1ge4n1nhc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kPBzTxZQG5Q"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-05T13:11:27Z",
+        "channelId": "UCRxxOhTdsfA0hdvDG9Tb0HA",
+        "title": "3 Doors Down - Here Without You (Official Music Video)",
+        "description": "REMASTERED IN HD! Music video by 3 Doors Down performing Here Without You. (C) 2002 Universal Records, a Division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kPBzTxZQG5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kPBzTxZQG5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kPBzTxZQG5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "3DoorsDownVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-05T13:11:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AkQq9RMXUrJ6HgRB3vXJBtg1TUo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TlDInVqv8cs"
+      },
+      "snippet": {
+        "publishedAt": "2008-11-15T16:23:30Z",
+        "channelId": "UCVb66iFAFTyKVuz-hGOkieA",
+        "title": "3 Doors Down - Here Without You [Lyrics]",
+        "description": "Credits: 3 Doors Down Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TlDInVqv8cs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TlDInVqv8cs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TlDInVqv8cs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Geraldine Alexa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-11-15T16:23:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DwTL8njzyHWM771HuGVTHGjlIdY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RxWEvV9zYj4"
+      },
+      "snippet": {
+        "publishedAt": "2011-08-21T10:34:40Z",
+        "channelId": "UCgc00bfF_PvO_2AvqJZHXFg",
+        "title": "Here Without You - 3 Doors Down (Boyce Avenue acoustic cover) on Spotify &amp; Apple",
+        "description": "Tickets + VIP Meet & Greets: http://smarturl.it/BATour Spotify: http://smarturl.it/HWYSpotify Apple: http://smarturl.it/HWYApple iTunes: http://smarturl.it/HWYiTunes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RxWEvV9zYj4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RxWEvV9zYj4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RxWEvV9zYj4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Boyce Avenue",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-08-21T10:34:40Z"
+      }
+    }
+  ]
+}

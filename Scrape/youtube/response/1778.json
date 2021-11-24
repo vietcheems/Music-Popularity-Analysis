@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "DQblTlMoO0UTC7YA8Jcerjbillg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "px3sOKGqcvFPhJUMitav8A6wbl8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mQ055hHdxbE"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-24T13:42:02Z",
+        "channelId": "UCi1mYtUWs0JRkPl6bNVRL_Q",
+        "title": "John Mayer - New Light (Premium Content!)",
+        "description": "New Light” available now: http://johnmayer.com (C) 2018 Snack Money.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mQ055hHdxbE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mQ055hHdxbE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mQ055hHdxbE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "John Mayer",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-24T13:42:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XVEHVrFaYzY2LR9epoG6AC3iQvo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2PH7dK6SLC8"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-10T17:00:01Z",
+        "channelId": "UC9KhB07HSEtWISy_LFWwHzw",
+        "title": "John Mayer - New Light (Official Audio)",
+        "description": "Spotify: http://radi.al/NewLightSpotify Apple: http://radi.al/NewLightApple Amazon: http://radi.al/NewLightAMZ John Mayer “New Light” I'm the boy in your other ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2PH7dK6SLC8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2PH7dK6SLC8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2PH7dK6SLC8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "johnmayerVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-10T17:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8L3u_9k5ryGZuRiDcVvkP3wPZM8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YbLoCiIwEcs"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-21T12:00:12Z",
+        "channelId": "UC9KhB07HSEtWISy_LFWwHzw",
+        "title": "John Mayer - New Light (Live on the Today Show)",
+        "description": "New Light” performed by John Mayer on The Today Show. John Mayer's album 'Sob Rock' out now: https://johnmayer.lnk.to/SobRock Listen to 'Sob Rock' ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YbLoCiIwEcs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YbLoCiIwEcs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YbLoCiIwEcs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "johnmayerVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-21T12:00:12Z"
+      }
+    }
+  ]
+}

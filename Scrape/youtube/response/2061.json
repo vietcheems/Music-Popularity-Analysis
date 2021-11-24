@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "KRt5dUPj5wbG0ffvCNLC0TqXuOk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6-AI9QAz1UZ83PLnc_f9_RnT3gA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z61GFxVD8K4"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-24T00:00:02Z",
+        "channelId": "UCIUKjjLfyf19Mr6Q_27GXlw",
+        "title": "YG - Big Bank ft. 2 Chainz, Big Sean, Nicki Minaj (Official Music Video)",
+        "description": "WATCH SWAG: https://yg.lnk.to/SwagVideo/youtube 'STAY DANGEROUS' OUT NOW: https://yg.lnk.to/StayDangerous FOLLOW YG: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z61GFxVD8K4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z61GFxVD8K4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z61GFxVD8K4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YGVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-24T00:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "um7w1iqXBlMbVqB6YbnweAnqyWI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "scLYjsvrUMk"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-25T04:00:03Z",
+        "channelId": "UCIUKjjLfyf19Mr6Q_27GXlw",
+        "title": "YG - Big Bank ft. 2 Chainz, Big Sean, Nicki Minaj (Official Audio)",
+        "description": "WATCH SWAG: https://yg.lnk.to/SwagVideo/youtube 'STAY DANGEROUS' OUT NOW: https://yg.lnk.to/StayDangerous FOLLOW YG: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/scLYjsvrUMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/scLYjsvrUMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/scLYjsvrUMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YGVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-25T04:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZxxJriQf9SWiKDyuJgJqEfHEQP4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "We94D1KTciU"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-25T15:01:58Z",
+        "channelId": "UCyY2ZtW4wei2jepYAEGtZ9g",
+        "title": "YG feat. 2 Chainz, Big Sean &amp; Nicki Minaj - Big Banks ( Lyrics )",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/We94D1KTciU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/We94D1KTciU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/We94D1KTciU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Carter Knwls",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-25T15:01:58Z"
+      }
+    }
+  ]
+}

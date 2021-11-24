@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "9lnG9UQAdp11NiBdIyhHUA1myJw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CH-Xb3JpE9V832Q5Mx52kkSqaQM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8RvAKRoIDqU"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-17T23:00:09Z",
+        "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+        "title": "Sam Smith - Diamonds",
+        "description": "'Love Goes: Live at Abbey Road Studios' out now: http://samsmith.world/LoveGoesLiveID\u200b Stay up to date with Sam Smith music, tours and exclusives here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8RvAKRoIDqU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8RvAKRoIDqU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8RvAKRoIDqU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SamSmithVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-17T23:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FalLEnwe5ks9S-l4QE04A2xyZ-I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4LBVuEd-z-w"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-28T19:24:48Z",
+        "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+        "title": "Sam Smith - Diamonds (Lyrics)",
+        "description": "Follow 7clouds on Spotify : http://bit.ly/7CLOUDS Sam Smith - Diamonds (Lyrics) ⏬ Download / Stream: http://samsmith.world/DiamondsID Turn on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4LBVuEd-z-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4LBVuEd-z-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4LBVuEd-z-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "7clouds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-28T19:24:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-HXklSgY3YukACFzaa94a_PIjug",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_B8fz2K074c"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-19T11:51:58Z",
+        "channelId": "UCt090JzV8c_KIrAyVMsaHlw",
+        "title": "Sam Smith - Diamonds (1 Hour Loop)",
+        "description": "SamSmith #Diamonds #1HourLoop Sam Smith - Diamonds (1 Hour Lyrics) Original video: https://www.youtube.com/watch?v=sjT16zEggJo Lyrics: [Intro] ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_B8fz2K074c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_B8fz2K074c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_B8fz2K074c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chang Chang",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-19T11:51:58Z"
+      }
+    }
+  ]
+}

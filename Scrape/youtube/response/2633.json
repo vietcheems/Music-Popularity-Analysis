@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "gLABjXt9mBEGamEyiXXj9vDZ2HI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rntjqWx6JdsnZVJHJ-vwitlMlQY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "72ABomY0MmA"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-15T10:00:04Z",
+        "channelId": "UC5NwXf8hOgZgInaYiOCZmUg",
+        "title": "Little Wing",
+        "description": "Provided to YouTube by Believe SAS Little Wing · The Jimi Hendrix Experience Axis: Bold As Love ℗ 2018 Revolver Records Released on: 2018-03-16 Author: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/72ABomY0MmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/72ABomY0MmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/72ABomY0MmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jimi Hendrix - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-15T10:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NyKc5Ukuc8RcQf6pTyV07QiToN8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BkEPBiMbgxs"
+      },
+      "snippet": {
+        "publishedAt": "2011-07-13T02:56:37Z",
+        "channelId": "UCoZLKiMvZkDs4xfakWqQ_og",
+        "title": "jimi hendrix little wing",
+        "description": "esto fue parte del sustento, la fuerza pasión, locura, dolor, amor...... de una gran parte de la generación perdida.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BkEPBiMbgxs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BkEPBiMbgxs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BkEPBiMbgxs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Harry Loman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-07-13T02:56:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ALnN6ji-YyTbfRP97a_kz1arcPY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iaE4s3m8UOQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-12T22:00:11Z",
+        "channelId": "UCdVcDUqwmYnqGhph4MWzdrA",
+        "title": "The Jimi Hendrix Experience - Little Wing [Legendado/Tradução]",
+        "description": "Olá! Tudo bem com você? A música de hoje é “Little Wing” do The Jimi Hendrix Experience e inclusa no disco lançado no dia 1 de dezembro de 1967, 'Axis: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iaE4s3m8UOQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iaE4s3m8UOQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iaE4s3m8UOQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ewerthon França",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-12T22:00:11Z"
+      }
+    }
+  ]
+}

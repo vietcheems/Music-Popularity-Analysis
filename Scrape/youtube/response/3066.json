@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Mqxctld4dhF1UESCOc_0mQs0J6A",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e2rO7ea5XY8XdvC3dV88Lf473CU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7fMttPxpcmg"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-06T19:01:25Z",
+        "channelId": "UCwfEOn0O1DWcyTgzVVu28ig",
+        "title": "Marília Mendonça - SUPERA (Todos Os Cantos)",
+        "description": "INSCREVA-SE NO MEU CANAL: http://bit.ly/MARILIAMENDONCAYOUTUBE PARA SHOWS (62) 3241-7163 / (62) 9 9186-2454 comercial@workshow.com.br ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7fMttPxpcmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7fMttPxpcmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7fMttPxpcmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Marília Mendonça",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-06T19:01:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VzpB78YUVOr-79bzGcVY9WgWidQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qJbf5k7UpCk"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-17T00:00:59Z",
+        "channelId": "UC_qbeZeSPwSz2v43cWtj_yw",
+        "title": "Marilia Mendonça - Supera AO VIVO FESTEJA (Legendado)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qJbf5k7UpCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qJbf5k7UpCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qJbf5k7UpCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Musicnow",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-17T00:00:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aoyy4LGHEe8-fPEB6oDAKjboo48",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLuX7Ud9JybsGFHZkw0zgquKoPCIOSgCdW"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-06T21:20:24Z",
+        "channelId": "UCBat1YZiTXrWjTobwgatyzQ",
+        "title": "Supera - Ao vivo - Marília Mendonça",
+        "description": "Supera - Ao vivo - Marília Mendonça ( Clipe Oficial) | Música nova da marilia mendonça | Lançamento da marilia mendonça | Com os grandes Hits do momento ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vrnQPxnmFD8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vrnQPxnmFD8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vrnQPxnmFD8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Best Play",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-06T21:20:24Z"
+      }
+    }
+  ]
+}

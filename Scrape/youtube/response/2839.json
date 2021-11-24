@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "1YCsscrqP64Pq3xoX1LTQtzpJk8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2eR0Nnlrscw61CZsCEryK0ewhmM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nGt_JGHYEO4"
+      },
+      "snippet": {
+        "publishedAt": "2014-06-30T04:01:00Z",
+        "channelId": "UC_NhWouoggS6q-nJYq7TxFw",
+        "title": "Rich Gang ft. Young Thug, Rich Homie Quan - Lifestyle (Official Video)",
+        "description": "Rich Gang feat. Young Thug & Rich Homie Quan - Lifestyle #RichGang #Lifestyle #Vevo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nGt_JGHYEO4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nGt_JGHYEO4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nGt_JGHYEO4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RichGangVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-06-30T04:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JDZ5iZ7ePuRRIeDs-7NwWCnwX6k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CQDRn3prej8"
+      },
+      "snippet": {
+        "publishedAt": "2014-07-07T15:12:59Z",
+        "channelId": "UCVoue0M8qlF23fk4udu25eQ",
+        "title": "Rich Gang - Lifestyle ft. Young Thug, Rich Homie Quan (Lyrics)",
+        "description": "LYRICS: [Intro: Both] London On Da Track bitch Rich Homie, Thugga Thugga in this mothafucka' Rich Homie, Thugga Thugga in this mothafucka' Rich Gang, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CQDRn3prej8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CQDRn3prej8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CQDRn3prej8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Thanos Karaiskos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-07-07T15:12:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iEZHNai7_P4N51avVCnqtxKXn-I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OGtlq-cvIS4"
+      },
+      "snippet": {
+        "publishedAt": "2013-05-05T15:55:06Z",
+        "channelId": "UC_NhWouoggS6q-nJYq7TxFw",
+        "title": "Rich Gang - Tapout (Explicit) [Official Video]",
+        "description": "Tapout 2013 ©: Cash Money Records, Inc #RichGang #Tapout #Vevo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OGtlq-cvIS4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OGtlq-cvIS4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OGtlq-cvIS4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RichGangVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-05-05T15:55:06Z"
+      }
+    }
+  ]
+}

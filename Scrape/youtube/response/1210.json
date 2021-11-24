@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "hffmvh3QMEwaDZP2_BBv5UFS8Qw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b1NbJwVywMMgQmyscs50BJRVkqE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qooQd8AA7_M"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-12T05:01:00Z",
+        "channelId": "UCk0wwaFCIkxwSfi6gpRqQUw",
+        "title": "Camila Cabello, Daddy Yankee - Havana (Remix - Audio)",
+        "description": "\"Havana (Remix)\" Available at Spotify: http://smarturl.it/HavanaRemix/spotify Apple Music: http://smarturl.it/HavanaRemix/applemusic iTunes: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qooQd8AA7_M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qooQd8AA7_M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qooQd8AA7_M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CamilaCabelloVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-12T05:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XgWwulgkIKjvnPgAblR8aU4uQIE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vyzi-7N58ww"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-08T14:26:42Z",
+        "channelId": "UCa10nxShhzNrCE1o2ZOPztg",
+        "title": "Camila Cabello - Havana ft. Young Thug (Lost Sky Remix)",
+        "description": "Camila Cabello - Havana ft. Young Thug (Lost Sky Remix) https://soundcloud.com/tuleremixes/havana-tule-remix Trap Nation's limited apparel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vyzi-7N58ww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vyzi-7N58ww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vyzi-7N58ww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Trap Nation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-08T14:26:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tK1YxnEZdcYmLMcxTRqnrgtuNZg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3ly_TBgIE0A"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-06T16:29:38Z",
+        "channelId": "UCfqEPO0M10KAtuXlc1NjuFg",
+        "title": "Camila Cabello - Havana ft. Young Thug (Mr.UNKWN Remix)",
+        "description": "CDeepMusic - Deep / Nu Disco / Chill House ☑️ Subscribe: http://bit.ly/subcdeep ☑️ CDeepMusic on Facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3ly_TBgIE0A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3ly_TBgIE0A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3ly_TBgIE0A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CDeep Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-06T16:29:38Z"
+      }
+    }
+  ]
+}

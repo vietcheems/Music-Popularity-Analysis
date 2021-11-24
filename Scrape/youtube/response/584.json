@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "HVGPOZW8yuuRli3hj-WmroIhgQ0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XzhEdwPdykmlmwvlsi-llhSApRg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "R4em3LKQCAQ"
+      },
+      "snippet": {
+        "publishedAt": "2012-08-01T12:00:14Z",
+        "channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+        "title": "Justin Bieber - As Long As You Love Me ft. Big Sean (Official Music Video)",
+        "description": "Watch the official music video for \"As Long As You Love Me\" performed by Justin Bieber featuring Big Sean Music video by Justin Bieber performing As Long As ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/R4em3LKQCAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/R4em3LKQCAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/R4em3LKQCAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JustinBieberVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-08-01T12:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VObywNiSX5627Bpaoed2t5QQuFA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y7yBhaxJBE8"
+      },
+      "snippet": {
+        "publishedAt": "2012-06-12T20:46:30Z",
+        "channelId": "UCHF3vaWEz5YUqmJTk6Du-dw",
+        "title": "As Long As You Love Me - Justin Bieber ft. Big Sean - Official Lyrics",
+        "description": "WANT TO GET FREE ITEMS/MONEY BACK ON ITEMS YOU BUY ON THE DAILY?? Join Ibotta!! https://ibotta.com/r/sgpgbab Check out my brothers gaming ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y7yBhaxJBE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y7yBhaxJBE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y7yBhaxJBE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nataly Rodriguez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-06-12T20:46:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jHuL8UvdJpo5mvwKI55I1fgjm44",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FYep50MqipM"
+      },
+      "snippet": {
+        "publishedAt": "2013-01-11T17:36:35Z",
+        "channelId": "UC4U-ziNM-3Szvk_ujcjUoQg",
+        "title": "As Long As You Love Me - Justin Bieber Live @ Victoria&#39;s Secret Fashion Show 2012)",
+        "description": "As Long As You Love Me - Justin Bieber @ Victoria's Secret (Fashion Show 2012)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FYep50MqipM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FYep50MqipM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FYep50MqipM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HDPopHitsLiveBrazil",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-01-11T17:36:35Z"
+      }
+    }
+  ]
+}

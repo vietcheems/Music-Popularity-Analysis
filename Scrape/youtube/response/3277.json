@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "x4PC2gAA4j-JgFcaxEdcyAtel-M",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JVD35m2R3If6fTTw495OlB0SXgs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k2C5TjS2sh4"
+      },
+      "snippet": {
+        "publishedAt": "2009-03-04T14:16:13Z",
+        "channelId": "UCjVf2FirkZsEW8LN6nZcnog",
+        "title": "Roxette - It Must Have Been Love (Official Music Video)",
+        "description": "Official music video for Roxette - \"It Must Have Been Love\" from the movie 'Pretty Woman' (1990)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k2C5TjS2sh4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k2C5TjS2sh4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k2C5TjS2sh4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Roxette",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-03-04T14:16:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d_wPkX0zEDJ3RJUBLNqaTdit5Os",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p0MdP8KeAII"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-05T15:00:14Z",
+        "channelId": "UCK6cr8UqdrKZ4213X-FOStQ",
+        "title": "Pretty Woman • It Must Have Been Love • Roxette",
+        "description": "Soundtrack from the 1990 Garry Marshall film \"Pretty Woman\" with Richard Gere & Julia Roberts.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p0MdP8KeAII/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p0MdP8KeAII/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p0MdP8KeAII/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HD Film Tributes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-05T15:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c93qmWedAxMOfJSfzS81GZLL0nA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WA4MKbZBoA8"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-11T14:00:23Z",
+        "channelId": "UC_c-UFFAaY3gpwhkqubDOiw",
+        "title": "It Must Have Been Love -  Pretty Woman (Goodbye Scene)",
+        "description": "For your movie collection, you can buy an HD (Bluray™or DVD™) copy on Amazon: DVD™   https://amzn.to/2v1Sri3 Blu-ray™   https://amzn.to/2Ob0eT4 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WA4MKbZBoA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WA4MKbZBoA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WA4MKbZBoA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "skyMTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-11T14:00:23Z"
+      }
+    }
+  ]
+}

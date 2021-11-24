@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "t5ASGzN8v_wGoXAQLWA6ZUsWJok",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xPNBHBk0pUOprJl1bCb5MM2_B6c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_zBwRDEFMRY"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-22T14:05:20Z",
+        "channelId": "UCiNz8SJChrsACj3MKj_0QEA",
+        "title": "Blondie - &quot;One Way Or Another&quot; (Audio)",
+        "description": "BLONDIE4EVER www.blondie.net www.facebook.com/blondie www.twitter.com/blondieofficial Pre-Order the albums now: iTunes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_zBwRDEFMRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_zBwRDEFMRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_zBwRDEFMRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BlondieMusicOfficial",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-22T14:05:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H9d-6ImCEYSws1_K7Fut8R33KG8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YapV4YaTgEc"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-08T15:52:00Z",
+        "channelId": "UCiyqpG37FD1BgmP-y33Et6Q",
+        "title": "Blondie - One Way Or Another (Cruella OST)",
+        "description": "BlondieMusicOfficial ♫ https://www.youtube.com/channel/UCiNz8SJChrsACj3MKj_0QEA Film - Cruella (2021) Фильм - Круэлла (2021) \"Copyright Disclaimer.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YapV4YaTgEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YapV4YaTgEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YapV4YaTgEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hardigun",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-08T15:52:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1b7DJeVEtNv_P4G5HnoeQXBpSGY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KXewIR7Y7cc"
+      },
+      "snippet": {
+        "publishedAt": "2008-01-03T13:25:32Z",
+        "channelId": "UCVCPS4zCqB-737LphEBldyw",
+        "title": "Blondie - One Way Or Another",
+        "description": "One way or another (1979) from the album parallel lines.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KXewIR7Y7cc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KXewIR7Y7cc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KXewIR7Y7cc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Poedie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-01-03T13:25:32Z"
+      }
+    }
+  ]
+}

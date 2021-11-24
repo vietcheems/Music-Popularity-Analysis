@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Irt7-v5H2ueReXzKU_I7ahhUMbU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DI-sWpykUobhhqWElApHKF5krdc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "09R8_2nJtjg"
+      },
+      "snippet": {
+        "publishedAt": "2015-01-14T15:00:11Z",
+        "channelId": "UCN1hnUccO4FD5WfM7ithXaw",
+        "title": "Maroon 5 - Sugar (Official Music Video)",
+        "description": "Buy Sugar on iTunes: http://smarturl.it/M5V Sign up for updates: http://smarturl.it/Maroon5.News Catch Maroon 5 on tour all year long at www.maroon5.com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/09R8_2nJtjg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/09R8_2nJtjg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/09R8_2nJtjg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Maroon5VEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-01-14T15:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fmVgQHyv1SOPNF5cmYBigkgN_IQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N1BcpzPGlYQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-10T18:04:25Z",
+        "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+        "title": "Maroon 5 - Sugar (Lyrics)",
+        "description": "Follow our Spotify playlists: http://bit.ly/7cloudsSpotify Maroon 5 - Sugar (Lyrics) ⏬ Download / Stream: http://smarturl.it/M5V Turn on notifications to stay ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N1BcpzPGlYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N1BcpzPGlYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N1BcpzPGlYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "7clouds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-10T18:04:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DjX6Y2A5SsgSlLBERSXQHD3rcto",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ek-ZpYPU4JA"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-26T13:19:18Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "Sugar - Maroon 5 (Lyrics)",
+        "description": "Learn how to sing in only 30 days with these easy, fun video lessons! https://www.30daysinger.com/a/8328/BFzaEvmu -- Sugar - Maroon 5 (Lyrics) -- Buy Sugar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ek-ZpYPU4JA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ek-ZpYPU4JA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ek-ZpYPU4JA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-26T13:19:18Z"
+      }
+    }
+  ]
+}

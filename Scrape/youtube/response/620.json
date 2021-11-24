@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Q2VGw2qUenx1v0xY4aZpQV6GaKs",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aJyClv-bCHMs89XmORbbqqR7BQM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GYv92AOLkgY"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-22T22:17:13Z",
+        "channelId": "UCZW5lIUz93q_aZIkJPAC0IQ",
+        "title": "RICH BRIAN x ZHU. x SKRILLEX x THEY.  - Working For It (Official Audio)",
+        "description": "Dreamed up by 88rising ZHU https://facebook.com/zhu https://twitter.com/ZHUmusic https://instagram.com/zhu THEY https://twitter.com/unofficialTHEY ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GYv92AOLkgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GYv92AOLkgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GYv92AOLkgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "88rising",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-22T22:17:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pD51srom8d-G4LQhjH_FAwjIMR4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ajvpZgQyBek"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-19T17:28:25Z",
+        "channelId": "UCuJDm2rcsA_SgqYHz4X8i9w",
+        "title": "ZHU - Working for It (feat. Skrillex)",
+        "description": "ZHU - IN THE MORNING Download it: http://po.st/ZhuInTheMorning Listen it: http://po.st/ZhuITMstream . LC33186.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ajvpZgQyBek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ajvpZgQyBek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ajvpZgQyBek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Because Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-19T17:28:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qIruB7y753oek7nfCUw0AoT6oBY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GfCPFk8lyhM"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-22T12:30:00Z",
+        "channelId": "UC3ifTl5zKiCAhHIBQYcaTeg",
+        "title": "ZHU x Skrillex x THEY. - Working For It 006 [Premiere]",
+        "description": "Proximity - Your favorite music you haven't heard yet. » Facebook: http://bit.ly/FBProximity » Twitter: http://bit.ly/ProximityTwitter So honored to be able to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GfCPFk8lyhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GfCPFk8lyhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GfCPFk8lyhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Proximity",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-22T12:30:00Z"
+      }
+    }
+  ]
+}

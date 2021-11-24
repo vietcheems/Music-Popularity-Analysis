@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "QtBiNCAvED4LE9G2YIiTO_a1bUo",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xa1Mvb7fgaZIQcy1p8VHHoHC51M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uZs1AHQBz24"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-27T21:42:10Z",
+        "channelId": "UCvhQPdeTHzIRneScV8MIocg",
+        "title": "Clean Bandit - I Miss You (feat. Julia Michaels) [Official Video]",
+        "description": "Download or stream our new single Tick Tock with Mabel ft. 24kGoldn: https://cleanbandit.lnk.to/TickTock Click here to subscribe: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uZs1AHQBz24/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uZs1AHQBz24/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uZs1AHQBz24/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clean Bandit",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-27T21:42:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YPU8zXmEEjPrM9YSO_cLKuylr7o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9VKIm0sWW4U"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-27T13:37:27Z",
+        "channelId": "UCi0LydWaEUy3Vx8flL29ebQ",
+        "title": "Clean Bandit - I Miss You (Lyrics) ft. Julia Michaels",
+        "description": "Download Clean Bandit - I Miss You (Lyrics) ft. Julia Michaels: http://atlanti.cr/imissyou » Follow our Spotify: https://open.spotify.com/user/syrebralvibes » Support ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9VKIm0sWW4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9VKIm0sWW4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9VKIm0sWW4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SyrebralVibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-27T13:37:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sid6DzHh-hWNhxhK9Qn3t2_Baeg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SFdO-19Xdho"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-14T16:23:31Z",
+        "channelId": "UC-FQUIVQ-bZiefzBiQAa8Fw",
+        "title": "Clean Bandit - I Miss You feat. Julia Michaels in the Radio 1 Live Lounge",
+        "description": "Clean Bandit perform their single I Miss You feat. Julia Michaels in the Radio 1 Live Lounge Check out more here - http://www.bbc.co.uk/programmes/b039rx03.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SFdO-19Xdho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SFdO-19Xdho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SFdO-19Xdho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBC Radio 1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-14T16:23:31Z"
+      }
+    }
+  ]
+}

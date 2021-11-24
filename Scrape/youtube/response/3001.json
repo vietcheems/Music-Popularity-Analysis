@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "WLkld8mq_pbBctyZYbkRJk_Q52U",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NXKAr_pfVqNf5brCy9_Qw0SkVBI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ygTZZpVkmKg"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-19T05:00:26Z",
+        "channelId": "UC0WP5P-ufpRfjbNrmOWwLBQ",
+        "title": "The Weeknd - After Hours (Audio)",
+        "description": "Official audio for The Weeknd \"After Hours\" - available everywhere now: http://theweeknd.co/afterhours-single ▻Subscribe to The Weeknd on YouTube: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ygTZZpVkmKg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ygTZZpVkmKg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ygTZZpVkmKg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Weeknd",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-19T05:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TiAGoI38_k2v5UkoZpeXxm0rAEk",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLPRWtKgY2MOu8dPE7sMxQZ07PS1mLqid9"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-20T04:01:12Z",
+        "channelId": "UC2SfCLE_jQgPwXQCWqwVIEw",
+        "title": "The Weeknd - After Hours (ALBUM)",
+        "description": "BUY/STREAM: http://theweeknd.co/afterhoursVD New album from The Weeknd \"After Hours\" available now everywhere!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JH398xAYpZA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JH398xAYpZA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JH398xAYpZA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DatPiff",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-20T04:01:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SRL9dmZM4-_u23SVVaSyRiVkiJs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JPrV_mQSSrg"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-19T18:30:00Z",
+        "channelId": "UCLzgqAfDUXXvQXYre8VNgdQ",
+        "title": "The Weeknd - After Hours (Lyrics)",
+        "description": "Welcome to Paradise Your Home For The Best Urban Music With Lyrics! The Weeknd - After Hours Lyrics / Lyric Video brought to you by Urban Paradise ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JPrV_mQSSrg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JPrV_mQSSrg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JPrV_mQSSrg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Urban Paradise",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-19T18:30:00Z"
+      }
+    }
+  ]
+}

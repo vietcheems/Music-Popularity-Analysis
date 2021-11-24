@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "rn9WZKoDx0mi5BOLZNTFiiYA0Dw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g7LyG7cP8o9kQwAJ2Ge-OZvZgZk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UUPkABMOj-Q"
+      },
+      "snippet": {
+        "publishedAt": "2012-01-05T00:13:33Z",
+        "channelId": "UCq1Xs9MvZnf7GvxtDF0MsVA",
+        "title": "02 - I Want To Break Free (Single Remix) - Queen Remastered 2011",
+        "description": "Written by John Deacon.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UUPkABMOj-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UUPkABMOj-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UUPkABMOj-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GoldeenRock1992",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-01-05T00:13:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WaJixQ0JINDpBXrtaaOUEDpMuXY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mLCvNXodcK8"
+      },
+      "snippet": {
+        "publishedAt": "2011-09-09T17:08:55Z",
+        "channelId": "UCuOIzA6xuOgcpZgGkEzXHLA",
+        "title": "02 - I Want To Break Free (Single Remix) - Queen Remastered 2011",
+        "description": "Bonus Track (2011)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mLCvNXodcK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mLCvNXodcK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mLCvNXodcK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GoldeenRock",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-09-09T17:08:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OQVU5qTYY2f4xqVLm0vlcwPvAPw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G8QGX4tRueM"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-17T22:32:42Z",
+        "channelId": "UCBmZEE3iTCtqSzNncW7oxMA",
+        "title": "Queen - I Want To Break Free (Single Remix Restored)",
+        "description": "From what I'm aware of, every CD release of the single version of this Queen classic are \"incomplete\" versions. The most common UK one has the full intro but ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G8QGX4tRueM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G8QGX4tRueM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G8QGX4tRueM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Aaron's External Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-17T22:32:42Z"
+      }
+    }
+  ]
+}

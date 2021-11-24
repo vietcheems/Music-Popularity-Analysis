@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "K0l7UEq9KR21pZ4xZIrCy1q82uM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lKoLI7DobGSIDt8e8JgAotnFLxg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kcRWyLMVrFM"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-20T14:05:01Z",
+        "channelId": "UCxMAbVFmxKUVGAll0WVGpFw",
+        "title": "Cardi B - Ring (feat. Kehlani) [Official Video]",
+        "description": "Cardi B - Ring (feat. Kehlani) [from Cardi B's Debut Album Invasion of Privacy] Stream/Download: https://CardiB.lnk.to/IOPAY Subscribe for more official content ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kcRWyLMVrFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kcRWyLMVrFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kcRWyLMVrFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cardi B",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-20T14:05:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Fyqjjqu-4NNFwrZ4au7DPQ545j8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KMPhg7hMgZw"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-06T04:00:04Z",
+        "channelId": "UCxMAbVFmxKUVGAll0WVGpFw",
+        "title": "Cardi B - Ring feat. Kehlani [Official Audio]",
+        "description": "Cardi B - Ring feat. Kehlani from Cardi B's Debut Album Invasion of Privacy available now! Stream/Download: https://CardiB.lnk.to/IOPAY INVASION OF ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KMPhg7hMgZw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KMPhg7hMgZw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KMPhg7hMgZw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cardi B",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-06T04:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y4TMXLxIA9GlRxlBTQHRZfWu1h0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u6RVOJqih0U"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-06T04:54:53Z",
+        "channelId": "UC8_2a1dZvTAbTTb6zNQSRXg",
+        "title": "Cardi B - Ring feat. Kehlani (Lyrics)",
+        "description": "CardiB #InvasionOfPrivacy #Ring #Kehlani.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u6RVOJqih0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u6RVOJqih0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u6RVOJqih0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "All Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-06T04:54:53Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "uCY4BvANcTzG_9qemsr3BnP_O28",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "amGxxcFlymIpW7-DNCpszHd7xHA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VgKjHh1Y-1Y"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-13T17:00:02Z",
+        "channelId": "UCKI6DNZu8-X5VWI0FEEYCTA",
+        "title": "Bazzi - Myself [Official Music Video]",
+        "description": "Download / Stream \"I Like That\": https://bazzi.lnk.to/ILikeThatPR Buy / Stream COSMIC: https://Bazzi.lnk.to/COSMICID Director: Daniel Henry Lyrics: One, two, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VgKjHh1Y-1Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VgKjHh1Y-1Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VgKjHh1Y-1Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bazzi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-13T17:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uXJLFZ-d-pZIu5qMIrag9OcPYYA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ytqVrVeCFx0"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-14T16:14:10Z",
+        "channelId": "UCn7Z0uhzGS1KjnO-sWml_dw",
+        "title": "Bazzi - Myself (Lyrics)",
+        "description": "Bazzi - Myself (Lyrics) ✖ Follow me on Instagram for awesome pictures: https://instagram.com/unique_vibes_official/ ✖ Follow my Spotify playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ytqVrVeCFx0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ytqVrVeCFx0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ytqVrVeCFx0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Unique Vibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-14T16:14:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "C3ZhXOC5f0tG8-45BmhGKSQpWqI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SrIaegQoTNo"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-04T12:57:28Z",
+        "channelId": "UCWine7bAkedHoaLNbrrpd-g",
+        "title": "Bazzi - Myself 1 Hour",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SrIaegQoTNo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SrIaegQoTNo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SrIaegQoTNo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hour Long Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-04T12:57:28Z"
+      }
+    }
+  ]
+}

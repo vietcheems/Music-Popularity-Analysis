@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "bPJmqdG7bQxJkUKkpnKdEwjGUi8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BONw5nNC6Wk4Ri8XQDyB8ThlFSY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0RYTD8uDqWU"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-15T18:58:58Z",
+        "channelId": "UC8OjoQHmGd7fDWluxKlQGdg",
+        "title": "Danny Ocean - Swing (Official Music Video)",
+        "description": "Danny Ocean – \"Swing\" Get It Now: https://DannyOcean.lnk.to/Swing Production Company: Little Ugly (www.littleugly.com) Director: Clara Aranovich Producer: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0RYTD8uDqWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0RYTD8uDqWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0RYTD8uDqWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Danny Ocean",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-15T18:58:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ssTDs-HWeVp0q-KvuHy4u1OPmgs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2fwFfLU4iCo"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-23T23:34:47Z",
+        "channelId": "UCK4MUekATKkI0Octo1FtbVA",
+        "title": "Danny Ocean - Swing (Letra / Lyrics)",
+        "description": "Bienvenido al paraiso // Welcome to Paradise Tu hogar para la mejor música latina with Letra / Lyrics! Your Home For The Best Latin Music with Letra / Lyrics!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2fwFfLU4iCo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2fwFfLU4iCo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2fwFfLU4iCo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Latin Paradise",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-23T23:34:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "64_UeNt1MW8ZziHFNxMAn9Hdb8o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ke_jq_A-2-0"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-15T17:00:14Z",
+        "channelId": "UCKTWUJqT3NSZ50I49ExjWZQ",
+        "title": "Danny Ocean - Swing (Official Lyric Video)",
+        "description": "Official Lyric Video for Danny Ocean - Swing Available on all digital platforms: https://DannyOcean.lnk.to/Swing SUBSCRIBE HERE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ke_jq_A-2-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ke_jq_A-2-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ke_jq_A-2-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Warner Música",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-15T17:00:14Z"
+      }
+    }
+  ]
+}

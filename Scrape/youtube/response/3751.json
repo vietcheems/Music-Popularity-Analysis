@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "SKdHjUVXFaLlL-UPYfsQUS56UPg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 15481,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-bb79JHKr3-XnM8HZyafQt0pXZo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VzzeehWpUoI"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-05T17:37:57Z",
+        "channelId": "UCUreQhqYQRwCSC3MSmwJ3jA",
+        "title": "Drake - Madiba Riddim",
+        "description": "Music Video By Drake Performing Madiba Riddim.℗ 2017 Young Money Entertainment/Cash Money Records.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VzzeehWpUoI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VzzeehWpUoI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VzzeehWpUoI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sophia Luciani",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-05T17:37:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UIhK9xwtcbB2VZaezaRV35TI9i0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qE_haBBV_h8"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-15T23:17:09Z",
+        "channelId": "UCj_OVm50k-4-9GkjyvMTcRg",
+        "title": "Drake - Madiba Riddim (Slowed To Perfection) 432hz",
+        "description": "https://www.patreon.com/JuicyGVIP There you have access to the Entire High Quality (Slowed To Perfection) Collection from the channel Addable to itunes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qE_haBBV_h8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qE_haBBV_h8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qE_haBBV_h8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JuicyG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-15T23:17:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NKLEtEv0etSR89l8h-iM5E0kBTE",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLsHcErHZWqJmJTYzHbird1AJsw3HMO83J"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-28T01:20:32Z",
+        "channelId": "UCUPCiWgP_orJZeFL8AAddhg",
+        "title": "Drake - More Life",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hernan Portilla",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-28T01:20:32Z"
+      }
+    }
+  ]
+}

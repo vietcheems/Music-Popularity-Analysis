@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "DAaiiShaFd_ziXvXxLBDYqo97V0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7lfd6Wz1H7cPA34B6K5BxPMxzQU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K1b8AhIsSYQ"
+      },
+      "snippet": {
+        "publishedAt": "2013-02-06T19:20:08Z",
+        "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
+        "title": "Starship - We Built This City (Official Music Video)",
+        "description": "You're watching the official music video for Starship - \"We Built This City\" from the 1985 album 'Knee Deep in the Hoopla'. Subscribe to the Rhino Channel!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K1b8AhIsSYQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K1b8AhIsSYQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K1b8AhIsSYQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RHINO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-02-06T19:20:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NYJfxBZOSE8ogsg-nqHwTlZkGXQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KfcAgnygeBI"
+      },
+      "snippet": {
+        "publishedAt": "2012-07-09T15:59:47Z",
+        "channelId": "UCexN2zQdlSJ_EGvhOqJMZnQ",
+        "title": "Starship - We built this city (with lyrics)",
+        "description": "We built this city by Starship, with lyrics, original version, full song, good quality ...enjoy :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KfcAgnygeBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KfcAgnygeBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KfcAgnygeBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "pinkteddy101",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-07-09T15:59:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1o-rk8oI1O_lKkiJtN11u8sFOSM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Diroq2sYMOw"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-31T09:00:03Z",
+        "channelId": "UCkS3e6KC54moQI7OBp5dV9g",
+        "title": "Starship - We Built This City (Na, sowas!, 11.01.1986)",
+        "description": "Starship performing \"We Built This City\" on German TV show \"Na, sowas!\" in January 1986. To stay up to date with all new releases on the channel subscribe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Diroq2sYMOw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Diroq2sYMOw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Diroq2sYMOw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Starship",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-31T09:00:03Z"
+      }
+    }
+  ]
+}

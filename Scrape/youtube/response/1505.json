@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "DqhATKlJVjTq7nU6n1I3i0Wpmo4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cueXcIrleKKCA4G-_77gmYmlrQA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kHLHSlExFis"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-13T16:00:04Z",
+        "channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+        "title": "Ariana Grande - God is a woman (Official Video)",
+        "description": "Video description God is a woman (Official Video) Song available here: https://arianagrande.lnk.to/GodIsAWom... Connect with Ariana: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kHLHSlExFis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kHLHSlExFis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kHLHSlExFis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArianaGrandeVevo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-13T16:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RAlMasVXGegoleFtwl0tVIy5svA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RQTgJRwMdKQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-13T03:59:59Z",
+        "channelId": "UC9CoOnJkIBMdeijd9qYoT_g",
+        "title": "Ariana Grande - God is a woman (Lyric Video)",
+        "description": "sweetener out now http://arianagrande.lnk.to/sweetener Director: Chris Shelley @Create Editor: Remington Franklin Producer: Light Switch Digital.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RQTgJRwMdKQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RQTgJRwMdKQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RQTgJRwMdKQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ariana Grande",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-13T03:59:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JW_Mawzrj9NHKeeE8tme6Y0GfUc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sKm4YqadSGw"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-24T19:18:09Z",
+        "channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+        "title": "Ariana Grande - God is a woman (Live on The MTV VMAs/2018)",
+        "description": "God is a woman (Live On The MTV VMAs/2018) “God is a woman” Featured On The New Album Sweetener Available Now: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sKm4YqadSGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sKm4YqadSGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sKm4YqadSGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArianaGrandeVevo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-24T19:18:09Z"
+      }
+    }
+  ]
+}

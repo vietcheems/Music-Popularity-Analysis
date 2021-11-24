@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "QrwOGdCPcrrl-z4QJLXlowQkwho",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9e0RCecOMtZ4M84K-Kcig5Wa0So",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rEMsjeq43_U"
+      },
+      "snippet": {
+        "publishedAt": "2014-01-17T16:41:01Z",
+        "channelId": "UCLi6DTUnJdDOUkWu0szfI0g",
+        "title": "ScHoolboy Q - Man Of The Year",
+        "description": "Download ScHoolboy Q's \"Man of the Year\" on iTunes: http://smarturl.it/ManOfTheYearQ Get ScHoolboy Q's \"Oxymoron\": http://smarturl.it/OxymoronQ Directors: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rEMsjeq43_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rEMsjeq43_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rEMsjeq43_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ScHoolBoyQVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-01-17T16:41:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zzwUydW7y-kw60aoYFBrMLAgDLE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2lzD5NTs3l0"
+      },
+      "snippet": {
+        "publishedAt": "2013-11-22T02:33:12Z",
+        "channelId": "UCBY8aDToI-OBq2fe7NbwoqA",
+        "title": "ScHoolboy Q - Man Of THe Year",
+        "description": "\"Man Of THe Year\" ScHoolboy Q Produced by Nez & Rio MixedByAli #OXYmoron coming soon.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2lzD5NTs3l0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2lzD5NTs3l0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2lzD5NTs3l0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Top Dawg Entertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-11-22T02:33:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-DZ3JYUv13LX1oA3hzyOBDOORQI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KNFuUk-k2y8"
+      },
+      "snippet": {
+        "publishedAt": "2014-01-24T02:12:47Z",
+        "channelId": "UCUpMtuytmFmoKz8hoJuDe-w",
+        "title": "Schoolboy Q - Man of the Year",
+        "description": "I do not own this song.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KNFuUk-k2y8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KNFuUk-k2y8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KNFuUk-k2y8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheRealDinnerDictator",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-01-24T02:12:47Z"
+      }
+    }
+  ]
+}

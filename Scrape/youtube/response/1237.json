@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "nNd4utSiTP75ExUoGPwen4M7PNk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 398054,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZMpCLQQl2s7AAa4ZVN-ECDrdpqk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7qFF2v8VsaA"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-22T03:03:30Z",
+        "channelId": "UClVrJwcIy7saPcGc1nct80A",
+        "title": "Panic! At The Disco: Emperor&#39;s New Clothes [OFFICIAL VIDEO]",
+        "description": "Panic! At The Disco's official video for 'Emperor's New Clothes'from the album Death Of A Bachelor - available now on DCD2 / Fueled By Ramen.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7qFF2v8VsaA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7qFF2v8VsaA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7qFF2v8VsaA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fueled By Ramen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-22T03:03:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7SwBjUdMethjrSi95_Y2UmtJLss",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AnUTAG15_4Q"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-15T05:01:11Z",
+        "channelId": "UColJTBTSGqaaZr5NOk5r3Pg",
+        "title": "Panic! At The Disco - Emperor&#39;s New Clothes (Live) [from the Death Of A Bachelor Tour]",
+        "description": "The official live performance of \"Emperor's New Clothes\" by Panic! At The Disco from the live album, 'All My Friends We're Glorious: Death Of A Bachelor Tour' ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AnUTAG15_4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AnUTAG15_4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AnUTAG15_4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Panic! At The Disco",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-15T05:01:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9i_bmjU4FH5gOJaprr8gjTwjYmY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "piKG6j4E65E"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-16T01:01:52Z",
+        "channelId": "UCSHmyzjXx_Yb2_lhuzxA0nQ",
+        "title": "Emperors New Clothes- Panic! At The Disco",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/piKG6j4E65E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/piKG6j4E65E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/piKG6j4E65E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hunter Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-16T01:01:52Z"
+      }
+    }
+  ]
+}

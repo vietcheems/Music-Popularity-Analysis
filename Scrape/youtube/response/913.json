@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ABAAo5ZNfzGIhnw0-SROcZFEOz8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GyVOmHZzSnG80CqliluhiwF4wUo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Kp7eSUU9oy8"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-17T19:35:00Z",
+        "channelId": "UCjYO25ZVJT523TD1iYHzcbw",
+        "title": "Childish Gambino - Redbone (Official Audio)",
+        "description": "From the new album \"Awaken, My Love!\" available now: http://smarturl.it/awakenmylove http://childishgambino.com http://facebook.com/donaldglover ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Kp7eSUU9oy8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Kp7eSUU9oy8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Kp7eSUU9oy8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChildishGambinoVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-17T19:35:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l98VlOa3qe9295tYTk698Z-4-AM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ezbsbkqoRrs"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-15T13:00:30Z",
+        "channelId": "UCjYO25ZVJT523TD1iYHzcbw",
+        "title": "Childish Gambino - Redbone (Live From The Tonight Show Starring Jimmy Fallon)",
+        "description": "From the new album \"Awaken, My Love!\" available now: http://smarturl.it/awakenmylove http://childishgambino.com http://facebook.com/donaldglover ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ezbsbkqoRrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ezbsbkqoRrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ezbsbkqoRrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChildishGambinoVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-15T13:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dOuEsQlNm1glGHCfEk-dbgn4Gac",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "87xa7w2QymA"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-04T09:06:30Z",
+        "channelId": "UCO8mISY_yUSZYgOaFNF8nFg",
+        "title": "Redbone Childish Gambino (Lyrics)",
+        "description": "DISCLAIMER: I do not own any of the material I used on not own any of the material used in this video. All material belongs to their respective owners - Childish ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/87xa7w2QymA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/87xa7w2QymA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/87xa7w2QymA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JustALyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-04T09:06:30Z"
+      }
+    }
+  ]
+}

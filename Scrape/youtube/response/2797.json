@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "pKn8SADhCkvwqk5kGMIkXD4kA-w",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ARF41CNUhBBueivCXgjyxmUQ4gc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ji56FgA0j8Y"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-19T15:54:25Z",
+        "channelId": "UCd-6l7s-b_wYW5sW4zXFA8g",
+        "title": "The Weeknd ~ True Colors (Lyric video)",
+        "description": "This song is from The Weeknd, I hope you enjoy the lyrics. I do not own the rights of this music Artist - The Weeknd Album - Starboy Original song video ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ji56FgA0j8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ji56FgA0j8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ji56FgA0j8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Michel Belmont",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-19T15:54:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SB0OKQ3CSNqFOIEd9ODbfpUhlUU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TJYHefa8g2w"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-17T18:22:51Z",
+        "channelId": "UCSjkxOWRC6xkZXFYW5xdflA",
+        "title": "The Weeknd - True Colors",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TJYHefa8g2w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TJYHefa8g2w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TJYHefa8g2w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "rben",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-17T18:22:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r8K8oRvT5m77QWQB6NTXi4YrQag",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xccz_4yDz_0"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-02T18:00:39Z",
+        "channelId": "UCT6oeonJr3TfeRtEBe3_xVw",
+        "title": "The Weeknd True Colors Live (The Forum)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xccz_4yDz_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xccz_4yDz_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xccz_4yDz_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "German Velasquez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-02T18:00:39Z"
+      }
+    }
+  ]
+}

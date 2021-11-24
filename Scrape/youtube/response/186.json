@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "1g3HRfHyy23UaS_kSGHssX4qzYY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "si7V495d0XIbP-kzALRvsG4IQ7c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e-fA-gBCkj0"
+      },
+      "snippet": {
+        "publishedAt": "2012-10-15T19:03:03Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Locked Out Of Heaven (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"Locked Out Of Heaven\" from the album 'Unorthodox Jukebox'. Directed by Cameron Duddy & Bruno Mars Subscribe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e-fA-gBCkj0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e-fA-gBCkj0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e-fA-gBCkj0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-10-15T19:03:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "33D4oHbytMsmRfO0JQDKZBm9w-I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Odq6cZulKA8"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-02T13:19:09Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "Locked Out Of Heaven - Bruno Mars (Lyrics)",
+        "description": "Learn how to sing in only 30 days with these easy, fun video lessons! https://www.30daysinger.com/a/8328/BFzaEvmu -- Locked Out Of Heaven - Bruno Mars ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Odq6cZulKA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Odq6cZulKA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Odq6cZulKA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-02T13:19:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tx-GZtcW3BgeXNtWFQ5ppqFx2Gw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "13oXf68zRcM"
+      },
+      "snippet": {
+        "publishedAt": "2012-12-25T18:38:45Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Locked Out Of Heaven (from La Maroquinerie in Paris) (Official Live Performance)",
+        "description": "The official live performance of Bruno Mars' \"Locked Out Of Heaven\" from the album 'Unorthodox Jukebox' at La Maroquinerie in Paris, November 2012.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/13oXf68zRcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/13oXf68zRcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/13oXf68zRcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-12-25T18:38:45Z"
+      }
+    }
+  ]
+}

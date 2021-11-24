@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ETqN8NwFJTkSNjoBz63w6Xql5Ww",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pHcv09N4L2KatGgjRET8_tObEhs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8LhCd1W2V0Q"
+      },
+      "snippet": {
+        "publishedAt": "2011-05-06T18:25:43Z",
+        "channelId": "UCXO6oKBnoan5geauxYgcm3g",
+        "title": "Lenny Kravitz - Are You Gonna Go My Way (Official Music Video)",
+        "description": "REMASTERED IN HD! Official video of Lenny Kravitz performing “Are You Gonna Go My Way” from the album 'Are You Gonna Go My Way'. Buy it here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8LhCd1W2V0Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8LhCd1W2V0Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8LhCd1W2V0Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LennyKravitzVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-05-06T18:25:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pcJPOXuM6FVYDl65yYwXKFePJhk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mEVZi_xd__I"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-09T14:49:39Z",
+        "channelId": "UCLW6cLSNjsiGfJ6_hyle7CA",
+        "title": "Lenny Kravitz-Are You Gonna Go My Way",
+        "description": "Lenny Kravitz greatest hits.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mEVZi_xd__I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mEVZi_xd__I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mEVZi_xd__I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Luxa lux",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-03-09T14:49:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ILmzUCRkKnG4MjZYO_8jlBZHuzk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lf_bCwaKvsU"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-10T07:16:09Z",
+        "channelId": "UCZtDUmC3W7j25XHZWFT_XgQ",
+        "title": "Lenny Kravitz - Are You Gonna Go My Way (Radio 2 Live in Hyde Park)",
+        "description": "Lenny Kravitz perform Are You Gonna Go My Way at Radio 2 Live in Hyde Park. Guidance: Contains Flashing Images. Visit the Radio 2 Live in Hyde Park ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lf_bCwaKvsU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lf_bCwaKvsU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lf_bCwaKvsU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBC Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-10T07:16:09Z"
+      }
+    }
+  ]
+}

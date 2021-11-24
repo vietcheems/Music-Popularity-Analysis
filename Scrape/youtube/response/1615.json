@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "FStq7XY88RqmipkLiTA-kPP9pUQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vj4F-iVYhkoOMvKr19q8Pz0WXhE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "desJKYvdq9A"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-25T19:33:51Z",
+        "channelId": "UCBG23A6QEgi8lzxbWDrNquQ",
+        "title": "Good Charlotte - The Anthem (Video)",
+        "description": "Good Charlotte's official music video for 'The Anthem'. Click to listen to Good Charlotte on Spotify: http://smarturl.it/GoodCharlotteSpot?IQid=GoodCta As ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/desJKYvdq9A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/desJKYvdq9A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/desJKYvdq9A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GoodCharlotteVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-25T19:33:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DrXVVWBBl2RtB3XOWSLhSYyKrok",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XWWoIdXQdAI"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-19T21:44:51Z",
+        "channelId": "UC8q62j2Wl4Ks_gp0IEwqKHw",
+        "title": "Good Charlotte- The Anthem [Lyrics]",
+        "description": "Comment, Rate, Subscribe :]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XWWoIdXQdAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XWWoIdXQdAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XWWoIdXQdAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AbbieElizabeth93",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-19T21:44:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "g4H5pTr2idS1gyrm3fbCjB1GA3E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pEZBceBevRA"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-29T11:14:05Z",
+        "channelId": "UCGOuRg3piNaKeu3bgm48ymw",
+        "title": "Good Charlotte - The Anthem [HIGH QUALITY + LYRICS]",
+        "description": "Lyrics below: It's a new day But it all feels old, It's a good life, That's what I'm told, But everything, it all just feels the same... And my high school It felt more to me ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pEZBceBevRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pEZBceBevRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pEZBceBevRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Good Charlotte Classics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-29T11:14:05Z"
+      }
+    }
+  ]
+}

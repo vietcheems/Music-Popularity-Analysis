@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "juA4eP0dIDxGYoCQvhMLXqijBk0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gKOeGNbi_IyzCl-m-xY2EBWeCsc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2soGJXQAQec"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-30T07:00:36Z",
+        "channelId": "UCL7CNO0U9SjWFbu7veoLRBw",
+        "title": "Snoop Dogg - Who Am I (What&#39;s My Name)?",
+        "description": "Music video by Snoop Dogg performing Who Am I (What's My Name)?. 1993 Death Row http://vevo.ly/FFM9qX Best of Snoop Dogg: https://goo.gl/SSRjw6 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2soGJXQAQec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2soGJXQAQec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2soGJXQAQec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SnoopDoggVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-30T07:00:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2RhhmTsV7ZaXuvfqe8Dwoy3GJnI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UbI2TS0fW4Q"
+      },
+      "snippet": {
+        "publishedAt": "2008-04-10T17:58:12Z",
+        "channelId": "UCM2h7AMe2yPWMAHGi1wZ8VQ",
+        "title": "snoop doggy dogg - who am I ( what&#39;s my name?)",
+        "description": "track 8 from snoops classic, DOGGYSTYLE, 1993.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UbI2TS0fW4Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UbI2TS0fW4Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UbI2TS0fW4Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "chiefshawn",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-04-10T17:58:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lY4uvFHdPSvjUR1W_9s2AIPyyyg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AXOnJ28LfkQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-18T09:30:00Z",
+        "channelId": "UCckKR1kDbRKXJArtGYh6drQ",
+        "title": "Snoop Dogg - Who Am I (What&#39;s My Name)? (Live 8 2005)",
+        "description": "Snoog Dogg performing at Live 8 in London's Hyde Park on the 2nd July, 2005. Organised by Sir Bob Geldof and The Band Aid Trust to raise money to fight ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AXOnJ28LfkQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AXOnJ28LfkQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AXOnJ28LfkQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Live 8",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-18T09:30:00Z"
+      }
+    }
+  ]
+}

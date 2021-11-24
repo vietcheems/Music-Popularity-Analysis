@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "KP6DBfefVc6S2R6Aq5qhsNpZRQc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I2nVyR8WqJaKzFsag6i-DT4Er0A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CyM5AjiZris"
+      },
+      "snippet": {
+        "publishedAt": "2012-11-06T16:46:46Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Young Girls (Official Audio)",
+        "description": "The official audio for Bruno Mars' \"Young Girls\" from the album 'Unorthodox Jukebox'. Subscribe for the latest official music videos, live performances, lyric ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CyM5AjiZris/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CyM5AjiZris/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CyM5AjiZris/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-11-06T16:46:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XRpLDxU16hY1Ek2Cpgg41Wff3oc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rH3rjCBdLIw"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-23T13:00:07Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "Bruno Mars - Young Girls (Lyrics) 🎵",
+        "description": "Learn how to sing in only 30 days with these easy, fun video lessons! https://www.30daysinger.com/a/8328/BFzaEvmu -- \"Bruno Mars - Young Girls (Lyrics) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rH3rjCBdLIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rH3rjCBdLIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rH3rjCBdLIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-23T13:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jTOv10JVmbIRCE3nZewjQ7uYypY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zqttDuBqiq0"
+      },
+      "snippet": {
+        "publishedAt": "2013-07-26T15:01:13Z",
+        "channelId": "UCjcv0wVhDiAWlwkGUm9Atfg",
+        "title": "Bruno Mars Young Girls (The Victorias Secret Fashion Show 2012)",
+        "description": "Twitter: @tmarin1992 Instagram: Tmarin1992 What is your favorite? 1. Lindsay Ellingson 2. Sui He 3. Doutzen Kroes 4. Hilary Rhoda 5. Bregje Heinen 6.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zqttDuBqiq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zqttDuBqiq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zqttDuBqiq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tulio Marín",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-07-26T15:01:13Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "aR3z_AIBIlBGWG2C7hwWZwK807w",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R0p2iiycRg3_0Uevvv56B4q-Pt4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v6IAJOOmDMg"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-10T15:00:09Z",
+        "channelId": "UCRzzwLpLiUNIs6YOPe33eMg",
+        "title": "The Chainsmokers, XYLØ - Setting Fires (Lyric) ft. XYLØ",
+        "description": "The Chainsmokers debut album 'Memories... Do Not Open' is out now! Buy & Stream: http://smarturl.it/TCSMemories Physical CD: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v6IAJOOmDMg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v6IAJOOmDMg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v6IAJOOmDMg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChainsmokersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-10T15:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F_l34GBxtxcv5ltsB4Rf3PTD3-Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TKJrq_hS0_g"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-15T16:34:29Z",
+        "channelId": "UCNqFDjYTexJDET3rPDrmJKg",
+        "title": "The Chainsmokers, XYLØ - Setting Fires (Lyrics)",
+        "description": "Follow 7clouds on Spotify : http://bit.ly/7CLOUDS The Chainsmokers, XYLØ - Setting Fires (Lyrics) ⏬ Download / Stream: http://smarturl.it/TCSMemories Turn ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TKJrq_hS0_g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TKJrq_hS0_g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TKJrq_hS0_g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "7clouds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-15T16:34:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YPlqkxw_pXTrSKi7aiYek-7dpLs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZrM9JmKwpHs"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-05T15:00:03Z",
+        "channelId": "UCRzzwLpLiUNIs6YOPe33eMg",
+        "title": "The Chainsmokers, XYLØ - Setting Fires (Acoustic Version) ft. XYLØ",
+        "description": "Collage EP OUT NOW: http://smarturl.it/TCSCollage Urban Outfitters White Vinyl: http://smarturl.it/CollageVinyl Amazon Physical: http://smarturl.it/CollageAmz ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZrM9JmKwpHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZrM9JmKwpHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZrM9JmKwpHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChainsmokersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-05T15:00:03Z"
+      }
+    }
+  ]
+}

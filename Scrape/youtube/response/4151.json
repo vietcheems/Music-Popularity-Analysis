@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "P7e3I300aHstRNbWOfFKQM0Oycg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uVIOs5RMTFhXan6iddRzwkKFHkg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x5c2iRHlAHA"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-03T20:58:13Z",
+        "channelId": "UC2FCUwThC0RAzaQoI0TtpLA",
+        "title": "Saweetie - My Type [Official Music Video]",
+        "description": "Watch the official music video for My Type by Saweetie from the album ICY. Subscribe to the channel: https://Saweetie.lnk.to/SubscribeYT Listen to ICY here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x5c2iRHlAHA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x5c2iRHlAHA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x5c2iRHlAHA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Official Saweetie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-03T20:58:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "trd_ah3JYih74w7XgKGUZk1uvGQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bNYrjcy8QCY"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-04T00:00:02Z",
+        "channelId": "UCd_IS6lI0n8jjiN2deVvsEA",
+        "title": "Saweetie - My Type (Lyrics)",
+        "description": "Saweetie - My Type (Lyrics) Turn on notifications (  ) when you subscribe to see new videos first! Let us know what you think in the comments and, as always, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bNYrjcy8QCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bNYrjcy8QCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bNYrjcy8QCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hip Hop/R&B Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-04T00:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OF1mhGfLW9V2bZq7r2skuMtidjg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1odROVjOISc"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-29T04:03:06Z",
+        "channelId": "UC2FCUwThC0RAzaQoI0TtpLA",
+        "title": "Saweetie - My Type (Official Audio)",
+        "description": "Buy/stream 'My Type' from the 'Icy' EP: https://saweetie.lnk.to/Icy ❄️ICY GANG❄️ Tap in with Saweetie: Text +1 (510) 250-3890 Subscribe: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1odROVjOISc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1odROVjOISc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1odROVjOISc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Official Saweetie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-29T04:03:06Z"
+      }
+    }
+  ]
+}

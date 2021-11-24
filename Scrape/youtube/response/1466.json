@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "If47ypfzOmIqw-u201dcLjOV4S0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LFNFR9blGvVAUUD0lo1KA8XsN1Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nKcKreZJYfI"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-12T08:00:03Z",
+        "channelId": "UCk0wwaFCIkxwSfi6gpRqQUw",
+        "title": "Camila Cabello - She Loves Control (Audio)",
+        "description": "\"Camila\" album available at: Spotify http://smarturl.it/Camila_Sptfy Apple Music http://smarturl.it/Camila_AM iTunes http://smarturl.it/Camila_iTunes Google Play ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nKcKreZJYfI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nKcKreZJYfI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nKcKreZJYfI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CamilaCabelloVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-12T08:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fkOL6hZCffC1nat02-MGBPPGiWs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yEXIx8UkhIc"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-14T22:46:31Z",
+        "channelId": "UCJ6ERWrxZzb9Ua3oeRcIe0g",
+        "title": "Camila Cabello - She Loves Control (Lyrics)",
+        "description": "Camila Cabello - She Loves Control (Lyrics) ✘ Follow Taz Network's Official Spotify Playlist: http://spoti.fi/2rDabxJ Turn on the bell to be the first to listen to new ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yEXIx8UkhIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yEXIx8UkhIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yEXIx8UkhIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taz Network",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-14T22:46:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jxIqsBV4Szryo8cyKP41sbpAR0U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0AoDymV_eCo"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-13T21:43:29Z",
+        "channelId": "UCRyi2UsdPMley-JQ_53BF_w",
+        "title": "Camila Cabello - She Loves Control (Music Video)",
+        "description": "Music Video by Camila Cabello Performing 'She Loves Control' From her 2018 Album - Camila. MV by BLUX. 2018 © BLUX YouTube Page: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0AoDymV_eCo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0AoDymV_eCo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0AoDymV_eCo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BLUX",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-13T21:43:29Z"
+      }
+    }
+  ]
+}

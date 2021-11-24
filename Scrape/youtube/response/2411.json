@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "GwFYLCSjCaXYcQs6FoVIxRvDpFk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1rCnIOgc7DKkohUqxDaaYLAPaIs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j4y-RzVGrHg"
+      },
+      "snippet": {
+        "publishedAt": "2006-08-18T17:16:21Z",
+        "channelId": "UCRRxSTgPUY0q_YToaczc2BQ",
+        "title": "Nickelback - Far Away [OFFICIAL VIDEO]",
+        "description": "Nickelback's music video for 'Far Away' from the album, All The Right Reasons - available now on Roadrunner Records. - CD: http://smarturl.it/NickelbBestOfCD ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j4y-RzVGrHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j4y-RzVGrHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j4y-RzVGrHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Roadrunner Records",
+        "liveBroadcastContent": "none",
+        "publishTime": "2006-08-18T17:16:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gBUJ0ogVCtjIvL9Z8TiAZP72ukk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8UHBkWrzZ-Q"
+      },
+      "snippet": {
+        "publishedAt": "2010-04-16T16:39:46Z",
+        "channelId": "UCTkm0cji9t_A0pYSHPQbbyA",
+        "title": "Nickelback - Far Away (lyrics)",
+        "description": "Nickelback performing Far away. Lyrics included. Credits go to Nickelback and Roadrunner Records.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8UHBkWrzZ-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8UHBkWrzZ-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8UHBkWrzZ-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jesper Stegers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-04-16T16:39:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7KcFkD0n-Ulbd6ZElxouKD7esuw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-gpfMoqjVC0"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-12T03:57:37Z",
+        "channelId": "UC8DBdOsq1zu-PbKHG8kNV0g",
+        "title": "Far Away - Nickelback (Lyrics) 🎵",
+        "description": "Lyrics: \"Far Away\" https://pillowlyrics.com/far-away-nickelback/ VISIT OUR OFFICIAL LYRICS WEBSITE: https://www.pillowlyrics.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-gpfMoqjVC0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-gpfMoqjVC0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-gpfMoqjVC0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pillow",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-12T03:57:37Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "t-0QjW_MfiJKhZxl3uAkovRkD-0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nb1I7QwcVJu7h_r3CABxrZPIfIM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZX1CC5_d_AA"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-14T04:00:09Z",
+        "channelId": "UCaum3Yzdl3TbBt8YUeUGZLQ",
+        "title": "Nicki Minaj, Drake - Best I Ever Had (Audio / Remix)",
+        "description": "Music video by Nicki Minaj, Drake performing Best I Ever Had (Audio / Remix). © 2021 Republic Records, a division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZX1CC5_d_AA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZX1CC5_d_AA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZX1CC5_d_AA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NickiMinajAtVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-14T04:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XiP8xTLPUBoXgCfa1vWQIBFg1qs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PD6--3dghSo"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-23T18:07:50Z",
+        "channelId": "UC8DBdOsq1zu-PbKHG8kNV0g",
+        "title": "Best I Ever Had - Drake, Nicki Minaj &amp; DJ Drops (Lyrics) 🎵",
+        "description": "Lyrics: \"Best I Ever Had\" https://pillowlyrics.com/best-i-ever-had-remix-drake-feat-nicki-minaj/ VISIT OUR OFFICIAL LYRICS WEBSITE: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PD6--3dghSo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PD6--3dghSo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PD6--3dghSo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pillow",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-23T18:07:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cczY_inyICDAuam-u3jpo6J9Gh4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dGyvJuUGC0g"
+      },
+      "snippet": {
+        "publishedAt": "2012-01-08T18:17:51Z",
+        "channelId": "UCAwW2xavMwWa47TEi08t0Mg",
+        "title": "Drake - Best I Ever Had [LYRICS]",
+        "description": "Lyrics on screen.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dGyvJuUGC0g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dGyvJuUGC0g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dGyvJuUGC0g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jeanne29570",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-01-08T18:17:51Z"
+      }
+    }
+  ]
+}

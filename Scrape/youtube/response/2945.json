@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "BLzAbgoCzfC_nGACXXfMBPM_OpY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 751907,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PQb5UXpsAArXwQcCOG3RJMKHP3k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4ZxVZaYd1Fs"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-19T13:32:49Z",
+        "channelId": "UC6Ibj3Vm_35X98B0BVH336g",
+        "title": "J. Cole - Immortal (Explicit)",
+        "description": "Song: Immortal Artist: J. Cole Album: 4 Your Eyez Only Album Release Date: December 9, 2016 © 2016 Vivendi & Live Nation Entertainment.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4ZxVZaYd1Fs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4ZxVZaYd1Fs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4ZxVZaYd1Fs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "That One Album Uploader",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-19T13:32:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QQSluitV_BZId2pfQUebbFbEHs8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qeZugKAxNQo"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-20T22:52:25Z",
+        "channelId": "UC4mdA_jwebuqkhNH0I_c2lg",
+        "title": "J. Cole - Immortal (Lyrics)",
+        "description": "J. Cole - Immortal from the album 4 Your Eyez Only (2016)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qeZugKAxNQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qeZugKAxNQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qeZugKAxNQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sam Iverson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-20T22:52:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wvc6dha1t0mg03IQB0WhjZGCXso",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XWCW8FF1UzU"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-20T06:41:23Z",
+        "channelId": "UCXwpoz84PcpDR1RXFW2YSiw",
+        "title": "J. Cole - Immortal (Official Video)",
+        "description": "J. Cole - Immortal 4 Your Eyez Only #Dreamville #4YourEyezOnly.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XWCW8FF1UzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XWCW8FF1UzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XWCW8FF1UzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tarif Rahman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-20T06:41:23Z"
+      }
+    }
+  ]
+}

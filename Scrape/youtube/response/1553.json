@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "FTsAA3mhEcz6LnGj0ZTryPUAHjg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IOXfIQ7Nx0DjD0ET-m2QdYrgETA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6Xf038zEVvM"
+      },
+      "snippet": {
+        "publishedAt": "2015-06-13T14:55:47Z",
+        "channelId": "UCGZXYc32ri4D0gSLPf2pZXQ",
+        "title": "Armin van Buuren feat. Mr. Probz - Another You (Official Music Video)",
+        "description": "Discover Armin van Buuren & Vini Vici's new collab 'Yama' on your favorite streaming platform! ▷ https://AvBVV.lnk.to/YamaYA Subscribe to the Armada Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Xf038zEVvM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Xf038zEVvM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Xf038zEVvM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Armada Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-06-13T14:55:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iJApX4dsdgrEQZPNse0dIq3oXrM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QjN27z_Oc6E"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-08T06:56:57Z",
+        "channelId": "UCGZXYc32ri4D0gSLPf2pZXQ",
+        "title": "Armin van Buuren feat. Mr. Probz - Another You",
+        "description": "Discover Armin van Buuren & Vini Vici's new collab 'Yama' on your favorite streaming platform! ▷ https://AvBVV.lnk.to/YamaYA Armin van Buuren feat. Mr. Probz ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QjN27z_Oc6E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QjN27z_Oc6E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QjN27z_Oc6E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Armada Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-05-08T06:56:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "STsQzYwRjg5relKttHVbx1VuWRs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z_z1gllV6BQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-18T12:00:16Z",
+        "channelId": "UCu5jfQcpRLm9xhmlSd5S8xw",
+        "title": "Armin van Buuren feat. Mr. Probz - Another You (Live at The Best Of Armin Only)",
+        "description": "FULL SHOW NOW AVAILABLE: https://AvB.lnk.to/TBOAOYA Subscribe to Armin van Buuren's YouTube channel via http://bit.ly/SubscribeArmin I first met Mr.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z_z1gllV6BQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z_z1gllV6BQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z_z1gllV6BQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Armin van Buuren",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-18T12:00:16Z"
+      }
+    }
+  ]
+}

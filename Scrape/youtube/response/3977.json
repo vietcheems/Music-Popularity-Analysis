@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Nb5deWbVDR-1_8vvXhCJd6LYuDY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CIKPewor17B_K68uiRb7dgaI4es",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5xItztsW0Yg"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-19T05:30:19Z",
+        "channelId": "UCvoaeowy6qBxfWCZSUMkJ5w",
+        "title": "Bruno Mars - Too Good To Say Goodbye Lyrics",
+        "description": "Please like and subscribe :)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5xItztsW0Yg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5xItztsW0Yg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5xItztsW0Yg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Glenn Ombrosa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-19T05:30:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jLuHio8CUJ3TP3PK4BZWrfvpIS8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y_tbSFfkyO0"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-28T18:54:17Z",
+        "channelId": "UC8DBdOsq1zu-PbKHG8kNV0g",
+        "title": "Too Good To Say Goodbye - Bruno Mars (Lyrics) 🎵",
+        "description": "Lyrics: \"Too Good To Say Goodbye\" https://pillowlyrics.com/too-good-to-say-goodbye-bruno-mars/ VISIT OUR OFFICIAL LYRICS WEBSITE: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y_tbSFfkyO0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y_tbSFfkyO0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y_tbSFfkyO0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pillow",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-28T18:54:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YM2Og5MccPuMBMHCB3OzeJEnDVA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZS4a9ETHrCU"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-12T23:36:15Z",
+        "channelId": "UCFvo_dUsR0RTbWa1Ci1149g",
+        "title": "Bruno Mars - Too Good To Say Goodbye (Legendado)",
+        "description": "Artista: Bruno Mars Música: Too Good To Say Goodbye Album: 24K Magic Ano: 2016 Gravadora: Atlantic Records Compositores: Christopher Brown, Peter ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZS4a9ETHrCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZS4a9ETHrCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZS4a9ETHrCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pop Legendas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-12T23:36:15Z"
+      }
+    }
+  ]
+}

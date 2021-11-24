@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "yRNIA85e26YmKccZB9t0uVNK0dk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A5XvZit3MF1c2m6Nhf4IrzR4j24",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B_GrvIc0dak"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-09T21:00:11Z",
+        "channelId": "UCCx90zE99aHD2NCKXoCmmag",
+        "title": "MC Kevin O Chris - Vai Rebola Pro Pai - Ela É Do Tipo (Clipe Oficial)",
+        "description": "Ouça em todas as plataformas: https://ONErpm.lnk.to/ElaEDoTipo Escute, também, o remix com DRAKE! https://ONErpm.lnk.to/DrakeRemix LETRA: Ela É do ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B_GrvIc0dak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B_GrvIc0dak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B_GrvIc0dak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kevin O Chris",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-09T21:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-MRRerKqb8ZZFYCdmNm5W1eLkkE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1yRnrScSCik"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-08T21:55:21Z",
+        "channelId": "UCCx90zE99aHD2NCKXoCmmag",
+        "title": "MC Kevin O Chris - Vai Rebola Pro Pai - Ela É Do Tipo",
+        "description": "Ouça em todas as plataformas: https://ONErpm.lnk.to/ElaEDoTipo Escute, também, o remix com DRAKE! https://ONErpm.lnk.to/DrakeRemix Letra: Ela é do tipo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1yRnrScSCik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1yRnrScSCik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1yRnrScSCik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kevin O Chris",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-08T21:55:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MXnN4uCSIFvS6LLVfitGMfN5xnE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xU-dx_cHDmQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-26T14:00:16Z",
+        "channelId": "UCCx90zE99aHD2NCKXoCmmag",
+        "title": "MC Kevin O Chris - Vai Rebola Pro Pai - Ela É Do Tipo (DVD Evoluiu) [Vídeo Oficial]",
+        "description": "Vídeo oficial da música “Ela É Do Tipo\". Ouça nos aplicativos de música clicando no link: https://SomLivre.lnk.to/Evoluiu_Ao_Vivo Letra (Composição: Kevin O ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xU-dx_cHDmQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xU-dx_cHDmQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xU-dx_cHDmQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kevin O Chris",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-26T14:00:16Z"
+      }
+    }
+  ]
+}

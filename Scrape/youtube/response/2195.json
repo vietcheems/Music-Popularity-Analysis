@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "XmOYMfHZdwvwVTyJ5wU72911y74",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-pevhDITNijjiNYhejpMgt0xJ4U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T38v3-SSGcM"
+      },
+      "snippet": {
+        "publishedAt": "2013-02-05T23:00:44Z",
+        "channelId": "UCJO95ZYiNhl20IdnDyHvbWw",
+        "title": "Chuck Berry - Johnny B Goode (1959)",
+        "description": "Classic Mood Experience The best masterpieces ever recorded in the music history. Join our Youtube: https://goo.gl/8AOGaN Join our Facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T38v3-SSGcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T38v3-SSGcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T38v3-SSGcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Classic Mood Experience",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-02-05T23:00:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_CCRAR_CUhpeAAGiygTvS7Y7nWE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6swgiM9vSEE"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-22T23:10:10Z",
+        "channelId": "UClh2CI968a1tE8pQ31pg_Ww",
+        "title": "Chuck Berry With Bruce Springsteen &amp; The E Street Band - Johnny B. Goode",
+        "description": "Chuck Berry with Bruce Springsteen & the E Street Band performing \"Johnny B. Goode\" at The Concert for the Rock and Roll Hall of Fame in 1995 in Cleveland, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6swgiM9vSEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6swgiM9vSEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6swgiM9vSEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rock & Roll Hall of Fame",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-22T23:10:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tyJtKDAKhL8YF3PFQTnUJDjPK9g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6ROwVrF0Ceg"
+      },
+      "snippet": {
+        "publishedAt": "2012-02-09T04:27:14Z",
+        "channelId": "UCbpNuk64eHCqesoBKuemMnQ",
+        "title": "Chuck Berry - Johnny B. Goode (Live 1958)",
+        "description": "Follow the past 50 years of Rock n' Roll as if it is happening today at www.gaslightrecords.com Well here's one of the greatest Rock n' Roll tunes ever written.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ROwVrF0Ceg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ROwVrF0Ceg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ROwVrF0Ceg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "gaslightrecords",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-02-09T04:27:14Z"
+      }
+    }
+  ]
+}

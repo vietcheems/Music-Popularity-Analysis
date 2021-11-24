@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "9r08b3ooAJGJDTbxEmqMQAkgQSI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VM0lEbMSdyBmNUbyxqX70DccSq4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SUJloylmEZM"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-17T18:00:03Z",
+        "channelId": "UCQT3bmChpmnR5ThhY_ewoOQ",
+        "title": "H.E.R. - Slide (Official Video) ft. YG",
+        "description": "H.E.R. - Debut Album 'Back Of My Mind' // Out Now! Stream/Download // https://smarturl.it/BackOfMyMind Subscribe to H.E.R.'s channel for more official content ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SUJloylmEZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SUJloylmEZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SUJloylmEZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HERMusicVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-17T18:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VgheUYP24bp9j4IxZgJfKI69nRI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aAfRJNBANeI"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-27T04:00:02Z",
+        "channelId": "UCQT3bmChpmnR5ThhY_ewoOQ",
+        "title": "H.E.R. - Slide (Audio) ft. YG",
+        "description": "H.E.R. - Debut Album 'Back Of My Mind' // Out Now! Stream/Download // https://smarturl.it/BackOfMyMind Subscribe to H.E.R.'s channel for more official content ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aAfRJNBANeI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aAfRJNBANeI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aAfRJNBANeI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HERMusicVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-27T04:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IQfrBjbeENazMbOcZ0EF58wE7E0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6r_WOQt8L7g"
+      },
+      "snippet": {
+        "publishedAt": "2020-01-16T05:00:00Z",
+        "channelId": "UCQT3bmChpmnR5ThhY_ewoOQ",
+        "title": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie &amp; Chris Brown)",
+        "description": "Slide” (Remix) feat. Pop Smoke, A Boogie Wit Da Hoodie & Chris Brown: https://smarturl.it/SlideRemixx Follow H.E.R.: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6r_WOQt8L7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6r_WOQt8L7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6r_WOQt8L7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HERMusicVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-16T05:00:00Z"
+      }
+    }
+  ]
+}

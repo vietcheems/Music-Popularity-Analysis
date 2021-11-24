@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "YGbqqmuc7Fhxp22MWpBmgKpNTTY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3dYeNLJ-uFhcOX6jwESKFkMEELU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YYOKMUTTDdA"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-27T02:28:07Z",
+        "channelId": "UC7eaRqtonpyiYw0Pns0Au_g",
+        "title": "R.E.M. - Shiny Happy People (Official Music Video)",
+        "description": "Shiny Happy People” from R.E.M.'s critically-acclaimed, 1991 album, \"Out Of Time\" To learn more, visit http://www.remhq.com. Buy the album: 3CD+BluRay ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YYOKMUTTDdA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YYOKMUTTDdA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YYOKMUTTDdA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "remhq",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-27T02:28:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WXetNVewzEtvIUWXGOoBTG-nu5o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JpOQoLZQUPc"
+      },
+      "snippet": {
+        "publishedAt": "2010-10-22T12:50:36Z",
+        "channelId": "UCcWfktQGpD06idN-JERhoYQ",
+        "title": "R.E.M - Shiny Happy People",
+        "description": "R.E.M Album - Out of Time Track Six - Shiny Happy People.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JpOQoLZQUPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JpOQoLZQUPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JpOQoLZQUPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Trixpins",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-10-22T12:50:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c7lo_SB4lI2kduR41xArEMi_Luc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1H20W0e_oSM"
+      },
+      "snippet": {
+        "publishedAt": "2012-07-26T10:47:51Z",
+        "channelId": "UCKue8_u88JN7hENNgxSaT4w",
+        "title": "R.E.M: Shiny Happy People (Lyrics)",
+        "description": "Lyrics zu Shiny Happy People von R.E.M.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1H20W0e_oSM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1H20W0e_oSM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1H20W0e_oSM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GermanLyrics98",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-07-26T10:47:51Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "6dfm9-r7EY7vGRAWFMUWwAgYTQ0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EdEGB8gXqVTX5kixQ0QQ55vPi50",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f2JuxM-snGc"
+      },
+      "snippet": {
+        "publishedAt": "2013-12-03T21:00:04Z",
+        "channelId": "UCVrPiUtl29kULN2HIAm244Q",
+        "title": "Lorde - Team",
+        "description": "Title: Lorde – Team (Pure Heroine Album) Music video by Lorde performing Team. (C) 2013 Universal Music NZ Ltd.. Get Lorde's Pure Heroine album here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f2JuxM-snGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f2JuxM-snGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f2JuxM-snGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LordeVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-12-03T21:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "stuXa0rS8tVYR7Q2umjzurOKowE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hh-f7WRuDmA"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-01T07:30:02Z",
+        "channelId": "UCiOw7qjTtSwRtDbe3ywrE5w",
+        "title": "Lorde – Team Lyrics",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hh-f7WRuDmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hh-f7WRuDmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hh-f7WRuDmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Music Network",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-01T07:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eKgcrIo5J1VavZcmZ86Fu3FNCZ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "biUnzjsuehA"
+      },
+      "snippet": {
+        "publishedAt": "2013-09-14T19:23:09Z",
+        "channelId": "UC-ojHxtm15NLpVv-CfrBb_w",
+        "title": "Lorde  - Team (Lyric Video)",
+        "description": "I do not own the audio in this video. They belong to their rightful owners.* This song is an amazing song, and since it didnt have a lyric video I made one :) Its my ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/biUnzjsuehA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/biUnzjsuehA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/biUnzjsuehA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lorde Fan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-09-14T19:23:09Z"
+      }
+    }
+  ]
+}

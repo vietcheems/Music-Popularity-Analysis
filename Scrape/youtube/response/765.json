@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "VHR5PmI7fqfZtA3dxTqIkhXo6YU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zHFyJXfWqZ24nbRMmXX9ynyrK6U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JGulAZnnTKA"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-25T21:00:00Z",
+        "channelId": "UCm3FgJ2Hqm7tb70T-GfwXVA",
+        "title": "Halsey - Colors",
+        "description": "Listen to the newest album “If I Can't Have Love, I Want Power” out now: https://halsey.lnk.to/IICHLIWPID Get New Album Manic: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JGulAZnnTKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JGulAZnnTKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JGulAZnnTKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HalseyVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-25T21:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CzWpZrFyNYU-D1SivuCFJ0RXCLk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UvH5ZhSn1Jg"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-30T15:55:51Z",
+        "channelId": "UCb8nkFsGnFdMJ0Quu4gp1UQ",
+        "title": "Colors - Halsey (Lyrics)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UvH5ZhSn1Jg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UvH5ZhSn1Jg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UvH5ZhSn1Jg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tiya Dean",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-30T15:55:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s1j1vTWiL_6fARHFD03gq_V6ZPQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C092uisdqh8"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-22T07:00:00Z",
+        "channelId": "UCm3FgJ2Hqm7tb70T-GfwXVA",
+        "title": "Halsey - Colors (Stripped / Audio)",
+        "description": "Listen to the newest album “If I Can't Have Love, I Want Power” out now: https://halsey.lnk.to/IICHLIWPID Discover more Halsey on Spotify: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C092uisdqh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C092uisdqh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C092uisdqh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "HalseyVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-22T07:00:00Z"
+      }
+    }
+  ]
+}

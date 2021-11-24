@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "gtxvz8bSmtdZbW1OY29a1hm8zQM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rM9RJzPjE7EEfXZU_1-DITiO80U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HYLTsdeO2uA"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-25T04:00:01Z",
+        "channelId": "UCz4TqVes6nggOlTSqKfvdkA",
+        "title": "Papa Roach - HELP (Official Video)",
+        "description": "Music video by Papa Roach performing HELP (Official Video). (C) 2017 Eleven Seven Music.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HYLTsdeO2uA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HYLTsdeO2uA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HYLTsdeO2uA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PapaRoachVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-25T04:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XEiVs_iMM92k2I98X1L-hBHynOM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VSecjqcO3Jk"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-16T22:14:08Z",
+        "channelId": "UCqh8RdUfSR9lGyasBhM_bjA",
+        "title": "Papa Roach - HELP (Official Audio)",
+        "description": "Official audio for 'HELP' by Papa Roach off the new album 'Crooked Teeth'. Stream / Buy 'Crooked Teeth': http://smarturl.it/CrookedTeethPRoach Shop Papa ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VSecjqcO3Jk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VSecjqcO3Jk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VSecjqcO3Jk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Better Noise Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-16T22:14:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "svxoN9gl-BQ49AduX8Qra9p_GAQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mo3meU3LMCY"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-24T14:00:06Z",
+        "channelId": "UCqh8RdUfSR9lGyasBhM_bjA",
+        "title": "Papa Roach - HELP (Lyric Video)",
+        "description": "Check out the official lyric video for of 'HELP' by Papa Roach off the new album 'Crooked Teeth'. Stream / Buy 'Crooked Teeth': https://fanlink.to/CrookedTeeth ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mo3meU3LMCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mo3meU3LMCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mo3meU3LMCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Better Noise Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-24T14:00:06Z"
+      }
+    }
+  ]
+}

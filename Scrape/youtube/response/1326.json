@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "8T-voDTQuJfzQbEq6BpBAUF0QIk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XA3RHDnijRIicWvox0yJEG86EkQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BN1WwnEDWAM"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-08T07:00:00Z",
+        "channelId": "UCZZqOGJ0HxYblCEC-K4nagg",
+        "title": "The Clash - Should I Stay or Should I Go (Official Audio)",
+        "description": "The Clash - Should I Stay or Should I Go (Official Audio) Stream The Clash here: https://theclash.lnk.to/Playlists Subscribe to The Clash YouTube Channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BN1WwnEDWAM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BN1WwnEDWAM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BN1WwnEDWAM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "theclashVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-08T07:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aZS-hXGgkvleZbn0lunzBJtb3es",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "59kLvq3_5GA"
+      },
+      "snippet": {
+        "publishedAt": "2019-08-10T14:11:35Z",
+        "channelId": "UCpp6nAhUB-MEfVzjJHmmSQw",
+        "title": "The Clash - Should I Stay Or Should I Go - REMASTERED",
+        "description": "Digitally remastered for a a cleaner, sharper, wider and more refined listening experience. Music the way it was meant to be heard and sounds better than the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/59kLvq3_5GA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/59kLvq3_5GA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/59kLvq3_5GA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mastering Revolution",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-10T14:11:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2rybz_KESnclghDFTeWmzFTyaOo",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLZ7A-VWFbaAzi_hcVtsv_qtVC8rgHWMVs"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-18T04:27:02Z",
+        "channelId": "UCLKRY3-zvSjuT5Q8dNtu8WQ",
+        "title": "The Clash — Should I Stay or Should I Go - Remastered",
+        "description": "Playlist created with http://www.playlist-converter.net, multi services playlist converter.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rhENh7AWNXY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rhENh7AWNXY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rhENh7AWNXY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "hugo calder",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-18T04:27:02Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "VSZl3MbbcvyA0kgtcJHWXuk82eQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YdFcAVLEvNbjksN9LAMGu1rQk1M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LjhCEhWiKXk"
+      },
+      "snippet": {
+        "publishedAt": "2010-09-08T21:29:01Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Just The Way You Are (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"Just The Way You Are\" from the album 'Doo-Wops & Hooligans'. Directed by Ethan Lader Inspired by the artwork of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LjhCEhWiKXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LjhCEhWiKXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LjhCEhWiKXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-09-08T21:29:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H4EwI0NUl9joYolwEi8PNeHfBuc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GAd4ItXHBVE"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-30T13:39:23Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "Just The Way You Are - Bruno Mars (Lyrics)",
+        "description": "Learn how to sing in only 30 days with these easy, fun video lessons! https://www.30daysinger.com/a/8328/BFzaEvmu -- Just The Way You Are - Bruno Mars ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GAd4ItXHBVE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GAd4ItXHBVE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GAd4ItXHBVE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-30T13:39:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fs31JH1EPOg2_TRHQVWH7Ad3MZE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3lo9VYSUyhA"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-07T11:30:07Z",
+        "channelId": "UCmtiVuZJJU2A9CT7zOt7VRQ",
+        "title": "Bruno Mars - Just the Way You Are (Lyrics)",
+        "description": "Bruno Mars - Just the Way You Are (Lyrics) A request for subscribe and press icon which means a lot for us. Thank You Follow Bruno Mars: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3lo9VYSUyhA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3lo9VYSUyhA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3lo9VYSUyhA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Authentic Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-07T11:30:07Z"
+      }
+    }
+  ]
+}

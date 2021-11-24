@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "9mI1Ok30WulK8PJOsYug_U27j_g",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "39ALI8NrNzIen27nSNtx9nvRQCg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VbD_kBJc_gI"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-14T11:00:03Z",
+        "channelId": "UC8YgWcDKi1rLbQ1OtrOHeDw",
+        "title": "David Bowie - Let&#39;s Dance (Official Video)",
+        "description": "Official video for Let's Dance by David Bowie. Stream the David Bowie greatest hits here ▷ https://RhinoUK.lnk.to/ThisIsDavidBowieAY Subscribe here ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VbD_kBJc_gI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VbD_kBJc_gI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VbD_kBJc_gI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "David Bowie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-14T11:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dz0FcXcuBIK1v_ylvkuuM2e-KyA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Pc9HHHM-uUc"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-15T21:50:04Z",
+        "channelId": "UCACkNWgEUHF_TsPrUceH-AA",
+        "title": "David Bowie - Let&#39;s Dance - 2018 Remaster",
+        "description": "David Bowie - Let's Dance - 2018 Remaster.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pc9HHHM-uUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pc9HHHM-uUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pc9HHHM-uUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "80's",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-15T21:50:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Mv6YTTSQkjR8Cm5tCaTwVOwgusk",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL6ogdCG3tAWg8XLQjzlspxWjKfsl-Jx-s"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-28T16:46:21Z",
+        "channelId": "UCLoMnRhSXyFL98jsaC0_v0w",
+        "title": "David Bowie Let&#39;s Dance Full Album",
+        "description": "1983.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Musical Wizard",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-28T16:46:21Z"
+      }
+    }
+  ]
+}

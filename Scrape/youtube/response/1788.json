@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "jAKamCjeI5N-3DDa2WE2mBxvCeQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "23xapkDWeeUDchrSB-T6W_RDul4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XCQK6LmhYqc"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-21T14:05:19Z",
+        "channelId": "UCfSAqqftdc7FM1SY5vJjKfA",
+        "title": "Rita Ora - Let You Love Me [Official Video]",
+        "description": "'Let You Love Me' is available now - http://atlanti.cr/LYLM My new album 'Phoenix' is out now: http://atlanti.cr/Phoenix Director: Malia James Producer: Tom ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XCQK6LmhYqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XCQK6LmhYqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XCQK6LmhYqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rita Ora",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-21T14:05:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2zurP50QaEQqiOAHJGRi7VR0glM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eY4t1Scl6LQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-22T16:49:41Z",
+        "channelId": "UCaeicBEBBbaF4QQ_OgJ5cvw",
+        "title": "Rita Ora - LET YOU LOVE ME (Lyrics)",
+        "description": "High-quality, FREE Piano Song Tutorials on MobileMusic channel ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eY4t1Scl6LQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eY4t1Scl6LQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eY4t1Scl6LQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Leader Of Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-22T16:49:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8RDdUAVLEL4JnUgAN2UARGup1Ng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qAuHpmM6_2c"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-04T18:26:19Z",
+        "channelId": "UCfSAqqftdc7FM1SY5vJjKfA",
+        "title": "Rita Ora - Let You Love Me (Live From The Victoria’s Secret 2018 Fashion Show)",
+        "description": "See the full show by tuning in to ABC on Friday, December 7 at 9/8c for the encore of The Victoria's Secret Fashion Show. \"Let You Love Me\" is available now ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qAuHpmM6_2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qAuHpmM6_2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qAuHpmM6_2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rita Ora",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-04T18:26:19Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "jK4C2TECrlAa2wb_51peQhXq5gA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "at9VOSHdAefD7zA3hMpBw_gg670",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GLvohMXgcBo"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-27T02:32:53Z",
+        "channelId": "UCEuOwB9vSL1oPKGNdONB4ig",
+        "title": "Red Hot Chili Peppers - Under The Bridge [Official Music Video]",
+        "description": "Watch the official music video for Under The Bridge by Red Hot Chili Peppers from the album Blood Sugar Sex Magik. Subscribe to the channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GLvohMXgcBo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GLvohMXgcBo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GLvohMXgcBo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Red Hot Chili Peppers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-27T02:32:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zyxEXJLO8Ig_FAT3Sq9reloP72k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mW2e9UiqOVU"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-07T07:55:55Z",
+        "channelId": "UCQqk4GQAq3xbPiRYUY_tThg",
+        "title": "Red Hot Chili Peppers - Under the Bridge",
+        "description": "Lyrics:...Sometimes I feel Like I don't have a partner Sometimes I feel Like my only friend Is the city I live in The city of Angels Lonely as I am Together we cry I ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mW2e9UiqOVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mW2e9UiqOVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mW2e9UiqOVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NiBro.{1984}.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-07T07:55:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a3_qe0AFiQqh0hY6U5AIn6oIlQU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N7ZyzCNeFKY"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-21T03:10:00Z",
+        "channelId": "UCJxAxCEFg4wRnZYZNL7_1uQ",
+        "title": "Red Hot Chili Peppers - Under The Bridge - Remastered",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N7ZyzCNeFKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N7ZyzCNeFKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N7ZyzCNeFKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Brian Martens",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-21T03:10:00Z"
+      }
+    }
+  ]
+}

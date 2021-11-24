@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "F7TLWBprsM6le9iC5f-Mcke_DOQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4U65i_BxGKdmN0ni5rDFM5fkzq0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0RyInjfgNc4"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-26T13:24:36Z",
+        "channelId": "UCuJt_oBsyBgq5d8JBJeJ8Vg",
+        "title": "Rihanna - Love On The Brain",
+        "description": "Get Rihanna's eighth studio album ANTI featuring Love On The Brain now: TIDAL: http://smarturl.it/downloadANTI iTunes: http://smarturl.it/i_dlx_ANTI Google ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0RyInjfgNc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0RyInjfgNc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0RyInjfgNc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lenn Beauty",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-26T13:24:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jnAuuQIWN4v_X45zX-VOaUrLRnI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yXvyJDqqQec"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-25T04:58:46Z",
+        "channelId": "UCg3_C7BwcV0kBlJbBFHTPJQ",
+        "title": "Rihanna Love On the Brain | Live at Global Citizen Festival 2016",
+        "description": "There is only one Rihanna and only one performance like this. Watch other performances by Kendrick Lamar, Demi Lovato, Major Lazer and Metallica, with ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yXvyJDqqQec/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yXvyJDqqQec/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yXvyJDqqQec/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Global Citizen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-25T04:58:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k1e-VUiH2ygPxLevByjPw09xTl8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HoTJzQOM1do"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-25T11:36:52Z",
+        "channelId": "UCVLW9qxKnP1F_cU2J_YgP4Q",
+        "title": "Rihanna - Love On The Brain (lyrics)",
+        "description": "Here is the lyric video for Love On The Brain, the 4th single from Rihanna's latest studio album, Anti.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HoTJzQOM1do/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HoTJzQOM1do/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HoTJzQOM1do/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ubayd Alatas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-25T11:36:52Z"
+      }
+    }
+  ]
+}

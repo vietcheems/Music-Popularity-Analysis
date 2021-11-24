@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "vVkMVqROKmI7Ft_-l1n40seewZw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cgGhYS36bw0vVfNXCpJ6xoPlTts",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3-Yh6rnOchs"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-27T15:00:08Z",
+        "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
+        "title": "Seal - Kiss From A Rose (Official Audio)",
+        "description": "You're listening to the official audio for Seal - \"Kiss From A Rose\" from the album 'Best 1991–2004'. \"Kiss From A Rose\" was featured in the soundtrack to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3-Yh6rnOchs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3-Yh6rnOchs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3-Yh6rnOchs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RHINO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-27T15:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0uAV5gaT5aXY4gMyQeTUedBE6_g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yivLt9cTaio"
+      },
+      "snippet": {
+        "publishedAt": "2010-10-20T11:07:28Z",
+        "channelId": "UCdc-b-oaQvmKTwWtLi0qBdw",
+        "title": "Seal - Kiss From A Rose (Official Music Video) + Lyrics (HQ - High Quality)",
+        "description": "ORIGINAL / OFFICIAL MUSIC VIDEO FOR THIS SONG! Band: Seal Song: Kiss From A Rose Genre: Pop-Rock Album: Batman Forever SoundTrack and Seal II ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yivLt9cTaio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yivLt9cTaio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yivLt9cTaio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Music Guide",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-10-20T11:07:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cmk0e-XubNQJCOsSPv7eR8dgexw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GkMV3KDfhzw"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-20T15:34:22Z",
+        "channelId": "UC49ta0RHXJUiID5KWRkcySw",
+        "title": "Seal - &#39;Kiss From A Rose&#39; [Live @ SiriusXM]",
+        "description": "Performing for a select audience of SiriusXM subscribers, Seal performed songs of his latest album, Standards, along with some of his favorites, including his ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GkMV3KDfhzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GkMV3KDfhzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GkMV3KDfhzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SiriusXM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-20T15:34:22Z"
+      }
+    }
+  ]
+}

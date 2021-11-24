@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "KV0k8kP1FuM3Awk-OpS0tsdIEHY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VXq2ChfDkwx2jetNncPuT8O5VeI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mgfe5tIwOj0"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-12T12:00:07Z",
+        "channelId": "UC-J-KZfRV8c13fOCkhXdLiQ",
+        "title": "Dua Lipa - IDGAF (Official Music Video)",
+        "description": "The official music video for Dua Lipa - IDGAF Taken from her self-titled debut studio album released in 2017, which featured the hit singles 'Be The One', 'IDGAF' ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mgfe5tIwOj0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mgfe5tIwOj0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mgfe5tIwOj0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dua Lipa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-12T12:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1X1i7Oz_ql1JGbjMAMi4UBrdRHo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k1xvol1SCx8"
+      },
+      "snippet": {
+        "publishedAt": "2018-02-21T08:00:03Z",
+        "channelId": "UC-FQUIVQ-bZiefzBiQAa8Fw",
+        "title": "Dua Lipa - IDGAF ft. Charli XCX, Zara Larsson, MØ, Alma, in the Live Lounge",
+        "description": "Dua Lipa performs bonus track IDGAF for the BBC Radio 1 Live Lounge in LA, with a supergroup of backing singers - Charli XCX, Zara Larsson, MØ, Alma.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k1xvol1SCx8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k1xvol1SCx8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k1xvol1SCx8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBC Radio 1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-02-21T08:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UJFD0Zs2VTjYG20kWpSzFHXaASE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C4GGx--QFr8"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-12T18:06:46Z",
+        "channelId": "UCJ6ERWrxZzb9Ua3oeRcIe0g",
+        "title": "Dua Lipa - IDGAF (Lyrics)",
+        "description": "Dua Lipa ‒ IDGAF (Lyrics) ✘ Follow Taz Network's Official Spotify Playlist: http://spoti.fi/2rDabxJ Turn on the bell to be the first to listen to new music!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C4GGx--QFr8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C4GGx--QFr8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C4GGx--QFr8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taz Network",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-12T18:06:46Z"
+      }
+    }
+  ]
+}

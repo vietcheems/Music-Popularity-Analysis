@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "FaxEuQ5ejj1l7TdXqZnRrsWXBOY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EPWP8bem00UOWo5Im5JPBzRksKc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qc9c12q3mrc"
+      },
+      "snippet": {
+        "publishedAt": "2014-02-14T11:00:03Z",
+        "channelId": "UC1SqP7_RfOC9Jf9L_GRHANg",
+        "title": "Avicii - Addicted To You",
+        "description": "Listen to Avicii's latest single “SOS” here: https://Avicii.lnk.to/SOS Music video by Avicii performing Addicted To You. (C) 2014 Avicii Music AB, under exclusive ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qc9c12q3mrc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qc9c12q3mrc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qc9c12q3mrc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AviciiOfficialVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-02-14T11:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4trGLJ70XnQvd76sh9Od2tP4g7Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_u6ZzvYXCH4"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-17T23:11:13Z",
+        "channelId": "UCS9r3GFS69Q3JXoYeiDCPfA",
+        "title": "Avicii - Addicted To You(Lyrics)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_u6ZzvYXCH4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_u6ZzvYXCH4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_u6ZzvYXCH4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PATOGEPI Kanal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-17T23:11:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JSW7aGcGDtzZFyPeTZhA-cZ1KWg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rIUJ0xfYnxI"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-13T17:00:18Z",
+        "channelId": "UCPHjpfnnGklkRBBTd0k6aHg",
+        "title": "Avicii Tribute Concert - Addicted To You (Live Vocals by Audra Mae)",
+        "description": "Avicii Tribute Concert celebrates the life and music of Tim Bergling - AVICII - live at Friends Arena in Stockholm, Sweden together with +50000 fans from all over ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rIUJ0xfYnxI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rIUJ0xfYnxI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rIUJ0xfYnxI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Avicii",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-13T17:00:18Z"
+      }
+    }
+  ]
+}

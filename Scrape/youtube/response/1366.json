@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "IX5jNegmI7YEM4Y4SJc_9hUudGk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bqND__215dBlH9AKPhWhkX5ClBk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U9BwWKXjVaI"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-07T02:46:31Z",
+        "channelId": "UCQznUf1SjfDqx65hX3zRDiA",
+        "title": "Drake - Nice For What",
+        "description": "Music video by Drake performing Nice For What. © 2018 Young Money/Cash Money Records.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U9BwWKXjVaI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U9BwWKXjVaI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U9BwWKXjVaI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DrakeVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-07T02:46:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nRp_0VY6hiWO--ZB1kx6G2CqtZs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mlmAWdh4qoY"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-10T17:39:51Z",
+        "channelId": "UCi0LydWaEUy3Vx8flL29ebQ",
+        "title": "Drake - Nice For What (Lyrics)",
+        "description": "Stream Drake - Nice For What (Lyrics): https://open.spotify.com/track/1cTZMwcBJT0Ka3UJPXOeeN?si=LjDIueFHTzi3ud-6B60yYw Spotify Playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mlmAWdh4qoY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mlmAWdh4qoY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mlmAWdh4qoY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SyrebralVibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-10T17:39:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1f7fR3oAfMKfar9A5jbzaQWXc3Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cNt3Fd3zIWA"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-08T23:04:38Z",
+        "channelId": "UCaxvCNdSLljaLpXtvfb8u2w",
+        "title": "Drake &quot;Nice for what&quot; Wireless 2018",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cNt3Fd3zIWA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cNt3Fd3zIWA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cNt3Fd3zIWA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "King",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-08T23:04:38Z"
+      }
+    }
+  ]
+}

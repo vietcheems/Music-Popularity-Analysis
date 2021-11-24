@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "SYaRAcETTMGJZHJPzL_jE9z7nBc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-jVka2BUK-6SLE29PPpexGQQzps",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6Mgqbai3fKo"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-18T14:00:01Z",
+        "channelId": "UCGnjeahCJW1AF34HBmQTJ-Q",
+        "title": "Shakira - Chantaje (Official Video) ft. Maluma",
+        "description": "Shakira feat. Maluma - \"Chantaje\" (Official Music Video) Taken from Shakira's hit album El Dorado, out now! Listen / download at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Mgqbai3fKo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Mgqbai3fKo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Mgqbai3fKo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "shakiraVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-18T14:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "heU5G9GQSoCqkeO_mayKQiqPNwk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pMxJgBoosU0"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-28T04:00:01Z",
+        "channelId": "UCGnjeahCJW1AF34HBmQTJ-Q",
+        "title": "Shakira - Chantaje (Audio) ft. Maluma",
+        "description": "Shakira feat. Maluma - \"Chantaje\" (Cover Audio) \"El Dorado\" is available now! iTunes: http://smarturl.it/ElDoradoi Apple Music: http://smarturl.it/ElDoradoAp ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pMxJgBoosU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pMxJgBoosU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pMxJgBoosU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "shakiraVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-28T04:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uJCRuT5sHpxgRixHn1TjQ9ZWjWM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v1NJJanGEZo"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-12T13:37:03Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "Shakira - Chantaje (Lyrics) ft. Maluma",
+        "description": "Learn how to sing in only 30 days with these easy, fun video lessons! https://www.30daysinger.com/a/8328/BFzaEvmu -- Shakira - Chantaje (Lyrics) ft. Maluma ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v1NJJanGEZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v1NJJanGEZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v1NJJanGEZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-12T13:37:03Z"
+      }
+    }
+  ]
+}

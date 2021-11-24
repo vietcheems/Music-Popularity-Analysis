@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "8aBLafge8ryqEOVVCTG6TSStQuQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-0dvnWQzeU9MnsiL09JGVHKOJkg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yP4qdefD2To"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-26T06:07:03Z",
+        "channelId": "UCiEKDhv4v0YTc-ZtpABkXZA",
+        "title": "Goo Goo Dolls - Slide [Official Music Video]",
+        "description": "Watch the official music video for Slide by Goo Goo Dolls from the album Dizzy Up the Girl. Subscribe to the channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yP4qdefD2To/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yP4qdefD2To/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yP4qdefD2To/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Goo Goo Dolls",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-26T06:07:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FBjahxPHwS3ka5pts9OyAsyOFSA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gp68qgkzAzw"
+      },
+      "snippet": {
+        "publishedAt": "2008-12-14T18:08:20Z",
+        "channelId": "UCgooyaMgiWKjSTdB2S_5Nkg",
+        "title": "Goo Goo Dolls - Slide",
+        "description": "Great song, hope you like it :) I do not own anything, music belongs to goo goo dolls.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gp68qgkzAzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gp68qgkzAzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gp68qgkzAzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Oceanbluuee97",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-12-14T18:08:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "an1yQxGvmCcgSYk7rnocZQc6qYI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4AT9WJr2wVM"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-11T18:32:26Z",
+        "channelId": "UCiEKDhv4v0YTc-ZtpABkXZA",
+        "title": "Goo Goo Dolls - &quot;Slide&quot; Live in Buffalo, NY (2004)",
+        "description": "Subscribe: http://smarturl.it/GooGooDollsSubscribe Official Website: http://www.googoodolls.com Spotify: https://smarturl.it/GooGooDollsSpotify Facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4AT9WJr2wVM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4AT9WJr2wVM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4AT9WJr2wVM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Goo Goo Dolls",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-11T18:32:26Z"
+      }
+    }
+  ]
+}

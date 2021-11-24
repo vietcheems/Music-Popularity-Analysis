@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "S-Dw1RPeFWQgrCuXQbsVCl4aOdA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SpYys_ijkrVdRe9fu7sIeqZbC_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UAsTlnjvetI"
+      },
+      "snippet": {
+        "publishedAt": "2011-06-22T15:14:08Z",
+        "channelId": "UCLq0QtlBdqB53Za7rQOTKwA",
+        "title": "Young the Giant: Cough Syrup [OFFICIAL VIDEO]",
+        "description": "Young the Giant's music video for 'Cough Syrup' from the self-titled debut album - available now on Roadrunner Records. Visit http://youngthegiant.com for more ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UAsTlnjvetI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UAsTlnjvetI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UAsTlnjvetI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Young the Giant",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-06-22T15:14:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yBT3MrUgetZu-swLB70froyuwfU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kXKBwkrnEck"
+      },
+      "snippet": {
+        "publishedAt": "2010-11-05T21:39:56Z",
+        "channelId": "UCsVcseUYbYjldc-XgcsiEbg",
+        "title": "Young The Giant - &quot;Cough Syrup&quot; (Studio Session) LIVE",
+        "description": "http://www.billboard.com/features/young-the-giant-tastemakers-live-1004125419.story Young The Giant performs \"Cough Syrup\" in this extended session of ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kXKBwkrnEck/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kXKBwkrnEck/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kXKBwkrnEck/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Billboard",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-11-05T21:39:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HpHKxDVmi3M-oKGMSeSOKalzNOU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e2qYWdLdWbo"
+      },
+      "snippet": {
+        "publishedAt": "2014-10-20T21:39:43Z",
+        "channelId": "UC8qL7MhP2culMN8IhYq5gUQ",
+        "title": "Young the Giant - Cough Syrup",
+        "description": "Life's too short to even care at all, oh I'm losing my mind losing my mind losing control, oh oh These fishes in the sea they're staring at me oh oh Oh oh oh oh A ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e2qYWdLdWbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e2qYWdLdWbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e2qYWdLdWbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "sh4ggy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-10-20T21:39:43Z"
+      }
+    }
+  ]
+}

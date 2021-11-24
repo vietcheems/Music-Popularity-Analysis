@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "kLQPKWV_WRzWobj6BBTZ_cV8IeY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-UnG1CDcHy4u7d1trEQr9ylOlD0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s0U578ReOU8"
+      },
+      "snippet": {
+        "publishedAt": "2014-03-03T05:24:09Z",
+        "channelId": "UCPd9tWDQ3D_zZjNBYu64xXw",
+        "title": "All Me (feat. 2 Chainz &amp; Big Sean) - Drake",
+        "description": "Track - 15 Artist - Drake Album - Nothing Was the Same Released: Sep 24, 2013 ℗ 2013 Cash Money Records Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s0U578ReOU8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s0U578ReOU8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s0U578ReOU8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "wifi Pictures",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-03-03T05:24:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lsfq-Gccw0IVqAfAu2HQaxgeVto",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tVQAgu364RA"
+      },
+      "snippet": {
+        "publishedAt": "2013-08-01T08:37:44Z",
+        "channelId": "UCUaBe32IL365Njzth_gKiRQ",
+        "title": "Drake - All Me ft. 2 Chainz &amp; Big Sean (LYRICS)",
+        "description": "For more new music: http://CantStopHipHop.com Like us on Facebook: http://Facebook.com/DailyNewMusic Follow us on Twitter: http://Twitter.com/OfficialDNHH ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tVQAgu364RA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tVQAgu364RA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tVQAgu364RA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SuperiorLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-08-01T08:37:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dPvGaxyhwu3luFURr-fKio6i3OM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "23SBwYMFd0U"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-22T17:46:26Z",
+        "channelId": "UCbqcttio8AAiMoyMomPmUnA",
+        "title": "All Me - Drake ft. 2 Chainz &amp; Big Sean (ORIGINAL)",
+        "description": "NOTE: THIS WAS NOT MADE BY ME. FULL CREDIT TO THE MAKERS OF THIS SONG.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/23SBwYMFd0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/23SBwYMFd0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/23SBwYMFd0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Music For You",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-22T17:46:26Z"
+      }
+    }
+  ]
+}

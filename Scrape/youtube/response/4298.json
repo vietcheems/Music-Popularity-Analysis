@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "zwUbwcrL8EE2NPQQXl_jyInNp5I",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CSopV9mueB-rqCjlRBer0mkgdP4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X9YMU0WeBwU"
+      },
+      "snippet": {
+        "publishedAt": "2011-08-17T01:20:44Z",
+        "channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+        "title": "Lady Gaga - Yoü And I (Official Music Video)",
+        "description": "LADY GAGA / JOANNE NEW ALBUM / OUT NOW iTunes: http://smarturl.it/Joanne Apple Music: http://smarturl.it/Joanne.ap Spotify: http://smarturl.it/Joanne.sp ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X9YMU0WeBwU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X9YMU0WeBwU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X9YMU0WeBwU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LadyGagaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-08-17T01:20:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Efly7ebdUDWRF_-3iluMd5W4Zng",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wYxW3bJGj0k"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-24T15:25:44Z",
+        "channelId": "UC8DBdOsq1zu-PbKHG8kNV0g",
+        "title": "You &amp; I - Lady Gaga (Lyrics) 🎵",
+        "description": "Lyrics: \"You & I\" https://pillowlyrics.com/you-and-i-lady-gaga-born-this-way-version/ VISIT OUR OFFICIAL LYRICS WEBSITE: https://www.pillowlyrics.com/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wYxW3bJGj0k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wYxW3bJGj0k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wYxW3bJGj0k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pillow",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-24T15:25:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7xp8Km5KO_-sy1H9cZHsK7wcpAM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oGEwc4xap0E"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-12T15:34:08Z",
+        "channelId": "UCY5zVjzevP18SxVARv7Hy9A",
+        "title": "Lady Gaga - You And I (Audio)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oGEwc4xap0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oGEwc4xap0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oGEwc4xap0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GagaTube GagaTube",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-12T15:34:08Z"
+      }
+    }
+  ]
+}

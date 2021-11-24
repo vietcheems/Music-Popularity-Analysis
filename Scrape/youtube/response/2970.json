@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Yx-rKCQ6jptvAk1MbFwSNUFMkEs",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Req1wZcWLoWswBrVIzC4V_fGr5Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WbsDPbr8qoM"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-27T00:32:52Z",
+        "channelId": "UCv7Bgr5Mq-dPYu-Ol4AocEA",
+        "title": "Shinedown - Second Chance (Official Video)",
+        "description": "The official video for Shinedown's \"Second Chance\" from the album, 'The Sound of Madness' - available now on Atlantic Records. Download it now at ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WbsDPbr8qoM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WbsDPbr8qoM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WbsDPbr8qoM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Shinedown",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-27T00:32:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SuR7gVUaq5FtDf15hpJfFoiPn8s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4xo_rKVIvIg"
+      },
+      "snippet": {
+        "publishedAt": "2009-06-18T16:48:35Z",
+        "channelId": "UCwHng0BCOgSu0H394nB6UZg",
+        "title": "Second Chance Shinedown Lyrics",
+        "description": "This is Second Chance by Shinedown lyrics. I know it says she waved it supposed to be shooting so don't yell at me about that.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4xo_rKVIvIg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4xo_rKVIvIg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4xo_rKVIvIg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MusicLoverChick605",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-06-18T16:48:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-booZC1YVnjfK3KYhyhBF6_EH0Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Di7baJWX-qQ"
+      },
+      "snippet": {
+        "publishedAt": "2009-06-28T22:37:07Z",
+        "channelId": "UCNw5tMvyb4OHrC07G-_PUjw",
+        "title": "Second Chance - Shinedown (with lyrics)",
+        "description": "My eyes are open wide By the way I made it through the day I watch the world outside By the way I'm leaving out today I just saw Haley's Comet, she waved Said ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Di7baJWX-qQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Di7baJWX-qQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Di7baJWX-qQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "McDrinkable",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-06-28T22:37:07Z"
+      }
+    }
+  ]
+}

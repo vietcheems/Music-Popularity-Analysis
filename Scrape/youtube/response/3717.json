@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "a_x8-xKvLDu62h_4YAS1Qgz9KBA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "366Dmgw9nFJl_z1bknABwUWzVLg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I_2D8Eo15wE"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-05T20:12:17Z",
+        "channelId": "UC9Jp6PiV_9XRstuySjRAPag",
+        "title": "Ram Jam - Black Betty",
+        "description": "Official music video for “Black Betty” by Ram Jam Listen to Ram Jam: https://RamJam.lnk.to/bestofYD Subscribe to Ram Jam on YouTube: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I_2D8Eo15wE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I_2D8Eo15wE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I_2D8Eo15wE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RamJamVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-05T20:12:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SrVuPwLm5HslyVAI-BruEommixM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4cn_woPvjQI"
+      },
+      "snippet": {
+        "publishedAt": "2014-01-10T08:00:01Z",
+        "channelId": "UC9Jp6PiV_9XRstuySjRAPag",
+        "title": "Ram Jam - Black Betty (Official Audio)",
+        "description": "Black Betty” by Ram Jam Listen to Ram Jam: https://RamJam.lnk.to/bestofYD Subscribe to Ram Jam on YouTube: https://RamJam.lnk.to/subscribeYD Follow ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4cn_woPvjQI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4cn_woPvjQI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4cn_woPvjQI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RamJamVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-01-10T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "33lRKM1Lsf3i4-R0ke9TGIXRa0w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nU1VfYYKMDk"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-08T12:00:55Z",
+        "channelId": "UCLoKOqxJq1oUZ42xqoE4kIA",
+        "title": "Spiderbait - Black Betty (Official Video)",
+        "description": "Official music video by Spiderbait performing Black Betty. Listen To Spiderbait: Spotify: https://lnk.to/SpiderbaitYT/spotify Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nU1VfYYKMDk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nU1VfYYKMDk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nU1VfYYKMDk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SpiderbaitVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-08T12:00:55Z"
+      }
+    }
+  ]
+}

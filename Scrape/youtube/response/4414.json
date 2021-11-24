@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "bo262RzUL0j9_3GAEB0jVNgyaF0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B5xdBAWZRXg45wEW_sQ3XYFir48",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tZsia6-aBZM"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-06T05:00:11Z",
+        "channelId": "UC6G2vAJrt407lwiynW116Eg",
+        "title": "The Kid LAROI - ALWAYS DO (Official Video)",
+        "description": "Official video for \"ALWAYS DO\" by The Kid LAROI. Listen & Download \"F*CK LOVE (SAVAGE)\" out now: https://TheKidLaroi.lnk.to/Savage Amazon Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tZsia6-aBZM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tZsia6-aBZM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tZsia6-aBZM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Kid LAROI.",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-06T05:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u2Wk7AJXsqthzaZFqQcnKk4PVnE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ozZuHzYIsqY"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-06T16:47:35Z",
+        "channelId": "UCKI8WnM4EvHoKf9r5DVo7uw",
+        "title": "The Kid LAROI - ALWAYS DO (Lyrics)",
+        "description": "The Kid LAROI - ALWAYS DO (Lyrics) Help us reach 1000000 subscribers! Subscribe and turn on notifications to stay updated with new uploads.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ozZuHzYIsqY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ozZuHzYIsqY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ozZuHzYIsqY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "VibesOnly",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-06T16:47:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nnSF8RTFBKWtxZKR4xqUKp4Fvlo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9U_0rNRlgkI"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-06T05:00:01Z",
+        "channelId": "UCqPbkJrjrsQb_RGlC_4HEgg",
+        "title": "The Kid LAROI - ALWAYS DO (Official Audio)",
+        "description": "Official audio for \"ALWAYS DO\" by The Kid LAROI. Listen & Download \"F*CK LOVE (SAVAGE)\" out now: https://TheKidLaroi.lnk.to/Savage Amazon Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9U_0rNRlgkI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9U_0rNRlgkI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9U_0rNRlgkI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheKidLAROIVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-06T05:00:01Z"
+      }
+    }
+  ]
+}

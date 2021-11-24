@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Aq3_HZeH9HRX9OWX3A0P7v5HQhg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xyi-_8HPGVVLZ5biTrJIs7JK8HM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D5drYkLiLI8"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-16T05:00:01Z",
+        "channelId": "UCYpVqLSvfseUqb2URAkexlw",
+        "title": "Kygo &amp; Selena Gomez - It Ain&#39;t Me (Audio)",
+        "description": "Listen to the official audio for \"It Ain't Me\" by Kygo and Selena Gomez Subscribe here: https://goo.gl/CMVzq8 Music video by Kygo, Selena Gomez performing It ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D5drYkLiLI8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D5drYkLiLI8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D5drYkLiLI8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KygoOfficialVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-16T05:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SpOeTJ2celCrjOEipkvwOKu2Nck",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u3VTKvdAuIY"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-24T17:24:17Z",
+        "channelId": "UCYpVqLSvfseUqb2URAkexlw",
+        "title": "Kygo, Selena Gomez - It Ain&#39;t Me (Official Video)",
+        "description": "\"It Ain't Me | Kygo x Selena Gomez | Official music video.\" https://SonyMusic.lnk.to/ItAintMeKygo Written and Directed by Phillip R. Lopez Executive Produced by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u3VTKvdAuIY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u3VTKvdAuIY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u3VTKvdAuIY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KygoOfficialVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-24T17:24:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B73N_bX_D3a-mZCNe-AjelbOPCM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j6sSQq7a_Po"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-16T14:00:41Z",
+        "channelId": "UC1iqebKNH36JIdBIjEy8-iQ",
+        "title": "Kygo, Selena Gomez – It Ain&#39;t Me (Lyrics) 🎵",
+        "description": "\"Kygo, Selena Gomez – It Ain't Me (Lyrics) \" Hit the to join the notification squad! Support Pixl Networks http://snapchat.com/add/pixlnetworks ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j6sSQq7a_Po/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j6sSQq7a_Po/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j6sSQq7a_Po/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pixl Networks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-16T14:00:41Z"
+      }
+    }
+  ]
+}

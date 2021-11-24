@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "33jiVYmQp_IYxZRCX1RaUh6auhc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fJmJs2pCqwWPXv7v3OCmeY-18bU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ENXvZ9YRjbo"
+      },
+      "snippet": {
+        "publishedAt": "2009-06-17T05:26:28Z",
+        "channelId": "UCjXfz0RBwagVrDo7uL6liqg",
+        "title": "Weezer - Say It Ain&#39;t So (Version 3)",
+        "description": "REMASTERED IN HD! Read the story behind the Blue Album: https://www.udiscovermusic.com/stories/weezer-blue-album-power-pop/ Listen to more from ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ENXvZ9YRjbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ENXvZ9YRjbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ENXvZ9YRjbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WeezerVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-06-17T05:26:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GUHRr6O7N3adNnGdxkmIYhZlyB4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zo-x4PU8S6g"
+      },
+      "snippet": {
+        "publishedAt": "2009-11-08T14:56:44Z",
+        "channelId": "UCplQiAj_e7WQvEnjMriCFyA",
+        "title": "Weezer - Say It Ain&#39;t So",
+        "description": "From the 'Blue Album'.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zo-x4PU8S6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zo-x4PU8S6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zo-x4PU8S6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Andrew",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-11-08T14:56:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "t2CCmyPp_66ZkjEX6OqF7uniE6Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e_Ruon4JQzM"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-09T20:00:01Z",
+        "channelId": "UCjXfz0RBwagVrDo7uL6liqg",
+        "title": "Weezer - Say It Ain’t So (Live on the Honda Stage at the iHeart Radio Theater in LA)",
+        "description": "Weezer performs “Say It Ain't So” Live on the Honda Stage at the iHeart Radio Theater in LA, presented by the launch of Guitar Hero Live and the all-new 2016 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e_Ruon4JQzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e_Ruon4JQzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e_Ruon4JQzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "WeezerVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-09T20:00:01Z"
+      }
+    }
+  ]
+}

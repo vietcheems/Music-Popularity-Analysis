@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "uJ8KN3WSyZ062wBQqvlW7XkYFFw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UwRTdnNg9E3xCICLNg7LcdJNKuY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GNGbmg_pVlQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-10T16:42:17Z",
+        "channelId": "UCNNxfgVzt-V3jVuRtNU83_g",
+        "title": "Selena Gomez - Back to You (Lyrics)",
+        "description": "Selena Gomez - Back to You (Lyric Video) Best new music playlist: https://youtube.com/playlist?list=PL-FVH5VWgRPFwTdv9VSsft_Ks5AyxXY2h The lead ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GNGbmg_pVlQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GNGbmg_pVlQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GNGbmg_pVlQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MarsMusic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-10T16:42:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VcwCuO1qZA91Ntm5ZRqtNyyRrXM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VY1eFxgRR-k"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-05T14:00:07Z",
+        "channelId": "UCjK8ORC71kwyj1DWFwril_A",
+        "title": "Selena Gomez - Back To You",
+        "description": "Get Selena's new album 'Rare', out now: http://smarturl.it/RARESG Get 'Back To You,' out now: http://smarturl.it/BackToYouSG Get exclusive Selena Gomez ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VY1eFxgRR-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VY1eFxgRR-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VY1eFxgRR-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SelenaGomezVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-05T14:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PvXhoyZW8Poh4WsyTXYs9uAEcRM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ulNswX3If6U"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-10T16:00:11Z",
+        "channelId": "UCPNxhDvTcytIdvwXWAm43cA",
+        "title": "Selena Gomez - Back To You (Lyric Video)",
+        "description": "Get 'Back To You,' out now: http://smarturl.it/13ReasonsSoundtrack Subscribe to Selena's 13 Reasons Why Playlist: http://smarturl.it/13ReasonsPlaylist Get ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ulNswX3If6U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ulNswX3If6U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ulNswX3If6U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Selena Gomez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-10T16:00:11Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "XF_skPFMDUaMDK7XNbOGplJV9aI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 406492,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v26FNAt0DPcnYA0okFjF2ZXdcVg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b6vSf0cA9qY"
+      },
+      "snippet": {
+        "publishedAt": "2013-09-20T09:50:41Z",
+        "channelId": "UCb3tJ5NKw7mDxyaQ73mwbRg",
+        "title": "Klingande - Jubel (Official Video HD)",
+        "description": "Get the single „Jubel\" here: iTunes: http://smarturl.it/jubel-klingande Amazon digital: http://amzn.to/17Ltnds Directed by Michael Johansson & Johan Rosell ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b6vSf0cA9qY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b6vSf0cA9qY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b6vSf0cA9qY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kontor.TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-09-20T09:50:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H_BO_6TJO3iVz1YNWlqmWw5kVck",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0JDjtM10j7w"
+      },
+      "snippet": {
+        "publishedAt": "2013-11-26T16:01:56Z",
+        "channelId": "UC1FguJZlOL607aqroEABhrw",
+        "title": "Klingande - Jubel (Lyrics - Radio Edit)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0JDjtM10j7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0JDjtM10j7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0JDjtM10j7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tiago Silva",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-11-26T16:01:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4QiRtslIkdemgbauZWWKAg5YM28",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XYmLhn3qJ6Y"
+      },
+      "snippet": {
+        "publishedAt": "2013-03-16T22:29:21Z",
+        "channelId": "UCOX8OMkI7ULP7K8bfB_HTHA",
+        "title": "Klingande - Jubel (Original Mix)",
+        "description": "Jubel by Klingande available here : https://itunes.apple.com/fr/album/jubel-single/id632399772 You can find the video clip here ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XYmLhn3qJ6Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XYmLhn3qJ6Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XYmLhn3qJ6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Klingande",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-03-16T22:29:21Z"
+      }
+    }
+  ]
+}

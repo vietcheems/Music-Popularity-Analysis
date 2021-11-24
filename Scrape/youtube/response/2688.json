@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "0k2eyNnlrS8MFYH6Lf9NpQ_Qy4g",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 815878,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QiQmjCpFLPptzAscBToFYlvPdFQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FhF9RwkHAJw"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-31T05:33:34Z",
+        "channelId": "UCfM3zsQsOnfWNUppiycmBuw",
+        "title": "Kamikaze [Official Audio]",
+        "description": "From the album Kamikaze, out now: http://shady.sr/Kamikaze http://eminem.com http://facebook.com/eminem http://twitter.com/eminem ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FhF9RwkHAJw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FhF9RwkHAJw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FhF9RwkHAJw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EminemMusic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-31T05:33:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "n_GqTID95jIaXTQsmqYu2Zr-Bqc",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLLvJ2C2ZIgD-ST3X-69t6L3cVOgW0HdOg"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-18T00:14:55Z",
+        "channelId": "UC0BFD0J3xoYph3pG0iwW-dg",
+        "title": "Eminem kamikaze (full Album 2018 explicit)",
+        "description": "Eminem - tried not 2 over think this 1... enjoy. (Released on August 31 2018)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c2AhsySa-8E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c2AhsySa-8E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c2AhsySa-8E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chris Tiger Harris",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-18T00:14:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xcw81TGGxGJuiQJp4-1K6f_2wdM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D7GEvpjOPmI"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-31T20:15:50Z",
+        "channelId": "UC4mdA_jwebuqkhNH0I_c2lg",
+        "title": "Eminem - Kamikaze (Lyrics)",
+        "description": "Eminem - Kamikaze lyrics from the album Kamikaze (2018) Due to the videos being made after the first listen of a song and a day or two after its release there ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D7GEvpjOPmI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D7GEvpjOPmI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D7GEvpjOPmI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sam Iverson",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-31T20:15:50Z"
+      }
+    }
+  ]
+}

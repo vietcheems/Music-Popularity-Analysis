@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "e9sa57cO0ideVK9dBYeCtRqVEas",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 62442,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hgh6osXWPHRrsi8ozEtctt6BOtk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aX0C4QjRR_0"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-09T20:55:22Z",
+        "channelId": "UC77M702Z_1zGNIP4xtqdRrw",
+        "title": "Sharp Dressed Man by ZZ Top REMASTERED",
+        "description": "This is a remastering of ZZ Top's \"Sharp Dressed Man\" from \"ELIMINATOR\" on Vinyl LP. GAWD this is slick. I didn't realise how slick it was, even at the time.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aX0C4QjRR_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aX0C4QjRR_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aX0C4QjRR_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DrTomoculus",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-09T20:55:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zGXcMAcT8DlnTFRxu0fkvxHqkAU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7wRHBLwpASw"
+      },
+      "snippet": {
+        "publishedAt": "2013-07-01T23:30:47Z",
+        "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
+        "title": "ZZ Top - Sharp Dressed Man (Official Music Video)",
+        "description": "You're watching the official music video for ZZ Top - \"Sharp Dressed Man\" from the album 'Eliminator'. Subscribe to the Rhino Channel!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7wRHBLwpASw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7wRHBLwpASw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7wRHBLwpASw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RHINO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-07-01T23:30:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W4YNEmCmO12d-F7ndgtA1Fg2rWI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Pn2-b_opVTo"
+      },
+      "snippet": {
+        "publishedAt": "2010-01-21T03:50:43Z",
+        "channelId": "UCzVuvD59HHCISddvQSF9JWQ",
+        "title": "ZZ Top Sharp Dressed Man",
+        "description": "Support me on Facebook & Twitter! FACEBOOK: https://www.facebook.com/Nathan-J-Gregory-1780178258885519/?ref=aymt_homepage_panel TWITTER: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Pn2-b_opVTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Pn2-b_opVTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Pn2-b_opVTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "halostar120",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-01-21T03:50:43Z"
+      }
+    }
+  ]
+}

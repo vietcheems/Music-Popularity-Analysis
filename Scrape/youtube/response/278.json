@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "hORCq4qWwgzo5vJQo-QrwHbhZI0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wKdkzg9RGP-nlCBQMEq71KnCgdQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dvgZkm1xWPE"
+      },
+      "snippet": {
+        "publishedAt": "2008-08-04T09:36:03Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Viva La Vida (Official Video)",
+        "description": "Coldplay - Viva La Vida is taken from the album Viva La Vida or Death and All His Friends released in 2008 (hear the album at https://smarturl.it/coldplayviva) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dvgZkm1xWPE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dvgZkm1xWPE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dvgZkm1xWPE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-08-04T09:36:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MCFEZtdDmDty3Z_RxOpS-7-AT3U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a1EYnngNHIA"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-11T12:33:57Z",
+        "channelId": "UC4JUzmhmiGmPl7uzLpzODyw",
+        "title": "Coldplay - Viva La Vida (Lyrics)",
+        "description": "Coldplay - Viva La Vida (Lyrics) Stream/Download: https://lnk.to/VivaLaVida Follow our Spotify Playlist: https://loku.lnk.to/Spotify Coldplay ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a1EYnngNHIA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a1EYnngNHIA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a1EYnngNHIA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Loku",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-11T12:33:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zsnJ5NYjj7Gks4YuQciClpysIaU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-ZvsGmYKhcU"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-18T16:08:34Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Viva La Vida (Live In São Paulo)",
+        "description": "Coldplay - Viva La Vida (Live in São Paulo) is taken from the Live In São Paulo concert filmed on 7 and 8 November 2017, part of the Butterfly Package, which ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-ZvsGmYKhcU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-ZvsGmYKhcU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-ZvsGmYKhcU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-18T16:08:34Z"
+      }
+    }
+  ]
+}

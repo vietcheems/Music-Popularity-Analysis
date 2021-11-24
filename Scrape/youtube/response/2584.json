@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "JHYG_CkzM42tW8CliKDCoKUZJ9o",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RL86qgT97gmAB0xk5iche28mCfM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zTFBJgnNgU4"
+      },
+      "snippet": {
+        "publishedAt": "2012-02-03T08:00:00Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Charlie Brown (Official Video)",
+        "description": "Coldplay - Charlie Brown is taken from the album Mylo Xyloto released in 2011 (hear the album at https://smarturl.it/cpmyloxyloto) Subscribe for more content ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zTFBJgnNgU4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zTFBJgnNgU4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zTFBJgnNgU4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-02-03T08:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8h_9nTGWD66VRwQ2-haXJFY7rTg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VV2GaMLv1g4"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-27T16:39:46Z",
+        "channelId": "UCaS9HAe-WWmuujU186VdsSw",
+        "title": "Coldplay - Charlie Brown (Lyrics)",
+        "description": "Thank you for watching!! Support me by subscribing and don't forget to hit that like button!! Turn on notifications to stay updated with new uploads!! Coldplay ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VV2GaMLv1g4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VV2GaMLv1g4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VV2GaMLv1g4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AweLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-27T16:39:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bIJqMQ1FWOHYTbuyZLrfokqa2yY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KhKxtv1FiUM"
+      },
+      "snippet": {
+        "publishedAt": "2011-10-27T05:21:55Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Charlie Brown (Live in Madrid 2011)",
+        "description": "Coldplay - Charlie Brown (Live in Madrid 2011) is taken from a premiere concert streamed live on YouTube. The programme was titled, \"Coldplay Live: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KhKxtv1FiUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KhKxtv1FiUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KhKxtv1FiUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-10-27T05:21:55Z"
+      }
+    }
+  ]
+}

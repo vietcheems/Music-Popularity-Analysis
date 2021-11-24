@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "7w0-g83DLy5AtpchVLgqnZxDQD4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fDJYj4W9f88cIZSzWZNV8240LVg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Nj2U6rhnucI"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-26T13:30:12Z",
+        "channelId": "UC-J-KZfRV8c13fOCkhXdLiQ",
+        "title": "Dua Lipa - Break My Heart (Official Video)",
+        "description": "The official music video for Dua Lipa - Break My Heart Taken from her second studio album 'Future Nostalgia' released in 2020, which featured the hit singles ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nj2U6rhnucI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nj2U6rhnucI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nj2U6rhnucI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dua Lipa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-26T13:30:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rwFoVZyjAscF1ddjIY8NQdlYyB4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y6feSJsCxIw"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-27T18:50:17Z",
+        "channelId": "UCn7Z0uhzGS1KjnO-sWml_dw",
+        "title": "Dua Lipa - Break My Heart (Lyrics)",
+        "description": "Download Dua Lipa - Break My Heart (Lyrics): https://dualipa.co/breakmyheart ✖ BEST MUSIC ON SPOTIFY: https://spoti.fi/2LrpDX7 ✖ FOLLOW MY AWESOME ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y6feSJsCxIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y6feSJsCxIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y6feSJsCxIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Unique Vibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-27T18:50:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RmdR-KYbrDVDBAAPAzqWaDwspLY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qmLRI9_ZmIE"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-26T18:28:04Z",
+        "channelId": "UC4XJeGGdXj0vA4CxDDJ8J_A",
+        "title": "Dua Lipa - Break My Heart (Lyrics)",
+        "description": "Follow Cakes & Eclairs on Spotify: http://bit.ly/CakesEclairs Dua Lipa - Break My Heart (Lyrics) Download / Stream: https://dualipa.co/breakmyheart Don't ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qmLRI9_ZmIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qmLRI9_ZmIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qmLRI9_ZmIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cakes & Eclairs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-26T18:28:04Z"
+      }
+    }
+  ]
+}

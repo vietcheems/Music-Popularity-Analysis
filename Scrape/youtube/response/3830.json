@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "LY45Os3-j-KSAZfJrIcpBsON774",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dcSp1fdyBLVv7x-KwARrSG9o3nI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3xUfCUFPL-8"
+      },
+      "snippet": {
+        "publishedAt": "2013-12-16T19:19:09Z",
+        "channelId": "UC9zX2xZIJ4cnwRsgBpHGvMg",
+        "title": "Beyoncé - XO (Video)",
+        "description": "BEYONCÉ Platinum Edition. Available on iTunes: http://beyonce.lk/itunesplatinum Available on Amazon: http://beyonce.lk/platinumam Box Set includes : 2 New ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3xUfCUFPL-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3xUfCUFPL-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3xUfCUFPL-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BeyoncéVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-12-16T19:19:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pfo6qxgIUoWNNJE5uCWuCUiwWY8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0uDgICa14Ek"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-23T21:50:33Z",
+        "channelId": "UCAIxiDrv_O1TTJio9D4eqpA",
+        "title": "Beyoncé - XO (Audio)",
+        "description": "Song: XO Album: BEYONCÉ Artist: Beyoncé Year: 2013 Uploader: AudioToEnjoy. All Rights to: © VEVO © Beyoncé © 2014 AudioToEnjoy, All Rights Reserved.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0uDgICa14Ek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0uDgICa14Ek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0uDgICa14Ek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AudioToEnjoy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-23T21:50:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4yI82mws3sr_eV4Ho6oZZrd2FG8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wwui7aRsooE"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-25T01:30:47Z",
+        "channelId": "UCqQo7ewe87aYAe7ub5UqXMw",
+        "title": "Beyonce Live Performance - Kobe Bryant Memorial Service",
+        "description": "SUBSCRIBE, LIKE & COMMENT for MORE! NEW HOH BACK TO SCHOOL MERCH: https://hoh.world/rub4g Check out our latest products: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wwui7aRsooE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wwui7aRsooE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wwui7aRsooE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "House of Highlights",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-25T01:30:47Z"
+      }
+    }
+  ]
+}

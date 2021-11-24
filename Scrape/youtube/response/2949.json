@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "DIrhydH085bt7Ef_ptOd1C6Mnn0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pT-w04bWahG0BHmWyjvMFF_KU6k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HCURqfqL8sI"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-09T20:00:11Z",
+        "channelId": "UCnc6db-y3IU7CkT_yeVXdVg",
+        "title": "J. Cole – Fire Squad (Official Music Video)",
+        "description": "J. Cole – Fire Squad (Official Music Video) Listen to 2014 Forest Hills Drive now: https://dreamville.lnk.to/2014FHD Buy 2014 Forest Hills Drive now: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HCURqfqL8sI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HCURqfqL8sI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HCURqfqL8sI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "J. Cole",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-09T20:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bwz1mXWprfEE7lPX7lVPP4qFVFw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vs8I3Z9Vh5c"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-10T16:13:43Z",
+        "channelId": "UC6Ibj3Vm_35X98B0BVH336g",
+        "title": "J. Cole - Fire Squad (Explicit)",
+        "description": "Song: Fire Squad Artist: J. Cole Album: 2014 Forest Hills Drive Album Release Date: December 9, 2014 © 2014 Live Nation Entertainment, Vivendi, & Sony ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vs8I3Z9Vh5c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vs8I3Z9Vh5c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vs8I3Z9Vh5c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "That One Album Uploader",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-10T16:13:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OTKMhutP3NFEUA9OKtIqmjer-LU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W6sRiOID9eY"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-11T21:03:42Z",
+        "channelId": "UCgoo2fou47DXl5HoM07jy3Q",
+        "title": "J. Cole - Fire Squad  [LYRICS ON SCREEN]",
+        "description": "THIS VIDEO HAS THE REAL AUDIO OF THE SONG! Track #6 on the album \"Forest Hill Drive\".",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W6sRiOID9eY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W6sRiOID9eY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W6sRiOID9eY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Frodo Baggins",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-03-11T21:03:42Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "vJxtYFK21W1B1SOOr4V-VwNpO9o",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 952568,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nWtjx9zL51R2lelP1A4tJFMqtDA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AE005nZeF-A"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-27T21:48:02Z",
+        "channelId": "UCqf-kTp9ERV5T1rPayno7LA",
+        "title": "Frank Ocean - Ivy",
+        "description": "Frank Ocean - Ivy ℗ Boys Don't Cry Released August 20, 2016.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AE005nZeF-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AE005nZeF-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AE005nZeF-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Blonded",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-27T21:48:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PbSY5yxeTJ5EkExIHTzfar4mdMc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G92MYjjhmcQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-04T17:36:39Z",
+        "channelId": "UCS1b_d6RipU_DPjKbUhynlA",
+        "title": "Frank Ocean- Ivy (Lyrics)",
+        "description": "I was inspired by Niecy (iNiecyLovesYou) P.s. Big Fan.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G92MYjjhmcQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G92MYjjhmcQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G92MYjjhmcQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Glxy6Savage",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-04T17:36:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GAk_a_R0UtVajPCLz1n_CwGI4fs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ytCKYKPBjB0"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-12T18:15:33Z",
+        "channelId": "UCa64gk-WeYmcgPTY-v5wRYQ",
+        "title": "[Lyrics+Vietsub] Ivy-Frank Ocean",
+        "description": "Bài hát này đề cập đến những sai lầm và việc khám phá một mối quan hệ thất bại. Frank và người anh ấy đề cập đến dường như đã lớn lên và dần dần xa nhau ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ytCKYKPBjB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ytCKYKPBjB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ytCKYKPBjB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Holy Moly",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-12T18:15:33Z"
+      }
+    }
+  ]
+}

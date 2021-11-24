@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "S3UYrhkP7N6ea9wmLz_H0YROqmk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lZ2g4QpLKb1Hw-_QqyO3S2_qvFU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fwK7ggA3-bU"
+      },
+      "snippet": {
+        "publishedAt": "2012-06-26T16:00:10Z",
+        "channelId": "UCN1hnUccO4FD5WfM7ithXaw",
+        "title": "Maroon 5 - One More Night (Official Music Video)",
+        "description": "Buy Now! iTunes: http://smarturl.it/1545s2 Amazon: http://smarturl.it/sxgjyq Sign up for updates: http://smarturl.it/Maroon5.News Music video by Maroon 5 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fwK7ggA3-bU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fwK7ggA3-bU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fwK7ggA3-bU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Maroon5VEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-06-26T16:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LmGzh-glndV9Z2GCwAuvtzhQaYo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7CPYoGtI75Q"
+      },
+      "snippet": {
+        "publishedAt": "2012-06-19T07:00:09Z",
+        "channelId": "UCN1hnUccO4FD5WfM7ithXaw",
+        "title": "Maroon 5 - One More Night (Lyric Video)",
+        "description": "Sign up for updates: http://smarturl.it/Maroon5.News Music video by Maroon 5 performing One More Night. (C) 2012 A&M/Octone Records.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7CPYoGtI75Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7CPYoGtI75Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7CPYoGtI75Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Maroon5VEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-06-19T07:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "54-J7syxO_Eg0G0im6BK99ZsRVY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "deExiEuOecA"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-19T01:37:53Z",
+        "channelId": "UCFdQrTKm-47g0j12brGNbXw",
+        "title": "[Vietsub] One More Night - Maroon 5",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/deExiEuOecA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/deExiEuOecA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/deExiEuOecA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Retro Video",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-19T01:37:53Z"
+      }
+    }
+  ]
+}

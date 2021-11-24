@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "UsJB99DexQDSSgFJ3Vdh9vOXuZc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oCUQSlmVh2HzfRMO3ajK7fK8KhI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s31XTrGJchQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-18T13:00:09Z",
+        "channelId": "UCFb_9tIgnxz1OPhxzipGIbA",
+        "title": "James Bay - Us",
+        "description": "Official Music Video by James Bay performing “Us” Watch the Official Music Video for my new single “Chew On My Heart” now: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s31XTrGJchQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s31XTrGJchQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s31XTrGJchQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JamesBayVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-18T13:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X8WmTlml21eZfFMxUO88jFmsyNw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D4oS_-tOvU0"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-01T20:21:42Z",
+        "channelId": "UChBmThR-wxtDfbXLjGf9eVw",
+        "title": "James Bay  - Us (Lyrics)",
+        "description": "One of my favorites songs of 2018, beautiful and meaningful! James Bay - Us LYRICS: Sometimes I'm beaten Sometimes I'm broken 'Cause sometimes this is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D4oS_-tOvU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D4oS_-tOvU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D4oS_-tOvU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chill Harder",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-01T20:21:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QegeotQhJ-gCoA7YeZUna1i_pgM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ss-tNM2NXd0"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-23T15:57:45Z",
+        "channelId": "UCFb_9tIgnxz1OPhxzipGIbA",
+        "title": "James Bay, Alicia Keys - Us (The Voice 2018)",
+        "description": "Us (The Voice 2018) Song Available Here: https://JamesBay.lnk.to/Us-AK Keep up with James https://twitter.com/JamesBayMusic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ss-tNM2NXd0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ss-tNM2NXd0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ss-tNM2NXd0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JamesBayVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-23T15:57:45Z"
+      }
+    }
+  ]
+}

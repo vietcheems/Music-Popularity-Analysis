@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "K9SLNbk3zewuGpwSuqWxpdedGZk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "awiQBnJUTa-Ic5eMcNMDgDnMeMw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3CBhrZf2AKM"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-11T14:49:10Z",
+        "channelId": "UC7mbb-zifpyGuIic9vnt_tA",
+        "title": "Taylor Swift -  I Did Something Bad (Live at #reputation Stadium Tour 2018)",
+        "description": "TaylorSwift #rep #IDSB.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3CBhrZf2AKM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3CBhrZf2AKM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3CBhrZf2AKM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taylor Swift World",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-11T14:49:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nO5tba__qaF7wpmo5MEgU6YvzAg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AjR4KJp9ymE"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-04T13:01:14Z",
+        "channelId": "UCdtQgkWMG6_F567JrXoqGUA",
+        "title": "Taylor Swift - I Did Something Bad Audio",
+        "description": "More songs from Reputation album here: Don't Blame Me - https://www.youtube.com/watch?v=N5hYGWT95J8 So It Goes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AjR4KJp9ymE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AjR4KJp9ymE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AjR4KJp9ymE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Froter Crystal",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-04T13:01:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MHciLEAcIVNRfpHCfEPLNNR7Cw4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sv_I15_kZHw"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-18T15:54:42Z",
+        "channelId": "UCbITZmZWvs4L7GcHXqRA-eQ",
+        "title": "Taylor Swift - I Did Something Bad (Lyrics)",
+        "description": "Taylor Swift - I Did Something Bad (Lyrics) -- All the rights go to their rightful owners. No copyright intended. Stream \"Lover\" ! ( and reputation when Taylor ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sv_I15_kZHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sv_I15_kZHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sv_I15_kZHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "magioula 243",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-18T15:54:42Z"
+      }
+    }
+  ]
+}

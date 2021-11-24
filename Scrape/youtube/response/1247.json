@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "gmEXiG5q8FZExPkR2bQFEVaqcYA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Xma2upouw4mw8_CDDFgwyuwpG_I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mH76VvWkNwA"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-16T20:55:08Z",
+        "channelId": "UCm1dsgJNnhaLkY3uAdqN4mA",
+        "title": "Chris Brown - Questions (Official Video)",
+        "description": "\"Questions“ available everywhere now! Apple Music - http://smarturl.it/CBQuestions/applemusic Spotify - http://smarturl.it/CBQuestions/spotify Amazon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mH76VvWkNwA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mH76VvWkNwA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mH76VvWkNwA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChrisBrownVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-16T20:55:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nIoB3sxS3C9PwyZgfrAWRwHl1JA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zbt7KpM538I"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-16T04:00:02Z",
+        "channelId": "UCm1dsgJNnhaLkY3uAdqN4mA",
+        "title": "Chris Brown - Questions (Audio)",
+        "description": "\"Questions“ available everywhere now! Apple Music - http://smarturl.it/CBQuestions/applemusic Spotify - http://smarturl.it/CBQuestions/spotify Amazon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zbt7KpM538I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zbt7KpM538I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zbt7KpM538I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChrisBrownVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-16T04:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VuxustRXQPwKd0v4dpzTBdmIGCI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ucscz0RlQMo"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-16T05:22:33Z",
+        "channelId": "UCE3ILT6VYu8qj20O5hHTf7Q",
+        "title": "Chris Brown - Questions (Lyrics)",
+        "description": "Buy HEARTBREAK ON A FULL MOON HERE: https://amzn.to/2C5PPXa.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ucscz0RlQMo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ucscz0RlQMo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ucscz0RlQMo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Privilege RnB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-16T05:22:33Z"
+      }
+    }
+  ]
+}

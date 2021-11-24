@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "wTqi1fYbM8EJQRHcv6tToSnBBNs",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QZLwGMAxvf5wo7fuuWna8yujKk8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ys7-6_t7OEQ"
+      },
+      "snippet": {
+        "publishedAt": "2012-10-12T15:55:06Z",
+        "channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+        "title": "Justin Bieber - Beauty And A Beat ft. Nicki Minaj (Official Music Video)",
+        "description": "Music video by Justin Bieber performing Beauty And A Beat. ©: The Island Def Jam Music Group #JustinBieber #BeautyAndABeat #Vevo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ys7-6_t7OEQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ys7-6_t7OEQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ys7-6_t7OEQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JustinBieberVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-10-12T15:55:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p3j3khyoSmdQhXXNy8vC6oZWQRo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-DPOPsDw2Y4"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-11T03:22:51Z",
+        "channelId": "UCK8e8MpoiEWZVKKjZxwsBsQ",
+        "title": "Justin Bieber ft. Nicki Minaj - Beauty And A Beat (Lyrics-Letra)",
+        "description": "Suscribe for more Lyric Videos :D.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-DPOPsDw2Y4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-DPOPsDw2Y4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-DPOPsDw2Y4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Valdrew Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-11T03:22:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "57jJtPJuAry3W6qYPE0H01wbp3g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Lf9OgcXV5cE"
+      },
+      "snippet": {
+        "publishedAt": "2012-06-18T15:40:07Z",
+        "channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+        "title": "Justin Bieber - Beauty And A Beat ft. Nicki Minaj (Official Audio)",
+        "description": "Music video by Justin Bieber performing Beauty And A Beat (Audio). © 2012 The Island Def Jam Music Group iTunes: http://smarturl.it/iBelieveDlx Amazon: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lf9OgcXV5cE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lf9OgcXV5cE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lf9OgcXV5cE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JustinBieberVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-06-18T15:40:07Z"
+      }
+    }
+  ]
+}

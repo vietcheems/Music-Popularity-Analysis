@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "3D79V8Qlx6kCws37GtQqmWz0NSg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "x-d1WIBZplywXa5C9mfyjK_vmxM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3cqU1pFRqYE"
+      },
+      "snippet": {
+        "publishedAt": "2006-07-25T15:09:55Z",
+        "channelId": "UCyX_6rb1qlRRjVRfge5_d2g",
+        "title": "Every Morning - Sugar Ray",
+        "description": "Sugar Ray's Every Morning video off their \"14:59\" CD Release 1999.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3cqU1pFRqYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3cqU1pFRqYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3cqU1pFRqYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sugar Ray Videos",
+        "liveBroadcastContent": "none",
+        "publishTime": "2006-07-25T15:09:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ABNr90TytSq4jQDsG8ghIjJWvcE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S8SdWEQg6cE"
+      },
+      "snippet": {
+        "publishedAt": "2014-02-01T18:29:11Z",
+        "channelId": "UCqPp17dJp_yXkyRgQLFMUsA",
+        "title": "Sugar Ray - Every Morning (Lyrics)",
+        "description": "Hey Guys! Thanks for all the views :D Please like and subscribe if you like whatcha see!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S8SdWEQg6cE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S8SdWEQg6cE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S8SdWEQg6cE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lyric Boss",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-02-01T18:29:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2XfXNzSE71NwzSA0OIKtJxuXqK0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5BcivlBazxo"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-29T02:41:42Z",
+        "channelId": "UCrlCp2xbt_2LdRpZGpT4exg",
+        "title": "Sugar Ray - Every Morning",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5BcivlBazxo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5BcivlBazxo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5BcivlBazxo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Music Lover104",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-29T02:41:42Z"
+      }
+    }
+  ]
+}

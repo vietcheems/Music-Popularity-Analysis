@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "VnTmqhgo6cF5sFjYGDuLJXUiplc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wL3E85b7QsUeh30xfmrO9OvCGS8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "55iN4H6kRN4"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-05T16:46:13Z",
+        "channelId": "UCqwxMqUcL-XC3D9-fTP93Mg",
+        "title": "Lil Uzi Vert - You Was Right [Official Music Video]",
+        "description": "Lil Uzi Vert - \"You Was Right\" [Official Music Video] Download - http://smarturl.it/DownloadYWR Stream - https://smarturl.it/StreamYWR Join Uzi Gang ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/55iN4H6kRN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/55iN4H6kRN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/55iN4H6kRN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LIL UZI VERT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-05T16:46:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tZDL7FT3CsIdgty9-ArOb5DIykY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "efMubkQ48Ws"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-23T18:03:48Z",
+        "channelId": "UCTxSYTnVqBAvd1GDZwaBi0g",
+        "title": "Lil Uzi Vert - You Was Right [Official Audio]",
+        "description": "Lil Uzi Vert - You Was Right [Official Audio]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/efMubkQ48Ws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/efMubkQ48Ws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/efMubkQ48Ws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Francisco Bang",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-07-23T18:03:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oVjEAMGbqVTLIsZmxlbHCR8X4LU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q1WgzIm5qvw"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-26T19:05:10Z",
+        "channelId": "UC2p1QvvqbU0afCPHSf2gWBQ",
+        "title": "Lil Uzi Vert - You was right (Lyrics)",
+        "description": "(Disclaimer) SFM does not own all of these songs. Everything uploaded to this channel is for promotion & entertainment reasons only. Please Subscribe For ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q1WgzIm5qvw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q1WgzIm5qvw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q1WgzIm5qvw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Straight Fire Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-26T19:05:10Z"
+      }
+    }
+  ]
+}

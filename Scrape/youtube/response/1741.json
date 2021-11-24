@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "inE0GS5aDmoptPlQs6vv9CHJAcw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e13HqDKiHO4zC0f-2y8M_H1F69A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j-fWDrZSiZs"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-03T04:23:30Z",
+        "channelId": "UCPaymCC07RcrRbT9Ero04jQ",
+        "title": "Dido - White Flag (Official Music Video)",
+        "description": "Dido - White Flag (Official Music Video) Listen on Spotify - http://smarturl.it/Dido_TopTracks Listen on Apple Music - http://smarturl.it/Dido_Essentials Amazon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j-fWDrZSiZs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j-fWDrZSiZs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j-fWDrZSiZs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DidoVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-03T04:23:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CfhF2qmPJt0sQefQVC709bBhqFI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jYiISin83kc"
+      },
+      "snippet": {
+        "publishedAt": "2010-02-19T21:55:39Z",
+        "channelId": "UCTA9Tm8zUXabhPTWF2LBn8A",
+        "title": "Dido - White Flag",
+        "description": "Dido's single White Flag from her album Life For Rent. Lyrics are in the description. New album Still On My Mind coming 8 March 2019 - http://didomusic.com\ufeff ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jYiISin83kc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jYiISin83kc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jYiISin83kc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "heperdido07",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-02-19T21:55:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s8G9_0tMx1P6hznXOKiD8_B4Gi4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GvYarluqINA"
+      },
+      "snippet": {
+        "publishedAt": "2015-07-28T16:52:31Z",
+        "channelId": "UCPaymCC07RcrRbT9Ero04jQ",
+        "title": "Dido - White Flag (Live at Brixton Academy)",
+        "description": "Dido - White Flag (Live At Brixton Academy) Listen on Spotify - http://smarturl.it/Dido_TopTracks Listen on Apple Music - http://smarturl.it/Dido_Essentials ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GvYarluqINA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GvYarluqINA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GvYarluqINA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DidoVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-07-28T16:52:31Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "CQhKDFJRQVFATPSU8coQgBfsMyk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IqeIXzXf0L-dQX9sEjzarr1VPH0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "smqhSl0u_sI"
+      },
+      "snippet": {
+        "publishedAt": "2012-10-25T21:35:57Z",
+        "channelId": "UCErJGAZcYLfH0SQ2Cf6fR7A",
+        "title": "Kendrick Lamar - Money Trees (Feat. Jay Rock)",
+        "description": "enjoy.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/smqhSl0u_sI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/smqhSl0u_sI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/smqhSl0u_sI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-10-25T21:35:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TZ7GYQ-tT_yrrcon19mttnC8ejU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QCK0rANwkv0"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-22T18:49:25Z",
+        "channelId": "UC9EgazNjxm-_3eydGQR45rQ",
+        "title": "Kendrick Lamar - Money Trees (Lyrics) | that&#39;s just how i feel be the last one out to get this dough",
+        "description": "stream Kendrick Lamar - Money Trees (Lyrics) | that's just how i feel be the last one out to get this dough ft. Jay Rock: https://spoti.fi/2nMhW6J ⭐ Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QCK0rANwkv0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QCK0rANwkv0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QCK0rANwkv0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TikTokTunes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-22T18:49:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_DcAD3G4K6Xa5hKBciHNHmW3NF0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hwR_1EP18eo"
+      },
+      "snippet": {
+        "publishedAt": "2013-01-06T02:44:42Z",
+        "channelId": "UCdChGYdqycxcqVlprnvoQMw",
+        "title": "Kendrick Lamar - Money Trees ft. Jay Rock (Music Video)",
+        "description": "Kendrick Lamar - Money Trees ft. Jay Rock (Music Video) Fan Made Music Video | 2012 Rest In Peace Alori Joh (Voice: Anna Wise) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hwR_1EP18eo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hwR_1EP18eo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hwR_1EP18eo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Maekiee",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-01-06T02:44:42Z"
+      }
+    }
+  ]
+}

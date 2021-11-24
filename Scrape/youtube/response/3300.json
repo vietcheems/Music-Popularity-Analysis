@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "pX6gAql84Kmt-uDwPun6lPXgb2M",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tFzcxk5uJvzwYhofDv-mi1a6ccE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LPn0KFlbqX8"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-25T07:04:18Z",
+        "channelId": "UCmNl7UMRgnCQXrgYV6gmM6g",
+        "title": "Cyndi Lauper - True Colors (Official HD Video)",
+        "description": "Watch the official music video for \"True Colors\" by Cyndi Lauper Listen to Cyndi Lauper: https://CyndiLauper.lnk.to/_listenYD Subscribe to the official Cyndi ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LPn0KFlbqX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LPn0KFlbqX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LPn0KFlbqX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CyndiLauperVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-25T07:04:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uPrjwevbTQhnkI2Fa4izC0NW6Ko",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2ecaYj14z3M"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-03T23:03:13Z",
+        "channelId": "UCmNl7UMRgnCQXrgYV6gmM6g",
+        "title": "Cyndi Lauper - True Colors (Lyric Video)",
+        "description": "Lyric video for \"True Colors\" by Cyndi Lauper Listen to Cyndi Lauper: https://CyndiLauper.lnk.to/_listenYD Cyndi curated a 2019 Pride playlist, filled with her ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2ecaYj14z3M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2ecaYj14z3M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2ecaYj14z3M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CyndiLauperVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-03T23:03:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UjX7Ajj4voH83NYkwWwEyYFSSK8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U7xjYeWOhbU"
+      },
+      "snippet": {
+        "publishedAt": "2008-11-16T11:23:50Z",
+        "channelId": "UChbWEDDbTauf7qiEMa0UJ7g",
+        "title": "Cyndi Lauper True Colours Lyrics",
+        "description": "Comment rate subscribe =]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U7xjYeWOhbU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U7xjYeWOhbU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U7xjYeWOhbU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LyricZProductionZ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-11-16T11:23:50Z"
+      }
+    }
+  ]
+}

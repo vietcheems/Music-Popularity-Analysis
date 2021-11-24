@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "HiuIHAwC1HMGmBJ1vrm6hW1cNB8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lhb7cTEgdWqS85g0dps2nN3IGMs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W50HtcPAeSs"
+      },
+      "snippet": {
+        "publishedAt": "2015-01-15T09:46:10Z",
+        "channelId": "UCja4SdylHToShQOmNKQIAXw",
+        "title": "Icona Pop - I Love It (Feat. Charli XCX)  [Audio]",
+        "description": "Icona Pop - I Love It (Feat. Charli XCX) 2013 Artist Company TEN, under exclusive License to Universal Music AB Find it on iTunes: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W50HtcPAeSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W50HtcPAeSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W50HtcPAeSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEN Music Group",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-01-15T09:46:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zu1n8HX95QcyzVrrWYaWbq1Jgbs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UxxajLWwzqY"
+      },
+      "snippet": {
+        "publishedAt": "2012-05-06T09:36:05Z",
+        "channelId": "UC7spdtNtUXp1xVdUS1M2Mxg",
+        "title": "Icona Pop - I Love It (feat. Charli XCX) [OFFICIAL VIDEO]",
+        "description": "New single 'Next Mistake' available now on all music platforms: https://ffm.to/nextmistake Hi Icons! Follow us on Instagram! http://instagram.com/iconapop I ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UxxajLWwzqY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UxxajLWwzqY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UxxajLWwzqY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Icona Pop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-05-06T09:36:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oOLzCHmCZW-rHTAVU8didYs8GDc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MNKooaI3APE"
+      },
+      "snippet": {
+        "publishedAt": "2015-01-14T14:21:01Z",
+        "channelId": "UCja4SdylHToShQOmNKQIAXw",
+        "title": "Icona Pop - I Love It (Feat. Charli XCX) [Audio]",
+        "description": "Icona Pop - I Love It (Feat. Charli XCX) 2012 Artist Company TEN, under exclusive License to Universal Music AB in Sweden & to Atlantic Records WW ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MNKooaI3APE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MNKooaI3APE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MNKooaI3APE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TEN Music Group",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-01-14T14:21:01Z"
+      }
+    }
+  ]
+}

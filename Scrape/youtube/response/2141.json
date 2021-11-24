@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "VMj47fBt2Yml14xtJJ_8pKnoCzM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 145592,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fYMgrjNXtvET8FDJF8vO8VdTvmk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gBiNR9SY7Gw"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-08T15:47:19Z",
+        "channelId": "UCY6vlNVzs-pp83sdV2ase_w",
+        "title": "Deep Purple - Smoke On The Water (Remastered)",
+        "description": "Descripción.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gBiNR9SY7Gw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gBiNR9SY7Gw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gBiNR9SY7Gw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rafael Romero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-09-08T15:47:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OJ5izPvb1eDbcuPjgBaXf8xx6eg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0fKE-SwfoWw"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-17T19:03:41Z",
+        "channelId": "UC4HbIjYe53ce6c0CsHVrc1w",
+        "title": "05. Smoke On The Water (Remastered 2012) - Machine Head - Deep Purple",
+        "description": "Deep Purple Machine Head (Remastered 2012) playlist: https://www.youtube.com/watch?v=LJYpGbAdrgo&list=PLc8IRe18uq7Li4jVGMjW5Q8nKRuN622yi.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0fKE-SwfoWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0fKE-SwfoWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0fKE-SwfoWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IntoTheFire2020",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-17T19:03:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wyKG3qzbM-AnPZg8ZNr_5A7H7wg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0hPjKyIkSFE"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-28T19:54:29Z",
+        "channelId": "UC-jImll7zJ5NivocE3ynWhA",
+        "title": "Deep Purple - Smoke On The Water (Remastered Audio)",
+        "description": "This audio is mixed and mastered by Floydian Dip's Music. No profit is being made in mind with this video, I am only sharing this for everyone else's enjoyment.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0hPjKyIkSFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0hPjKyIkSFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0hPjKyIkSFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Floydian Dip",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-28T19:54:29Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "OH0rCqpYZHXUp7Hz34l2qzIpoqc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WhvcfJqUJQAvsDUmSMooYKRjWmY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1G4isv_Fylg"
+      },
+      "snippet": {
+        "publishedAt": "2011-10-19T02:42:54Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Paradise (Official Video)",
+        "description": "Coldplay - Paradise is taken from the album Mylo Xyloto released in 2011 Music Of The Spheres, the new Coldplay album is out October 15th, 2021. Pre-order ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1G4isv_Fylg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1G4isv_Fylg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1G4isv_Fylg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-10-19T02:42:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "plRwl2EMUXNauKlVH3N5i7RdOxg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QKcxhQZxvdw"
+      },
+      "snippet": {
+        "publishedAt": "2012-11-05T10:00:39Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay - Paradise (Live 2012 from Paris)",
+        "description": "Coldplay - Paradise (Live 2012 from Paris) is taken from the Mylo Xyloto Tour Coldplay - Paradise is taken from the album Mylo Xyloto released in 2011.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QKcxhQZxvdw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QKcxhQZxvdw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QKcxhQZxvdw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-11-05T10:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OOPTk1mLpg-72hiycX7_9faCMGY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PCoQGJDGJJM"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-07T09:29:17Z",
+        "channelId": "UC4JUzmhmiGmPl7uzLpzODyw",
+        "title": "Coldplay - Paradise (Lyrics)",
+        "description": "Coldplay - Paradise (Lyrics) Stream/Download: https://lnk.to/ParadiseColdplay Follow our Spotify Playlist: https://loku.lnk.to/Spotify Coldplay ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PCoQGJDGJJM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PCoQGJDGJJM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PCoQGJDGJJM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Loku",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-07T09:29:17Z"
+      }
+    }
+  ]
+}

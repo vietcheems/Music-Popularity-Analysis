@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "7tUIEBA5ohkq2JD90cNl1HBM__0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Pkf-tDX04e35htPK3faSG52k2wE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tjA7nAHOAww"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-10T12:00:03Z",
+        "channelId": "UCmKdSrwf1e8coqAzUsrVHZw",
+        "title": "LSD - Audio (Official Video) ft. Sia, Diplo, Labrinth",
+        "description": "Labrinth, Sia & Diplo present LSD - Audio (Official Video) Stream LSD's Audio: http://smarturl.it/LSD-Audio Spotify: http://smarturl.it/LSD-Audio/Spotify iTunes: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tjA7nAHOAww/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tjA7nAHOAww/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tjA7nAHOAww/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SiaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-10T12:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5qqrNRlGGvND53yv0cTLngjGidE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AebsJPV2ZYM"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-10T21:19:42Z",
+        "channelId": "UCi0LydWaEUy3Vx8flL29ebQ",
+        "title": "LSD - Audio (Lyrics) ft. Sia, Diplo, Labrinth",
+        "description": "Listen to LSD - Audio (Lyrics) ft. Sia, Diplo, Labrinth: http://smarturl.it/LSD-Audio Spotify Playlist: http://spotify.syrebralvibes.com » Support SyrebralVibes: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AebsJPV2ZYM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AebsJPV2ZYM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AebsJPV2ZYM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SyrebralVibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-10T21:19:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7cmkAC3FgOIPETYgQk0v-_9LS4c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HhoATZ1Imtw"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-03T23:20:33Z",
+        "channelId": "UCmKdSrwf1e8coqAzUsrVHZw",
+        "title": "LSD - Genius ft. Sia, Diplo, Labrinth",
+        "description": "Labrinth, Sia & Diplo present LSD - Genius (Official Video) Stream LSD's Genius: http://smarturl.it/LSD-Genius Spotify: http://smarturl.it/LSD-Genius/Spotify ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HhoATZ1Imtw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HhoATZ1Imtw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HhoATZ1Imtw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SiaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-03T23:20:33Z"
+      }
+    }
+  ]
+}

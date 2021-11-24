@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "5X3D8Z-8D2WGUY9XLY0R2bL0GcA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NhL_qSJF0XGuKLGXBsq_cn1xqo4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8j741TUIET0"
+      },
+      "snippet": {
+        "publishedAt": "2015-04-28T07:00:00Z",
+        "channelId": "UCzzXsnHsEmGorQ6xAKL2sZA",
+        "title": "X Ambassadors - Renegades (Lyric Video)",
+        "description": "The ORION Tour is coming to your city: https://www.xambassadors.com/tour Get X Ambassadors' debut album, VHS, out now: http://smarturl.it/VHS Watch the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8j741TUIET0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8j741TUIET0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8j741TUIET0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "XAmbassadorsVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-04-28T07:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kn7VPoT0vGTV3md4J4CgTSVxl-Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1u-niluB8HI"
+      },
+      "snippet": {
+        "publishedAt": "2015-06-09T16:00:00Z",
+        "channelId": "UCzzXsnHsEmGorQ6xAKL2sZA",
+        "title": "X Ambassadors - Renegades (Official Video)",
+        "description": "The ORION Tour is coming to your city: https://www.xambassadors.com/tour Get X Ambassadors' debut album, VHS, out now: http://smarturl.it/VHS Sign-up for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1u-niluB8HI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1u-niluB8HI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1u-niluB8HI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "XAmbassadorsVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-06-09T16:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f0HuJyD0IhfCakGwx-VvJk7i-d4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V6IiHrWlAqo"
+      },
+      "snippet": {
+        "publishedAt": "2015-06-20T20:17:56Z",
+        "channelId": "UC_7IvWj-JUj2lG6c8MLjFxw",
+        "title": "X Ambassadors -  Renegades - Lyrics",
+        "description": "Yup.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V6IiHrWlAqo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V6IiHrWlAqo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V6IiHrWlAqo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CleanLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-06-20T20:17:56Z"
+      }
+    }
+  ]
+}

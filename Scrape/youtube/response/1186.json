@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "DsgSI9BH9VTKXwuvl0TTmtnwOhA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yvDEoOShL-hWxkkHi41IBxgvlMw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wIft-t-MQuE"
+      },
+      "snippet": {
+        "publishedAt": "2017-10-27T04:00:03Z",
+        "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+        "title": "Taylor Swift - …Ready For It?",
+        "description": "Exclusive Merch: https://store.taylorswift.com ▻Follow Taylor Swift Online Instagram: http://www.instagram.com/taylorswift Facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wIft-t-MQuE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wIft-t-MQuE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wIft-t-MQuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaylorSwiftVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-27T04:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q2mwbjIc4MX9EeRKmbE2Pb_d2NI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T62maKYX9tU"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-03T12:07:45Z",
+        "channelId": "UCqECaJ8Gagnn7YCbPEzWH6g",
+        "title": "Taylor Swift - ...Ready For It? (Audio)",
+        "description": "Official audio for '...Ready For It?' performed by Taylor Swift. 'Lover' out now: https://TaylorSwift.lnk.to/LoverYD ▻Exclusive Merch: https://store.taylorswift.com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T62maKYX9tU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T62maKYX9tU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T62maKYX9tU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taylor Swift",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-03T12:07:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kfoZyy8Kz8puxfwL9P3NNKW6YCc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GAcqX_vUS8A"
+      },
+      "snippet": {
+        "publishedAt": "2017-12-10T21:51:59Z",
+        "channelId": "UCZzwjZPc6R_PbnDgFVMwlvQ",
+        "title": "Taylor Swift - ‘...Ready For It?’ (Live At Capital’s Jingle Bell Ball 2017)",
+        "description": "Subscribe: http://bit.ly/SubscribeToCapitalFM Get involved with the UK's No. 1 Hit Music Station! Website: http://www.capitalfm.com/ Facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GAcqX_vUS8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GAcqX_vUS8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GAcqX_vUS8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Capital FM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-10T21:51:59Z"
+      }
+    }
+  ]
+}

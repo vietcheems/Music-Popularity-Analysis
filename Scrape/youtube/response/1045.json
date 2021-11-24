@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "nXobP4atx7MvOpAd_-5sJF3lxZQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uvc6nEO_OdyIPl1kPBRK-vZx1rg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NZKXkD6EgBk"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-14T16:35:47Z",
+        "channelId": "UCjK8ORC71kwyj1DWFwril_A",
+        "title": "Selena Gomez - Bad Liar",
+        "description": "Get Selena's new album 'Rare', out now: http://smarturl.it/RARESG Get 'Bad Liar' out now: http://smarturl.it/BadLiar 'Bad Liar' directed by Jesse Peretz Get ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NZKXkD6EgBk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NZKXkD6EgBk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NZKXkD6EgBk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SelenaGomezVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-14T16:35:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "H_upXc3BDdbuNM_qkd4si3q_6m8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1g2foumeEtQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-12T16:00:18Z",
+        "channelId": "UCA9Gd69VyVwrtWvMVBDcrAw",
+        "title": "Selena Gomez - Bad Liar (Lyrics)",
+        "description": "Selena Gomez - Bad Liar (Lyrics)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1g2foumeEtQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1g2foumeEtQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1g2foumeEtQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheBestTops",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-12T16:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nuvXn37n6N8cBnNoWa-hqsqDnD4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "scrXb2qVrCU"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-18T04:56:55Z",
+        "channelId": "UCJ6ERWrxZzb9Ua3oeRcIe0g",
+        "title": "Selena Gomez - Bad Liar (Lyrics)",
+        "description": "Selena Gomez - Bad Liar (Lyrics) // Bad Liar Lyrics is a lyric video for Selena Gomez's new song \"Bad Liar\". Selena Gomez - Bad Liar : http://smarturl.it/BadLiar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/scrXb2qVrCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/scrXb2qVrCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/scrXb2qVrCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taz Network",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-18T04:56:55Z"
+      }
+    }
+  ]
+}

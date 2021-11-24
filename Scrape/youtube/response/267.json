@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "wMQs7qmpJDRo4E3_IsgNXzm_iXw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qZA9Zo2_l-7KnrJWVKzjxhhp5ec",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9h30Bx4Klxg"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-07T16:00:01Z",
+        "channelId": "UCjK8ORC71kwyj1DWFwril_A",
+        "title": "Selena Gomez - Same Old Love",
+        "description": "Get Selena's new album 'Rare', out now: http://smarturl.it/RARESG Get REVIVAL, out now: http://smarturl.it/sgrevival Get exclusive REVIVAL merchandise ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9h30Bx4Klxg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9h30Bx4Klxg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9h30Bx4Klxg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SelenaGomezVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-07T16:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5pJCTWAV7-oMabzbMrSs_WMEEhk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JXc4ABzmbZQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-01T13:16:28Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "Same Old Love - Selena Gomez (Lyrics) 🎵",
+        "description": "Learn how to sing in only 30 days with these easy, fun video lessons! https://www.30daysinger.com/a/8328/BFzaEvmu -- Same Old Love - Selena Gomez ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JXc4ABzmbZQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JXc4ABzmbZQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JXc4ABzmbZQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-01T13:16:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6w7Fs5v_BNg3_iBUjbUMAYlF1tQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "naKhF6G36rM"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-10T04:00:00Z",
+        "channelId": "UCjK8ORC71kwyj1DWFwril_A",
+        "title": "Selena Gomez - Same Old Love (Audio)",
+        "description": "Get Selena's new album 'Rare', out now: http://smarturl.it/RARESG Get REVIVAL, out now: http://smarturl.it/sgrevival Get exclusive REVIVAL merchandise ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/naKhF6G36rM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/naKhF6G36rM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/naKhF6G36rM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SelenaGomezVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-09-10T04:00:00Z"
+      }
+    }
+  ]
+}

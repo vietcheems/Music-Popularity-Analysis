@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "oLWB4K6maZKRhCUsP-F4qKHhSJg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cW_weSR2g-1xFJ6fwagnzJqUavw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IvN5h9BE444"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-26T21:00:00Z",
+        "channelId": "UCaum3Yzdl3TbBt8YUeUGZLQ",
+        "title": "Nicki Minaj - The Night Is Still Young",
+        "description": "Watch Nicki Minaj's The Night Is Still Young music video on Vevo. http://bit.ly/1G1qNi2 Don't miss our daily premieres, awesome performances and killer playlists ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IvN5h9BE444/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IvN5h9BE444/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IvN5h9BE444/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NickiMinajAtVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-05-26T21:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "doWjMukr3g3Me041HwDgmcWExq4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wVyJ-4YbucA"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-25T16:01:00Z",
+        "channelId": "UCaum3Yzdl3TbBt8YUeUGZLQ",
+        "title": "Nicki Minaj - The Night Is Still Young (Lyric Video)",
+        "description": "The Night Is Still Young” available on The Pinkprint album. Download Today! http://smarturl.it/NickiPinkprntDlxExiT Share/Stream “The Night Is Still Young” on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wVyJ-4YbucA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wVyJ-4YbucA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wVyJ-4YbucA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NickiMinajAtVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-03-25T16:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gTw_9cuIWhAnIVVX5OfyDK0BaFs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bfC0IkLkL8o"
+      },
+      "snippet": {
+        "publishedAt": "2015-02-03T08:00:01Z",
+        "channelId": "UCaum3Yzdl3TbBt8YUeUGZLQ",
+        "title": "Nicki Minaj - The Night Is Still Young (Audio)",
+        "description": "Download 'The PinkPrint (Deluxe Edition),' available now! http://smarturl.it/NickiPinkprntDlxExiT Music video by Nicki Minaj performing The Night Is Still Young.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bfC0IkLkL8o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bfC0IkLkL8o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bfC0IkLkL8o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NickiMinajAtVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-02-03T08:00:01Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "R4hN5zyRcFtzk6-tmvpXt1fPwz8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 168170,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NXoat1Cle86Z0TpdD1BXlANO9f8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uCGD9dT12C0"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-27T14:00:19Z",
+        "channelId": "UCAb60rVrvVQVfSgrX1UWb0g",
+        "title": "Fleetwood Mac - Little Lies (Official Music Video)",
+        "description": "You're watching the official music video for Fleetwood Mac - \"Little Lies\" from the 1987 album \"Tango In The Night\". The new Fleetwood Mac collection '50 Years ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uCGD9dT12C0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uCGD9dT12C0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uCGD9dT12C0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fleetwood Mac",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-27T14:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k_-EfCEMiTW1Ew9fWd8sHoPb4Vo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kQkWnbryVHM"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-09T22:47:22Z",
+        "channelId": "UCPrqSD8l85PaRu-zFulvbrg",
+        "title": "Fleetwood Mac - Little Lies (1987) HQ",
+        "description": "Description.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kQkWnbryVHM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kQkWnbryVHM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kQkWnbryVHM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Clay Culver",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-09T22:47:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YxDMnelpNApITVRD_6Mpokfa8wQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pUhap08PBDI"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-02T06:10:09Z",
+        "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
+        "title": "Fleetwood Mac - Little Lies (Official Vinyl Video)",
+        "description": "You're watching the official vinyl video for Fleetwood Mac - \"Little Lies\" from the album 'Tango In The Night'. \"Little Lies\" reached No. 4 on the Billboard Hot 100 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pUhap08PBDI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pUhap08PBDI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pUhap08PBDI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RHINO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-02T06:10:09Z"
+      }
+    }
+  ]
+}

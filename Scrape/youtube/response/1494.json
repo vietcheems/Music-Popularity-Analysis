@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "R45dBw81R2f6hPVfI_iFHzrtMaI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SnzAr9F8E-GBbLFBoEk_qParIX0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TrQ7w1bdNvY"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-19T04:00:02Z",
+        "channelId": "UChpJbg7zMbi5jx9Gdjaxa9g",
+        "title": "Kanye West - All Mine (Lyric Video)",
+        "description": "Stream and download ye, the new album from Kanye West, here: https://KanyeWest.lnk.to/YE Music video by Kanye West performing All Mine. © 2018 Getting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TrQ7w1bdNvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TrQ7w1bdNvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TrQ7w1bdNvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KanyeWestVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-19T04:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QDPJm6kGm02AAIRhsAbT5FrvTOU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U5CUE1CQXUs"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-29T01:06:00Z",
+        "channelId": "UCF6ygy0vM2j1nNxHSOfHarQ",
+        "title": "Kanye West - All Mine (Oficial Music Video)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U5CUE1CQXUs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U5CUE1CQXUs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U5CUE1CQXUs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Remaker studios",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-29T01:06:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KhkzyrHAUu51QAr1WUe2X6GqvPo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-zDluLmp-yg"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-18T11:49:08Z",
+        "channelId": "UCczFdwWpVEpoqb-eMm4c4dQ",
+        "title": "Kanye West - &quot;ALL MINE&quot; Dance | Matt Steffanina",
+        "description": "ALL MINE - Kanye West Dance Choreography ▷ SUBSCRIBE: http://bit.ly/2BDpH0v ▷ INSTAGRAM: http://instagram.com/MattSteffanina ▷ Watch my last video ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-zDluLmp-yg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-zDluLmp-yg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-zDluLmp-yg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Matt Steffanina",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-18T11:49:08Z"
+      }
+    }
+  ]
+}

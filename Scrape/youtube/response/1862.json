@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "0DsRVN9YAkBLkYcIWrwhZJzXXvI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u4ctHiJJCzWOrqsGsUGYDzzwxUc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "av5JD1dfj_c"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-29T08:00:00Z",
+        "channelId": "UC3Pa0DVzVkqEN_CwsNMapqg",
+        "title": "Sam Smith, Normani - Dancing With A Stranger (Official Video)",
+        "description": "'Love Goes: Live at Abbey Road Studios' out now: http://samsmith.world/LoveGoesLiveID\u200b Stay up to date with Sam Smith music, tours and exclusives here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/av5JD1dfj_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/av5JD1dfj_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/av5JD1dfj_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SamSmithVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-29T08:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XnnSQMtVvZGUDmbaSO7mAkyl8i4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Iexrhy-1kRI"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-11T05:27:17Z",
+        "channelId": "UC1Lyws6g7dRF2XG3-VwiSaQ",
+        "title": "Sam Smith, Normani - Dancing With A Stranger (Lyrics)",
+        "description": "Sam Smith, Normani - Dancing With A Stranger (Lyrics) Help us reach 90000 subscribers! Subscribe and turn on notifications to stay updated with new ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Iexrhy-1kRI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Iexrhy-1kRI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Iexrhy-1kRI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chill Zone",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-11T05:27:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MJvGPRc9Px_wV3Abte8U-waxIP8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T4_1kEn-x48"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-08T23:08:33Z",
+        "channelId": "UCZzwjZPc6R_PbnDgFVMwlvQ",
+        "title": "Sam Smith - Dancing With a Stranger (Live at Capital&#39;s Jingle Bell Ball 2019) | Capital",
+        "description": "Sam Smith has made a jaw dropping return to the Jingle Bell Ball stage, this time with a stack of new hits under their belt including the dreamy 'Dancing With A ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T4_1kEn-x48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T4_1kEn-x48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T4_1kEn-x48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Capital FM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-08T23:08:33Z"
+      }
+    }
+  ]
+}

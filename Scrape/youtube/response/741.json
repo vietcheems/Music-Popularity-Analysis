@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "YGjWBK2m7xT8Ma9Fqah8aXqhbz8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zYtjngunqYH_TnOnnMb-5vFouYk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NmCFY1oYDeM"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-11T15:00:01Z",
+        "channelId": "UCNnnwVSI5Ndo2I4Y-LPuuew",
+        "title": "John Legend - Love Me Now (Official Video)",
+        "description": "Official music video for “Love Me Now” by John Legend \u200b Listen to John Legend: https://found.ee/JohnLegend_Listen \u200b Subscribe to the official John Legend ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NmCFY1oYDeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NmCFY1oYDeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NmCFY1oYDeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "johnlegendVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-11T15:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aV3oVksoshpcK6sBZ5PPsPMnq7c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-d6Ln30tXN4"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-07T06:46:10Z",
+        "channelId": "UC5zgmSfxcmZRFKqYF32Tr_Q",
+        "title": "John Legend - Love Me Now | Lyrics on Screen",
+        "description": "For all music promotion enquires please email info@kingworldwideco.com I do not own the audio used in this video. All credit belongs to John Legend & his ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-d6Ln30tXN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-d6Ln30tXN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-d6Ln30tXN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LYRIC KING",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-07T06:46:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "019FAr7CNcxHW1CXbzQ7qimAt3k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fhLw-smQrSQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-24T18:51:23Z",
+        "channelId": "UC8DBdOsq1zu-PbKHG8kNV0g",
+        "title": "Love Me Now - John Legend (Lyrics) 🎵",
+        "description": "Lyrics: \"Love Me Now\" https://pillowlyrics.com/love-me-now-john-legend/ VISIT OUR OFFICIAL LYRICS WEBSITE: https://www.pillowlyrics.com/ Lyrics: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fhLw-smQrSQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fhLw-smQrSQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fhLw-smQrSQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Pillow",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-24T18:51:23Z"
+      }
+    }
+  ]
+}

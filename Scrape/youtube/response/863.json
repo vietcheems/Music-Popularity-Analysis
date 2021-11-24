@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "xqEGCBkMHk-lQqrZUtKaeneXhzI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TzHFpZgp0SbLZpQnUjKXFbvtySk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9gxQDRxW6mI"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-22T23:34:11Z",
+        "channelId": "UCchiJjuyIFZM52j6Plmf-dA",
+        "title": "Adele - Water Under the Bridge (Official Audio)",
+        "description": "Music video by Adele performing Water Under the Bridge. (C) 2015 XL Recordings Ltd., under exclusive license to Columbia Records, a Division of Sony Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9gxQDRxW6mI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9gxQDRxW6mI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9gxQDRxW6mI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Official Audio",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-22T23:34:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DG_HQ5ISgGZ_L3oE9hTGIwgGoL4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EqiHnmjY9fA"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-26T20:14:27Z",
+        "channelId": "UCaMWClR1ByKRseNrKt_iIng",
+        "title": "WATER UNDER THE BRIDGE - ADELE (Lyrics)",
+        "description": "Música: Water Under The Bridge Artista: Adele Álbum: 25 Adele Lyrics: https://www.youtube.com/playlist?list=PLZ8V1gL_tMg5fwGuBQX4kmeUo_nvJMVPK.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EqiHnmjY9fA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EqiHnmjY9fA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EqiHnmjY9fA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lyrics Pop Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-26T20:14:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DCOcixC9KG8-WT9A8xy3uDp7abI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3LBN6XWR_lU"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-31T09:15:09Z",
+        "channelId": "UCBi5YQEIHG93RNcGF8j2hww",
+        "title": "[Lyrics+Vietsub] Adele - Water Under The Bridge",
+        "description": "https://www.facebook.com/SolitaireChannel/ - Translator + Encode: Hoang Cao - Timer + Editor: Roys - Adele dãi bày: \"Ca khúc này viết về những mối quan hệ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3LBN6XWR_lU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3LBN6XWR_lU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3LBN6XWR_lU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Solitaire Subteam",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-31T09:15:09Z"
+      }
+    }
+  ]
+}

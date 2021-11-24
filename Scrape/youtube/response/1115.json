@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "RB3hVDlkL14wsQhV6Le40WqI1Bk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 37299,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y1bbMFktBndrsEbaQmr6TOhAf8o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PNI7E2L9-sU"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-08T17:57:04Z",
+        "channelId": "UCrOkRP0v1ENxALHMkGtg6DQ",
+        "title": "Nelly - The Fix feat. Jeremih",
+        "description": "Nelly - The Fix feat. Jeremih (Produced by DJ Mustard) Nelly - The Fix feat. Jeremih (Produced by DJ Mustard) Nelly - The Fix feat. Jeremih (Produced by DJ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PNI7E2L9-sU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PNI7E2L9-sU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PNI7E2L9-sU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "New Sounds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-08T17:57:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "M9ECrJ7CCcLZDpI0cxjLFTqniGs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CU0N333JK_8"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-18T10:44:19Z",
+        "channelId": "UCYHvUWXbzs9fKHpANtYLIpQ",
+        "title": "Nelly - The Fix ft. Jeremih (LYRICS)",
+        "description": "Nelly & Jeremih - The Fix (2015)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CU0N333JK_8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CU0N333JK_8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CU0N333JK_8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LyricsForYou",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-18T10:44:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G5KIyPD1YLK0mznTI37j9sCr3DQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I_ZcOWx-SDo"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-16T17:14:10Z",
+        "channelId": "UC7UPah8fES6NfPenuw9An5A",
+        "title": "Nelly Ft. Jeremih- The Fix (Lyrics)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I_ZcOWx-SDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I_ZcOWx-SDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I_ZcOWx-SDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "New Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-16T17:14:10Z"
+      }
+    }
+  ]
+}

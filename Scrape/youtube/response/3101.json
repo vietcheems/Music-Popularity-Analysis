@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "2vHzSk9YKtLT3HudEAbQL3_3ZQU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wl6zfOmApYA6HWSDgZrizcghiCo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s1XozsBN5Z4"
+      },
+      "snippet": {
+        "publishedAt": "2011-04-05T15:56:08Z",
+        "channelId": "UC07uqt5ztuV24oyt9wsS9BQ",
+        "title": "Kelly Rowland ft. Lil Wayne - Motivation (Explicit) [Official Video]",
+        "description": "Music video by Kelly Rowland performing Motivation. (C) 2011 Universal Motown Records, a division of UMG Recordings, Inc. #KellyRowland #Motivation ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s1XozsBN5Z4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s1XozsBN5Z4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s1XozsBN5Z4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "kellyrowlandVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-04-05T15:56:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pBRxx2VpCOyFhVdmKhBDc-hBU-k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F5YA9JVfQJw"
+      },
+      "snippet": {
+        "publishedAt": "2011-11-26T17:11:36Z",
+        "channelId": "UCw8dBx3X8z4MZYOds_GuNCQ",
+        "title": "Kelly Rowland - Motivation Lyrics",
+        "description": "Subscribe to me (:",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F5YA9JVfQJw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F5YA9JVfQJw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F5YA9JVfQJw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheseLyricsGoBeast",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-11-26T17:11:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "w6nrCEGhO1vauEuYUu7wo9x8YPA",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL37A253954EE99FC8"
+      },
+      "snippet": {
+        "publishedAt": "2011-05-01T02:10:09Z",
+        "channelId": "UCfwrsuORcff7HuZpij_kHRw",
+        "title": "Motivation Kelly Rowland",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s1XozsBN5Z4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s1XozsBN5Z4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s1XozsBN5Z4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sonya McKinney",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-05-01T02:10:09Z"
+      }
+    }
+  ]
+}

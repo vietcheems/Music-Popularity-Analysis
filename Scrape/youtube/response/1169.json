@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "_pIB1zc-bKdP8zQK4U7cdRaNMfA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JcA2aSSfL8qqKgUitFmN52YkNtM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sY3rIlrTTh8"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-19T07:00:02Z",
+        "channelId": "UC09d82usokACH1z5YeKnfiA",
+        "title": "Fifth Harmony - That&#39;s My Girl (Official Video)",
+        "description": "That's My Girl” by Fifth Harmony Listen to Fifth Harmony: https://FifthHarmony.lnk.to/listenYD Watch more Fifth Harmony videos: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sY3rIlrTTh8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sY3rIlrTTh8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sY3rIlrTTh8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FifthHarmonyVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-19T07:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gwgs9aXGqjpsnTNxtXuidjISf3c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o2O2090KD8Q"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-16T16:00:47Z",
+        "channelId": "UCkX8_O_-KNdLEOOQLsMuOiw",
+        "title": "Fifth Harmony - That&#39;s My Girl (Lyrics)",
+        "description": "Album 7/27: Track 1: That's My Girl Don't miss Fifth Harmony on The 7/27 Tour! Tickets at LiveNation.com \"7/27\" available at: iTunes: http://smarturl.it/7.27 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o2O2090KD8Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o2O2090KD8Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o2O2090KD8Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Girlgroup Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-16T16:00:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ytlrc4MzewgOHnkC9WBsX3hQEdk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GIt01DTdqpg"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-22T07:00:01Z",
+        "channelId": "UC09d82usokACH1z5YeKnfiA",
+        "title": "Fifth Harmony - That&#39;s My Girl (Live at the AMA&#39;s)",
+        "description": "7/27 available at: iTunes: http://smarturl.it/7.27 Amazon: http://smarturl.it/727_Amzn Spotify: http://smarturl.it/727_Spotify Google: http://smarturl.it/727_GP Apple ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GIt01DTdqpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GIt01DTdqpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GIt01DTdqpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FifthHarmonyVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-22T07:00:01Z"
+      }
+    }
+  ]
+}

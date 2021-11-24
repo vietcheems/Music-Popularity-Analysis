@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "TTI8Gnilldojxof1UyS_8UXEUME",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LG_AFqYScoYS0pctHdF-GbXZPKY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eRaFMlZ1YHA"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-09T22:00:01Z",
+        "channelId": "UCnzJFckvQBA5nn9lMu08LWQ",
+        "title": "J. Cole - Apparently (Official Music Video)",
+        "description": "Download J. Cole's new album '2014 Forest Hills Drive' on iTunes: http://smarturl.it/ForestHillsDrive Google Play: http://smarturl.it/ForestHillsDriveGP Amazon: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eRaFMlZ1YHA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eRaFMlZ1YHA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eRaFMlZ1YHA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JColeVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-12-09T22:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gaTmi_pMVKqWnze95RZbA7IKNRo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lTpaBK5HYz4"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-01T07:56:14Z",
+        "channelId": "UCha0QYO8ODNt6BhhjyBtCIg",
+        "title": "J-Cole - Apparently ( Lyrics Video)",
+        "description": "Subscribe for more lyrics video!! Comment any request!! Follow me on IG : DCBERTO202 !!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lTpaBK5HYz4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lTpaBK5HYz4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lTpaBK5HYz4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Humberto Gonzalez",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-03-01T07:56:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6JVJnzvSxIGoFItA8mEdrVV1LUE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nguxJXhEB_U"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-21T08:24:40Z",
+        "channelId": "UC1HvydJgO8K00UoeA-ME7uA",
+        "title": "[Vietsub] J. Cole - Apparently (Lyrics Video)",
+        "description": "Official video \"J. Cole - Apparently\": https://youtu.be/eRaFMlZ1YHA ----- Các bạn muốn đề xuất bài nào thì điền vào form này giúp mình nhé: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nguxJXhEB_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nguxJXhEB_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nguxJXhEB_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Remyhr",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-21T08:24:40Z"
+      }
+    }
+  ]
+}

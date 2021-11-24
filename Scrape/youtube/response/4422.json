@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "0mAl35xuSjy4Y0DIk_JTFIJa9Iw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N_nsY8VO76DRdFEW9KIDc_MfOL8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3YqPKLZF_WU"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-30T04:00:11Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay X BTS - My Universe (Official Video)",
+        "description": "Coldplay X BTS - My Universe - The new single, taken from the album Music Of The Spheres, out now (https://coldplay.lnk.to/MOTS). Stream/Download here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3YqPKLZF_WU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3YqPKLZF_WU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3YqPKLZF_WU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-30T04:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vPzoUCXRM59lWPzYROslAgS_7Qs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bZYPI4mYwhw"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-24T04:00:10Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay X BTS - My Universe (Official Lyric Video)",
+        "description": "The new single, taken from the album Music Of The Spheres, out now (https://coldplay.lnk.to/MOTS). Stream/Download here: https://coldplay.lnk.to/MyUniverse ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bZYPI4mYwhw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bZYPI4mYwhw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bZYPI4mYwhw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-24T04:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3WbPLm-bMSzmId2S_qJNmnWsgpU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9L3aw9PfDpw"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-22T07:22:16Z",
+        "channelId": "UCDPM_n1atn2ijUwHd0NNRQw",
+        "title": "Coldplay X BTS - My Universe (Live at the AMAs)",
+        "description": "Coldplay X BTS perform My Universe live at the AMAs on November 21, 2021. My Universe is taken from the album Music Of The Spheres, out now ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9L3aw9PfDpw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9L3aw9PfDpw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9L3aw9PfDpw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Coldplay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-22T07:22:16Z"
+      }
+    }
+  ]
+}

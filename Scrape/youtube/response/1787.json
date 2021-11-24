@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "DE4X7H48dUjWnv1fABMzU15UL7c",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uXGNDZasYtZIza4ZCzjULdFwLH8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ri-fIya76ac"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-15T19:00:04Z",
+        "channelId": "UCpDJl2EmP7Oh90Vylx0dZtA",
+        "title": "Alok, Bruno Martini, Zeeba - Never Let Me Go (Official Music Video)",
+        "description": "Alok, Bruno Martini, Zeeba - Never Let Me Go is OUT NOW! Like this track? Download on Beatport or add it to your favourite Spotify/Apple Music playlist by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ri-fIya76ac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ri-fIya76ac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ri-fIya76ac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Spinnin' Records",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-15T19:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ETy-q4hcdAhsODSi1ffzDxuH_0I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gs9mi4j6_BY"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-10T15:00:06Z",
+        "channelId": "UCpDJl2EmP7Oh90Vylx0dZtA",
+        "title": "Alok, Bruno Martini, Zeeba - Never Let Me Go (Official Lyric Video)",
+        "description": "Alok, Bruno Martini, Zeeba - Never Let Me Go is OUT NOW! Like this track? Download on Beatport or add it to your favourite Spotify/Apple Music playlist by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gs9mi4j6_BY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gs9mi4j6_BY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gs9mi4j6_BY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Spinnin' Records",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-10T15:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SQ7NDCiVihbPK8eCrOePSw-rgM8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pTdsm397bt8"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-01T12:17:40Z",
+        "channelId": "UCO19zL5nxw9otqCV0LZ-2sQ",
+        "title": "Never Let Me Go  -  Alok, Zeeba (letra)",
+        "description": "Increva-se no nosso canal. Never Let Me Go - Alok, Zeeba It took my whole life just to feel it Now all these feelings never let me down A thousands places, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pTdsm397bt8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pTdsm397bt8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pTdsm397bt8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Letra Música",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-01T12:17:40Z"
+      }
+    }
+  ]
+}

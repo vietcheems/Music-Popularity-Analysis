@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "j9gbN3jAo9EF58UCo3Yk8Xm0pY4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NT8rS5c9pZH5kR3FqA1zeRoylZ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kdemFfbS5H0"
+      },
+      "snippet": {
+        "publishedAt": "2014-01-29T18:16:08Z",
+        "channelId": "UCq3Ci-h945sbEYXpVlw7rJg",
+        "title": "#SELFIE (Official Music Video) - The Chainsmokers",
+        "description": "Check out The Chainsmokers new single, \"Roses\" http://smarturl.it/RosesiTunes FOLLOW THE CHAINSMOKERS ON INSTAGRAM ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kdemFfbS5H0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kdemFfbS5H0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kdemFfbS5H0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Chainsmokers",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-01-29T18:16:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nX7_R4OEIpB91HGvKot3hEB2S_c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZuwfZGDWOio"
+      },
+      "snippet": {
+        "publishedAt": "2014-05-09T16:00:06Z",
+        "channelId": "UCRzzwLpLiUNIs6YOPe33eMg",
+        "title": "The Chainsmokers - #SELFIE (Official Video)",
+        "description": "Official Music Video by The Chainsmokers - #SELFIE #Chainsmokers #SELFIE #vevo #electronic #vevoofficial.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZuwfZGDWOio/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZuwfZGDWOio/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZuwfZGDWOio/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChainsmokersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-05-09T16:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gFFgJkn50Y_Umn1HP30nvxO_klY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q7A6-Uyex8M"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-05T06:24:23Z",
+        "channelId": "UC5grn7lKFC7WINMN9WViUrQ",
+        "title": "#SELFIE - The Chainsmokers (EASY LYRICS)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q7A6-Uyex8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q7A6-Uyex8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q7A6-Uyex8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Beatricia Matilda",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-05T06:24:23Z"
+      }
+    }
+  ]
+}

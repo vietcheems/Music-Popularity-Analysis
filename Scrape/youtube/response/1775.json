@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "BzSpiZHOAzaSqOlFv0Acfd6Un6k",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P-UksmC3MLlCsiPhExP9p7Nb8vs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VRuoR--LdqQ"
+      },
+      "snippet": {
+        "publishedAt": "2013-11-26T08:00:00Z",
+        "channelId": "UC_d6W32xuEAyPlf_KmvvwEA",
+        "title": "will.i.am - Feelin&#39; Myself ft. Miley Cyrus, Wiz Khalifa, French Montana",
+        "description": "Download now on iTunes: http://smarturl.it/iamwillpower Sign up for Will.i.am news here: http://smarturl.it/will.i.am.News Music video by will.i.am performing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VRuoR--LdqQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VRuoR--LdqQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VRuoR--LdqQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "williamVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-11-26T08:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KMTKjjDyqgBGqf38PQE0OyPH1U8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dEdGhCKc1X4"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-11T14:09:35Z",
+        "channelId": "UCxnH_GY-SdwJUifyHouy4mQ",
+        "title": "will.i.am - Feelin&#39; Myself ft. Miley Cyrus, Wiz Khalifa, French Montana-Lyrics",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dEdGhCKc1X4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dEdGhCKc1X4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dEdGhCKc1X4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Yana Nickoghosyan",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-11T14:09:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f7_Im1DrDv2Z0OuYUBGSK1pABtw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EE2qSfT-wdI"
+      },
+      "snippet": {
+        "publishedAt": "2013-12-29T17:46:51Z",
+        "channelId": "UC5hzhyto4YNq13dBwjGNXRQ",
+        "title": "Feelin&#39; Myself - will.i.am (feat. Miley Cyrus, French Montana, Wiz Khalifa &amp; DJ Mustard)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EE2qSfT-wdI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EE2qSfT-wdI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EE2qSfT-wdI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Daniel Metzger",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-12-29T17:46:51Z"
+      }
+    }
+  ]
+}

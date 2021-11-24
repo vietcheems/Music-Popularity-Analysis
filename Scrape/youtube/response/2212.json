@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Bkaic48FIQiVDVU8msYTPfRDsEQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "d5iLN2Vk5oNT_XqX6JjBLmcPdEc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "--BHuKeveg4"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-28T04:00:01Z",
+        "channelId": "UCQhOf1GhzkMsyLAFwrnG8XQ",
+        "title": "Marc Anthony, Will Smith, Bad Bunny - Está Rico (Official Video)",
+        "description": "New Official Video/Nuevo Video Oficial! Marc Anthony, Will Smith, Bad Bunny “Está Rico” Available Music/Música Disponible: All DSPs: http://smarturl.it/EstaRico ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/--BHuKeveg4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/--BHuKeveg4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/--BHuKeveg4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "marcanthonyVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-28T04:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NLmyDOLsaeNtVfpMcW-qPO5SyLE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dUo3VV2N28g"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-28T11:12:21Z",
+        "channelId": "UCB13e9rI2ynMr84MWb11IBg",
+        "title": "Marc Anthony, Will Smith, Bad Bunny - Está Rico (Official letra",
+        "description": "Marc Anthony Bad Bunny baby-be-be-be-be-be Will Smith Haciendo historia Haha, woo [Pre-Coro: Marc Anthony] Tú quieres algo y se te ve Aquí hay ambiente ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dUo3VV2N28g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dUo3VV2N28g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dUo3VV2N28g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Song lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-28T11:12:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8uPWjO88gF2ojbxWRz_V9DmYGVA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mzIN3l5ILFM"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-28T15:44:04Z",
+        "channelId": "UCKuHFYu3smtrl2AwwMOXOlg",
+        "title": "I Made A Song with Marc Anthony &amp; Bad Bunny! (ESTA RICO)",
+        "description": "Watch the \"Esta Rico\" music video: https://youtu.be/--BHuKeveg4 Stream \"Esta Rico\": http://smarturl.it/EstaRico Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mzIN3l5ILFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mzIN3l5ILFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mzIN3l5ILFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Will Smith",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-28T15:44:04Z"
+      }
+    }
+  ]
+}

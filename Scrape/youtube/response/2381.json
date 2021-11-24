@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "LUQPhWAI18gmKRf8wRaDZu5t-do",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1YDERC6ciKwT3QDOeH-DLGLZDSg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TeccAtqd5K8"
+      },
+      "snippet": {
+        "publishedAt": "2015-07-17T13:00:01Z",
+        "channelId": "UCtKuVNj4wVrZvTfxPxAUHcQ",
+        "title": "Carly Rae Jepsen - Run Away With Me",
+        "description": "View the full interactive version of \"Runaway With Me\" here! https://www.carlyraemusic.com/runawaywithme Get E•MO•TION on iTunes now: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TeccAtqd5K8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TeccAtqd5K8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TeccAtqd5K8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CarlyRaeJepsenVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-07-17T13:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pOiU7n0Q8wzjCGuivlsq_Z4ft2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OE2qEpkWWoQ"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-23T13:54:25Z",
+        "channelId": "UC-1rVsh8pvXBAMZ5q_B3CEg",
+        "title": "Carly Rae Jepsen - Run Away With Me (Audio)",
+        "description": "Album: E•MO•TION Release date: August 21, 2015 Buy E•MO•TION on iTunes: http://smarturl.it/E-MO-TION.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OE2qEpkWWoQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OE2qEpkWWoQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OE2qEpkWWoQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Full Album!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-23T13:54:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Vv3O86c4Y29ntx1O4eJcXa4XLpM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h8k9C0Sd4fc"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-28T11:22:38Z",
+        "channelId": "UChTZVqyK-RMgSvyN9UNQ-Qw",
+        "title": "Run Away With Me - Carly Rae Jepsen (Lyric Video)",
+        "description": "Hey guys! Look at brand new video with lyrics of new Carly's single \"Run Away With Me\". I really like this song, so I did it! I Hope you like! Download the new ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h8k9C0Sd4fc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h8k9C0Sd4fc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h8k9C0Sd4fc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Kai San",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-28T11:22:38Z"
+      }
+    }
+  ]
+}

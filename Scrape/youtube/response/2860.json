@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "WErIMh9cn7A1qlkADZ02q31rHgE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 167611,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NexPRHqWdGyxXoQO_IJcVHv7qk8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p1gL8yyUvRY"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-12T19:00:07Z",
+        "channelId": "UCMC0rHAZ0KnayeGkSfRbVtg",
+        "title": "Russ - Missin You Crazy (Official Video)",
+        "description": "My new album, ZOO, is available here: http://smarturl.it/RussZOO Directed by Edgar Esteves Song produced by Russ Twitter : @russdiemon @edgarestevess ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p1gL8yyUvRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p1gL8yyUvRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p1gL8yyUvRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RussVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-12T19:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Al9bMkIPRDQQc65vjtX0a5bzaUw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qXzigkLFexs"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-10T18:20:49Z",
+        "channelId": "UC0O32qxwfKuxVxugW-PIrcg",
+        "title": "Missin you crazy - Russ | Lyrics",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qXzigkLFexs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qXzigkLFexs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qXzigkLFexs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "VersesYellow Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-10T18:20:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tnxFGxsvdthKlfoisoavOHb_EWI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cuqvuffSKCI"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-07T04:00:02Z",
+        "channelId": "UCMC0rHAZ0KnayeGkSfRbVtg",
+        "title": "Russ - Missin You Crazy (Official Audio)",
+        "description": "My new album, ZOO, is available here: http://smarturl.it/RussZOO Produced by Russ Twitter : @russdiemon Instagram : @russ Facebook : @russtheone.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cuqvuffSKCI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cuqvuffSKCI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cuqvuffSKCI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RussVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-07T04:00:02Z"
+      }
+    }
+  ]
+}

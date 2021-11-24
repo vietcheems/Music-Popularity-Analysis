@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "cdtd66f6Kvy9qZKyK5V3IS4J3kI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5QXHMooJbSisNpC3IkqXnH6fUSY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UaNGtgYwSsU"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-24T07:00:06Z",
+        "channelId": "UCdQvkO2NMhbxa5LXnCX1ffA",
+        "title": "Dolly Parton, Kenny Rogers - Islands In the Stream (Official Audio)",
+        "description": "Official audio for ”Islands In the Stream” by Dolly Parton Listen to Dolly Parton: https://DollyParton.lnk.to/listenYD Watch more Dolly Parton videos: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UaNGtgYwSsU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UaNGtgYwSsU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UaNGtgYwSsU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DollyPartonVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-24T07:00:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5V1w0QXRhm-C2idgQyXWmWTiEsw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eI5EQUz1gCg"
+      },
+      "snippet": {
+        "publishedAt": "2012-12-01T14:14:05Z",
+        "channelId": "UC6_ssV3QonwQidZcMHGevHA",
+        "title": "Dolly Parton &amp; Kenny Rogers - Islands in the Stream *LYRICS ON SCREEN*",
+        "description": "lyrics on screen.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eI5EQUz1gCg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eI5EQUz1gCg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eI5EQUz1gCg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "slipknot0040",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-12-01T14:14:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NgTbmllI-WOeGiabtxbjwj1UW-Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JpWldTFq2Jk"
+      },
+      "snippet": {
+        "publishedAt": "2010-01-03T17:53:29Z",
+        "channelId": "UCH-AtHqLUcL6FNcG_4V7x3A",
+        "title": "Dolly Parton &amp; Kenny Rogers - Islands In The Stream",
+        "description": "classic country.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JpWldTFq2Jk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JpWldTFq2Jk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JpWldTFq2Jk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MsGlenBill1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-01-03T17:53:29Z"
+      }
+    }
+  ]
+}

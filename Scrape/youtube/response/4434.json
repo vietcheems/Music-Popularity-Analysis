@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "8EmQ-K603PwdNfUHej8sc5O4UIA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Z5tM2RRJ7zSc5bzRchmr1gNMIG4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nndFGQCakGM"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-19T14:00:31Z",
+        "channelId": "UC2Ug76-kqmXv6dLMaDmdhIg",
+        "title": "Survival (Lyrics) by Drake",
+        "description": "Drake (Lyrics) by Scorpion Album: Scorpion Spotify: https://open.spotify.com/track/71SEHJPt1iDwGkBhUOAXDP?si=ce09f48eacda4f73 Survival Lyrics: [Intro] I ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nndFGQCakGM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nndFGQCakGM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nndFGQCakGM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lyrica Symphony",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-19T14:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V56RcXrj8VBr6NGWWLH5-f1KgcA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NF3EydNroKc"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-01T08:56:32Z",
+        "channelId": "UChaZ-at3K45qDkiVpEBlMCw",
+        "title": "Drake - Survival (Official Audio)",
+        "description": "Drake - Survival (Official Audio) Album : Scorpion.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NF3EydNroKc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NF3EydNroKc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NF3EydNroKc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "B 13",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-01T08:56:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_gInXrIcX6WG7XhMfIs00_6KV8w",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLxA687tYuMWhs6U8nlUQSNQtpUNUMr3Ey"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-01T11:32:03Z",
+        "channelId": "UCYXIviXPAaaaU_AOotpXTAw",
+        "title": "Drake - Scorpion (Album)",
+        "description": "Drake Scorpion Album #Drake #Scorpion #ScorpionSZN → Tracklist: Drake - Survival Drake - Nonstop Drake - Elevate Drake - Emotionless Drake - God's Plan ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revive Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-01T11:32:03Z"
+      }
+    }
+  ]
+}

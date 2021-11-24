@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "gkF6zAi1lbUbUfqVIzz1tnXqN7o",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AYJWLza8QzUPpcKyfjzRtLhp6gg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A8MO7fkZc5o"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-27T01:50:56Z",
+        "channelId": "UCbulh9WdLtEXiooRcYK7SWw",
+        "title": "Metallica: Sad But True (Official Music Video)",
+        "description": "Metallica's official music video for “Sad But True,” from the album “Metallica.” Subscribe for more videos: https://tallica.lnk.to/subscribe Directed by Wayne Isham ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A8MO7fkZc5o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A8MO7fkZc5o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A8MO7fkZc5o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Metallica",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-27T01:50:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4gMJuSYvXOyTiAGLDhd6q7Mx7tI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O_4OfD-wmGs"
+      },
+      "snippet": {
+        "publishedAt": "2011-12-20T00:58:16Z",
+        "channelId": "UCA6TgX7IgI2NTlOvcGb4_-w",
+        "title": "Metallica - Sad But True Lyrics (HD)",
+        "description": "Metallica - Sad But True with on-screen lyrics in 1080p HD.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O_4OfD-wmGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O_4OfD-wmGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O_4OfD-wmGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Josh Parisi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-12-20T00:58:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MA3P4WFXiv3EtyrKau3i6SCN24U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xROxlIu__Fs"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-11T21:00:16Z",
+        "channelId": "UCbulh9WdLtEXiooRcYK7SWw",
+        "title": "Metallica: Sad But True (Moscow, Russia - July 21, 2019)",
+        "description": "Filmed at Luzhniki Stadium in Moscow Russia on July 21, 2019. © 2019 Blackened Recordings Follow Metallica: http://www.metallica.com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xROxlIu__Fs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xROxlIu__Fs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xROxlIu__Fs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Metallica",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-11T21:00:16Z"
+      }
+    }
+  ]
+}

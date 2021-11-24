@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "-FsheNponD2EMsCB1tK-QBjQtbM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8plQ_v2lsVkInHSccVDXqT7SNlA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8zo9VTJUVWc"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-22T16:00:05Z",
+        "channelId": "UCLi6DTUnJdDOUkWu0szfI0g",
+        "title": "ScHoolboy Q - Studio ft. BJ The Chicago Kid",
+        "description": "ScHoolboy Q - Studio (Explicit) \"Oxymoron\" available now Http://smarturl.it/oxymoronq.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8zo9VTJUVWc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8zo9VTJUVWc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8zo9VTJUVWc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ScHoolBoyQVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-22T16:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-aJTQHS7ZXUilJwGHpLCFCECKjc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2x32fOW-AF0"
+      },
+      "snippet": {
+        "publishedAt": "2014-02-28T01:40:26Z",
+        "channelId": "UCrSFzeYCM4YVylLRyNhFiZA",
+        "title": "Schoolboy Q - Studio (Official Audio)",
+        "description": "Schoolboy Q - Studio (Official Audio) For professional mix and mastering services contact Mixedbylevy@gmail.com or @1WayLevy on Instagram.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2x32fOW-AF0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2x32fOW-AF0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2x32fOW-AF0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1Way Levy",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-02-28T01:40:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8OqZRz4nw85tMZ_rHFrjhzaclJ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Q7Q5WiRaRWs"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-29T01:58:43Z",
+        "channelId": "UCD_nltZknms-oTW1CN-NjMw",
+        "title": "Schoolboyq - Studio",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Q7Q5WiRaRWs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Q7Q5WiRaRWs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Q7Q5WiRaRWs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LouDMusicEntertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-12-29T01:58:43Z"
+      }
+    }
+  ]
+}

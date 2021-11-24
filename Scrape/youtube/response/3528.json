@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "qEI5ZeGB1qVL8J9bNO0gO5d9O5Q",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j2v9ASVp23Bv_Ayc_GNwf67nRlQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OnT58cIJSpw"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-31T15:59:47Z",
+        "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
+        "title": "Corona - The Rhythm of the Night (Official Music Video)",
+        "description": "You're watching the official music video for Corona - \"The Rhythm of the Night\" from the album 'The Rhythm of the Night' (1995). \"The Rhythm of the Night\" was a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OnT58cIJSpw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OnT58cIJSpw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OnT58cIJSpw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RHINO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-31T15:59:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BpoNMGyG7Cq44vbAYyE4Wd7X82c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b5e1ZBFVKek"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-08T19:20:10Z",
+        "channelId": "UCWwOgRFkrmx5EStMc2SziEQ",
+        "title": "Corona - The Rythm Of The Night (Official Video) Remastered Audio HD",
+        "description": "New Remastered Audio & Video (2017) Enjoy Friends :-)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b5e1ZBFVKek/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b5e1ZBFVKek/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b5e1ZBFVKek/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Happy Charlie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-08T19:20:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X-Y-UK4SuX6J9vEqBGjkzF0nGRw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AvwX81COn6Y"
+      },
+      "snippet": {
+        "publishedAt": "2014-01-10T15:52:16Z",
+        "channelId": "UCyzhgljWGANfOziwpKfrymA",
+        "title": "THE RHYTHM OF THE NIGHT - CORONA - Saint Petersburg",
+        "description": "Corona no Festival da Radio Record Dance em São Petersburgo na Russia em novembro de 2013 - Corona on the Radio Record Dance Festival in St.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AvwX81COn6Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AvwX81COn6Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AvwX81COn6Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Corona Olga de Souza",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-01-10T15:52:16Z"
+      }
+    }
+  ]
+}

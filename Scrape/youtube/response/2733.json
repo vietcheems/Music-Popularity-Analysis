@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "AYF-112iztdFqdXdzsOV7eT076M",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_yDnc5RjrHAsih15Vz71qNvGiWM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-J7J_IWUhls"
+      },
+      "snippet": {
+        "publishedAt": "2010-02-17T21:13:28Z",
+        "channelId": "UCc7_woMAIVIW2mAr1rPCsFQ",
+        "title": "Paramore: The Only Exception [OFFICIAL VIDEO]",
+        "description": "Paramore's music video for 'The Only Exception' from the album, brand new eyes - available now on Fueled By Ramen at http://smarturl.it/paramore-bne Go ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-J7J_IWUhls/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-J7J_IWUhls/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-J7J_IWUhls/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Paramore",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-02-17T21:13:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hsliKnXP8g3V8DisP0hgieEWKdM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bZKarVIA1b8"
+      },
+      "snippet": {
+        "publishedAt": "2010-08-03T20:02:14Z",
+        "channelId": "UCArLfmgCvMY0kuGkvLdFEQg",
+        "title": "The Only Exception-Paramore Lyrics",
+        "description": "The Only Exception-Paramore Lyrics Lyrics: When I was younger I saw, My daddy cry & curse at the wind.. He broke his own heart & I watched, as he tried to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bZKarVIA1b8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bZKarVIA1b8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bZKarVIA1b8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MultiLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-08-03T20:02:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RjTF0OfZNn53yPi2MHDTLSEi3tU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wF-i7Mf8bzA"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-14T14:41:07Z",
+        "channelId": "UCsKloy9UPSDfPW_1Wu0s7pA",
+        "title": "ROSÉ - The Only Exception (Cover) Lyrics",
+        "description": "ROSÉ - The Only Exception (Cover) Lyrics ....................... No copyright infringement intended. The song and the pictures are all belongs to the rightful owners.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wF-i7Mf8bzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wF-i7Mf8bzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wF-i7Mf8bzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Yours Truly VJ",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-14T14:41:07Z"
+      }
+    }
+  ]
+}

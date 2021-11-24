@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "gPkPZ-8MNTVTIAXVEqs4SOD_-tc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MT4vejuRIO9tIUeBEdphs5jgzQg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BPUzsg5UsjM"
+      },
+      "snippet": {
+        "publishedAt": "2013-05-09T21:56:23Z",
+        "channelId": "UCuMbxFl0J5xzFULc2RJYH9w",
+        "title": "Queen - We will rock you - Remastered [HD] - with lyrics",
+        "description": "We will rock you Album: News of the world (1977) Lyrics Buddy you're a boy make a big noise Playin' in the street gonna be a big man some day You got mud ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BPUzsg5UsjM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BPUzsg5UsjM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BPUzsg5UsjM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "queenremastered4",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-05-09T21:56:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mEFWdqzbmgjYNBIiSaTJ7Jrjnog",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UvEmwYg6aFw"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-27T21:01:32Z",
+        "channelId": "UCsltI6xWXikZ53oTTZvhigg",
+        "title": "We Will Rock You (Remastered) (Queen)",
+        "description": "Like all my recents Subscribe to my main channel Amazingblake205.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UvEmwYg6aFw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UvEmwYg6aFw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UvEmwYg6aFw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "classic rock channel",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-27T21:01:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZDr9AwoQHJR3y6dL60xomVCibKA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-tJYN-eG1zk"
+      },
+      "snippet": {
+        "publishedAt": "2008-08-01T23:47:47Z",
+        "channelId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+        "title": "Queen - We Will Rock You (Official Video)",
+        "description": "Taken from News Of The World, 1977 and Greatest Video Hits 1. #QueenTheGreatest #Queen #WeWillRockYou Click here to buy the DVD with this video at the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-tJYN-eG1zk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-tJYN-eG1zk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-tJYN-eG1zk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Queen Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-08-01T23:47:47Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "x0J1uzi3wQ-orR_yboOgXf5uFJk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Wm13iPTkz0r6r25Oqhe531n5XNk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eBAHqRnSgRw"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-18T20:00:00Z",
+        "channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+        "title": "Ariana Grande - Be Alright (Audio)",
+        "description": "Be Alright (Official Audio) Listen to 'Dangerous Woman' the album: https://arianagrande.lnk.to/dangerouswoman-albumYD ▻Subscribe to Ariana Grande: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eBAHqRnSgRw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eBAHqRnSgRw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eBAHqRnSgRw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArianaGrandeVevo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-18T20:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yl4rUrAnrqt39CDZnm1lFLvhOeM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VMaIEj-zyNw"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-26T02:20:35Z",
+        "channelId": "UCslNlJiuiObTKt3bAfIUiTw",
+        "title": "Be Alright - Ariana Grande (Lyrics)",
+        "description": "Thanks for watching! If you enjoyed please leave a like, comment, and subscribe for more! Comment any requests! Hope you enjoyed!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VMaIEj-zyNw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VMaIEj-zyNw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VMaIEj-zyNw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lyric Style",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-26T02:20:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3YiQPLommw83eCMyJUZo-B68pS8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "nLJgtU7ruWk"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-01T22:10:33Z",
+        "channelId": "UCHmMe0_SUTGAEaJNHoU8Nmw",
+        "title": "Ariana Grande - Be Alright (Live at the Dangerous Woman Tour) [Final Cut]",
+        "description": "Show your love and support to Ariana! Buy Dangerous Woman on iTunes: http://smarturl.it/DangerousWomanPO Follow Us: https://twitter.com/arianagmexico ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nLJgtU7ruWk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nLJgtU7ruWk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nLJgtU7ruWk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ariana Grande Mexico",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-01T22:10:33Z"
+      }
+    }
+  ]
+}

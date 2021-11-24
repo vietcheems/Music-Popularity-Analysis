@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "mU0nUAZPpzx9w9EDA7r7us8plL4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8W115ul9O3gAjc3tzzBeBuVzs-M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mgaeGW-2z6w"
+      },
+      "snippet": {
+        "publishedAt": "2009-12-14T03:27:51Z",
+        "channelId": "UCa5R55NSXiWAZWi9997XYvg",
+        "title": "Ne-Yo - Sexy Love (Official Music Video)",
+        "description": "Music video by Ne-Yo performing Sexy Love. YouTube view counts pre-VEVO: 21685304. (C) 2006 The Island Def Jam Music Group #NeYo #SexyLove #Vevo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mgaeGW-2z6w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mgaeGW-2z6w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mgaeGW-2z6w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NeYoVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-12-14T03:27:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MlH7zLHGXrdLA3wJSAIYXy28Pgs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3bkjcjcgZX8"
+      },
+      "snippet": {
+        "publishedAt": "2011-09-01T21:14:26Z",
+        "channelId": "UCk6Ydl3cOGWhdA5WhXjKw_w",
+        "title": "Ne-Yo - Sexy Love",
+        "description": "Ne-Yo - Sexy Love Album: In My Own Words. (2006) Record Label: Compound Ent | Def Jam.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3bkjcjcgZX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3bkjcjcgZX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3bkjcjcgZX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FanOfTheGentleman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-09-01T21:14:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9UK348LtNRouYq9zPH_6da4mGwU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mq3Qld9Ctgc"
+      },
+      "snippet": {
+        "publishedAt": "2021-02-12T14:00:12Z",
+        "channelId": "UCa5R55NSXiWAZWi9997XYvg",
+        "title": "Ne-Yo - Sexy Love (Live In Atlanta, 2021 / Special Acoustic Version)",
+        "description": "Music video by Ne-Yo performing Sexy Love (Live In Atlanta, 2021 / Special Acoustic Version). A Def Jam Recordings Release; © 2021 UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mq3Qld9Ctgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mq3Qld9Ctgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mq3Qld9Ctgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NeYoVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-02-12T14:00:12Z"
+      }
+    }
+  ]
+}

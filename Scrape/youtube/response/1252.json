@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "KjeUhHCckS6saH5Wq6Se2EaVn3s",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WuSJgb5Enamo5N0UDbpcGpL4bnM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n_1XpKHWMU0"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-16T16:00:09Z",
+        "channelId": "UC23ROAqt3prjnS89uHwcaaQ",
+        "title": "CNCO, Meghan Trainor, Sean Paul - Hey DJ (Remix) [Official Video]",
+        "description": "CNCO x Meghan Trainor x Sean Paul – Hey DJ Remix (Official Video) Music DSPs: All DSPs: http://smarturl.it/HeyDJ-CNCO Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n_1XpKHWMU0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n_1XpKHWMU0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n_1XpKHWMU0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CNCOVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-16T16:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "E5-TrrzLlEdG12RdfRw_Tnm-tlY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X6wQOW9ihDA"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-28T14:00:04Z",
+        "channelId": "UC23ROAqt3prjnS89uHwcaaQ",
+        "title": "CNCO, Yandel - Hey DJ (Official Video)",
+        "description": "CNCO & Yandel - Hey DJ (Official Video) \"Hey DJ\" is available on these digital platforms: iTunes: http://smarturl.it/HeyDJy Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X6wQOW9ihDA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X6wQOW9ihDA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X6wQOW9ihDA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CNCOVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-28T14:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QruRePcLYO4eAAuToSewE_wsI0A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VwUtwpQBRmw"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-07T07:00:01Z",
+        "channelId": "UC23ROAqt3prjnS89uHwcaaQ",
+        "title": "CNCO - Hey DJ (Pop Version)[Official Lyric Video]",
+        "description": "CNCO - \"Hey DJ (Pop Version)\"[Official Lyric Video] \"Hey DJ\" is available on these digital platforms: iTunes: http://smarturl.it/HeyDJ Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VwUtwpQBRmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VwUtwpQBRmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VwUtwpQBRmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CNCOVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-07T07:00:01Z"
+      }
+    }
+  ]
+}

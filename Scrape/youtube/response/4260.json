@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "LcHgGuWAfxn2-rLZ0fVYAZ1zzpY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "64KwjUY24TZ7_oKVWNixEkFeGN0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "k8KkuASOIwo"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-05T13:49:02Z",
+        "channelId": "UCkME6b8OrWT7ZUeKoW7_23g",
+        "title": "Henrique e Juliano - Cidade Vizinha (Ao Vivo) (Caldas Country 2019)",
+        "description": "2019 - Créditos ao canal Caldas Country. Inscreva-se no canal #HenriqueeJuliano e ative o de notificações pra receber todos os conteúdos em primeira mão!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/k8KkuASOIwo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/k8KkuASOIwo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/k8KkuASOIwo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Família Henrique e Juliano",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-05T13:49:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Imbi0FEOV_FuNViHxNrDcJgfPRU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BN7CJkvbt3I"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-21T14:00:25Z",
+        "channelId": "UCfLTxnQboSLcoSakgONmukQ",
+        "title": "Henrique e Juliano - CIDADE VIZINHA - DVD Menos é Mais - IG henriqueejuliano",
+        "description": "Deezer https://www.deezer.com/es/album/74532742 Spotify https://open.spotify.com/album/0oMdQJsCjyasZI6T8ojBGB Youtube Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BN7CJkvbt3I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BN7CJkvbt3I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BN7CJkvbt3I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Henrique e Juliano",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-21T14:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Fd6pHGDvDNEpvH3jg7qXOD5MxmI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T0SuaDXcDY8"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-07T01:07:06Z",
+        "channelId": "UC0DgfEXeijtsy7w9Wf3PNcQ",
+        "title": "Cidade vizinha (Acústico) - Henrique e Juliano - Estancia Alto da Serra",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T0SuaDXcDY8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T0SuaDXcDY8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T0SuaDXcDY8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Renata H. Martins",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-07T01:07:06Z"
+      }
+    }
+  ]
+}

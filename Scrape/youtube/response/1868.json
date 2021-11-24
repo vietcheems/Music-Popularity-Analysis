@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Y98uvtEwupMcLKP99C29Hb4ZJso",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fXTCrFPqpLMZW2aFE65ruUDDtdo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HUHC9tYz8ik"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-30T17:00:03Z",
+        "channelId": "UCDGmojLIoWpXok597xYo8cg",
+        "title": "Billie Eilish - bury a friend",
+        "description": "Listen to \"bury a friend\" from the debut album “WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?”, out now: http://smarturl.it/BILLIEALBUM Featuring Crooks ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HUHC9tYz8ik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HUHC9tYz8ik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HUHC9tYz8ik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BillieEilishVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-30T17:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xNOJsZm0QP0hjD8y4bnt_LF1V08",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DJqWZ3Zy5CU"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-30T17:27:19Z",
+        "channelId": "UCl7cVzHngS0kg51TPrDbqlg",
+        "title": "Billie Eilish - bury a friend (Lyrics)",
+        "description": "Billie Eilish - bury a friend (Lyrics) Listen to “bury a friend\": http://smarturl.it/buryafriend Pre-order \"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DJqWZ3Zy5CU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DJqWZ3Zy5CU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DJqWZ3Zy5CU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Shadow Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-30T17:27:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LaTHe6lsysQvP8Q-oJT5q5jhoEs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kUZdsVN1GKA"
+      },
+      "snippet": {
+        "publishedAt": "2019-04-13T11:52:23Z",
+        "channelId": "UCFn_wjVX-k_AlqjLSyXNSnw",
+        "title": "[Vietsub + Lyrics] bury a friend - Billie Eilish",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kUZdsVN1GKA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kUZdsVN1GKA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kUZdsVN1GKA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mjjeje H",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-04-13T11:52:23Z"
+      }
+    }
+  ]
+}

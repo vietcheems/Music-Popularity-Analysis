@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "1s5CKms43AIzrOmjNdjEiY5hhDk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jKuLXVBSEpfa2sITUNqVOcdG7TU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zXtsGAkyeIo"
+      },
+      "snippet": {
+        "publishedAt": "2014-12-12T08:00:03Z",
+        "channelId": "UCaum3Yzdl3TbBt8YUeUGZLQ",
+        "title": "Nicki Minaj - Only ft. Drake, Lil Wayne, Chris Brown",
+        "description": "The Pinkprint Available now! http://smarturl.it/NickiPinkprntDlxExiT Out Now! http://smarturl.it/NickiMinajOnlyEXP.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zXtsGAkyeIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zXtsGAkyeIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zXtsGAkyeIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NickiMinajAtVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-12-12T08:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oHWhX25Ays6xLFEO0eEeNYdDlg4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BU769XX_dIQ"
+      },
+      "snippet": {
+        "publishedAt": "2014-11-07T22:00:02Z",
+        "channelId": "UCaum3Yzdl3TbBt8YUeUGZLQ",
+        "title": "Nicki Minaj - Only ft. Drake, Lil Wayne, Chris Brown",
+        "description": "The Pinkprint Available now! http://smarturl.it/NickiPinkprntDlxExiT.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BU769XX_dIQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BU769XX_dIQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BU769XX_dIQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "NickiMinajAtVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-11-07T22:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ahJx3YEhjtPN1BjMhNsfdpOci6U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RSLrymbuXao"
+      },
+      "snippet": {
+        "publishedAt": "2015-01-13T18:59:28Z",
+        "channelId": "UCmvCWOTHqC_FguyMu7xdbPg",
+        "title": "Nicki Minaj - Only (feat. Drake, Lil Wayne, Chris Brown) (Audio)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RSLrymbuXao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RSLrymbuXao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RSLrymbuXao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nicki Minaj Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-01-13T18:59:28Z"
+      }
+    }
+  ]
+}

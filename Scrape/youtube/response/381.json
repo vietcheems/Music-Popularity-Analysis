@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "sKN-XiFdo1G5fNln4XMfXFWBacU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pTYGIVjtNA0kKBxWV6E4p5xSt50",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N3XlyT4Ums8"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-24T20:05:40Z",
+        "channelId": "UCn4XTXbKpWDlc-Uo0xAMfCA",
+        "title": "Jay-Z feat. Alicia Keys - Empire State of Mind (Official Music Video)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N3XlyT4Ums8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N3XlyT4Ums8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N3XlyT4Ums8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PanaKonstantegoBestMuzyka",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-24T20:05:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Rk7hy2e6lr9xlEq8I-lNn74OeU8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gnq97iCY7LM"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-16T18:23:53Z",
+        "channelId": "UCHnagyFsPegx9TCqbvV-2kQ",
+        "title": "Jay-Z feat. Alicia Keys - Empire State Of Mind Official Colored Video",
+        "description": "1080P.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gnq97iCY7LM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gnq97iCY7LM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gnq97iCY7LM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BestMusic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-16T18:23:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RXGxYIR3Ns9gT64jBjo8Q80toVY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7XpWxJNUhns"
+      },
+      "snippet": {
+        "publishedAt": "2011-12-20T22:24:07Z",
+        "channelId": "UC1p7GX_ydoy7Atcvb88lBHA",
+        "title": "Empire State Of Mind - Jay-Z Feat. Alicia Keys // Lyrics On Screen [HD]",
+        "description": "CHECK THE DESCRIPTION BOX* *NO COPYRIGHT INFRINGEMENT INTENDED* Credit to the Owner/Author/Songwriter of this Song // I DON'T MAKE MONEY ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7XpWxJNUhns/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7XpWxJNUhns/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7XpWxJNUhns/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LyricsVids247",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-12-20T22:24:07Z"
+      }
+    }
+  ]
+}

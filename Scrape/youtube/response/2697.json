@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "pechMgFYOr8cvjt8_fMGDwom9oI",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qFBNpiQ0UZtEMqAOssuW7O8zii4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DKPCBAlDw2A"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-02T14:00:04Z",
+        "channelId": "UCRzzwLpLiUNIs6YOPe33eMg",
+        "title": "The Chainsmokers - Everybody Hates Me (Official Video)",
+        "description": "The Chainsmokers - Everybody Hates Me \"Everybody Hates Me\" Out Now: http://smarturl.it/EverybodyHatesMe Directed by: Rory Kramer Follow The ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DKPCBAlDw2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DKPCBAlDw2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DKPCBAlDw2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChainsmokersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-02T14:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GvgaJQqvPRwh95J-wK8oeT-O4Os",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hJdi8bitYJs"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-16T05:12:51Z",
+        "channelId": "UCn7Z0uhzGS1KjnO-sWml_dw",
+        "title": "The Chainsmokers - Everybody Hates Me (Lyrics)",
+        "description": "The Chainsmokers - Everybody Hates Me (Lyrics) Buy my art: https://society6.com/uniquevibes More music like this: https://youtube.com/c/UniqueVibesMusic ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hJdi8bitYJs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hJdi8bitYJs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hJdi8bitYJs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Unique Vibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-16T05:12:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F1awNUoJhRzVLZIIwZu2PxrmsQE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9CM5itY9q9Y"
+      },
+      "snippet": {
+        "publishedAt": "2019-12-19T17:00:03Z",
+        "channelId": "UCRzzwLpLiUNIs6YOPe33eMg",
+        "title": "The Chainsmokers - Everybody Hates Me (Live from World War Joy Tour) | Vevo",
+        "description": "The Chainsmokers - Everybody Hates Me (Live From World War Joy Tour) Anyone looking for Andrew Taggart and Alex Pall the last few years could always find ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9CM5itY9q9Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9CM5itY9q9Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9CM5itY9q9Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChainsmokersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-12-19T17:00:03Z"
+      }
+    }
+  ]
+}

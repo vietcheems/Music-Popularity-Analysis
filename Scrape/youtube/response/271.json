@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "bD4I-tzvTrVi9kvzMTJ_Vi20czc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6W9yEhACC7yv86ZVTuOxY-MhfR4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UKp2CrfmVfw"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-26T19:00:00Z",
+        "channelId": "UC1EwyHfJHEKnA7kKfcGhlIw",
+        "title": "Alessia Cara - Here (Official Video)",
+        "description": "Download Know-It-All: http://smarturl.it/Know-It-All?IQid=VEVO iTunes: http://smarturl.it/iKnow-It-All?IQid=VEVO Google: http://smarturl.it/gKnow-It-All?IQid=VEVO ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UKp2CrfmVfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UKp2CrfmVfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UKp2CrfmVfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AlessiaCaraVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-05-26T19:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gDbGdK9HqpMCM2ZfiftluZ0yN1w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DArzZ3RvejU"
+      },
+      "snippet": {
+        "publishedAt": "2015-07-16T09:00:00Z",
+        "channelId": "UCa10nxShhzNrCE1o2ZOPztg",
+        "title": "Alessia Cara - Here (Lucian Remix)",
+        "description": "Buy The Original ♫ ➥http://smarturl.it/AlessiaHere?IQid=vevo Add our Snapchat : trapnation More from Lucian ○\"Close To You\" ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DArzZ3RvejU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DArzZ3RvejU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DArzZ3RvejU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Trap Nation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-07-16T09:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ih96Z0actbcdC9Y7YKlMXxAfwyc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fTjjJbndjis"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-13T16:19:31Z",
+        "channelId": "UCmZQJ2PCALzp0m01liKG2Qg",
+        "title": "Alessia Cara  ~ Here Lyrics",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fTjjJbndjis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fTjjJbndjis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fTjjJbndjis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Charlie Butler",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-09-13T16:19:31Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "P-Rlt4EI5-22EGeix4oni7JOcpg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rJlEKqj8e6a60JcwNkyxPLu7HM0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e_VNvKGC9no"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-14T01:43:57Z",
+        "channelId": "UCWBhD3wpYGhG2-mxP8UOiBw",
+        "title": "Ja Rule - Always On Time (Dirty Version)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e_VNvKGC9no/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e_VNvKGC9no/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e_VNvKGC9no/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Togo T",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-14T01:43:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HwBlVGHSZJ8zBoXLk_-gKs1XWZE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Cj4xsbyUjc4"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-08T17:58:21Z",
+        "channelId": "UCAYof1FwuaCLX8jP7rO0RQg",
+        "title": "Ja Rule Always On Time (Official vídeo)",
+        "description": "tá afim de adquirir um ebook com receitas de bolos de pote acesse o Link aqui https://bit.ly/3jIiV05.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cj4xsbyUjc4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cj4xsbyUjc4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cj4xsbyUjc4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hip Hop Na Veia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-08T17:58:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZXDPPlA-V7QYgFYllKtRwnLF7qY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u71foxu01vQ"
+      },
+      "snippet": {
+        "publishedAt": "2009-04-06T20:00:00Z",
+        "channelId": "UCwN3FRtqQB0QSYe-yqCDYKA",
+        "title": "ja rule ft ashanti - always on time WITH LYRICS",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u71foxu01vQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u71foxu01vQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u71foxu01vQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sharona",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-04-06T20:00:00Z"
+      }
+    }
+  ]
+}

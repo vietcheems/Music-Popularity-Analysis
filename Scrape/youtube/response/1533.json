@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "HQ1RaR8g7D7BAfS-QP5aVqY6Peo",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bQ0tEW4UB6XC7aL5sP4yiQfs-yU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0NChtZCDCsY"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-03T15:00:01Z",
+        "channelId": "UCcN-NDV03eHs6oLd1pe2r8w",
+        "title": "Khalid - American Teen (Official Video)",
+        "description": "Get Khalid's debut album 'American Teen' featuring \"Let's Go\", \"Saved\", and the hit single \"Location\" Apple Music: http://smarturl.it/iAmericanTeen?IQid=yt ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0NChtZCDCsY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0NChtZCDCsY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0NChtZCDCsY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KhalidVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-03T15:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PGXB1g7Ep8MARGqo-Y3M_7aBKGE",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL88TUQ-BE3yKJGnAv3HvpoLby3_8RefX2"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-05T22:00:18Z",
+        "channelId": "UCrvXjnXrqrIPzkBGzmO7l3Q",
+        "title": "Khalid - American Teen (2017) FULL Album",
+        "description": "Khalid's soft-lit '80s synths and heartfelt, raspy vocal will catch your attention from the start, but his debut is most impressive for the effortless warmth and sincerity ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/by3yRdlQvzs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/by3yRdlQvzs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/by3yRdlQvzs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lily Coady",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-05T22:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LfNfMvdNIy7NcElaLwa7tSaWtH4",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PL88BoK0yBq1CWjMlG1HwoZAigfzoQPHUk"
+      },
+      "snippet": {
+        "publishedAt": "2017-03-06T21:33:51Z",
+        "channelId": "UCPhse2lS5hGMDGj43fwyHJQ",
+        "title": "Khalid - American Teen (Full Album)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Isla Barlet",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-03-06T21:33:51Z"
+      }
+    }
+  ]
+}

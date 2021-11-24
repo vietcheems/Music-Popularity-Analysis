@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "lHs23vN-Cj19A6VjKAuBmnOzp3U",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MOVMQ312Ef67QMaloXVHKrnTPZo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U68MJz9DrI4"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-31T14:17:10Z",
+        "channelId": "UCSugZEYrWbzqIWGD195V-YA",
+        "title": "Gucci Mane, Bruno Mars, Kodak Black - Wake Up in The Sky [Official Music Video]",
+        "description": "The official music video for Gucci Mane, Bruno Mars, and Kodak Black's “Wake Up In The Sky” – available now! Stream/Download ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U68MJz9DrI4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U68MJz9DrI4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U68MJz9DrI4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gucci Mane",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-31T14:17:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QNRPV6q_X5fB0LEx8MwxbU_5-Xc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bS1Nf0syICc"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-14T04:00:30Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Gucci Mane, Bruno Mars, Kodak Black - Wake Up In The Sky (Official Audio)",
+        "description": "The official audio for \"Wake Up In The Sky\" featuring Gucci Mane, Bruno Mars, and Kodak Black. Watch the official music video for Gucci Mane, Bruno Mars, and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bS1Nf0syICc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bS1Nf0syICc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bS1Nf0syICc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-14T04:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GxsOZU_fsQdjFWp0QS66av2AP7k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ccj6sWXu1mk"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-15T19:30:02Z",
+        "channelId": "UCTwct4oAsyuyGxOtva0FcUg",
+        "title": "Gucci Mane, Bruno Mars &amp; Kodak Black - Wake Up In The Sky (Lyrics)",
+        "description": "Stream Gucci Mane, Bruno Mars & Kodak Black - Wake Up In The Sky: http://guccimane.lnk.to/wakeupIntheskyay Spotify Playlist: http://lnk.to/future-hype-pl ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ccj6sWXu1mk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ccj6sWXu1mk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ccj6sWXu1mk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "FutureHype",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-15T19:30:02Z"
+      }
+    }
+  ]
+}

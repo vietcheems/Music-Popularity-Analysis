@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "_TH-mhGzLgnU7vsCpPB9mB3LTis",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FuI5jlERnZuBwkRmPo2NVKBr9sc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1TsVjvEkc4s"
+      },
+      "snippet": {
+        "publishedAt": "2015-06-26T13:00:00Z",
+        "channelId": "UCjK8ORC71kwyj1DWFwril_A",
+        "title": "Selena Gomez - Good For You",
+        "description": "Get Selena's new album 'Rare', out now: http://smarturl.it/RARESG Get REVIVAL, out now: http://smarturl.it/sgrevival Get exclusive REVIVAL merchandise ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1TsVjvEkc4s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1TsVjvEkc4s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1TsVjvEkc4s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SelenaGomezVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-06-26T13:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JGy4j-EpIn086ztBVqvjwRlL5aA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wp0hWIO8DiU"
+      },
+      "snippet": {
+        "publishedAt": "2015-06-22T04:00:01Z",
+        "channelId": "UCjK8ORC71kwyj1DWFwril_A",
+        "title": "Selena Gomez - Good For You ft. A$AP Rocky (Official Audio)",
+        "description": "Get Selena's new album 'Rare', out now: http://smarturl.it/RARESG Get REVIVAL, out now: http://smarturl.it/sgrevival Get exclusive REVIVAL merchandise ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wp0hWIO8DiU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wp0hWIO8DiU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wp0hWIO8DiU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SelenaGomezVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-06-22T04:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LSnFefNuNeajBThqy9tqIrRjkJg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dKQcX6VAto4"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-18T13:57:48Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "Good For You - Selena Gomez (Lyrics) ft. A$AP Rocky",
+        "description": "Learn how to sing in only 30 days with these easy, fun video lessons! https://www.30daysinger.com/a/8328/BFzaEvmu -- \"Good For You - Selena Gomez (Lyrics) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dKQcX6VAto4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dKQcX6VAto4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dKQcX6VAto4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-18T13:57:48Z"
+      }
+    }
+  ]
+}

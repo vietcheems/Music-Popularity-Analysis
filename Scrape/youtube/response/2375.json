@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "URw0sj3pSdAjxTpS4eP7SLwhhjk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FYoDyKFSs7iwQ355aj22qZEP6ec",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BjLBB-TMa84"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-28T09:00:13Z",
+        "channelId": "UC3pYHuVdKyKjLi-anQ61Fhw",
+        "title": "Jamie xx - I Know There&#39;s Gonna Be (Good Times) ft. Young Thug, Popcaan",
+        "description": "Taken from the album, In Colour. Get the vinyl and more here: http://yt-r.uk/InColourYT In Colour is out now on Young Turks. Directed by Rollo Jackson ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BjLBB-TMa84/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BjLBB-TMa84/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BjLBB-TMa84/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JamiexxVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-09-28T09:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2iKNw5mcywps5PQ5QVan8pye-4Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IkUKFdacHvo"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-20T18:32:41Z",
+        "channelId": "UCbcUt4SAP587pHR4v9O60aA",
+        "title": "Jamie xx - I Know There&#39;s Gonna Be (Good Times) ft. Young Thug &amp; Popcaan",
+        "description": "Taken from the new album, In Colour. Pre-order here and get I Know There's Gonna Be (Good Times) along with four other tracks right away: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IkUKFdacHvo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IkUKFdacHvo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IkUKFdacHvo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Jamie xx",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-05-20T18:32:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "J1gWOQwDgr5kEyz2uuRkZnQUjOg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vw-bSWgKhlI"
+      },
+      "snippet": {
+        "publishedAt": "2015-07-23T16:21:44Z",
+        "channelId": "UC-J-KZfRV8c13fOCkhXdLiQ",
+        "title": "Dua Lipa - Good Times (Jamie XX Rework)",
+        "description": "Dua Lipa's rework of @Jamie xx - Good Times Subscribe to the Dua Lipa channel for all the best and latest official music videos, behind the scenes and live ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vw-bSWgKhlI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vw-bSWgKhlI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vw-bSWgKhlI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dua Lipa",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-07-23T16:21:44Z"
+      }
+    }
+  ]
+}

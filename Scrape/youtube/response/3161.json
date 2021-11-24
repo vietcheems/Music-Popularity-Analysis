@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "cqN7qc_4Av9a1txSXUM25-4a59A",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 7596,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zPGV3iEu-y4seUvCjX7umF6tBzk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "58wj_qQ697g"
+      },
+      "snippet": {
+        "publishedAt": "2013-01-18T23:35:00Z",
+        "channelId": "UCHvVFteXeveyIcNe1rzMwYA",
+        "title": "And We Danced - Macklemore (feat. Ziggy Stardust)",
+        "description": "And We Danced by Macklemore featuring Ziggy Stardust.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/58wj_qQ697g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/58wj_qQ697g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/58wj_qQ697g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Macklemore Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-01-18T23:35:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4uOtXaT77FFbsm0WszWf-2choNk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vhf5cuXiLTA"
+      },
+      "snippet": {
+        "publishedAt": "2011-10-31T21:27:35Z",
+        "channelId": "UCXYRdIXDdeZIf816EWAr5zQ",
+        "title": "MACKLEMORE X RYAN LEWIS - AND WE DANCED [OFFICIAL VIDEO]",
+        "description": "ITUNES LINK: http://itunes.apple.com/us/album/the-unplanned-mixtape/id350890246 Directed By: Griff J, Ryan Lewis Co-Director: Johnny Valencia Producer: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vhf5cuXiLTA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vhf5cuXiLTA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vhf5cuXiLTA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Macklemore LLC",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-10-31T21:27:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qltwS_meedwQsglUvtl9y_wIxZE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HfCkBrZJZoA"
+      },
+      "snippet": {
+        "publishedAt": "2012-01-07T22:58:17Z",
+        "channelId": "UCWYzhjlgmJ_l1PYbH_TyE4g",
+        "title": "Macklemore - And We Danced",
+        "description": "Macklemore - And We Danced.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HfCkBrZJZoA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HfCkBrZJZoA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HfCkBrZJZoA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MrLyricalHD",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-01-07T22:58:17Z"
+      }
+    }
+  ]
+}

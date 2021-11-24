@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ZSRAo3zZ0lb6iBsweJ8dPm8_aJE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HL1GV_YNtbzRYcyu4XTkolC2wLk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dXTBbM21plg"
+      },
+      "snippet": {
+        "publishedAt": "2015-02-15T00:02:48Z",
+        "channelId": "UC7DpParfqYQEbFGt5eTX5pQ",
+        "title": "Trey Songz - Slow Motion [Official Music Video]",
+        "description": "Listen to my new album, 'Back Home' out now : https://treysongz.lnk.to/BackHomeAlbum Subscribe for more official content from Trey Songz: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dXTBbM21plg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dXTBbM21plg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dXTBbM21plg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Trey Songz",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-02-15T00:02:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-Bo8XMUnNygFnxRJLShuOb__raw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N6df6IZL-0k"
+      },
+      "snippet": {
+        "publishedAt": "2015-01-28T19:13:44Z",
+        "channelId": "UC401J_fGsES-LMIzoAcvXIg",
+        "title": "Trey Songz - Slow Motion lyrics",
+        "description": "More information down below ↓ Welcome to my youtube channel, I make Netherlands and English lyrics video's. Be always up to date, press the subscribe ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N6df6IZL-0k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N6df6IZL-0k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N6df6IZL-0k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lyrics by Sara de Bruin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-01-28T19:13:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cjWfgNouAdSIV6wNHrQzNvOF4JQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XMqXaLx_qCE"
+      },
+      "snippet": {
+        "publishedAt": "2015-08-12T01:33:52Z",
+        "channelId": "UCGjBSwJrM5fYPxi-2qqJ_UA",
+        "title": "Trey Songz - Slow Motion",
+        "description": "Check out the original video here- https://youtu.be/dXTBbM21plg all wrights go to the label.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XMqXaLx_qCE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XMqXaLx_qCE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XMqXaLx_qCE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vincent Dileonardi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-08-12T01:33:52Z"
+      }
+    }
+  ]
+}

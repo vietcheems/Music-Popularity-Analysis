@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "kmBzz91j5uVIln7k1vSbWx9rIFY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YJDhSvY74RhZjc4ZtmRuZwI1yBA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ltrMfT4Qz5Y"
+      },
+      "snippet": {
+        "publishedAt": "2014-02-24T18:53:55Z",
+        "channelId": "UCpfkwctEySZJDyrIA2Gpv6g",
+        "title": "Kenny Loggins - Footloose (Official Video)",
+        "description": "Watch the official video for \"Footloose\" by Kenny Loggins Listen to Kenny Loggins: https://KennyLoggins.lnk.to/listen_YD Subscribe to Kenny Loggins' official ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ltrMfT4Qz5Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ltrMfT4Qz5Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ltrMfT4Qz5Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KennyLogginsVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-02-24T18:53:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gqjle5ndfvsYyJdhbsCm7bLtHZk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wFWDGTVYqE8"
+      },
+      "snippet": {
+        "publishedAt": "2010-01-21T16:15:23Z",
+        "channelId": "UCGaEF0mF77iqhSCphqd5jHA",
+        "title": "Footloose - Kenny Loggins",
+        "description": "Kenny LogginsのFootlooseのＰＶを再編集しました。",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wFWDGTVYqE8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wFWDGTVYqE8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wFWDGTVYqE8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "caag4d",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-01-21T16:15:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pPb0ZdiO5OgZolwRbSnHy7OulQY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jL4YlNUi7ZE"
+      },
+      "snippet": {
+        "publishedAt": "2014-03-30T04:36:00Z",
+        "channelId": "UC_yHyMz4WS7KtjKZVMj4o2Q",
+        "title": "Kenny Loggins - Footloose (Audio)",
+        "description": "Music video by Kenny Loggins.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jL4YlNUi7ZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jL4YlNUi7ZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jL4YlNUi7ZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Paul Gutierrez Rojas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-03-30T04:36:00Z"
+      }
+    }
+  ]
+}

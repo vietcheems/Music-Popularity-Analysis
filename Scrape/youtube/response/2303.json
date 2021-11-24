@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "8QZih5jApuQhp-QTRK4U64sikEo",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i31PQPmObMvMc88hGwd81k5bH5Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oOni4BMeMp0"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-08T04:00:02Z",
+        "channelId": "UCm1dsgJNnhaLkY3uAdqN4mA",
+        "title": "Chris Brown - No Guidance (Audio) ft. Drake",
+        "description": "Official audio for \"No Guidance\" by Chris Brown\u200b featuring Drake Chris Brown & Young Thug - \"Slime & B\" out now!: https://smarturl.it/SLIMEnB\u200b Listen to Chris ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oOni4BMeMp0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oOni4BMeMp0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oOni4BMeMp0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChrisBrownVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-08T04:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TjXHtrBuUP3CGiEtH3SVVuBauPM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6L_k74BOLag"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-26T16:00:00Z",
+        "channelId": "UCm1dsgJNnhaLkY3uAdqN4mA",
+        "title": "Chris Brown - No Guidance (Official Video) ft. Drake",
+        "description": "Watch the official music video for \"No Guidance\" by Chris Brown\u200b featuring Drake Chris Brown & Young Thug - \"Slime & B\" out now!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6L_k74BOLag/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6L_k74BOLag/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6L_k74BOLag/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChrisBrownVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-26T16:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I2mrL2ZKd4vidVkQ-mV44Z2-gyw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Cfk3y8nXIoM"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-08T06:01:34Z",
+        "channelId": "UCwLFjBCQ4CmOIT1KMDE6fUw",
+        "title": "Drake, Chris Brown - No Guidance (Lyrics)",
+        "description": "Chris Brown - “No Guidance\" ft. Drake (lyrics) Listen to Drake's latest and greatest songs in our playlist: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cfk3y8nXIoM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cfk3y8nXIoM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cfk3y8nXIoM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wicked Sounds",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-08T06:01:34Z"
+      }
+    }
+  ]
+}

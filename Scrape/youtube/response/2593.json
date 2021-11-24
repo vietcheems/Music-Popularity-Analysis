@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "a67wiC3PZHEalP0j8dsapYSMdrk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "20o5LgzVgFt22jem-ts8-eSp8Y4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mQ3abRsUfQY"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-04T19:28:09Z",
+        "channelId": "UCHD_ZUunJo88TEg2apK-hnQ",
+        "title": "Ariana Grande Greedy Lyrics",
+        "description": "No Copyright Intended.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mQ3abRsUfQY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mQ3abRsUfQY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mQ3abRsUfQY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AriStrawberry Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-04T19:28:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ajOF7s1RLkX7ARSyR0Hqrab8cgA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "23e702UuOFg"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-01T18:00:00Z",
+        "channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+        "title": "Ariana Grande - Greedy (Vevo Presents)",
+        "description": "Ariana Grande - Greedy (Vevo Presents) Listen to 'Dangerous Woman' the album: https://arianagrande.lnk.to/dangerouswoman-albumYD ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/23e702UuOFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/23e702UuOFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/23e702UuOFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArianaGrandeVevo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-01T18:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mw-jyZf3wieQFA7B_JB6-ZcfFoY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dSB1Ft1szho"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-30T07:00:02Z",
+        "channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+        "title": "Ariana Grande - Greedy (Live At Capitals Summertime Ball 2016)",
+        "description": "Ariana Grande performing Greedy live at Capitals Summertime Ball 2016. Listen to 'Dangerous Woman' the album: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dSB1Ft1szho/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dSB1Ft1szho/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dSB1Ft1szho/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArianaGrandeVevo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-30T07:00:02Z"
+      }
+    }
+  ]
+}

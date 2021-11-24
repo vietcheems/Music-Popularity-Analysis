@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "dxJY-aE-IlsPadyq9-jbMsQHj70",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HVaJh5M2hwjH5PzaI_AZpWO6ajE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "unfzfe8f9NI"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-09T04:12:34Z",
+        "channelId": "UCa_4DcdTB9QfK0LY9-7qWuQ",
+        "title": "Abba - Mamma Mia (Official Music Video)",
+        "description": "REMASTERED IN HD! UP TO 4K!! Listen to ABBA: https://play.lnk.to/ABBA Follow ABBA Facebook: https://www.facebook.com/ABBA/ Instagram: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/unfzfe8f9NI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/unfzfe8f9NI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/unfzfe8f9NI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AbbaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-09T04:12:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "h3Oy1L1Soc2oETlhYFEDBCzDNAE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6OwPHD61Y3s"
+      },
+      "snippet": {
+        "publishedAt": "2012-09-28T09:34:43Z",
+        "channelId": "UCRURi9Yw-RjhOaYW7E7cTJA",
+        "title": "Mamma Mia - ABBA (with lyrics)",
+        "description": "Mamma Mia by ABBA with lyrics on screen.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6OwPHD61Y3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6OwPHD61Y3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6OwPHD61Y3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "rainbow4121",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-09-28T09:34:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cfuGlJlYlLX_T06eTSvPrCro-24",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BogW-2X_X6k"
+      },
+      "snippet": {
+        "publishedAt": "2011-11-05T23:43:19Z",
+        "channelId": "UC8WYi1-XDzMBhXQxPM7cpzw",
+        "title": "ABBA Mamma Mia",
+        "description": "ABBA Mamma Mia.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BogW-2X_X6k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BogW-2X_X6k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BogW-2X_X6k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Craig Gagné",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-11-05T23:43:19Z"
+      }
+    }
+  ]
+}

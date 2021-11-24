@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "ACC7Qgt_jkKAwr0z1AQXXE7ok1c",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Sz3SwijqnuNGWdkxJdlZ6Xoinuo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BxuY9FET9Y4"
+      },
+      "snippet": {
+        "publishedAt": "2015-09-14T22:01:17Z",
+        "channelId": "UCwppdrjsBPAZg5_cUwQjfMQ",
+        "title": "Charlie Puth - One Call Away [Official Video]",
+        "description": "Voicenotes, the brand new album, out now! https://Atlantic.lnk.to/VoicenotesID Charlie Puth's debut album Nine Track Mind is available now! Download: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BxuY9FET9Y4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BxuY9FET9Y4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BxuY9FET9Y4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Charlie Puth",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-09-14T22:01:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LQg9RnSxdbsdJjESXE4wcwcVsCI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RPYumdhRMkU"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-27T13:27:38Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "One Call Away - Charlie Puth (Lyrics)",
+        "description": "Learn how to sing in only 30 days with these easy, fun video lessons! https://www.30daysinger.com/a/8328/BFzaEvmu -- One Call Away - Charlie Puth (Lyrics) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RPYumdhRMkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RPYumdhRMkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RPYumdhRMkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-27T13:27:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TZE6fEYAkpw5bTGMaSA7ZliaUlM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AW6JWL3lb-M"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-23T08:58:53Z",
+        "channelId": "UCFn_wjVX-k_AlqjLSyXNSnw",
+        "title": "[Vietsub] One Call Away - Charlie Puth",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AW6JWL3lb-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AW6JWL3lb-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AW6JWL3lb-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mjjeje H",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-23T08:58:53Z"
+      }
+    }
+  ]
+}

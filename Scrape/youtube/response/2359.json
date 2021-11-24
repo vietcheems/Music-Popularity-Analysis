@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "EFAZ9rInGrx7RbWaZiK4ogobmwU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ax-LRo-TnG-TVzmL9TLBl_kPYgw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c4qgqNS_20s"
+      },
+      "snippet": {
+        "publishedAt": "2018-03-01T04:02:46Z",
+        "channelId": "UCx8v-goujcpBVF7QKALgp3g",
+        "title": "Dan + Shay - Tequila (Official Music Video)",
+        "description": "LISTEN TO OUR NEW SINGLE \"GLAD YOU EXIST\" EVERYWHERE: http://gladyouexist.com Stream + Download: http://wmna.sh/dsthealbum Music video by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c4qgqNS_20s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c4qgqNS_20s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c4qgqNS_20s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dan And Shay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-01T04:02:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1GYYDytbJ1dm5_1QH0oN62LpqIk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9j8afmT-bLM"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-10T11:00:13Z",
+        "channelId": "UCx8v-goujcpBVF7QKALgp3g",
+        "title": "Dan + Shay - Tequila (Icon Video)",
+        "description": "LISTEN TO OUR NEW SINGLE \"GLAD YOU EXIST\" EVERYWHERE: http://gladyouexist.com Stream + Download: http://wmna.sh/dstequila Watch Official Music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9j8afmT-bLM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9j8afmT-bLM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9j8afmT-bLM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dan And Shay",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-10T11:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8z3zv0JL1ouYk0VXzAoTdwSno9k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2DHcnFgxGPQ"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-08T00:50:00Z",
+        "channelId": "UCLxAS02eWvfZK4icRNzWD_g",
+        "title": "Tequila (Dan &amp; Shay Cover) Music Travel Love (Official Video)",
+        "description": "Thanks for watching official video of \"Tequila\" live acoustic in Aspen. Get \"Tequila\": Spotify: https://spoti.fi/2MYQLOL iTunes: https://apple.co/2GAH3kh Follow ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2DHcnFgxGPQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2DHcnFgxGPQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2DHcnFgxGPQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Music Travel Love",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-08T00:50:00Z"
+      }
+    }
+  ]
+}

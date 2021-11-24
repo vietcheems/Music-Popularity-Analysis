@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "zmM__WiFq-cu-Ul_f6t4c6lJOfE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YkDDAIVQFGtlNQzb3D3H-DPxGJA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-FyjEnoIgTM"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-14T01:24:48Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Versace on the Floor (Official Music Video)",
+        "description": "The official music video for Bruno Mars' \"Versace on the Floor\" from the album '24K Magic'. Subscribe for the latest official music videos, live performances, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-FyjEnoIgTM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-FyjEnoIgTM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-FyjEnoIgTM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-14T01:24:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "F-mxKmF8S74wXn7_6WfFzUcfSK8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Wd1Iz6j4WC0"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-22T03:51:37Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Versace on the Floor (Billboard Music Awards 2017) (Official Live Performance)",
+        "description": "The official live performance of Bruno Mars' \"Versace on the Floor\" from the album '24K Magic' at the 2017 Billboard Music Awards. Subscribe for the latest ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wd1Iz6j4WC0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wd1Iz6j4WC0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wd1Iz6j4WC0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-22T03:51:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gpOrOq0K_s57a2bGl9NfZLcUUBY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "L9GR5l1uGrY"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-11T00:43:18Z",
+        "channelId": "UCkD60YncVn9RdQ_1gzc-3dQ",
+        "title": "Bruno Mars - Versace On The Floor (Lyrics)",
+        "description": "Versace On The Floor by Bruno Mars (Lyric Video) Best of Bruno Mars playlist: https://youtube.com/playlist?list=PLge_4wBJ1LU8V09Qr67lDAr-Ebw6Rwm10 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L9GR5l1uGrY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L9GR5l1uGrY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L9GR5l1uGrY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Wicked Pop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-11T00:43:18Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "3czstd67g6r4mUu2PARuMxR_wr8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eZuT6WFtRXBEtFafGsdrDihvz_0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JQbjS0_ZfJ0"
+      },
+      "snippet": {
+        "publishedAt": "2018-02-06T17:00:02Z",
+        "channelId": "UCoYfzC2zMlc9M-Odgaf6OSg",
+        "title": "Kendrick Lamar, SZA - All The Stars",
+        "description": "Black Panther The Album Music From And Inspired By available on all digital platforms & in stores now http://smarturl.it/BlackPantherAlbum Directed by Dave ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JQbjS0_ZfJ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JQbjS0_ZfJ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JQbjS0_ZfJ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KendrickLamarVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-02-06T17:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DO7_SV7n3ntOPLVmKljjelVUUO4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yvOh7vVqlaE"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-05T17:34:42Z",
+        "channelId": "UCi0LydWaEUy3Vx8flL29ebQ",
+        "title": "Kendrick Lamar, SZA - All The Stars (Lyrics)",
+        "description": "Download Kendrick Lamar, SZA - All The Stars (Lyrics): http://smarturl.it/BlackPantherAlbum Spotify Playlist: http://spotify.syrebralvibes.com » Support ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yvOh7vVqlaE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yvOh7vVqlaE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yvOh7vVqlaE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SyrebralVibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-05T17:34:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IfLTEKjNcRyU3XgVo5rNgfwd5EQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GfCqMv--ncA"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-04T13:00:03Z",
+        "channelId": "UCoYfzC2zMlc9M-Odgaf6OSg",
+        "title": "Kendrick Lamar, SZA - All The Stars",
+        "description": "Black Panther The Album out now http://smarturl.it/BlackPantherAlbum http://vevo.ly/3WpVJn.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GfCqMv--ncA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GfCqMv--ncA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GfCqMv--ncA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KendrickLamarVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-04T13:00:03Z"
+      }
+    }
+  ]
+}

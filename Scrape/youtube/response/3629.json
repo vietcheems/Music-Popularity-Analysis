@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "W7WD_XwX64M1_jGlQk3qaDzLTZ0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cdvUsFRGAdI9AsoPz41TAvKCH4w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FqIACCH20JU"
+      },
+      "snippet": {
+        "publishedAt": "2018-07-05T14:07:03Z",
+        "channelId": "UCnc232Affn0T-Rz_JF0Oq0A",
+        "title": "Duran Duran - Ordinary World (Official Music Video)",
+        "description": "The official Duran Duran video for \"Ordinary World\" from 1993's THE WEDDING ALBUM. Directed by Nick Egan.. Stream Duran Duran's greatest hits here ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FqIACCH20JU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FqIACCH20JU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FqIACCH20JU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DuranDuranVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-05T14:07:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UkJuTUOkxMp-KydhUl5KB21R12w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oUt1-Y6oBsk"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-17T17:03:42Z",
+        "channelId": "UCxF7IhkNQLMiknkv827GtWA",
+        "title": "Duran Duran - Ordinary World (Official Music Video)",
+        "description": "Music video by Duran Duran performing Ordinary World. (C) 2012 Skin Divers, exclusively licensed to Eagle Rock Entertaiment Ltd. #DuranDuran ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oUt1-Y6oBsk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oUt1-Y6oBsk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oUt1-Y6oBsk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DuranDuranOnVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-17T17:03:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R-NQZGUlA9Nkm-VWyXXGyf-TaSw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "d1PnQT4emS0"
+      },
+      "snippet": {
+        "publishedAt": "2012-06-13T01:49:59Z",
+        "channelId": "UCSQXJjHwEzUvhKVBa4IsoSw",
+        "title": "Duran Duran- Ordinary World",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d1PnQT4emS0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d1PnQT4emS0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d1PnQT4emS0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Julio Menjivar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-06-13T01:49:59Z"
+      }
+    }
+  ]
+}

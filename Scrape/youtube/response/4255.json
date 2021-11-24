@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "6dByhmQhStkuOBrrp50bWcyDhvs",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-EnWoBu0OmgDMkH-9ekhqJgH3HU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hi4pzKvuEQM"
+      },
+      "snippet": {
+        "publishedAt": "2014-08-12T17:01:01Z",
+        "channelId": "UCEYQJN0m8sVWZkjO7EMlhWg",
+        "title": "Chet Faker - Gold (Official Music Video)",
+        "description": "The official music video for Gold, taken from Chet Faker's debut album 'Built On Glass'. Get it now on iTunes: http://smarturl.it/BuiltOnGlass Director: Hiro Murai ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hi4pzKvuEQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hi4pzKvuEQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hi4pzKvuEQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChetFakerVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-08-12T17:01:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nf1gF2_AsMwLh8bhUMVo2xa5CV4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fonbZMFAw1s"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-23T23:03:17Z",
+        "channelId": "UCVYBwPtPvKOq8HBS2KXDuxQ",
+        "title": "Gold - Chet Faker Video Lyric",
+        "description": "Producción de Multimedia, Universidad Central 2016 Lorena Cortés Cordoba.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fonbZMFAw1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fonbZMFAw1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fonbZMFAw1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Alzheimer app",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-23T23:03:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "f0w0wPpY15JiLgTJiC1V6sAIzoQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DoJtFI9R4tM"
+      },
+      "snippet": {
+        "publishedAt": "2014-05-12T15:06:42Z",
+        "channelId": "UCLcSym6gRtQqhxLZHvAwuDg",
+        "title": "Chet Faker - Gold (Official Audio)",
+        "description": "Track 5 from Chet Faker's debut album, Built On Glass, available now from Future Classic/Downtown Records: http://smarturl.it/BuiltOnGlass.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DoJtFI9R4tM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DoJtFI9R4tM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DoJtFI9R4tM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chet Faker",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-05-12T15:06:42Z"
+      }
+    }
+  ]
+}

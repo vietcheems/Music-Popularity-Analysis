@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "S8XDdqnOFdmisj_XB2TxNtAVP6s",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MacKGoMORu9Jis30Og2X163-QY0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ocskDuKK7Ok"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-14T16:56:32Z",
+        "channelId": "UCfgsFOdVScKetBXYrFNr5LQ",
+        "title": "A Boogie Wit Da Hoodie - Still Think About You (Prod by. Plug Studios NYC) [Official Music Video]",
+        "description": "The official video for A Boogie Wit Da Hoodie's \"Still Think About You\" from his debut mixtape 'Artist'. 'Artist' available now! iTunes: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ocskDuKK7Ok/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ocskDuKK7Ok/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ocskDuKK7Ok/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "A Boogie Wit da Hoodie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-14T16:56:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kqTHgYwArMSgr0HIbeapXavNVlI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "raDtzGUDA0I"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-23T06:00:16Z",
+        "channelId": "UC05IGUtIEAA6mfBSEQZAxeg",
+        "title": "A Boogie - Still Think About You (Lyrics)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/raDtzGUDA0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/raDtzGUDA0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/raDtzGUDA0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "project Baby",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-23T06:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LEekcX3nZhutPTi7Mn6G2N09VRE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CQ7GFfBB5bU"
+      },
+      "snippet": {
+        "publishedAt": "2020-11-18T23:05:11Z",
+        "channelId": "UC_GsuiZ13oZoIMW2RRB4Iew",
+        "title": "\u200b\u200b\u200bA Boogie Wit da Hoodie - \u200b\u200b\u200b\u200b\u200bStill Think About You (Lyrics) | RapTunes",
+        "description": "Still Think About You - \u200b\u200b\u200bA Boogie Wit da Hoodie (Lyrics) \u200b\u200b\u200bA Boogie Wit da Hoodie - \u200b\u200b\u200b\u200b\u200bStill Think About You Lyrics Help us reach 500000 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CQ7GFfBB5bU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CQ7GFfBB5bU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CQ7GFfBB5bU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RapTunes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-11-18T23:05:11Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "sy-HRNVSKIWWbPgtsbp0dUCM1NM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NFifXuJmR1acu69LT3KEmpX2iZY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v4eeD0Mns-c"
+      },
+      "snippet": {
+        "publishedAt": "2018-05-31T14:00:03Z",
+        "channelId": "UCc6QyDjq9eXr4hzx_6ucY0Q",
+        "title": "Felipe Araújo - Amor Da Sua Cama - Esquenta Felipe Araújo",
+        "description": "A música \"Amor Da Sua Cama\" faz parte do Esquenta do Felipe Araújo. Inscreva-se no canal: http://bit.ly/Inscreva-seFA Ouça agora: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v4eeD0Mns-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v4eeD0Mns-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v4eeD0Mns-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Felipe Araújo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-05-31T14:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vaJFF3njrcp4U8FMKU7W860k5nc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cJLWXb7J9i8"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-29T15:02:53Z",
+        "channelId": "UCc6QyDjq9eXr4hzx_6ucY0Q",
+        "title": "Felipe Araújo - Amor da sua cama",
+        "description": "Este é o novo single do cantor Felipe Araújo. Inscreva-se no canal: http://bit.ly/FelipeAraujoYoutube Ouça agora: https://umusicbrazil.lnk.to/AmorDaSuaCamaYD ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cJLWXb7J9i8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cJLWXb7J9i8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cJLWXb7J9i8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Felipe Araújo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-29T15:02:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eRA7T1BCku_jK4iXuw3L9freCUE",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLxGCFlNfgB3BJ_ybQPGzGaLvZUceqz2RS"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-31T15:01:16Z",
+        "channelId": "UCe56xe12UXVXjGbvIZ9Btbg",
+        "title": "Mix- Felipe Araújo  Amor da sua cama",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cJLWXb7J9i8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cJLWXb7J9i8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cJLWXb7J9i8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ore de oliveira",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-31T15:01:16Z"
+      }
+    }
+  ]
+}

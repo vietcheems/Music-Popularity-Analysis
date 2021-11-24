@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "4tG0C2lXVR-tu8mkd_o7umpjYRY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9olNBUltG-wP2QVerEmfvZd9Pxc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "V6hQ9HSKlIE"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-13T19:01:16Z",
+        "channelId": "UC-rX_f6vueiRY0E75gBNQ0g",
+        "title": "Tracy Chapman - Give Me One Reason (Official Music Video)",
+        "description": "Tracy Chapman - Give Me One Reason (Official Music Video)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/V6hQ9HSKlIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/V6hQ9HSKlIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/V6hQ9HSKlIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tracy Chapman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-13T19:01:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Eug-Ok2yxgjYySb-X8Sr6Kb_VsI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YIXh0JNvuHs"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-15T16:29:37Z",
+        "channelId": "UCIITPAqCgOjtfxfrd8YqQCg",
+        "title": "Tracy Chapman &amp; Eric Clapton - Give Me One Reason (1999)",
+        "description": "Subscribe Tracy Chapman Fan Youtube Channel ▻ http://www.youtube.com/tchapmanfan ♥ See also ▻ Fan website : http://www.about-tracy-chapman.net/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YIXh0JNvuHs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YIXh0JNvuHs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YIXh0JNvuHs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tracy Chapman Online",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-12-15T16:29:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZFSBLvEeBg3fZ9UIqaErVlHb44Y",
+      "id": {
+        "kind": "youtube#playlist",
+        "playlistId": "PLYiWDPAEqqjfvk-lJNaoNlo-PhFqGYWDu"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-15T17:09:35Z",
+        "channelId": "UClXIxIyB741LkmBAGCyVQNg",
+        "title": "Tracy Chapman Give me one reason",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Jne9t8sHpUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Jne9t8sHpUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Jne9t8sHpUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "charityklein",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-15T17:09:35Z"
+      }
+    }
+  ]
+}

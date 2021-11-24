@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "T8pi-eqT5P-njWDVMDGLPDTXwIg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "14n63kzdajp8rbRKhgB_ZHYghEQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Ee_uujKuJMI"
+      },
+      "snippet": {
+        "publishedAt": "2012-08-22T00:41:14Z",
+        "channelId": "UCqC_GY2ZiENFz2pwL0cSfAw",
+        "title": "Green Day - American Idiot [Official Music Video]",
+        "description": "Watch the official music video for American Idiot by Green Day from the album American Idiot. Subscribe to the channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Ee_uujKuJMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Ee_uujKuJMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Ee_uujKuJMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Green Day",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-08-22T00:41:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6YtbnnvPO-13kFdh2Gu4RiWvuDw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a1BS7XnEZqc"
+      },
+      "snippet": {
+        "publishedAt": "2011-11-14T22:10:06Z",
+        "channelId": "UCAyWwpICnPyk1B9La8XLZyg",
+        "title": "Green Day - American Idiot lyrics [1080p]",
+        "description": "Green Day - American Idiot lyrics video. Made by me. I do not claim ownership of this song. Recommend you watch on 720p. 1080p is a little too HQ.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a1BS7XnEZqc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a1BS7XnEZqc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a1BS7XnEZqc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MrGreenDayLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-11-14T22:10:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GnseUz5ASgXlpxJctH9ho0P9KrI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "60CRF5yIvso"
+      },
+      "snippet": {
+        "publishedAt": "2020-02-04T14:28:45Z",
+        "channelId": "UCCnaeze4TtkMDrb35O5Gczg",
+        "title": "Grееn Dау Аmеricаn ldiоt (Full Album)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/60CRF5yIvso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/60CRF5yIvso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/60CRF5yIvso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vlad",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-02-04T14:28:45Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "mSEGT6YBPgOZog_iv5Wzc0sY_XA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4QGjvjB2mB5nFGJhRwfDqUxDj6U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SpXw0qiy3Wo"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-25T20:00:32Z",
+        "channelId": "UCOjEHmBKwdS7joWpW0VrXkg",
+        "title": "21 Savage &amp; Metro Boomin - X ft Future (Official Music Video)",
+        "description": "21 Savage & Metro Boomin deliver a visual for their platinum selling record, \"X\" featuring Future from their July 2016 EP, 'Savage Mode.' A Vincent Lou Film.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SpXw0qiy3Wo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SpXw0qiy3Wo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SpXw0qiy3Wo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "21 Savage",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-25T20:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7uspd4YZMOQhKfShFUbIQjBoSJ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "szKxAdvlCCM"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-15T04:00:00Z",
+        "channelId": "UCOjEHmBKwdS7joWpW0VrXkg",
+        "title": "21 Savage &amp; Metro Boomin - X ft Future (Official Audio)",
+        "description": "Listen to “X\" by 21 Savage ft Future produced by Metro Boomin & 21 Savage off the 'Savage Mode' project. Stream 'Savage Mode' on YouTube: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/szKxAdvlCCM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/szKxAdvlCCM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/szKxAdvlCCM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "21 Savage",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-07-15T04:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FNPh0P8kCEL8c5QErhBI5xs8eKw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "skFpRhxcpzM"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-24T16:50:36Z",
+        "channelId": "UC9LedNAkae0vGNJaE9Vmx0Q",
+        "title": "21 Savage &amp; Metro Boomin - X ft Future (Official Lyrics)",
+        "description": "21 Savage & Metro Boomin - X ft Future (Official Lyrics) 2016 Listen to “X\" by 21 Savage ft Future produced by Metro Boomin & 21 Savage off the 'Savage Mode' ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/skFpRhxcpzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/skFpRhxcpzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/skFpRhxcpzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "21 Savage",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-07-24T16:50:36Z"
+      }
+    }
+  ]
+}

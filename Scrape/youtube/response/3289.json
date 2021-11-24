@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "2wf0pL6bU4hMZlklyqHFD8UNedE",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "upVWz-Wcwfs1-gnfs1UKXI7kVRo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6p-lDYPR2P8"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-25T21:55:11Z",
+        "channelId": "UC81VD6eeuLLSfyY_D-N8sVw",
+        "title": "Madonna - Material Girl (Official Video) [HD]",
+        "description": "You're watching the HD Remastered music video for Madonna's \"Material Girl\", directed by Mary Lambert. Original song taken from Madonna's 'Like A Virgin' ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6p-lDYPR2P8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6p-lDYPR2P8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6p-lDYPR2P8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Madonna",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-25T21:55:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MSS2ZsF1rCJu8JT1JvC2TEIsPc4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W8wzQj3M-qY"
+      },
+      "snippet": {
+        "publishedAt": "2012-04-12T16:25:56Z",
+        "channelId": "UC9neFfy1_yAg0btUF3mrLig",
+        "title": "Madonna - Material Girl (Lyrics On Screen)",
+        "description": "Madonna - Material Girl - Like A Virgin - 1984 - Track 01 Some boys kiss me Some boys hug me I think they're ok If they don't give me proper credit I just walk ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W8wzQj3M-qY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W8wzQj3M-qY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W8wzQj3M-qY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Madonna Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-04-12T16:25:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kbi7O8_li4uHa5YUgmcgCMLeVZU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "swoWs3n_7Qs"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-18T13:00:06Z",
+        "channelId": "UCmQmc-Y4N9btVMUS1BfnyDw",
+        "title": "Madonna - Material Girl (Rebel Heart Tour)",
+        "description": "Order now http://smarturl.it/RHTphys - MADONNA's record-breaking REBEL HEART TOUR. Featuring 24 tracks performed around the world on her 10th global ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/swoWs3n_7Qs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/swoWs3n_7Qs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/swoWs3n_7Qs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MADONNAVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-18T13:00:06Z"
+      }
+    }
+  ]
+}

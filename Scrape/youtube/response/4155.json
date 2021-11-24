@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "A82tv7Nq8LUHsfHnWehVc4rkizs",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JBplGOv-ENCDvY8a5dO3uJe1_Co",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xCDXVoc35Vs"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-17T04:00:28Z",
+        "channelId": "UCXQIVincj_W4CYfWKB1iPVQ",
+        "title": "Camilo, Christian Nodal - La Mitad",
+        "description": "Camilo & Christian Nodal - La Mitad Camilo - Por Primera Vez (Album) All DSPs: https://smarturl.it/PorPrimeraVezAlbum Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xCDXVoc35Vs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xCDXVoc35Vs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xCDXVoc35Vs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "CamiloVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-17T04:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "--AeBP2jdXX6i9UvqEZkfukmKF0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yz7oP-JqaXk"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-30T23:17:18Z",
+        "channelId": "UCw0aKHSGFGyrnMeVnHeYMyw",
+        "title": "Camilo - La Mitad (Concierto en Casa)",
+        "description": "Shot by YouTube Music Camilo – La Mitad (Concierto en Casa) Spotify: https://smarturl.it/PorPrimeraVezAlbum/spotify Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yz7oP-JqaXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yz7oP-JqaXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yz7oP-JqaXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Camilo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-30T23:17:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SZD6THj3tVWXBl8dPU4UKAtKYy4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "e4AGcsvwRgc"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-17T04:37:02Z",
+        "channelId": "UCqbdzysdltRoVFskIf_j7-g",
+        "title": "Camilo, Christian Nodal - La Mitad (Letra)",
+        "description": "Si te dedicas a la música y quieres publicidad en mi canal, escríbeme por instagram: http://Instagram.com/Silvia.Zc_ Suscríbete, activa la campanita, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/e4AGcsvwRgc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/e4AGcsvwRgc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/e4AGcsvwRgc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Silvia Zc",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-17T04:37:02Z"
+      }
+    }
+  ]
+}

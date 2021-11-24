@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "eXqxeeCVBm1s3GOUKKOUebHicrs",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jSJS7lxXbwUehwHlNWoEuN58FP8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-CmadmM5cOk"
+      },
+      "snippet": {
+        "publishedAt": "2015-02-13T13:20:01Z",
+        "channelId": "UCANLZYMidaCbLQFWXBC95Jg",
+        "title": "Taylor Swift - Style",
+        "description": "Exclusive Merch: https://store.taylorswift.com ▻Follow Taylor Swift Online Instagram: http://www.instagram.com/taylorswift Facebook: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-CmadmM5cOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-CmadmM5cOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-CmadmM5cOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TaylorSwiftVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-02-13T13:20:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7BSd_IhWVO4l1yKEkIbhyEDkpxM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_8Z2kSPfJYo"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-31T19:01:13Z",
+        "channelId": "UCMP3xFFoLWQ9xbigtFdjc1g",
+        "title": "Style • Taylor Swift • lyrics",
+        "description": "lyricaljuice #taylorswift #style - DISCLAIMER The use of any copyrighted material is used under the guidelines of \"Fair use\" in title 17 & 107 of the united states ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_8Z2kSPfJYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_8Z2kSPfJYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_8Z2kSPfJYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "lyrical juice",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-31T19:01:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_8odPnudQLZNvjEvwNleZ4MIv6k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VzsnpDcKdSo"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-30T10:46:15Z",
+        "channelId": "UCncwtW_qqM4pSfjHX9BrIJg",
+        "title": "[Remastered 4K ] STYLE - Taylor Swift • The Victoria&#39;s Secret Fashion Show 2014 • EAS Channel",
+        "description": "TaylorSwift #TheAlbum1989 #VSFashionShow #Remastered Fully audio and video were remastered by Daihen Chu \"Style\" is a song recorded by American ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VzsnpDcKdSo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VzsnpDcKdSo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VzsnpDcKdSo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EAS Music Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-30T10:46:15Z"
+      }
+    }
+  ]
+}

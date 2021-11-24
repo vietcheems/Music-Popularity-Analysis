@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "C6pqzBb50g14RaTgIsfUTRqTpKw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DvX-lytIMIg26lkLnmGFPtJN2KQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "koVHN6eO4Xg"
+      },
+      "snippet": {
+        "publishedAt": "2008-10-27T16:50:13Z",
+        "channelId": "UCsD7zvGKkqB7GvQpygW2few",
+        "title": "T.I. - Live Your Life ft. Rihanna [Official Video]",
+        "description": "T.I. - Live Your Life ft. Rihanna [Official Video] Subscribe:http://bit.ly/YouTubeTIvsTIP The new US or ELSE EP is available on all digital retailers. Download and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/koVHN6eO4Xg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/koVHN6eO4Xg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/koVHN6eO4Xg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TIvsTIP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-10-27T16:50:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "829U4c9_Iq1C216T1Qczp0Thl5s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MqwAHswi9uY"
+      },
+      "snippet": {
+        "publishedAt": "2012-01-19T13:40:01Z",
+        "channelId": "UC7vLXu8UVGUcazg04Oq0Pcg",
+        "title": "T.I - Live Your Life (Feat. Rihanna)",
+        "description": "Album: Paper Trail 05 - Live Your Life (Feat. Rihanna)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MqwAHswi9uY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MqwAHswi9uY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MqwAHswi9uY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Stefan Jovanović",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-01-19T13:40:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mPk4fZcGZRGggCIRegJtxIB-lXY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rXneGIQjhC4"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-14T14:15:04Z",
+        "channelId": "UC4XJeGGdXj0vA4CxDDJ8J_A",
+        "title": "T.I., Rihanna - Live Your Life (Lyrics)",
+        "description": "0:35 - That part T.I., Rihanna - Live Your Life (Lyrics) Follow Cakes & Eclairs on Spotify: http://bit.ly/CakesEclairs Stream Live Your Life T.I. ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rXneGIQjhC4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rXneGIQjhC4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rXneGIQjhC4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cakes & Eclairs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-14T14:15:04Z"
+      }
+    }
+  ]
+}

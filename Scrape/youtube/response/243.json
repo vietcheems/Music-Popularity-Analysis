@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "b7EJyNBsaJ3KXnVFxg-2IBp1FVw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NOPU3CejuG3NiObV9eyUqap5vFA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B3eAMGXFw1o"
+      },
+      "snippet": {
+        "publishedAt": "2015-07-02T04:00:01Z",
+        "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+        "title": "Rihanna - Bitch Better Have My Money (Explicit)",
+        "description": "Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream on TIDAL: http://smarturl.it/streamANTIdlx Download ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B3eAMGXFw1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B3eAMGXFw1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B3eAMGXFw1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RihannaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-07-02T04:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "19wMKUK5USBTi_WVBgeRra5f_0Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "acoknuTpPOM"
+      },
+      "snippet": {
+        "publishedAt": "2015-12-15T21:06:28Z",
+        "channelId": "UCu0MQeHt-gF3NL_CxwGPjmw",
+        "title": "Rihanna - Bitch Better Have My Money (Explicit Audio)",
+        "description": "Artist: Rihanna Album: ANTI Song: Bitch Better Have My Money Year/Año: 2015.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/acoknuTpPOM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/acoknuTpPOM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/acoknuTpPOM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Music World",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-12-15T21:06:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jq-UFCFixHCt-YVgTkLnasYssiU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oQW2FFt3-A8"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-31T15:30:00Z",
+        "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+        "title": "Bitch Better Have My Money (Live At The 2015 iHeartRadio Music Awards) (Explicit)",
+        "description": "Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream on TIDAL: http://smarturl.it/streamANTIdlx Download ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oQW2FFt3-A8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oQW2FFt3-A8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oQW2FFt3-A8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RihannaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-03-31T15:30:00Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "3hL6OAqJPBf2kvk2puCohTQ0eUQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zdCgUcIIPSQtRnb-Z33Jou_Pfok",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wfN4PVaOU5Q"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-20T16:00:05Z",
+        "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+        "title": "Rihanna - Needed Me",
+        "description": "\"Needed Me\" from Rihanna's eighth studio album ANTI, available now: Download on TIDAL: http://smarturl.it/downloadANTI Download on iTunes: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wfN4PVaOU5Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wfN4PVaOU5Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wfN4PVaOU5Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RihannaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-20T16:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LGLrOKgr38ldjOszIeggGy4MUzA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RiexmXWoQZE"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-26T19:33:55Z",
+        "channelId": "UCReyCcM-8JXsstlj89R8kGQ",
+        "title": "Rihanna - Needed Me (Lyrics Video)",
+        "description": "Rihanna #NeededMe #Relaxing.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RiexmXWoQZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RiexmXWoQZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RiexmXWoQZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Viral Monkey",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-26T19:33:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "a3G-g8zTXkFbt680oybXhTBDNJw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QPb93EJcQBw"
+      },
+      "snippet": {
+        "publishedAt": "2016-01-28T17:34:15Z",
+        "channelId": "UCu0MQeHt-gF3NL_CxwGPjmw",
+        "title": "Rihanna - Needed Me (Audio)",
+        "description": "Artist: Rihanna Album: ANTI Song: Needed Me Year/Año: 2016 Music Video: https://youtu.be/wfN4PVaOU5Q Buy ANTI: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QPb93EJcQBw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QPb93EJcQBw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QPb93EJcQBw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Music World",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-01-28T17:34:15Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "tdbZzmpFWVe3PdBwX8VZH33D9S8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mPYFxoPasgaKicLvyjoSApsMAmc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EKpHL483Bzw"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-20T20:17:04Z",
+        "channelId": "UCDdx1uv27YOmf6-ZMuk15-A",
+        "title": "Somebody to Love (Remastered 2011)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EKpHL483Bzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EKpHL483Bzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EKpHL483Bzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "This Is Queen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-20T20:17:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fSdTcn32SLn8-vRc6K9U8vmlO40",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E-q1d-LEbcw"
+      },
+      "snippet": {
+        "publishedAt": "2019-07-20T03:32:20Z",
+        "channelId": "UCDdx1uv27YOmf6-ZMuk15-A",
+        "title": "Somebody To Love (Remastered 2011)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E-q1d-LEbcw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E-q1d-LEbcw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E-q1d-LEbcw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "This Is Queen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-07-20T03:32:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jMbemJYvkbYn_dZXeB_Lgfvu4QA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kijpcUv-b8M"
+      },
+      "snippet": {
+        "publishedAt": "2013-08-07T12:43:14Z",
+        "channelId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+        "title": "Queen - Somebody To Love (Official Video)",
+        "description": "Taken from A Day At The Races, 1976 and Forever, 2014. Queen- Somebody To Love (promo video, 1976) Click here to buy the DVD with this video at the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kijpcUv-b8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kijpcUv-b8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kijpcUv-b8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Queen Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-08-07T12:43:14Z"
+      }
+    }
+  ]
+}

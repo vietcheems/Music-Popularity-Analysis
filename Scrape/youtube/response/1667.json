@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "iWT4zPQ3LHavDOHgn1xadcXKSQk",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y_MXXtL6Ztz-aZ7fT13Suyn9ooY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FOn8SdYF7eg"
+      },
+      "snippet": {
+        "publishedAt": "2019-06-04T05:19:26Z",
+        "channelId": "UCWUd7RCVIHTP5ZvsZFy0t-A",
+        "title": "All I Ask - Adele (Lyrics)",
+        "description": "All I Ask - Adele (Lyrics) Audio of a live performance I do not own anything, All credits go to the right owners. No copyright intended.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FOn8SdYF7eg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FOn8SdYF7eg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FOn8SdYF7eg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BlueRain",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-06-04T05:19:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bUaT4UDOdnPalM1KDk8M_9Tw3Fs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IRXoLDPddkU"
+      },
+      "snippet": {
+        "publishedAt": "2016-03-01T01:31:02Z",
+        "channelId": "UCn4Xj4JcDuDmZpLIpmE6vEA",
+        "title": "Adele - All I Ask (Live 2016) (Lyrics)",
+        "description": "Adele performs All I Ask (Live 2016) (Lyrics) (Español) HD All i Ask official video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IRXoLDPddkU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IRXoLDPddkU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IRXoLDPddkU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Adele Live",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-01T01:31:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZdHUwmyH5hi7O1S1av9LC08Tv9s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oCtYekG1qBc"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-02T16:45:25Z",
+        "channelId": "UC-FQUIVQ-bZiefzBiQAa8Fw",
+        "title": "Bruno Mars covers Adele&#39;s All I Ask in the Live Lounge",
+        "description": "Bruno Mars covers Adele's All I Ask in the Live Lounge for BBC Radio 1 for Clara Amfo. In the UK? Check out Clara Amfo's Radio 1 show including more live ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oCtYekG1qBc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oCtYekG1qBc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oCtYekG1qBc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBC Radio 1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-02T16:45:25Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "9w1EaaJBynCfsMlGL7iyQAkWXoU",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hvzb74ypvA12a1UmCJex-JEpeAU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zt51rITH3EA"
+      },
+      "snippet": {
+        "publishedAt": "2013-01-29T22:55:50Z",
+        "channelId": "UCg779eGNd1rkJUgX8mzz0zA",
+        "title": "Cream - Sunshine Of Your Love (HD)",
+        "description": "Mais uma super música. ♫♫♫ FaceBook: www.facebook.com/RocksMusicas Letra: Sunshine Of Your Love Cream It's getting near dawn When lights close their ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zt51rITH3EA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zt51rITH3EA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zt51rITH3EA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rock s Músicas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-01-29T22:55:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LMpV7iVcl1HeYbnVdPjy4eN6Jwc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vyftaay-pFA"
+      },
+      "snippet": {
+        "publishedAt": "2010-01-30T13:34:35Z",
+        "channelId": "UC0Aycwdkbn20rGXPRgVMtJw",
+        "title": "Cream - Sunshine of your love",
+        "description": "Royal Albert Hall 2005.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vyftaay-pFA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vyftaay-pFA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vyftaay-pFA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SvenGoran2",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-01-30T13:34:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jRNlN9UcJeEMJuYPAGRoilAf-yM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HbqQL0J_Vr0"
+      },
+      "snippet": {
+        "publishedAt": "2010-11-01T20:47:13Z",
+        "channelId": "UCNIabAhNycApbhsFrNbzTuA",
+        "title": "Cream - Sunshine of Your Love",
+        "description": "The official music video in HD.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HbqQL0J_Vr0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HbqQL0J_Vr0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HbqQL0J_Vr0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "rocksongz1",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-11-01T20:47:13Z"
+      }
+    }
+  ]
+}

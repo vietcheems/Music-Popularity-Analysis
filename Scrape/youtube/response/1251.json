@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "KUhTylzvsg8GlNgnu_9Fa8NpHT0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 200192,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2X3s-9zuRpIpiSOAMLTwtWZf6zk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U516oP9nt2o"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-11T04:00:00Z",
+        "channelId": "UCJgPnkjLwGgbzfbaeJvBlVQ",
+        "title": "Yandel - Explícale (Official Video) ft. Bad Bunny",
+        "description": "Yandel ft. Bad Bunny - \"Explícale\" (Official Music Video) Yandel's album “#Update” is now available! iTunes: http://smarturl.it/UpdateI Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U516oP9nt2o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U516oP9nt2o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U516oP9nt2o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YandelVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-11T04:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SixNsaHw4D48iIM1Muw6pp7N8pM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O4JaG2S4cdI"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-12T21:55:02Z",
+        "channelId": "UCJgPnkjLwGgbzfbaeJvBlVQ",
+        "title": "Explícale (Remix - Official Lyric Video)",
+        "description": "Yandel, Bad Bunny, Noriel – “Explicale Remix ” NUEVO ÁLBUM “#Update” DISPONIBLE AHORA! iTunes: http://smarturl.it/UpdateI Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O4JaG2S4cdI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O4JaG2S4cdI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O4JaG2S4cdI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "YandelVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-12T21:55:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_iC5JLZeLKG907cpvMAMyJou-Po",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EIZAalJilkw"
+      },
+      "snippet": {
+        "publishedAt": "2017-08-11T15:39:08Z",
+        "channelId": "UC1ZBgtNvYRyyovg2ftGQnNA",
+        "title": "Explicale - Yandel ft. Bad Bunny (Audio)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EIZAalJilkw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EIZAalJilkw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EIZAalJilkw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Nuevas Del Genero",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-08-11T15:39:08Z"
+      }
+    }
+  ]
+}

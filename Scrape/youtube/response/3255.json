@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Fw7VTNq9GDfJf8rCybgHuAtbFPw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qeRx31TI9-620dIUdGf1_dutNgM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pE49WK-oNjU"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-08T04:00:09Z",
+        "channelId": "UC0VOyT2OCBKdQhF3BAbZ-1g",
+        "title": "Ariana Grande &amp; Justin Bieber - Stuck with U",
+        "description": "SB Projects along with longtime clients Ariana Grande and Justin Bieber release “Stuck with U” to benefit First Responders Children's Foundation: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pE49WK-oNjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pE49WK-oNjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pE49WK-oNjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArianaGrandeVevo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-08T04:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7G8I7SuIXrKz0NgO_lnAhbdSyJM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h2jvHynuMjI"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-08T04:00:10Z",
+        "channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+        "title": "Ariana Grande, Justin Bieber - Stuck with U (Lyric Video)",
+        "description": "Watch Official Video: http://stuckwithu.lnk.to/video SB Projects along with longtime clients Ariana Grande and Justin Bieber release “Stuck with U” to benefit First ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h2jvHynuMjI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h2jvHynuMjI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h2jvHynuMjI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JustinBieberVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-08T04:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "P6XtQreEp9h3P2sNNpozdtVhCCc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oAos7lLHLGw"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-08T11:35:06Z",
+        "channelId": "UC4XJeGGdXj0vA4CxDDJ8J_A",
+        "title": "Ariana Grande - Stuck with U (Lyrics) ft. Justin Bieber",
+        "description": "Follow Cakes & Eclairs on Spotify: http://bit.ly/CakesEclairs Ariana Grande - Stuck with U (Lyrics) ft. Justin Bieber Download / Stream: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oAos7lLHLGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oAos7lLHLGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oAos7lLHLGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cakes & Eclairs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-08T11:35:06Z"
+      }
+    }
+  ]
+}

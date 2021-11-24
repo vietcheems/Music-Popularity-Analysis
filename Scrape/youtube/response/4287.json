@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "7BuCg-94VTsQlHvpCNgb3wcYOEo",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EMmTc7_9QuhQyBxDGuJrMNP1Oxo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y2V6yjjPbX0"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-06T14:02:04Z",
+        "channelId": "UCey2z8VZ7Mc0R1M5QiBU4EA",
+        "title": "Fitz and the Tantrums - HandClap [Official Video]",
+        "description": "Fitz and the Tantrums self-titled album available now: http://smarturl.it/fitzandthetantrums Stream on Spotify: http://smarturl.it/streamFATT Store: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y2V6yjjPbX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y2V6yjjPbX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y2V6yjjPbX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fitz and the Tantrums",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-06T14:02:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4Exsdbm0BspvgZsC0LT7l0deyf4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ODIT0qPkMV8"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-27T08:00:15Z",
+        "channelId": "UC1RfH17-DmSz3zPIzFxgLjQ",
+        "title": "HandClap - Fitz and the Tantrums [LYRICS]",
+        "description": "Release date: 25 maart 2016 Lyrics: Turn it up Somebody save your soul 'cause you've Been sinning in this city, I know Too many troubles, all these lovers got ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ODIT0qPkMV8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ODIT0qPkMV8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ODIT0qPkMV8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Favourite Lyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-27T08:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8aURhLsIFPymAe4zy8VhizXTyUQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bNBMwTtlGjs"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-23T15:52:15Z",
+        "channelId": "UCmzRlnYu2x5l-kmjpF08Hnw",
+        "title": "HANDCLAP by Fitz And The Tantrums | Zumba® | Pop | Kramer Pastrana",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bNBMwTtlGjs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bNBMwTtlGjs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bNBMwTtlGjs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mark Kramer Pastrana",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-23T15:52:15Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "UBCDDN5FIFKEKeusqU_9r6Z4cl0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ay6rcAPHc5KNxSv-s2TRlf3Hofo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kt0g4dWxEBo"
+      },
+      "snippet": {
+        "publishedAt": "2015-02-03T14:00:03Z",
+        "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+        "title": "Rihanna, Kanye West, Paul McCartney - FourFiveSeconds",
+        "description": "FourFiveSeconds” available now. iTunes http://smarturl.it/FourFiveSeconds Google Play http://smarturl.it/GPFourFiveSeconds Amazon ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kt0g4dWxEBo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kt0g4dWxEBo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kt0g4dWxEBo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RihannaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-02-03T14:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y0G6_q684j3cFnUUhQAmKfPdA3M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QPGvX4jDuL8"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-07T18:36:21Z",
+        "channelId": "UCfCe2NJDHRZLiAKNPdE9j_g",
+        "title": "Rihanna, Kanye West &amp; Paul McCartney - FourFiveSeconds live at the Grammys 2015",
+        "description": "Rihanna, Kanye West and Paul McCartney. I don't own anything. (C) All rights and credits belong to the copyright owners and real publishers. (C) Rihanna ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QPGvX4jDuL8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QPGvX4jDuL8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QPGvX4jDuL8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Derlei Silva",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-07T18:36:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qJQmvhec4wyfFKJsfjrkidbMlKw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FjRPDzcmJT4"
+      },
+      "snippet": {
+        "publishedAt": "2015-01-26T22:43:34Z",
+        "channelId": "UCqiworIrCJba7dejHCLrI6A",
+        "title": "Rihanna - Four Five Seconds ft. Kanye West &amp; Paul McCartnery [LYRICS]",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FjRPDzcmJT4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FjRPDzcmJT4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FjRPDzcmJT4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ligia",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-01-26T22:43:34Z"
+      }
+    }
+  ]
+}

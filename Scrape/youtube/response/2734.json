@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "F--oE-hJ_snrNXVstqbZf9OmP7o",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O3WcKCTTMyDKqwHry4fLuQFJRQs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OblL026SvD4"
+      },
+      "snippet": {
+        "publishedAt": "2013-04-09T04:00:21Z",
+        "channelId": "UCc7_woMAIVIW2mAr1rPCsFQ",
+        "title": "Paramore: Still Into You [OFFICIAL VIDEO]",
+        "description": "Paramore's music video for 'Still Into You' from the self-titled album - available now on Fueled By Ramen at http://smarturl.it/paramore-itunes Go behind the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OblL026SvD4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OblL026SvD4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OblL026SvD4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Paramore",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-04-09T04:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3AiZMonVVDjkwPpKXzmHyqamIBY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "B7Ei5JkZpTE"
+      },
+      "snippet": {
+        "publishedAt": "2018-04-06T04:17:23Z",
+        "channelId": "UChWcegNjI5qZV-8jBgFAJ6A",
+        "title": "Paramore - Still Into You (Lyrics)",
+        "description": "Artist: Paramore Song: Still Into You Album: Paramore Year: 2013 Photo: https://sugarmints.deviantart.com/art/new-beginnings-578812138 ~I don't own the song ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/B7Ei5JkZpTE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/B7Ei5JkZpTE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/B7Ei5JkZpTE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Audioandlyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-06T04:17:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "y6TTuZVd0t_m6VBukYGd_H6KeF4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wrCxfWVuDXU"
+      },
+      "snippet": {
+        "publishedAt": "2013-06-14T16:29:07Z",
+        "channelId": "UCc7_woMAIVIW2mAr1rPCsFQ",
+        "title": "Paramore - Still Into You (Studio Vocals)",
+        "description": "So excited about these entries for the Paraoke Contest! I decided maybe I should share my own video with you guys. This is literally the entire first vocal take I ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wrCxfWVuDXU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wrCxfWVuDXU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wrCxfWVuDXU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Paramore",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-06-14T16:29:07Z"
+      }
+    }
+  ]
+}

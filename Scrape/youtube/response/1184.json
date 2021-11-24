@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "IyIqIQUB26vKYzPGB2Ovcom8jlg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "V7pP61jB5A9BriG_Ek3vZhNJ8Cw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fPgf2meEX1w"
+      },
+      "snippet": {
+        "publishedAt": "2011-03-17T22:28:47Z",
+        "channelId": "UCU8hEdjK8u27TM7KA8JVIEw",
+        "title": "Usher, Alicia Keys - My Boo (Official Video)",
+        "description": "\"My Boo\" by Usher feat. Alicia Keys Listen to Usher: https://Usher.lnk.to/listenYD Subscribe to the official Usher YouTube channel: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fPgf2meEX1w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fPgf2meEX1w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fPgf2meEX1w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "UsherVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-03-17T22:28:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZpmkXf9BanwIH9J6Wd-033AkqSw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RVjERXrdues"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-09T14:46:57Z",
+        "channelId": "UCdvBex6r_1-i8Sut-mCy2Jw",
+        "title": "Usher - My Boo (Lyrics) ft. Alicia Keys",
+        "description": "Usher - My Boo (Lyrics) ft. Alicia Keys Spotify Playlist: https://TajTracks.lnk.to/Spotify Stream / Download: https://Usher.lnk.to/listenYD Usher: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RVjERXrdues/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RVjERXrdues/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RVjERXrdues/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taj Tracks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-09T14:46:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lIEuyx8ZlfcYTEbI1j66nj5b5ps",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "M_mYf8s3Azw"
+      },
+      "snippet": {
+        "publishedAt": "2012-07-25T14:42:17Z",
+        "channelId": "UCoI4PejsUuEU4gL4X3uVc5A",
+        "title": "Usher - My boo (ft. Alicia Keys)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/M_mYf8s3Azw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/M_mYf8s3Azw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/M_mYf8s3Azw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mika Brossard",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-07-25T14:42:17Z"
+      }
+    }
+  ]
+}

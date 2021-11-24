@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "wd5SypsRY7qFjjJvtNZRXIUTEvs",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IsaBi3NGAT6AxBMvIveZ3Lu5NS8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Qnjqn0vk-eU"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-07T22:25:09Z",
+        "channelId": "UCLXfs6GfSArIsUT7Umcfpjw",
+        "title": "J Cole - Neighbors (Music Video)",
+        "description": "Fan made vid to J Coles \"Neighbors\" Follow PARALLEL FILMS on INSTAGRAM & TWITTER - https://www.instagram.com/parallelfilms/?hl=en ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Qnjqn0vk-eU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Qnjqn0vk-eU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Qnjqn0vk-eU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ParallelFilms",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-07T22:25:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ay3JXJTrbjYwMEntiS-hdSWMris",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CkpbkDB7EUk"
+      },
+      "snippet": {
+        "publishedAt": "2016-12-17T21:13:53Z",
+        "channelId": "UCe25FI4S9pITkd1F-fPNWow",
+        "title": "J Cole - Neighbors [LYRICS HQ][Explicit]",
+        "description": "The song draws inspiration from an incident on March 18th, 2016 involving a house in North Carolina Cole had rented to use as a studio, called the “Sheltuh.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CkpbkDB7EUk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CkpbkDB7EUk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CkpbkDB7EUk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bewar",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-12-17T21:13:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "elefndKE-5FXipAB9u6Mp5q1K3s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9nfVWiXY3WY"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-01T15:00:01Z",
+        "channelId": "UCnzJFckvQBA5nn9lMu08LWQ",
+        "title": "J. Cole - Neighbors (Official Music Video)",
+        "description": "J. Cole – Neighbors (Official Video) Stream Neighbors on Tidal: https://tidal.com/track/68005603 Stream Neighbors on Apple Music: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9nfVWiXY3WY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9nfVWiXY3WY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9nfVWiXY3WY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JColeVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-01T15:00:01Z"
+      }
+    }
+  ]
+}

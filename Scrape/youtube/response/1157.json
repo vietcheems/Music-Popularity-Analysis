@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "60inFa0KYZbDieNuoIXkByrxuwg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ckQYwQbMnSblMI1lItAy9ggw9rY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NE3IkFadCHM"
+      },
+      "snippet": {
+        "publishedAt": "2016-07-08T07:00:01Z",
+        "channelId": "UC3Df9-SvQY9BbfCmyvR0J5A",
+        "title": "Sebastián Yatra - Traicionera",
+        "description": "Traicionera (Official Video) “Traicionera” disponible ya en todas las plataformas digitales: https://UMLE.lnk.to/csIIUFp Sigue a Sebastian Yatra: Official Site: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NE3IkFadCHM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NE3IkFadCHM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NE3IkFadCHM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SebastianYatraVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-07-08T07:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LUkM6cNsWyWn2vR1VShMnTfhDag",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eaImJVvW1UQ"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-04T14:15:01Z",
+        "channelId": "UClAsydMt3vc-Pcmp7mrB5Rw",
+        "title": "Sebastian Yatra - Traicionera (Letras / Lyrics)",
+        "description": "Sebastian Yatra - Traicionera (Letras / Lyrics) Traicionera (Letras / Lyrics) - MANTRA Tibi gratias ago Signatores Letras Rojas: http://bit.ly/LetrasRojas1 MANTRA ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eaImJVvW1UQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eaImJVvW1UQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eaImJVvW1UQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Letras Rojas",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-04T14:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aZ7SqnH0Yt2uiqZaiY2aZhuV6E4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wesPpjDZdd4"
+      },
+      "snippet": {
+        "publishedAt": "2016-10-24T07:00:02Z",
+        "channelId": "UC3Df9-SvQY9BbfCmyvR0J5A",
+        "title": "Sebastián Yatra, Karen Méndez - Traicionera",
+        "description": "Music video by Sebastián Yatra, Karen Mendez performing Traicionera. (C) 2016 Universal Music Latino http://vevo.ly/wjXCnm.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wesPpjDZdd4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wesPpjDZdd4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wesPpjDZdd4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SebastianYatraVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-10-24T07:00:02Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "4YEyNeqj_Hz6dkHb8jv0GBecJ-o",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Hgkn2xDin0rGIZ13cQSkmpOJMyU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "y78n5kVYqPo"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-27T19:00:05Z",
+        "channelId": "UCMC0rHAZ0KnayeGkSfRbVtg",
+        "title": "Russ - Ride Slow (Official Video)",
+        "description": "My debut album 'There's Really A Wolf' is available now https://www.TheresReallyAWolf.com/ get this song http://smarturl.it/TRAWiT Directed by Edgar Esteves ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/y78n5kVYqPo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/y78n5kVYqPo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/y78n5kVYqPo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RussVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-27T19:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sG-LcZmW6Ud_8Fn6Hsi2w8XHEUE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iCyarMAEUVU"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-05T21:50:00Z",
+        "channelId": "UCMC0rHAZ0KnayeGkSfRbVtg",
+        "title": "Russ - Ride Slow (Official Audio)",
+        "description": "My debut album 'There's Really A Wolf' is available now https://www.TheresReallyAWolf.com/ get this song http://smarturl.it/TRAWiT Song produced by Russ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iCyarMAEUVU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iCyarMAEUVU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iCyarMAEUVU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RussVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-05T21:50:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qIki1FtEmc93CItTwhrhWTrw-VY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fXmN9KS9OfU"
+      },
+      "snippet": {
+        "publishedAt": "2017-05-18T16:42:24Z",
+        "channelId": "UCqK7Xek_al81RAg4zWduegw",
+        "title": "Russ - Ride Slow (Lyrics / Lyric Video)",
+        "description": "ATmos provides newest and top tracks. If you enjoy great vibes, subscribe! Name: Russ - Ride Slow ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fXmN9KS9OfU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fXmN9KS9OfU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fXmN9KS9OfU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Lofi Vibes",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-05-18T16:42:24Z"
+      }
+    }
+  ]
+}

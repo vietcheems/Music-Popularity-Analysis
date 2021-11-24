@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "eflCzP_Vm2osrr8LJBiUXKuwsK0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5jR5u2eXeBC4MGMEnZTpw9m4pXQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qYj4l5Xntt0"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-14T19:00:01Z",
+        "channelId": "UCHkj014U2CQ2Nv0UZeYpE_A",
+        "title": "Justin Bieber - The Feeling (PURPOSE : The Movement) ft. Halsey",
+        "description": "'Purpose' Available Everywhere Now! iTunes: http://smarturl.it/PurposeDlx?IQid=VEVO1113 Stream & Add To Your Spotify Playlist: http://smarturl.it/sPurpose?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qYj4l5Xntt0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qYj4l5Xntt0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qYj4l5Xntt0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "JustinBieberVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-14T19:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XHag1sslyoVKuf9mq92cB9PyQ7k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UEzW0HG8GQM"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-14T12:19:42Z",
+        "channelId": "UCnsWd9r3Wsn7uFb95VzVkdQ",
+        "title": "Justin Bieber - The Feeling ft Halsey (Lyrics)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UEzW0HG8GQM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UEzW0HG8GQM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UEzW0HG8GQM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mrs Downey",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-14T12:19:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-h33UdgXVjtfLNrUXdr6BuyzHis",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X3ZsR8SD66k"
+      },
+      "snippet": {
+        "publishedAt": "2020-12-02T12:42:39Z",
+        "channelId": "UCTFFPzHv1VZiVww1siqJi9Q",
+        "title": "Justin Bieber - The Feeling (Lyrics) Ft. Halsey",
+        "description": "Justin Bieber - The Feeling (Lyrics) Ft. Halsey Spotify Playlist : https://Popular-Music.lnk.to/Spotify Purpose' Available Everywhere Now!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X3ZsR8SD66k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X3ZsR8SD66k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X3ZsR8SD66k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Popular Music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-12-02T12:42:39Z"
+      }
+    }
+  ]
+}

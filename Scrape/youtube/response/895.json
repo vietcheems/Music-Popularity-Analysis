@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "qsMg3HLdNf5Ujn463c_VD3v2qd4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TBVEYCE1MB-YMAIh0r9NxwZbBH4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Oextk-If8HQ"
+      },
+      "snippet": {
+        "publishedAt": "2009-10-09T03:16:18Z",
+        "channelId": "UCu1raXDJ4jkIiyy_NOUF2QQ",
+        "title": "Keane - Somewhere Only We Know (Official Video)",
+        "description": "'Cause & Effect' is out now. Listen here: https://Keane.lnk.to/CauseAndEffectID Keane - Somewhere Only We Know Taken from Hopes and Fears: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Oextk-If8HQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Oextk-If8HQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Oextk-If8HQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KeaneVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-10-09T03:16:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S_mq4hFdUxD0S5f7qKfvjk8jPeo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3KHJKj9GgsI"
+      },
+      "snippet": {
+        "publishedAt": "2010-03-14T10:50:30Z",
+        "channelId": "UCVbz0VzwbtbBObyf3x4kTOg",
+        "title": "Keane - Somewhere Only We Know (Lyrics)",
+        "description": "La chanson Somewhere Only We Know de Keane avec les paroles.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3KHJKj9GgsI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3KHJKj9GgsI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3KHJKj9GgsI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Hélène",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-03-14T10:50:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YFhy0MG_HJKb9qihnnre3WYty4I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LCHRBn2hoOk"
+      },
+      "snippet": {
+        "publishedAt": "2018-06-21T12:30:01Z",
+        "channelId": "UC-fn57_xqMv-PaMmpm-ZspQ",
+        "title": "Somewhere Only We Know - Keane (cover) | Reneé Dominique",
+        "description": "Another favorite shot in Sag Harbor, New York. Spread the love! If you like the video, please give me a thumbs up and don't forget to subscribe to my channel ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LCHRBn2hoOk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LCHRBn2hoOk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LCHRBn2hoOk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Reneé Dominique",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-06-21T12:30:01Z"
+      }
+    }
+  ]
+}

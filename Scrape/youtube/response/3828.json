@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "zr4fYp3PRP4wsKM0YeHv49NVZ54",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZKTWLvjQ1MDWReeM8KIEN8BCfgw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fS7OffmLrf0"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-07T04:01:00Z",
+        "channelId": "UCRzzwLpLiUNIs6YOPe33eMg",
+        "title": "The Chainsmokers - Young (Audio)",
+        "description": "The Chainsmokers debut album 'Memories... Do Not Open' is out now! Buy & Stream: http://smarturl.it/TCSMemories Physical CD: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fS7OffmLrf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fS7OffmLrf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fS7OffmLrf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChainsmokersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-07T04:01:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nBkezen-LfdjzLslwzfUq7I3Dvo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z6nfK_zhYNk"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-26T12:00:11Z",
+        "channelId": "UCRzzwLpLiUNIs6YOPe33eMg",
+        "title": "The Chainsmokers - Young (Lyric)",
+        "description": "The Chainsmokers debut album 'Memories... Do Not Open' is out now! Buy & Stream: http://smarturl.it/TCSMemories Physical CD: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z6nfK_zhYNk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z6nfK_zhYNk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z6nfK_zhYNk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChainsmokersVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-06-26T12:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4WgJs8amZzroXeUDeTNYetPaCXo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Sto9PZx5XDY"
+      },
+      "snippet": {
+        "publishedAt": "2017-04-07T13:46:46Z",
+        "channelId": "UCJ6ERWrxZzb9Ua3oeRcIe0g",
+        "title": "The Chainsmokers - Young (Lyrics)",
+        "description": "The Chainsmokers - Young (Lyrics) // Young Lyrics - The Chainsmokers // The Chainsmokers - \"Young Lyrics\" is a lyric video for The Chainsmokers's track ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Sto9PZx5XDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Sto9PZx5XDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Sto9PZx5XDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taz Network",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-07T13:46:46Z"
+      }
+    }
+  ]
+}

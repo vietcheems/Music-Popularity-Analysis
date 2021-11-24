@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "zQ6JxZddUILSI1H-RPZ0uzQnXwM",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FuAZpFaKgIkRkaUFVqG9Mjf6w_g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "K0siYUjV9UM"
+      },
+      "snippet": {
+        "publishedAt": "2015-06-17T17:40:27Z",
+        "channelId": "UCe3JCin4Gnv9azlWnAs5keg",
+        "title": "OZZY OSBOURNE - &quot;Mama, I&#39;m Coming Home&quot; (Official Video)",
+        "description": "Listen to Ozzy Osbourne: https://OzzyOsbourne.lnk.to/listenYD Subscribe to the official Ozzy Osbourne YouTube channel: http://bit.ly/OzzyYTSubscribe Ozzy's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K0siYUjV9UM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K0siYUjV9UM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K0siYUjV9UM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ozzy Osbourne",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-06-17T17:40:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v_GyvWYYTjHHOknx0Z0gqzGt_n8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oqpBP3Tjwi4"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-17T07:00:13Z",
+        "channelId": "UC3YEGIgrJGwQDjY-dxZ8Dpw",
+        "title": "Ozzy Osbourne - Mama, I&#39;m Coming Home (Official Audio)",
+        "description": "\"Mama, I'm Coming Home\" by Ozzy Osbourne Listen to Ozzy Osbourne: https://OzzyOsbourne.lnk.to/listenYD Watch more Ozzy Osbourne videos: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oqpBP3Tjwi4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oqpBP3Tjwi4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oqpBP3Tjwi4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OzzyOsbourneVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-17T07:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "26B0GAfo0hG_soHw5sOG5NWNF24",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DFsC6A_nkYg"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-10T07:00:07Z",
+        "channelId": "UC3YEGIgrJGwQDjY-dxZ8Dpw",
+        "title": "Ozzy Osbourne - Mama, I&#39;m Coming Home (Live)",
+        "description": "\"Mama, I'm Coming Home\" Live by Ozzy Osbourne Listen to Ozzy Osbourne: https://OzzyOsbourne.lnk.to/listenYD Watch more Ozzy Osbourne videos: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DFsC6A_nkYg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DFsC6A_nkYg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DFsC6A_nkYg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OzzyOsbourneVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-10T07:00:07Z"
+      }
+    }
+  ]
+}

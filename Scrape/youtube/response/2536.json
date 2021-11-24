@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "PzHNkpeAE4nKLkMqQNqLxHsh1o4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HXPptqN0PSiQUlauRp2ZXXEeI8Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zaIsVnmwdqg"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-02T04:30:04Z",
+        "channelId": "UCYpVqLSvfseUqb2URAkexlw",
+        "title": "Kygo - Happy Now ft. Sandro Cavazza (Official Video)",
+        "description": "Happy Now ft. Sandro Cavazza out now! http://smarturl.it/xHappyNow?iqID=yt Follow Kygo: https://www.facebook.com/kygoofficial ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zaIsVnmwdqg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zaIsVnmwdqg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zaIsVnmwdqg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KygoOfficialVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-02T04:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "k4COX24e7NqRClQY4ffGtBSQDbg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "l-ec1KkAppU"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-26T08:17:26Z",
+        "channelId": "UCokphNCo_QQZhB-KyTh-Dzg",
+        "title": "Kygo feat. Sandro Cavazza - Happy Now LYRICS",
+        "description": "Kygo teams up with Sandro Cavazza, who became famous for his collaboration with Avicii (Without you), for his new hit \"Happy Now\" This video is not used ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l-ec1KkAppU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l-ec1KkAppU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l-ec1KkAppU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Niklas Luger",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-26T08:17:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZWKVQS1yNzK-I6QAkPKRFgGs4sI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0KX5M7DedeI"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-02T14:11:21Z",
+        "channelId": "UCYpVqLSvfseUqb2URAkexlw",
+        "title": "Kygo, Sandro Cavazza - Happy Now (Official Lyric Video)",
+        "description": "Happy Now ft. Sandro Cavazza out now! http://smarturl.it/xHappyNow?iqID=yt Animation, Motion Graphics, & Co-Editor: Jack Anderson Animation ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0KX5M7DedeI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0KX5M7DedeI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0KX5M7DedeI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KygoOfficialVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-02T14:11:21Z"
+      }
+    }
+  ]
+}

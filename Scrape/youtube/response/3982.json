@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "PjPtLpNr93Mw69uEhbx8TSY0qxc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WUJ3KX9ykIfp4YnZIkvLGf0W6GI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6k8cpUkKK4c"
+      },
+      "snippet": {
+        "publishedAt": "2020-10-02T17:37:52Z",
+        "channelId": "UCoUM-UJ7rirJYP8CQ0EIaHA",
+        "title": "Bruno Mars - Count on Me (Official Lyric Video)",
+        "description": "The official lyric video for Bruno Mars' \"Count On Me\" from the album 'Doo-Wops & Hooligans'. Subscribe for the latest official music videos, live performances, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6k8cpUkKK4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6k8cpUkKK4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6k8cpUkKK4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bruno Mars",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-10-02T17:37:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Nrufmw0Ne57kSmb7P81Au07-XlI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Msl2fl3h59I"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-10T17:30:02Z",
+        "channelId": "UCvR2R7j218tzejtTsb_X6Rw",
+        "title": "Count On Me - Bruno Mars (Lyrics) 🎵",
+        "description": "Bruno Mars - Count On Me (Lyrics) \"Count On Me\" from the album 'Doo-Wops and Hooligans''. Pick up the '24K Magic' World Tour Collection in Bruno's ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Msl2fl3h59I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Msl2fl3h59I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Msl2fl3h59I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DopeLyrics",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-10T17:30:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JfFw4jYbIuAxbDwW_fgOfYzN0AM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vTrNbbV96TY"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-21T11:45:02Z",
+        "channelId": "UC77cYV1F_dAua7TYRAyz-Vg",
+        "title": "[Lyrics+Vietsub] Count On Me - Bruno Mars | Connie Talbot (Cover)",
+        "description": "Follow D R E A M Y: Fanpage: https://www.facebook.com/chuyentuiminh.story ▭ Youtube: https://www.youtube.com/channel/UC77cYV1F_dAua7TYRAyz-Vg ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vTrNbbV96TY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vTrNbbV96TY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vTrNbbV96TY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "D R E A M Y",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-21T11:45:02Z"
+      }
+    }
+  ]
+}

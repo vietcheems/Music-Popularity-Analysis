@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "tBwxjOlh_FGRVDU1U3lWljMXC3A",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EVM1iJxqKPwZaRNjftAffbhsIEI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GPUg7n8-M6o"
+      },
+      "snippet": {
+        "publishedAt": "2020-03-20T04:00:01Z",
+        "channelId": "UCeJmCJLZWX3L9D47vuWcE8A",
+        "title": "Conan Gray - Heather (Lyric Video)",
+        "description": "Official lyric video by Conan Gray performing \"Heather” Conan's debut album \"Kid Krow\" available everywhere now: https://ConanGray.lnk.to/KidKrow Connect ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GPUg7n8-M6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GPUg7n8-M6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GPUg7n8-M6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ConanGrayVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-20T04:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "pUMCeu-OAmZZwSM3K-aPrQlgdCc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "24u3NoPvgMw"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-20T16:00:00Z",
+        "channelId": "UCeJmCJLZWX3L9D47vuWcE8A",
+        "title": "Conan Gray - Heather",
+        "description": "Official music video by Conan Gray performing \"Heather” Conan's debut album \"Kid Krow\" available everywhere now: https://ConanGray.lnk.to/KidKrow Connect ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/24u3NoPvgMw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/24u3NoPvgMw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/24u3NoPvgMw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ConanGrayVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-20T16:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3Tv3X6tU6qA4fkowG8BSQMY5byc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kmAErqIFlY0"
+      },
+      "snippet": {
+        "publishedAt": "2020-08-31T14:44:59Z",
+        "channelId": "UCdvBex6r_1-i8Sut-mCy2Jw",
+        "title": "Conan Gray - Heather (Lyrics)",
+        "description": "Conan Gray - Heather (Lyrics) Spotify Playlist: https://TajTracks.lnk.to/Spotify Stream / Download: https://ConanGray.lnk.to/KidKrow Conan Gray: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kmAErqIFlY0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kmAErqIFlY0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kmAErqIFlY0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Taj Tracks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-08-31T14:44:59Z"
+      }
+    }
+  ]
+}
