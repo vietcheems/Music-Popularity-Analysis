@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "XhBcMriULe7Gi-fHVNFNfQjuxYA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xWsCXutj3-0gS0sRMiJW6rmbywE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tRcPA7Fzebw"
+      },
+      "snippet": {
+        "publishedAt": "2008-08-09T12:49:54Z",
+        "channelId": "UCW_-DOZH3hkacpFw3hHA3sA",
+        "title": "David Bowie - Starman",
+        "description": "Starman.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tRcPA7Fzebw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tRcPA7Fzebw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tRcPA7Fzebw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Allu",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-08-09T12:49:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b40Qxpw4_W65Arr70ggiWVoOhRg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sI66hcu9fIs"
+      },
+      "snippet": {
+        "publishedAt": "2016-01-12T20:32:19Z",
+        "channelId": "UCQB-r0T1Y-2IsNhTXjND31g",
+        "title": "David Bowie Starman (1972) official video",
+        "description": "Letras Didn't know what time it was and the lights were low I leaned back on my radio Some cat was layin' down some get it on rock 'n' roll, he said Then the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sI66hcu9fIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sI66hcu9fIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sI66hcu9fIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ucara 14",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-01-12T20:32:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zsuil_lxRrkw9gz7OT20Um6eGUk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RpLw8VW-R7I"
+      },
+      "snippet": {
+        "publishedAt": "2015-10-25T16:45:09Z",
+        "channelId": "UCOoj0DV3WKGM--xMCSfgjMw",
+        "title": "David Bowie - Starman Lyrics",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RpLw8VW-R7I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RpLw8VW-R7I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RpLw8VW-R7I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AG",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-10-25T16:45:09Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "nXSkooSjMthLwX-s-ZkXGPcZVfA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RiIc_7Vqx-HKRRM0ekCyYv7bSJ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NJzoBmVPeYw"
+      },
+      "snippet": {
+        "publishedAt": "2013-10-31T16:07:12Z",
+        "channelId": "UCbulh9WdLtEXiooRcYK7SWw",
+        "title": "Metallica - Seek &amp; Destroy (Live) [Quebec Magnetic]",
+        "description": "From the DVD/Blu-Ray release Quebec Magnetic Download now on iTunes - http://smarturl.it/QM-iTunes Buy it now in the Met Store at Metallica.com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NJzoBmVPeYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NJzoBmVPeYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NJzoBmVPeYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Metallica",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-10-31T16:07:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rTnsrA_lPjhm2xZRQEgYLj8UG4c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "j1_FjJu-1fY"
+      },
+      "snippet": {
+        "publishedAt": "2019-10-16T20:00:02Z",
+        "channelId": "UCbulh9WdLtEXiooRcYK7SWw",
+        "title": "Metallica: Seek &amp; Destroy (London, England - June 20, 2019)",
+        "description": "Filmed at Twickenham Stadium in London, England on June 20, 2019. © 2019 Blackened Recordings Follow Metallica: http://www.metallica.com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/j1_FjJu-1fY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/j1_FjJu-1fY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/j1_FjJu-1fY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Metallica",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-16T20:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wsQaaS5eBkYA7Hypm-8zCi2FRO0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UzdDAd9EBOI"
+      },
+      "snippet": {
+        "publishedAt": "2016-05-08T03:50:52Z",
+        "channelId": "UCXBTDxR-mIQFBw2mVCLPhVw",
+        "title": "Metallica Seek And Destroy Live at The Metro 1983",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UzdDAd9EBOI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UzdDAd9EBOI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UzdDAd9EBOI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "1MASTER1100",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-08T03:50:52Z"
+      }
+    }
+  ]
+}

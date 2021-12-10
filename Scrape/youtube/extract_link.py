@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import json
 
-folder = "Scrape/youtube/response"
+folder = "Scrape/youtube/2_round/response"
 df = pd.DataFrame()
 
 for file_name in os.listdir(folder):
@@ -19,4 +19,4 @@ for file_name in os.listdir(folder):
 	df = df.append(row, ignore_index=True)
 
 print(df.head())
-df.to_csv("Scrape/youtube/youtube.csv", index=False)
+df.to_csv("Scrape/youtube/2_round/youtube.csv", index=False)

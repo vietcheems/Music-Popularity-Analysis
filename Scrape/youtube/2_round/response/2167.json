@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "dbwREzRDQHeOyE98gAQTAdFO7w8",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5FtdmOn-30vEqDljV0XtdHD34E0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HaZpZQG2z10"
+      },
+      "snippet": {
+        "publishedAt": "2008-08-01T12:58:20Z",
+        "channelId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+        "title": "Queen - You&#39;re My Best Friend (Official Video)",
+        "description": "Taken from A Night At The Opera, 1975 and Forever, 2014. Click here to buy the DVD with this video at the Official Queen Store: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HaZpZQG2z10/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HaZpZQG2z10/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HaZpZQG2z10/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Queen Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-08-01T12:58:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gJOP84r5YMvciT2gO5pM5hivt0A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9oOHr--AMes"
+      },
+      "snippet": {
+        "publishedAt": "2008-02-23T06:32:30Z",
+        "channelId": "UC1hPNP5MUTRFj-Zfv0Z5yzw",
+        "title": "your my best friend by Queen with lyrics",
+        "description": "Download: http://amzn.to/WmlToA Queen is AWESOME!!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9oOHr--AMes/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9oOHr--AMes/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9oOHr--AMes/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "jordan1467900",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-02-23T06:32:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AapK_iuY_qynjTHEkH0Rvmb3x7w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QSjBvSBYTCo"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-20T17:46:54Z",
+        "channelId": "UCDdx1uv27YOmf6-ZMuk15-A",
+        "title": "You&#39;re My Best Friend (Remastered 2011)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QSjBvSBYTCo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QSjBvSBYTCo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QSjBvSBYTCo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "This Is Queen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-20T17:46:54Z"
+      }
+    }
+  ]
+}

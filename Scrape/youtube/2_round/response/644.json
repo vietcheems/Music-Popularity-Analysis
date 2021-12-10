@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "cN3XmAT5Vhge9UggXGHcwB_uvaQ",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "erpMnifuU7swNYmEyFwvrN-4wgk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rY0WxgSXdEE"
+      },
+      "snippet": {
+        "publishedAt": "2008-08-01T11:40:18Z",
+        "channelId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+        "title": "Queen - Another One Bites the Dust (Official Video)",
+        "description": "Taken from The Game, 1980 and Greatest Video Hits 1. Click here to buy the DVD with this video at the Official Queen Store: http://www.queenonlinestore.com ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rY0WxgSXdEE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rY0WxgSXdEE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rY0WxgSXdEE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Queen Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-08-01T11:40:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1l8VgdkR_MuQsCdmObHiXRhirFE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NVIbCvfkO3E"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-24T19:15:01Z",
+        "channelId": "UCi_ibH-M4Ej1c6ZUmj99HjA",
+        "title": "Queen - Another One Bites The Dust (Live)",
+        "description": "Best of Queen: https://goo.gl/xuXqa4 Subscribe here: https://goo.gl/38F2jD Music video by Queen performing Another One Bites The Dust. (C) 2007 Queen ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NVIbCvfkO3E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NVIbCvfkO3E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NVIbCvfkO3E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "QueenVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-24T19:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kMvRFECAc_pqC_K_FwQn5daonbk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cGJ_IyFwieY"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-19T22:43:31Z",
+        "channelId": "UCKymUWIp_7gpCjgus1MbdtQ",
+        "title": "Queen   Another One Bites The Dust Lyrics",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cGJ_IyFwieY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cGJ_IyFwieY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cGJ_IyFwieY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ChizzieFuge",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-19T22:43:31Z"
+      }
+    }
+  ]
+}

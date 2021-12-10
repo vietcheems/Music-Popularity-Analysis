@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "L_MPfzrZodQP_ssAm6dXpITRhmg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WLYqGf1DTz-t3uUYcnU609nZXVk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "azdwsXLmrHE"
+      },
+      "snippet": {
+        "publishedAt": "2008-08-01T13:32:21Z",
+        "channelId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+        "title": "Queen - Radio Ga Ga (Official Video)",
+        "description": "Taken from The Works, 1984. Click here to buy the DVD with this video at the Official Queen Store: http://www.queenonlinestore.com The official 'Radio Ga Ga' ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/azdwsXLmrHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/azdwsXLmrHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/azdwsXLmrHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Queen Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-08-01T13:32:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7ANCBuUTy3Kdq7zZQ1oJt4sFwBk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "o-0ygW-B_gI"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-23T23:15:00Z",
+        "channelId": "UCUAVzSGkkTa-IoMx_x1XK4Q",
+        "title": "Queen - Radio Ga Ga (Live Aid 1985)",
+        "description": "Queen performing at Live Aid in front of 72000 people in Wembley Stadium, London on the 13th July, 1985. The event was organised by Sir Bob Geldof and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o-0ygW-B_gI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o-0ygW-B_gI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o-0ygW-B_gI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Live Aid",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-23T23:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JWgmJ6FPZv4I70Z8OH9nbhj1_s4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7S8vbkTOWnQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-04T19:14:21Z",
+        "channelId": "UCrmxsRfIEbAL5y7Fy17ZVxg",
+        "title": "Queen - Radio Ga Ga (1984)",
+        "description": "ALBUM : The Works. ANNÉE DE SORTIE : 1984. GENRE MUSICAL : Hard-Rock, Glam-Rock, Blues-Rock, Opéra-Rock, Pop-Rock, Rock Progressif, Rock ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7S8vbkTOWnQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7S8vbkTOWnQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7S8vbkTOWnQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Micka Décamps",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-04T19:14:21Z"
+      }
+    }
+  ]
+}

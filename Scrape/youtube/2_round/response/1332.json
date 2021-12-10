@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "wiLoNssyCPiMGazoT_3V4xhhE4Y",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EMvHufd5xOs6wT95vH_1Ug7WqNk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JDG2m5hN1vo"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-06T05:42:30Z",
+        "channelId": "UCL1CYf5UD0bz1erWUa2b8UQ",
+        "title": "Fleetwood Mac - The Chain",
+        "description": "\"The Chain\" is a song by British-American rock band Fleetwood Mac, released on their best-selling album Rumours. The only song credited to all five members ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JDG2m5hN1vo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JDG2m5hN1vo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JDG2m5hN1vo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Raelsalmacis",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-06T05:42:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xJN_NzTzMjtG-MA3R2ouuX3_T9g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kBYHwH1Vb-c"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-27T14:00:19Z",
+        "channelId": "UCAb60rVrvVQVfSgrX1UWb0g",
+        "title": "Fleetwood Mac - The Chain (Official Music Video)",
+        "description": "You're watching the official music video for Fleetwood Mac - \"The Chain\" from the 1977 album \"Rumours\". The new Fleetwood Mac collection '50 Years – Don't ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kBYHwH1Vb-c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kBYHwH1Vb-c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kBYHwH1Vb-c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fleetwood Mac",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-27T14:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bjAbIT687gZjMdUstw6ectps5vc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eM_FR7I2Ttw"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-11T17:15:01Z",
+        "channelId": "UCKoafhJ9dkAWaEvlXCiBBwA",
+        "title": "Harry Styles - The Chain (Fleetwood Mac cover) in the Live Lounge",
+        "description": "Harry Styles covers Fleetwood Mac's The Chain in the BBC Radio 1 Live Lounge http://vevo.ly/qQP8NA.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eM_FR7I2Ttw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eM_FR7I2Ttw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eM_FR7I2Ttw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BBCRadio1VEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-11T17:15:01Z"
+      }
+    }
+  ]
+}

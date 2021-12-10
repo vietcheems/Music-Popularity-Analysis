@@ -6,11 +6,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
-start_index = 0
-specific_vid_id = 'fzdilYmeCJM'
+start_index = 153
 
 # read csv file with song links
-df = pd.read_csv("Scrape/youtube/youtube.csv")
+df = pd.read_csv("Scrape/youtube/2_round/youtube.csv")
 
 # run firefox without head
 options = Options()
@@ -32,7 +31,7 @@ print("----firefox started----")
 # iterate through each video id and extract the viewcount
 try:
 	for counter, id in enumerate(df.video_id):
-		if counter >= start_index and id == specific_vid_id:
+		if counter >= start_index:
 			print(counter, end=" ")
 			print(id, end=" ")
 
@@ -45,11 +44,11 @@ try:
 				print(view)
 				view = view.split()[0]
 
-				with open("Scrape/youtube/view.tsv", "a") as f:
+				with open("Scrape/youtube/2_round/view.tsv", "a") as f:
 					f.write("{}\t{}\n".format(id, view))
 			except Exception as e:
 				print("----Failed----")
-				with open("Scrape/youtube/view_failed", 'a') as f:
+				with open("Scrape/youtube/2_round/view_failed", 'a') as f:
 					f.write("failed at {}\nError:\n{}\n".format(id, e))
 			
 			# time.sleep(2)

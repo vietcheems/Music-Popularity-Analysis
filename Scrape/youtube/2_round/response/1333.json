@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "roPEsV63-3TAsEEfLGFw3X5U0ao",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SKSCGinKsj_CseQn22Igxv3f3nA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YF1R0hc5Q2I"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-27T14:00:20Z",
+        "channelId": "UCAb60rVrvVQVfSgrX1UWb0g",
+        "title": "Fleetwood Mac - Everywhere (Official Music Video)",
+        "description": "You're watching the official music video for Fleetwood Mac - \"Everywhere\" from the 1987 album \"Tango In The Night\". The new Fleetwood Mac collection '50 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YF1R0hc5Q2I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YF1R0hc5Q2I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YF1R0hc5Q2I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fleetwood Mac",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-27T14:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bKR6WdPRF0VkmntYrwxOnweqzQk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "miwHh9X9sCc"
+      },
+      "snippet": {
+        "publishedAt": "2010-10-07T21:00:20Z",
+        "channelId": "UCGfseRfuDu8DiAkTF4owFvQ",
+        "title": "FLEETWOOD MAC/Сhristine McVie. Everywhere.",
+        "description": "Thank you so much,CroNix99(consultations for uploading) http://www.youtube.com/user/CroNix99 ALSO http://www.fleetwoodmac.com.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/miwHh9X9sCc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/miwHh9X9sCc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/miwHh9X9sCc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "evie1942",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-10-07T21:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "908aWz_S3mzpy8kNxeR84tzv6hE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gsFC51W0PX8"
+      },
+      "snippet": {
+        "publishedAt": "2018-08-01T13:23:06Z",
+        "channelId": "UCTdyX5hhfUhEnbWRjlI22LQ",
+        "title": "Fleetwood Mac &quot;Everywhere&quot; performed by Rumours of Fleetwood Mac",
+        "description": "\"Everywhere\" performed by Rumours of Fleetwood Mac. Recorded live at The Sage, Gateshead, England, 19th of May 2018 For Tour Dates and Information, visit ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gsFC51W0PX8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gsFC51W0PX8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gsFC51W0PX8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rumours Of Fleetwood Mac",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-08-01T13:23:06Z"
+      }
+    }
+  ]
+}

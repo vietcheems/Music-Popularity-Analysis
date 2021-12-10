@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "uWvlLzUMOzryGmplVKXBB17BYxA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yP_7uwnj6uNdIjqoOmAQ7kj7Irg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aOKTW6Zt_cU"
+      },
+      "snippet": {
+        "publishedAt": "2012-12-01T02:00:11Z",
+        "channelId": "UC2I7YtV_Z3lqqNPV-2Txzvw",
+        "title": "Band Aid 20   Do They Know It&#39;s Christmas",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aOKTW6Zt_cU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aOKTW6Zt_cU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aOKTW6Zt_cU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Gregg Camacho",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-12-01T02:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WFwpKFqVR1gcuzmqj21LoLaL2k0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w_YYp2r21_s"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-08T13:26:36Z",
+        "channelId": "UCjhRja9ZBWHwm6q7VOHIkHw",
+        "title": "Band Aid 20 - Do They Know it&#39;s Christmas?",
+        "description": "Reversed YT video as it is restricted worldwide otherwise....",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w_YYp2r21_s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w_YYp2r21_s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w_YYp2r21_s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Not and Now Available on Youtube!",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-08T13:26:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e1CnmZob-MkJD__L1DO6om4QvMY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-w7jyVHocTk"
+      },
+      "snippet": {
+        "publishedAt": "2014-11-17T09:36:46Z",
+        "channelId": "UCQbxjZwjeQrsnNa5Tf28ZdA",
+        "title": "Band Aid 30 - Do They Know It’s Christmas? (2014)",
+        "description": "Band Aid 30 - 'Do They Know It's Christmas' Buy the song. Stop the virus. #BandAid30 Download now on iTunes - http://po.st/DoTheyKnow Google Play ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-w7jyVHocTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-w7jyVHocTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-w7jyVHocTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "BandAidVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-11-17T09:36:46Z"
+      }
+    }
+  ]
+}

@@ -2,9 +2,10 @@ import requests
 import pandas as pd
 from string import punctuation
 import os
+from title_filtering import filter
  
-current_api_index = 12 # index of the api currently being used
-start_index = 1782 # index of the song to start scraping at
+current_api_index = 10 # index of the api currently being used
+start_index = 0 # index of the song to start scraping at
 
 api = [
     'AIzaSyDsayLz55WJ4o5Oe7zkA8ul1srKJ-7y1os',
@@ -35,7 +36,7 @@ df = pd.read_csv(
 	"Scrape/Spotify/spotify-playlist.csv", sep="\t")
 
 # create log file
-with open("Scrape/youtube/response/failed_log", "w") as f:
+with open("Scrape/youtube/2_round/response/failed_log", "w") as f:
 	pass
 
 
@@ -43,22 +44,27 @@ with open("Scrape/youtube/response/failed_log", "w") as f:
 for index, row in df.iterrows():
 	# start scraping at start_index
 	if index >= start_index:
-		# remove special characters from keyword
+		# remove special characters from keyword and lowercase
 		keyword = row["track"] + " " + row["artist"]
 		for c in punctuation:
 			keyword = keyword.replace(c, "")
+		keyword = keyword.lower()
+		#pass through filter
+		keyword, filtered = filter(keyword)
+		if not filtered:
+			continue
 		print(keyword)
 		done = False
 		while not done:
 			try:
 				# calling the api
-				print("----getting the response----")
+				print("\n----getting the response----")
 				r = requests.get(
 					"https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=3&q={}&type=video&key={}".format(keyword, api[current_api_index]))
 				print("----got the response----")
 				# 200 => succeeded
 				if r.status_code == 200:
-					with open("Scrape/youtube/response/{}.json".format(index), 'w') as f:
+					with open("Scrape/youtube/2_round/response/{}.json".format(index), 'w') as f:
 						f.write(r.text)
 					done = True
 				# 403 => quota exceeded, try again using the next api in the list
@@ -68,7 +74,7 @@ for index, row in df.iterrows():
 				# failed for some reason, store this in failed_log
 				else:
 					print(r.status_code)
-					with open("Scrape/youtube/response/failed_log", "a") as f:
+					with open("Scrape/youtube/2_round/response/failed_log", "a") as f:
 						f.write("{},{}\n".format(index, keyword))
 						f.write(r.status_code + "\n")
 						f.write(r.text + "\n")
@@ -77,4 +83,3 @@ for index, row in df.iterrows():
 			except Exception as e:
 				print(e)
 				print("------trying again------")
-		break
