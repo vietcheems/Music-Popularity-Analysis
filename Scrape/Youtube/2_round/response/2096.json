@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "YEnPbEcL71f2cbpXl9rmj8ZbqkY",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kTet9QrRV51sWC4a4rX2kRd1944",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U16Xg_rQZkA"
+      },
+      "snippet": {
+        "publishedAt": "2008-08-09T13:48:12Z",
+        "channelId": "UCW_-DOZH3hkacpFw3hHA3sA",
+        "title": "David Bowie - Rebel Rebel",
+        "description": "Rebel rebel.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U16Xg_rQZkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U16Xg_rQZkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U16Xg_rQZkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Allu",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-08-09T13:48:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UB8l3vyyDG3cQNwuVZksOnAlbKE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "eF551z9KlA8"
+      },
+      "snippet": {
+        "publishedAt": "2010-02-17T17:17:42Z",
+        "channelId": "UCh8hlIe7EcmVilHjnrE7gNw",
+        "title": "David Bowie - Rebel Rebel (A Reality Tour)",
+        "description": "\"Rebel Rebel\" by David Bowie from A Reality Tour Listen to David Bowie: https://DavidBowie.lnk.to/listenYD Watch more David Bowie videos: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eF551z9KlA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eF551z9KlA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eF551z9KlA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "DavidBowieVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-02-17T17:17:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BtGZZm7iqen6I0Mk0elcKx4L0r0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vy-rvsHsi1o"
+      },
+      "snippet": {
+        "publishedAt": "2015-11-06T12:04:07Z",
+        "channelId": "UCxjzlr0hdKWfIwK2lY0SvEg",
+        "title": "David Bowie - Rebel Rebel • TopPop",
+        "description": "Today, January 8, 2021, we celebrate David Bowie's birthday. The pop legend who died on January 10, 2016, would have turned 74 today. That's why we ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vy-rvsHsi1o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vy-rvsHsi1o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vy-rvsHsi1o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TopPop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-11-06T12:04:07Z"
+      }
+    }
+  ]
+}

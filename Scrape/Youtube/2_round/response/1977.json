@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "umzaCJwVftEGmoHPdd2ea0lDCH4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A2pmZLeMlP9OOxZdXa2gMXhtPhI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v3xwCkhmies"
+      },
+      "snippet": {
+        "publishedAt": "2006-05-30T16:00:25Z",
+        "channelId": "UC_fFeXYrleI98XxpElf_QnA",
+        "title": "Queen - Love of My Life",
+        "description": "Wembley, '86.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v3xwCkhmies/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v3xwCkhmies/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v3xwCkhmies/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ArKay74",
+        "liveBroadcastContent": "none",
+        "publishTime": "2006-05-30T16:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O8B88dWbBs3zPUs7Do_VMXG98JY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "T73WhWTawCE"
+      },
+      "snippet": {
+        "publishedAt": "2009-05-13T18:10:39Z",
+        "channelId": "UCBHDB1svvacfaBbAzqtsRJg",
+        "title": "Queen - Love of my life (w/ lyrics)",
+        "description": "Queen - Love of my life Dedicated to the love of my life, Jelena! hvj! You can tweet your requests to me or send them in a personal message through YouTube, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T73WhWTawCE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T73WhWTawCE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T73WhWTawCE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "zedutch_",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-05-13T18:10:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OyJEgSIZBf_67Htb0DSgjf6BNqk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sUJkCXE4sAA"
+      },
+      "snippet": {
+        "publishedAt": "2008-10-21T11:50:19Z",
+        "channelId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+        "title": "Queen - Love Of My Life (Official Video)",
+        "description": "Taken from A Night At The Opera, 1975 and Forever, 2014. Click here to buy the DVD with this video at the Official Queen Store: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sUJkCXE4sAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sUJkCXE4sAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sUJkCXE4sAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Queen Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-10-21T11:50:19Z"
+      }
+    }
+  ]
+}

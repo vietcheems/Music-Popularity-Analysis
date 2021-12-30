@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "5MyyiVCBS9XwDogSDsgOcLcPStc",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "68Z-Zg9tjb7HNHf49nLE80yVp2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AZKcl4-tcuo"
+      },
+      "snippet": {
+        "publishedAt": "2015-07-09T16:53:32Z",
+        "channelId": "UC8YgWcDKi1rLbQ1OtrOHeDw",
+        "title": "David Bowie – Life On Mars? (Official Video)",
+        "description": "Official video for Life On Mars? by David Bowie. Stream David Bowie's greatest hits here ▷ https://RhinoUK.lnk.to/ThisIsDavidBowieAY Subscribe here ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AZKcl4-tcuo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AZKcl4-tcuo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AZKcl4-tcuo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "David Bowie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-07-09T16:53:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9MC_fUVWXctWKlme7lFK-exxoE0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uqeH76RLpO8"
+      },
+      "snippet": {
+        "publishedAt": "2015-04-18T20:05:28Z",
+        "channelId": "UCEmN81maIbPJsffSvLqhkog",
+        "title": "David Bowie - Life on Mars? (Lyrics)",
+        "description": "David Bowie - Life on Mars? with lyrics.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uqeH76RLpO8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uqeH76RLpO8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uqeH76RLpO8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fritzes007",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-04-18T20:05:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9V66BWrLFuirjvyvgVOPkWv0lbs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UipTt-qqZOE"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-04T17:24:10Z",
+        "channelId": "UC8YgWcDKi1rLbQ1OtrOHeDw",
+        "title": "David Bowie - Life On Mars (2016 Mix)",
+        "description": "Official video for David Bowie - Life On Mars? (2016 Mix), directed by Mick Rock in 2016. Watch more videos from David Bowie in the 1970s here: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UipTt-qqZOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UipTt-qqZOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UipTt-qqZOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "David Bowie",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-04T17:24:10Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "0ri8s4n55bc1NKCctk3F6rDk6es",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7Ggfqdj5GUW62tbZ7LFzjiw7MFc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "52nfjRzIaj8"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-26T03:44:56Z",
+        "channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+        "title": "I&#39;ll Never Love Again (from A Star Is Born) (Official Music Video)",
+        "description": "Listen to brand new music from Bradley Cooper & Lady Gaga from the 'A Star Is Born' Soundtrack: http://smarturl.it/ASIBSoundtrack Get tickets to see the film: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/52nfjRzIaj8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/52nfjRzIaj8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/52nfjRzIaj8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LadyGagaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-26T03:44:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ll2E8zMwH8TNU2DQPhi_ibw0gwE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ho3yoTd6qk0"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-12T23:11:44Z",
+        "channelId": "UCYR2Psp9Qn6E4QCZIptyY1A",
+        "title": "Lady Gaga - I’ll Never Love Again - A Star Is Born Finale",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ho3yoTd6qk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ho3yoTd6qk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ho3yoTd6qk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Revin Qx",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-12T23:11:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wRj6fZjTnPvBsvy9nSOgWjd9yRg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fPgs3qq9CGs"
+      },
+      "snippet": {
+        "publishedAt": "2018-10-05T04:00:02Z",
+        "channelId": "UC07Kxew-cMIaykMOkzqHtBQ",
+        "title": "Lady Gaga - I&#39;ll Never Love Again (from A Star Is Born) (Extended Version/Official Audio)",
+        "description": "Listen to brand new music from Bradley Cooper & Lady Gaga from the 'A Star Is Born' Soundtrack: http://smarturl.it/ASIBSoundtrack Get tickets to see the film: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fPgs3qq9CGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fPgs3qq9CGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fPgs3qq9CGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "LadyGagaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-05T04:00:02Z"
+      }
+    }
+  ]
+}

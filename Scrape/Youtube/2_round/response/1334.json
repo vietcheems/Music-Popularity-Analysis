@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "L0qrVTTwpWJgvL0wl87dNTkLNdg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OqsSX3JfuOq4_lVHmeyHvaXyW_E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6ul-cZyuYq4"
+      },
+      "snippet": {
+        "publishedAt": "2010-04-21T20:06:24Z",
+        "channelId": "UCQnv85UctBEPVDzEV5nNk-A",
+        "title": "Fleetwood Mac - Go You Own Way",
+        "description": "https://www.gofundme.com/f/59fe3t-support-my-youtube-channel Go Your Own Way is written by Lindsey Buckingham and performed by Fleetwood Mac for their ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ul-cZyuYq4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ul-cZyuYq4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ul-cZyuYq4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheGreatestRockSongs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2010-04-21T20:06:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q57EAgT7DaRPs2tf5-oCQycnlyc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ozl3L9fhKtE"
+      },
+      "snippet": {
+        "publishedAt": "2018-09-27T14:00:19Z",
+        "channelId": "UCAb60rVrvVQVfSgrX1UWb0g",
+        "title": "Fleetwood Mac - Go Your Own Way (Official Music Video)",
+        "description": "You're watching the official music video for Fleetwood Mac - \"Go Your Own Way\" from the 1977 album \"Rumours\". The new Fleetwood Mac collection '50 Years ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ozl3L9fhKtE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ozl3L9fhKtE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ozl3L9fhKtE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fleetwood Mac",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-09-27T14:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5sYGnKadZcmMN-Lf3k7x5WEh0Ig",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qNM6IuA87eM"
+      },
+      "snippet": {
+        "publishedAt": "2006-07-09T04:44:08Z",
+        "channelId": "UC-FXgb_veSQ3s4gSUN7NwtA",
+        "title": "Fleetwood Mac - Go Your Own Way - Dance Tour &#39;97",
+        "description": "Copyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qNM6IuA87eM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qNM6IuA87eM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qNM6IuA87eM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Balls Montgomery",
+        "liveBroadcastContent": "none",
+        "publishTime": "2006-07-09T04:44:08Z"
+      }
+    }
+  ]
+}

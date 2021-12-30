@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "P8SOZKvbBV4_uOf2PDxv4NOzUF4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cHXU56DCoO90xKoNZgkR3NOmtMI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KXw8CRapg7k"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-24T19:15:00Z",
+        "channelId": "UCi_ibH-M4Ej1c6ZUmj99HjA",
+        "title": "Queen - We Are The Champions (Official Live Video)",
+        "description": "Best of Queen: https://goo.gl/xuXqa4 Subscribe here: https://goo.gl/38F2jD Music video by Queen performing We Are The Champions. (C) 2007 Queen ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KXw8CRapg7k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KXw8CRapg7k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KXw8CRapg7k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "QueenVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-24T19:15:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ld_8j4fJvya27TWdy1Q78N8kSIE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "04854XqcfCY"
+      },
+      "snippet": {
+        "publishedAt": "2008-08-01T12:26:25Z",
+        "channelId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+        "title": "Queen - We Are The Champions (Official Video)",
+        "description": "Taken from News Of The World, 1977 and Greatest Video Hits 1. #QueenTheGreatest #Queen #WeAreTheChampions Click here to buy the DVD with this video ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/04854XqcfCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/04854XqcfCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/04854XqcfCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Queen Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-08-01T12:26:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_25jPyZHLH_DM32L7AlEDjZDjDQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FP808MiJUcM"
+      },
+      "snippet": {
+        "publishedAt": "2019-05-23T23:15:00Z",
+        "channelId": "UCUAVzSGkkTa-IoMx_x1XK4Q",
+        "title": "Queen - We Are The Champions (Live Aid 1985)",
+        "description": "Queen performing at Live Aid in front of 72000 people in Wembley Stadium, London on the 13th July, 1985. The event was organised by Sir Bob Geldof and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FP808MiJUcM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FP808MiJUcM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FP808MiJUcM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Live Aid",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-05-23T23:15:00Z"
+      }
+    }
+  ]
+}

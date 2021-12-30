@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "M4jbMLEvbM8l69gggw3iDaDEklg",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CHGh2o60QNinbeTqZbnoyUw2ZU4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mrWUlc46dQ0"
+      },
+      "snippet": {
+        "publishedAt": "2016-08-19T18:13:44Z",
+        "channelId": "UCD3MWqSSDYych71CI7Fyq0A",
+        "title": "Eagles   Take it easy",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mrWUlc46dQ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mrWUlc46dQ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mrWUlc46dQ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Giovanni",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-08-19T18:13:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fGlEzTkXVtz3XRUQxaUaNpB5IeU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YNCdOq8Hq-s"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-27T10:27:26Z",
+        "channelId": "UC49r4GNHHpc-eQ9hmD2Rg6A",
+        "title": "Take It Easy",
+        "description": "Provided to YouTube by Believe SAS Take It Easy · Eagles Unplugged 1994 - The Second Night ℗ RR Live Recordings Released on: 2017-11-23 Author: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YNCdOq8Hq-s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YNCdOq8Hq-s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YNCdOq8Hq-s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "The Eagles - Topic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-27T10:27:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5uWvGv-qePL_UWL6NwBjM9Qn6j0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-AvjkQtP_U8"
+      },
+      "snippet": {
+        "publishedAt": "2019-02-05T21:30:00Z",
+        "channelId": "UC5HUJVIe_VAvwvY8NCh8Eeg",
+        "title": "Take It Easy | Eagles Karaoke",
+        "description": "Thank you for subscribing. A version of this video using the original artist recording, which should be useful as complimentary training video, can be found at: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-AvjkQtP_U8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-AvjkQtP_U8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-AvjkQtP_U8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Rob Landeros",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-02-05T21:30:00Z"
+      }
+    }
+  ]
+}

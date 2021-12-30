@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "-PNCMBvy8mPhr1_q3qb-NvPxxf4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cCWuz1F_mD5NxthII_volG-v4Ww",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "a01QQZyl-_I"
+      },
+      "snippet": {
+        "publishedAt": "2008-09-09T18:20:14Z",
+        "channelId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+        "title": "Queen - Under Pressure (Official Video)",
+        "description": "Taken from Hot Space, 1982. Click here to buy the DVD with this video at the Official Queen Store: http://www.queenonlinestore.com The official 'Under ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a01QQZyl-_I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a01QQZyl-_I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a01QQZyl-_I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Queen Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-09-09T18:20:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "986Cl9oyH38XZOBIurgVVWGkPXA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YoDh_gHDvkk"
+      },
+      "snippet": {
+        "publishedAt": "2013-03-20T01:56:25Z",
+        "channelId": "UC7iBner6y77YQiB_gz8_J2g",
+        "title": "Queen &amp; David Bowie - Under Pressure (Classic Queen Mix)",
+        "description": "You can support me on Patreon: https://www.patreon.com/QueenHouse85 \"This remix is very close to the final album version. The bass lines seem to be a bit ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YoDh_gHDvkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YoDh_gHDvkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YoDh_gHDvkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "QueenHouse85",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-03-20T01:56:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0um0YjSz2ti-LQRF172u_pzqgvg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OVzvoPP6M50"
+      },
+      "snippet": {
+        "publishedAt": "2016-01-19T21:51:14Z",
+        "channelId": "UCdXS4Adm1qZWqHDIlI9r-GA",
+        "title": "Queen - Under pressure (Live at Wembley)",
+        "description": "Queen live at Wembley Stadium 1985 Song written by Queen and David Bowie.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OVzvoPP6M50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OVzvoPP6M50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OVzvoPP6M50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Queen Live Show",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-01-19T21:51:14Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "7gAb-T-1l1_DWqIxdq0k_aF3OjA",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PElVaD_YhBK2qArxEbyMt5AlOMQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0E7rUemfC-A"
+      },
+      "snippet": {
+        "publishedAt": "2007-12-27T17:51:04Z",
+        "channelId": "UCmTJjRb2kvRWUX_1g66OqFg",
+        "title": "Fleetwood Mac - Never Going Back Again",
+        "description": "Rumours album.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0E7rUemfC-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0E7rUemfC-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0E7rUemfC-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "isaac8399",
+        "liveBroadcastContent": "none",
+        "publishTime": "2007-12-27T17:51:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YydLEAJBSNxxNyqGA6MN8fk3zOs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "27QaDxG36DM"
+      },
+      "snippet": {
+        "publishedAt": "2017-11-12T11:00:04Z",
+        "channelId": "UCLFHBrtIkpRdR8BOPskvtxg",
+        "title": "Lindsey Buckingham &amp; Stevie Nicks - Never Going Back Again (HD)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/27QaDxG36DM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/27QaDxG36DM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/27QaDxG36DM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Super Music Enthusiast",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-12T11:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jzKJzaBnygWPMkoVdEfFKo75yhQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2nkAJogQioc"
+      },
+      "snippet": {
+        "publishedAt": "2015-05-26T20:23:18Z",
+        "channelId": "UC7lhMp7ftAmQp56_P2oaAfg",
+        "title": "Never Going Back Again | Lindsey Buckingham with David Belasco at USC",
+        "description": "Lindsey Buckingham of Fleetwood Mac demonstrates his finger picking style of guitar playing on Never Going Back Again.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2nkAJogQioc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2nkAJogQioc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2nkAJogQioc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheLeapTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-05-26T20:23:18Z"
+      }
+    }
+  ]
+}

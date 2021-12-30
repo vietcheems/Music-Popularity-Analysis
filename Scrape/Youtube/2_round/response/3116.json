@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "WaQMOQnS1ttVKdvAENxOA1hS8Zw",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ImlpJ-_ZpRidUc7-LsS4mmbD19w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FVfuwkPL5hg"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-10T11:06:32Z",
+        "channelId": "UCJgBdrZx-_VpfI9zYu6W0og",
+        "title": "Nick Jonas &amp; Nicki Minaj - Bom Bidi Bom [Lyrics] (Fifty Shades Darker) HD",
+        "description": "I apologize for some of my mistakes! — ** IGNORE THE ONE SECOND AUDIO CUT OUT AT 3:24 _____ Artist: Nick Jonas & Nicki Minaj Album: Fifty Shades ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FVfuwkPL5hg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FVfuwkPL5hg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FVfuwkPL5hg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheLyricsQueen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-10T11:06:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0EsDBJo_h78mBosblppT5_svOgg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "teLXkR3Hm3c"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-12T07:01:31Z",
+        "channelId": "UCAYSWVvFsVNJrTI39exFi4g",
+        "title": "Nick Jonas &amp; Nicki Minaj - Bom Bidi Bom (Official Audio)",
+        "description": "The new soundtrack from the film \"Fifty Shades Darker\"• Hope you like it&Thank you for watching.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/teLXkR3Hm3c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/teLXkR3Hm3c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/teLXkR3Hm3c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Despoina Vrk",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-12T07:01:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2ZU3AA7O_kh18aazn-uRDjyjXSQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J6MApmi0qdQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-02-09T16:27:09Z",
+        "channelId": "UCxiJ4ZK619VxllitV-9vQnQ",
+        "title": "Nick Jonas ft Nicki Minaj bom bidi bom (Lyrics)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J6MApmi0qdQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J6MApmi0qdQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J6MApmi0qdQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Edson Marroquín",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-02-09T16:27:09Z"
+      }
+    }
+  ]
+}

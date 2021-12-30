@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "5m4gnjVOLnljLTgVqphhsZABBc0",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "K4nOwfAymg-afQwkb_ffeHGBZO8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EORSLz0_BRU"
+      },
+      "snippet": {
+        "publishedAt": "2018-01-24T06:19:52Z",
+        "channelId": "UCK0TuNeYqg9oYGSksX-jNkg",
+        "title": "Chicago - Hard To Say I&#39;m Sorry/Get Away (Official Audio)",
+        "description": "Official audio for Chicago - \"Hard To Say I'm Sorry/Get Away\" from 'Chicago 16' (1982) Listen to Chicago's latest release, Chicago Christmas here ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EORSLz0_BRU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EORSLz0_BRU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EORSLz0_BRU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Chicago Band",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-01-24T06:19:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FDHpf9AoOmsNGty9D90BfVYxAMQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U1yeC2wmtzw"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-22T17:24:49Z",
+        "channelId": "UCw6cQ7z_H6EkhfhCd6kzgaw",
+        "title": "Chicago - Hard To Say I&#39;m sorry (Lyrics)",
+        "description": "I do not own the copyright of this music. All rights belongs to their respective owner.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U1yeC2wmtzw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U1yeC2wmtzw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U1yeC2wmtzw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Siklista MTB",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-09-22T17:24:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QXxEPtOOyROjC_0Uxe3tHvkTMH0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1A0MPWseJIE"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-23T14:59:53Z",
+        "channelId": "UCWEtnEiVwUy7mwFeshyAWLA",
+        "title": "Chicago - Hard To Say I&#39;m Sorry (Official Music Video)",
+        "description": "You're watching the official music video for Chicago - \"Hard To Say I'm Sorry\" from the album 'Chicago 16' (1982) Subscribe to the Rhino Channel!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1A0MPWseJIE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1A0MPWseJIE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1A0MPWseJIE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "RHINO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-23T14:59:53Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "Z_f6kKEQu0jJelfAcfqaHpf_gM4",
+  "nextPageToken": "CAMQAA",
+  "regionCode": "VN",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 3
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XXtySn8fsSVMLTEzKTS52ZgYvqs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kijpcUv-b8M"
+      },
+      "snippet": {
+        "publishedAt": "2013-08-07T12:43:14Z",
+        "channelId": "UCiMhD4jzUqG-IgPzUmmytRQ",
+        "title": "Queen - Somebody To Love (Official Video)",
+        "description": "Taken from A Day At The Races, 1976 and Forever, 2014. Queen- Somebody To Love (promo video, 1976) Click here to buy the DVD with this video at the ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kijpcUv-b8M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kijpcUv-b8M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kijpcUv-b8M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Queen Official",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-08-07T12:43:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ngZ4-7kL5h2cGgj_oeGDuh__btI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aA2IRoPFIn0"
+      },
+      "snippet": {
+        "publishedAt": "2011-05-24T13:56:48Z",
+        "channelId": "UCiuidWNC_2Nl-ZFAYlDkZmA",
+        "title": "Queen - Somebody To Love - HD Live - 1981 Montreal",
+        "description": "Somebody To Love - Queen - HD Live - Montreal (Quebec, Canada). \" God Save The Queen, Her Fascist Regime !",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aA2IRoPFIn0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aA2IRoPFIn0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aA2IRoPFIn0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "AgoraVoxFrance",
+        "liveBroadcastContent": "none",
+        "publishTime": "2011-05-24T13:56:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O05qeEM-nbZChAuYTefafpvGxlA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zj69iA_goIk"
+      },
+      "snippet": {
+        "publishedAt": "2012-03-03T04:27:32Z",
+        "channelId": "UCWnRlwe_Qi5C9QUbcANSDAA",
+        "title": "Queen - Somebody To Love (Lyrics)",
+        "description": "lYRIC Can anybody find me somebody to love? Each morning I get up I die a little Can barely stand on my feet Take a look in the mirror and cry Lord what you're ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zj69iA_goIk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zj69iA_goIk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zj69iA_goIk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "pongaplayandsing",
+        "liveBroadcastContent": "none",
+        "publishTime": "2012-03-03T04:27:32Z"
+      }
+    }
+  ]
+}
