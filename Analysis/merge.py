@@ -2,7 +2,7 @@ import pandas as pd
 
 
 def merge_view():
-    yt = pd.read_csv("Scrape/youtube/youtube_rescrape_nodup.csv")
+    yt = pd.read_csv("Scrape/Youtube/youtube_rescrape_nodup.csv")
     sp_playcount = pd.read_csv("Scrape/Spotify/playcount.csv")
     sp_playcount_sub = sp_playcount[["song_id", "playcount"]]
     sp_feature = pd.read_csv("Scrape/Spotify/spotify-playlist.csv", sep="\t")
@@ -14,13 +14,15 @@ def merge_view():
     full_drop.rename(columns={'publishedAt': 'yt_release_date',
                      'release_date': 'sp_release_date'}, inplace=True)
     full_drop['explicit'] = full_drop['explicit'].astype(int)
+    # drop songs with view less than 10 mil
+    full_drop = full_drop[full_drop['view'] > 1e7]
     full_drop.to_csv("Analysis/data_no_genre.csv", index=False)
 
 
 def merge_genre():
     genre = pd.read_csv("Scrape/Wikipedia/genre_grouped.csv")
     genre = genre[["track_id", "genres"]]
-    full = pd.read_csv("Analysis/full.csv")
+    full = pd.read_csv("Analysis/data_no_genre.csv")
     full_with_genre = pd.merge(full, genre, how="left", on="track_id")
     full_with_genre.to_csv("Analysis/data_with_genre.csv", index=False)
 
