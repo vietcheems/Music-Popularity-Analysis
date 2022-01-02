@@ -89,8 +89,8 @@ def get_har(sucess_file, failed_file, df, i):
 
 
 
-    with open("HAR folder/" + file_name, 'w') as har_file:
-        json.dump(proxy.har, har_file)
+    #with open("HAR folder/" + file_name, 'w') as har_file:
+        #json.dump(proxy.har, har_file)
     """try:
         df = extract_info_from_har("HAR folder/" + file_name)
         df['album_index'] = i
