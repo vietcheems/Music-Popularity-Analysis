@@ -2,6 +2,10 @@ import pandas as pd
 import os
 import json
 
+"""
+Get youtube video id from the api responses
+"""
+
 folder = "Scrape/youtube/2_round/response"
 df = pd.DataFrame()
 

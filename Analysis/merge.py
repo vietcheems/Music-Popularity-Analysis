@@ -1,5 +1,8 @@
 import pandas as pd
 
+"""
+Merge all data together into one singular csv file
+"""
 
 def merge_view():
     yt = pd.read_csv("Scrape/Youtube/youtube_rescrape_nodup.csv")
