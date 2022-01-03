@@ -1,7 +1,7 @@
 import os
 
 check_list = [False for i in range(4460)]
-for file_name in os.listdir("Scrape/Youtube/2_round/response"):
+for file_name in os.listdir("Scrape/Youtube/rescrape/response"):
 	if file_name == "failed_log":
 		continue
 	index = int(file_name.split(".")[0])

@@ -6,7 +6,7 @@ import json
 Get youtube video id from the api responses
 """
 
-folder = "Scrape/youtube/2_round/response"
+folder = "Scrape/youtube/rescrape/response"
 df = pd.DataFrame()
 
 for file_name in os.listdir(folder):
@@ -23,4 +23,4 @@ for file_name in os.listdir(folder):
 	df = df.append(row, ignore_index=True)
 
 print(df.head())
-df.to_csv("Scrape/youtube/2_round/youtube.csv", index=False)
+df.to_csv("Scrape/youtube/rescrape/youtube.csv", index=False)

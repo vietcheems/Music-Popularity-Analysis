@@ -36,7 +36,7 @@ df = pd.read_csv(
 	"Scrape/Spotify/spotify-playlist.csv", sep="\t")
 
 # create log file
-with open("Scrape/youtube/2_round/response/failed_log", "w") as f:
+with open("Scrape/youtube/rescrape/response/failed_log", "w") as f:
 	pass
 
 
@@ -64,7 +64,7 @@ for index, row in df.iterrows():
 				print("----got the response----")
 				# 200 => succeeded
 				if r.status_code == 200:
-					with open("Scrape/youtube/2_round/response/{}.json".format(index), 'w') as f:
+					with open("Scrape/youtube/rescrape/response/{}.json".format(index), 'w') as f:
 						f.write(r.text)
 					done = True
 				# 403 => quota exceeded, try again using the next api in the list
@@ -74,7 +74,7 @@ for index, row in df.iterrows():
 				# failed for some reason, store this in failed_log
 				else:
 					print(r.status_code)
-					with open("Scrape/youtube/2_round/response/failed_log", "a") as f:
+					with open("Scrape/youtube/rescrape/response/failed_log", "a") as f:
 						f.write("{},{}\n".format(index, keyword))
 						f.write(r.status_code + "\n")
 						f.write(r.text + "\n")

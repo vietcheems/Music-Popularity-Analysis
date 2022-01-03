@@ -9,7 +9,7 @@ from selenium.webdriver.common.by import By
 start_index = 153
 
 # read csv file with song links
-df = pd.read_csv("Scrape/youtube/2_round/youtube.csv")
+df = pd.read_csv("Scrape/youtube/rescrape/youtube.csv")
 
 # run firefox without head
 options = Options()
@@ -44,11 +44,11 @@ try:
 				print(view)
 				view = view.split()[0]
 
-				with open("Scrape/youtube/2_round/view.tsv", "a") as f:
+				with open("Scrape/youtube/rescrape/view.tsv", "a") as f:
 					f.write("{}\t{}\n".format(id, view))
 			except Exception as e:
 				print("----Failed----")
-				with open("Scrape/youtube/2_round/view_failed", 'a') as f:
+				with open("Scrape/youtube/rescrape/view_failed", 'a') as f:
 					f.write("failed at {}\nError:\n{}\n".format(id, e))
 			
 			# time.sleep(2)
