@@ -25,7 +25,6 @@ def get_failed_ablum(failed_path_before, failed_path_after, success_path, try_at
 
     failed_df = pd.read_csv(failed_path_before)
 
-    # ông chỉnh index ở đây nhé
     for i in failed_df['album_index']:
         print(datetime.now().time())
         try:
@@ -41,10 +40,8 @@ def get_failed_ablum(failed_path_before, failed_path_after, success_path, try_at
             print('Failed to fill information at index ', i)
 
 
-# mở 1 proxy mới
 def start_proxy():
     chrome_options = webdriver.ChromeOptions()
-    # cái này thì dẫn directory của browsermob-proxy.bat
     server = Server(
         "/home/viet/OneDrive/Studying Materials/Introduction to Data Science/EDA Project/browsermob-proxy-2.1.4-bin/browsermob-proxy-2.1.4/bin/browsermob-proxy", options={'port': 8090})
     server.start()
@@ -56,7 +53,6 @@ def start_proxy():
     chrome_options.add_argument("--remote-debugging-port=9222")
     chrome_options.add_argument('--headless')
 
-    # cái này ông phải tải chrome webdriver, xong thêm path của cái đấy ở dưới
     path = "/home/viet/OneDrive/Studying Materials/Introduction to Data Science/EDA Project/chromedriver_linux64/chromedriver"
     driver = webdriver.Chrome(path, options=chrome_options)
     return driver, server, proxy
@@ -134,7 +130,6 @@ def first_iteration(start_index, end_index, folder_path, failed_1_path, try_atte
     df = df.drop_duplicates()
     df.reset_index(drop=True, inplace=True)
 
-    # ông chỉnh index ở đây nhé
     for i in range(start_index, end_index):
         print(datetime.now().time())
         try:
