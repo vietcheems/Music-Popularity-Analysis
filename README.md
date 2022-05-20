@@ -20,5 +20,3 @@ Directories:
    + merge.py: contains our source code for data integration
    + data_no_genre: data without the feature genre
    + data_with_genre: data with the feature genre
-
- - Plot_im: containing the plots of the data visualization process
