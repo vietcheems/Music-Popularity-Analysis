@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="700" alt="architecture" src="Plot_im/cir_bar.png">
+</p>
+
 # Music-Popularity-Analysis
 ## Desciption
 In this project, we will analyze the most popular songs on Youtube and Spotify
@@ -24,6 +28,11 @@ Directories:
    + merge.py: contains our source code for data integration
    + data_no_genre: data without the feature genre
    + data_with_genre: data with the feature genre
-   
+
+## Architecture
+<p align="center">
+  <img width="700" alt="architecture" src="Plot_im/architecture.png">
+</p>
+
 ## Analysis result
-See report.pdf for detailed visualisation and analysis
+See [charts](Plot_im) for all the visualisation and [report](report.pdf) for detailed analysis
