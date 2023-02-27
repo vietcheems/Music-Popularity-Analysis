@@ -1,5 +1,9 @@
 # Music-Popularity-Analysis
-
+## Desciption
+In this project, we will analyze the most popular songs on Youtube and Spotify
+based on their various features. We hope we’ll be able to identify important trends, patterns and
+insights that can impact a songs’ performance and popularity.
+## Project structure
 Directories:
  - Scrape: source code for data scraping
    + Spotify: source code for scraping Spotify
@@ -20,3 +24,6 @@ Directories:
    + merge.py: contains our source code for data integration
    + data_no_genre: data without the feature genre
    + data_with_genre: data with the feature genre
+   
+## Analysis result
+See report.pdf for detailed visualisation and analysis
